@@ -1,0 +1,8 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Objetivos}{3}{section.1}%
+\contentsline {section}{\numberline {2}Datos identificativos y contexto del Prácticum}{3}{section.2}%
+\contentsline {section}{\numberline {3}Recopilación de normativa que afecta a ESO y Bachillerato}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Normativa estatal básica}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Normativa autonómica (Illes Balears)}{4}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Anexo}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Anexo 1}{11}{subsection.4.1}%

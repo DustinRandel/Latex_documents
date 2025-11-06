@@ -1,0 +1,1051 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{LOMLOE2020}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=67ab697544052881ab8583959ef07682}{%
+           family={{Gobierno de España}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Boletín Oficial del Estado}%
+      }
+      \strng{namehash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhashraw}{67ab697544052881ab8583959ef07682}
+      \strng{bibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorbibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authornamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{30}
+      \field{month}{12}
+      \field{title}{Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOMLOE)}
+      \field{urlday}{5}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2020-17264
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2020-17264
+      \endverb
+    \endentry
+    \entry{LOE2006}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=67ab697544052881ab8583959ef07682}{%
+           family={{Gobierno de España}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Boletín Oficial del Estado}%
+      }
+      \strng{namehash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhashraw}{67ab697544052881ab8583959ef07682}
+      \strng{bibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorbibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authornamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{4}
+      \field{month}{5}
+      \field{title}{Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE)}
+      \field{urlday}{5}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2006-7899
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2006-7899
+      \endverb
+    \endentry
+    \entry{RD217_2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=67ab697544052881ab8583959ef07682}{%
+           family={{Gobierno de España}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Boletín Oficial del Estado}%
+      }
+      \strng{namehash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhashraw}{67ab697544052881ab8583959ef07682}
+      \strng{bibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorbibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authornamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
+      \field{extraname}{3}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{30}
+      \field{month}{3}
+      \field{title}{Real Decreto 217/2022, de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria}
+      \field{urlday}{5}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.boe.es/eli/es/rd/2022/03/29/217
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/eli/es/rd/2022/03/29/217
+      \endverb
+    \endentry
+    \entry{RD243_2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=67ab697544052881ab8583959ef07682}{%
+           family={{Gobierno de España}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Boletín Oficial del Estado}%
+      }
+      \strng{namehash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhashraw}{67ab697544052881ab8583959ef07682}
+      \strng{bibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorbibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authornamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
+      \field{extraname}{4}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{6}
+      \field{month}{4}
+      \field{title}{Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato}
+      \field{urlday}{5}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.boe.es/eli/es/rd/2022/04/05/243
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/eli/es/rd/2022/04/05/243
+      \endverb
+    \endentry
+    \entry{RD984_2021}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=67ab697544052881ab8583959ef07682}{%
+           family={{Gobierno de España}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Boletín Oficial del Estado}%
+      }
+      \strng{namehash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhashraw}{67ab697544052881ab8583959ef07682}
+      \strng{bibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorbibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authornamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
+      \field{extraname}{5}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{17}
+      \field{month}{11}
+      \field{title}{Real Decreto 984/2021, de 16 de noviembre, por el que se regula la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional}
+      \field{urlday}{5}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.boe.es/eli/es/rd/2021/11/16/984
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/eli/es/rd/2021/11/16/984
+      \endverb
+    \endentry
+    \entry{LOPDGDD2018}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=67ab697544052881ab8583959ef07682}{%
+           family={{Gobierno de España}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Boletín Oficial del Estado}%
+      }
+      \strng{namehash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhashraw}{67ab697544052881ab8583959ef07682}
+      \strng{bibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorbibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authornamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
+      \field{extraname}{6}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{6}
+      \field{month}{12}
+      \field{title}{Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales}
+      \field{urlday}{5}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.boe.es/eli/es/lo/2018/12/05/3
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/eli/es/lo/2018/12/05/3
+      \endverb
+    \endentry
+    \entry{LOIEMH2007}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=67ab697544052881ab8583959ef07682}{%
+           family={{Gobierno de España}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Boletín Oficial del Estado}%
+      }
+      \strng{namehash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhashraw}{67ab697544052881ab8583959ef07682}
+      \strng{bibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorbibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authornamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
+      \field{extraname}{7}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{23}
+      \field{month}{3}
+      \field{title}{Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres}
+      \field{urlday}{5}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.boe.es/eli/es/lo/2007/03/22/3
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/eli/es/lo/2007/03/22/3
+      \endverb
+    \endentry
+    \entry{RDLegislativo5_2015}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=67ab697544052881ab8583959ef07682}{%
+           family={{Gobierno de España}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Boletín Oficial del Estado}%
+      }
+      \strng{namehash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhashraw}{67ab697544052881ab8583959ef07682}
+      \strng{bibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorbibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authornamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
+      \field{extraname}{8}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{31}
+      \field{month}{10}
+      \field{title}{Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público}
+      \field{urlday}{5}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.boe.es/eli/es/rdlg/2015/10/30/5
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/eli/es/rdlg/2015/10/30/5
+      \endverb
+    \endentry
+    \entry{Ley31_1995}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=67ab697544052881ab8583959ef07682}{%
+           family={{Gobierno de España}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Boletín Oficial del Estado}%
+      }
+      \strng{namehash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhashraw}{67ab697544052881ab8583959ef07682}
+      \strng{bibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorbibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authornamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
+      \field{extraname}{9}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{month}{11}
+      \field{title}{Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales}
+      \field{urlday}{5}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.boe.es/eli/es/ley/1995/11/08/31
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/eli/es/ley/1995/11/08/31
+      \endverb
+    \endentry
+    \entry{LO1_2007}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=67ab697544052881ab8583959ef07682}{%
+           family={{Gobierno de España}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Boletín Oficial del Estado}%
+      }
+      \strng{namehash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhashraw}{67ab697544052881ab8583959ef07682}
+      \strng{bibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorbibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authornamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
+      \field{extraname}{10}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{month}{3}
+      \field{title}{Ley Orgánica 1/2007, de 28 de febrero, de reforma del Estatuto de Autonomía de las Illes Balears}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2007-4233
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2007-4233
+      \endverb
+    \endentry
+    \entry{Ley1_2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
+           family={{Govern de les Illes Balears}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Butlletí Oficial de les Illes Balears}%
+      }
+      \strng{namehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{bibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorbibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authornamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{17}
+      \field{month}{3}
+      \field{title}{Ley 1/2022, de 8 de marzo, de educación de las Illes Balears}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9385
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9385
+      \endverb
+    \endentry
+    \entry{Decreto42_2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
+           family={{Govern de les Illes Balears}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Butlletí Oficial de les Illes Balears}%
+      }
+      \strng{namehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{bibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorbibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authornamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{4}
+      \field{month}{8}
+      \field{title}{Decreto 42/2025, de 1 de agosto, por el que se establecen la ordenación y el currículo de la Educación Secundaria Obligatoria en las Illes Balears y se modifica el Decreto 4/2023, de 13 de febrero}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.caib.es/eboibfront/pdf/es/2025/103/1174530
+      \endverb
+      \verb{url}
+      \verb https://www.caib.es/eboibfront/pdf/es/2025/103/1174530
+      \endverb
+    \endentry
+    \entry{Decreto43_2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
+           family={{Govern de les Illes Balears}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Butlletí Oficial de les Illes Balears}%
+      }
+      \strng{namehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{bibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorbibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authornamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \field{extraname}{3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{4}
+      \field{month}{8}
+      \field{title}{Decreto 43/2025, de 1 de agosto, por el que se establecen la ordenación y el currículo del Bachillerato en las Illes Balears}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.caib.es/eboibfront/pdf/es/2025/103/1174531
+      \endverb
+      \verb{url}
+      \verb https://www.caib.es/eboibfront/pdf/es/2025/103/1174531
+      \endverb
+    \endentry
+    \entry{Decreto121_2010}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
+           family={{Govern de les Illes Balears}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Butlletí Oficial de les Illes Balears}%
+      }
+      \strng{namehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{bibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorbibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authornamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \field{extraname}{4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{23}
+      \field{month}{12}
+      \field{title}{Decreto 121/2010, de 10 de diciembre, por el que se establecen los derechos y los deberes de los alumnos y las normas de convivencia en los centros docentes no universitarios sostenidos con fondos públicos de las Illes Balears}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.caib.es/eboibfront/pdf/es/2010/187/116465
+      \endverb
+      \verb{url}
+      \verb https://www.caib.es/eboibfront/pdf/es/2010/187/116465
+      \endverb
+    \endentry
+    \entry{Decreto4_2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
+           family={{Govern de les Illes Balears}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Butlletí Oficial de les Illes Balears}%
+      }
+      \strng{namehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{bibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorbibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authornamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \field{extraname}{5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{16}
+      \field{month}{2}
+      \field{title}{Decreto 4/2023, de 13 de febrero, por el que se aprueba el Reglamento Orgánico de las escuelas infantiles públicas, los colegios de educación primaria, los colegios de educación infantil y primaria integrados con enseñanzas elementales de música, los colegios de educación infantil y primaria integrados con educación secundaria y los institutos de educación secundaria de la Comunidad Autónoma de las Illes Balears}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.caib.es/eboibfront/pdf/es/2023/21/1129856
+      \endverb
+      \verb{url}
+      \verb https://www.caib.es/eboibfront/pdf/es/2023/21/1129856
+      \endverb
+    \endentry
+    \entry{Decreto9_2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
+           family={{Govern de les Illes Balears}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Butlletí Oficial de les Illes Balears}%
+      }
+      \strng{namehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{bibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorbibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authornamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \field{extraname}{6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{3}
+      \field{title}{Decreto 9/2025, de 14 de marzo, por el que se regula la delegación de protección de datos de la Administración de la Comunidad Autónoma de las Illes Balears}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.caib.es/sites/institutestudisautonomics/es/n/decreto_92025_de_14_de_marzo_por_el_que_se_regula_la_delegacian_de_proteccian_de_datos_de_la_administracian_de_la_comunidad_autanoma_de_las_illes_balears/
+      \endverb
+      \verb{url}
+      \verb https://www.caib.es/sites/institutestudisautonomics/es/n/decreto_92025_de_14_de_marzo_por_el_que_se_regula_la_delegacian_de_proteccian_de_datos_de_la_administracian_de_la_comunidad_autanoma_de_las_illes_balears/
+      \endverb
+    \endentry
+    \entry{Orden26_2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
+           family={{Govern de les Illes Balears}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Butlletí Oficial de les Illes Balears}%
+      }
+      \strng{namehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{bibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorbibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authornamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \field{extraname}{7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{23}
+      \field{month}{10}
+      \field{title}{Orden 26/2025, de 21 de octubre, del consejero de Educación y Universidades sobre la evaluación del aprendizaje de los alumnos del Bachillerato en las Illes Balears}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.caib.es/eboibfront/eli/es-ib/o/2025/10/21/26/dof/spa/xml
+      \endverb
+      \verb{url}
+      \verb https://www.caib.es/eboibfront/eli/es-ib/o/2025/10/21/26/dof/spa/xml
+      \endverb
+    \endentry
+    \entry{Orden27_2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
+           family={{Govern de les Illes Balears}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Butlletí Oficial de les Illes Balears}%
+      }
+      \strng{namehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{bibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorbibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authornamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \field{extraname}{8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{23}
+      \field{month}{10}
+      \field{title}{Orden 27/2025, de 21 de octubre, del consejero de Educación y Universidades sobre la evaluación del aprendizaje de los alumnos de la Educación Secundaria Obligatoria en las Illes Balears}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.caib.es/eboibfront/eli/es-ib/o/2025/10/21/27/dof/spa/xml
+      \endverb
+      \verb{url}
+      \verb https://www.caib.es/eboibfront/eli/es-ib/o/2025/10/21/27/dof/spa/xml
+      \endverb
+    \endentry
+    \entry{Ley11_2016}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
+           family={{Govern de les Illes Balears}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Boletín Oficial del Estado}%
+      }
+      \strng{namehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{bibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorbibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authornamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \field{extraname}{9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{month}{8}
+      \field{title}{Ley 11/2016, de 28 de julio, de igualdad de mujeres y hombres}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2016-7994
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2016-7994
+      \endverb
+    \endentry
+    \entry{Ley8_2016}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
+           family={{Govern de les Illes Balears}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Boletín Oficial del Estado}%
+      }
+      \strng{namehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{bibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorbibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authornamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \field{extraname}{10}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{month}{6}
+      \field{title}{Ley 8/2016, de 30 de mayo, para garantizar los derechos de lesbianas, gays, trans, bisexuales e intersexuales y para erradicar la LGTBI-fobia}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2016-6310
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2016-6310
+      \endverb
+    \endentry
+    \entry{Ley9_2019}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
+           family={{Govern de les Illes Balears}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Butlletí Oficial de les Illes Balears}%
+      }
+      \strng{namehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{bibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorbibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authornamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \field{extraname}{11}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{28}
+      \field{month}{2}
+      \field{title}{Ley 9/2019, de 19 de febrero, de la atención y los derechos de la infancia y la adolescencia de las Illes Balears}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.caib.es/eboibfront/pdf/es/2019/26/1039777
+      \endverb
+      \verb{url}
+      \verb https://www.caib.es/eboibfront/pdf/es/2019/26/1039777
+      \endverb
+    \endentry
+    \entry{Decreto39_2011}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
+           family={{Govern de les Illes Balears}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Butlletí Oficial de les Illes Balears}%
+      }
+      \strng{namehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{bibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorbibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authornamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \field{extraname}{12}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{5}
+      \field{month}{5}
+      \field{title}{Decreto 39/2011, de 29 de abril, por el cual se regula la atención a la diversidad y la orientación educativa en los centros educativos no universitarios sostenidos con fondos públicos}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.caib.es/sites/institutestudisautonomics/ca/n/decret_392011_de_29_dabril_pel_qual_es_regula_latencio_a_la_diversitat_i_lorientacio_educativa_als_centres_educatius_no_universitaris_sostinguts_amb_fons_publics-59795/
+      \endverb
+      \verb{url}
+      \verb https://www.caib.es/sites/institutestudisautonomics/ca/n/decret_392011_de_29_dabril_pel_qual_es_regula_latencio_a_la_diversitat_i_lorientacio_educativa_als_centres_educatius_no_universitaris_sostinguts_amb_fons_publics-59795/
+      \endverb
+    \endentry
+    \entry{Decreto18_2011}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
+           family={{Govern de les Illes Balears}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Butlletí Oficial de les Illes Balears}%
+      }
+      \strng{namehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{bibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorbibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authornamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \field{extraname}{13}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{17}
+      \field{month}{3}
+      \field{title}{Decreto 18/2011, de 11 de marzo, por el que se establecen los principios generales que rigen las actividades de tiempo libre infantiles y juveniles que se desarrollen en el ámbito territorial de las Illes Balears}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.caib.es/sites/puntdinformacioambiental/es/n/decreto_182011_de_11_de_marzo_por_el_cual_se_establecen_los_principios_generales_que_rigen_las_actividades_de_tiempo_libre_infantiles_y_juveniles_que_se_desarrollen_en_el_ambito_territorial_de_las_islas_baleares-50493/
+      \endverb
+      \verb{url}
+      \verb https://www.caib.es/sites/puntdinformacioambiental/es/n/decreto_182011_de_11_de_marzo_por_el_cual_se_establecen_los_principios_generales_que_rigen_las_actividades_de_tiempo_libre_infantiles_y_juveniles_que_se_desarrollen_en_el_ambito_territorial_de_las_islas_baleares-50493/
+      \endverb
+    \endentry
+    \entry{Ley10_2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
+           family={{Govern de les Illes Balears}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Boletín Oficial del Estado}%
+      }
+      \strng{namehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{bibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorbibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authornamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \field{extraname}{14}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{8}
+      \field{month}{3}
+      \field{title}{Ley 10/2022, de 23 de diciembre, del tiempo libre educativo infantil y juvenil de las Illes Balears}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2023-2979
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2023-2979
+      \endverb
+    \endentry
+    \entry{Decreto30_2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
+           family={{Govern de les Illes Balears}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Butlletí Oficial de les Illes Balears}%
+      }
+      \strng{namehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{bibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorbibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authornamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \field{extraname}{15}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{25}
+      \field{month}{5}
+      \field{title}{Decreto 30/2023, de 22 de mayo, por el cual se regula el transporte escolar en los centros educativos públicos y en los centros de educación especial sostenidos con fondos públicos de las Illes Balears}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.caib.es/eboibfront/pdf/es/2023/69/1134085
+      \endverb
+      \verb{url}
+      \verb https://www.caib.es/eboibfront/pdf/es/2023/69/1134085
+      \endverb
+    \endentry
+    \entry{Orden12_2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
+           family={{Govern de les Illes Balears}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Butlletí Oficial de les Illes Balears}%
+      }
+      \strng{namehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{bibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorbibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authornamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \field{extraname}{16}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{20}
+      \field{month}{5}
+      \field{title}{Orden 12/2025, de 7 de mayo, del Consejero de Educación y Universidades por la cual se regula el uso de los teléfonos móviles y otros dispositivos electrónicos personales en los centros educativos no universitarios sostenidos total o parcialmente con fondos públicos de las Illes Balears}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.caib.es/eboibfront/pdf/es/2025/63/1171800
+      \endverb
+      \verb{url}
+      \verb https://www.caib.es/eboibfront/pdf/es/2025/63/1171800
+      \endverb
+    \endentry
+    \entry{Resolucion9_2021}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
+           family={{Govern de les Illes Balears}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Butlletí Oficial de les Illes Balears}%
+      }
+      \strng{namehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{bibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorbibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authornamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \field{extraname}{17}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{4}
+      \field{month}{3}
+      \field{title}{Resolución de 9 de febrero de 2021 por la que se aprueba el Plan de Coeducación de las Illes Balears 2019–2022}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.caib.es/eboibfront/pdf/es/2021/31/1104551
+      \endverb
+      \verb{url}
+      \verb https://www.caib.es/eboibfront/pdf/es/2021/31/1104551
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
