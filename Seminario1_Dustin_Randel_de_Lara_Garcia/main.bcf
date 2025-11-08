@@ -2373,33 +2373,37 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">referencias.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">LOMLOE2020</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">LODE1985</bcf:citekey>
     <bcf:citekey order="2" intorder="1">LOE2006</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">RD217_2022</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">RD243_2022</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">RD984_2021</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">LOMLOE2020</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">RD217_2022</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">RD243_2022</bcf:citekey>
     <bcf:citekey order="6" intorder="1">LOPDGDD2018</bcf:citekey>
     <bcf:citekey order="7" intorder="1">LOIEMH2007</bcf:citekey>
     <bcf:citekey order="8" intorder="1">RDLegislativo5_2015</bcf:citekey>
     <bcf:citekey order="9" intorder="1">Ley31_1995</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">LO1_2007</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">Ley1_2022</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">Decreto42_2025</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">Decreto43_2025</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">Decreto121_2010</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">Decreto4_2023</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">Decreto9_2025</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">Orden26_2025</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">Orden27_2025</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">Ley11_2016</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">Ley8_2016</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">Ley9_2019</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">Decreto39_2011</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">Decreto18_2011</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">Ley10_2022</bcf:citekey>
-    <bcf:citekey order="25" intorder="1">Decreto30_2023</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">Orden12_2025</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">Resolucion9_2021</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">RD286_2023</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">Ley27_2007</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">RD1834_2008</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">RD443_2001</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">LO1_2007</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">Ley1_2022</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">Decreto4_2023</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">Decreto42_2025</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">Decreto43_2025</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">Decreto121_2010</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">Decreto9_2025</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">Orden26_2025</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">Orden27_2025</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">Ley11_2016</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">Ley8_2016</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">Ley9_2019</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">Decreto39_2011</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">Ley10_2022</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">Decreto18_2011</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">Decreto30_2023</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">Orden12_2025</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">Resolucion9_2021</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
