@@ -19,42 +19,25 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
-    \entry{LOMLOE2020}{online}{}{}
-      \name{author}{1}{}{%
-        {{hash=67ab697544052881ab8583959ef07682}{%
-           family={{Gobierno de España}},
-           familyi={G\bibinitperiod}}}%
-      }
-      \list{organization}{1}{%
-        {Boletín Oficial del Estado}%
-      }
-      \strng{namehash}{67ab697544052881ab8583959ef07682}
-      \strng{fullhash}{67ab697544052881ab8583959ef07682}
-      \strng{fullhashraw}{67ab697544052881ab8583959ef07682}
-      \strng{bibnamehash}{67ab697544052881ab8583959ef07682}
-      \strng{authorbibnamehash}{67ab697544052881ab8583959ef07682}
-      \strng{authornamehash}{67ab697544052881ab8583959ef07682}
-      \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
-      \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
-      \field{extraname}{1}
+    \entry{LODE1985}{online}{}{}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{30}
-      \field{month}{12}
-      \field{title}{Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOMLOE)}
-      \field{urlday}{5}
+      \field{day}{4}
+      \field{month}{7}
+      \field{note}{BOE núm. 159}
+      \field{title}{Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación (LODE)}
+      \field{urlday}{8}
       \field{urlmonth}{11}
       \field{urlyear}{2025}
-      \field{year}{2020}
+      \field{year}{1985}
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2020-17264
+      \verb https://www.boe.es/buscar/act.php?id=BOE-A-1985-12978
       \endverb
       \verb{url}
-      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2020-17264
+      \verb https://www.boe.es/buscar/act.php?id=BOE-A-1985-12978
       \endverb
     \endentry
     \entry{LOE2006}{online}{}{}
@@ -74,7 +57,7 @@
       \strng{authornamehash}{67ab697544052881ab8583959ef07682}
       \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
       \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
-      \field{extraname}{2}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -95,6 +78,44 @@
       \verb https://www.boe.es/buscar/act.php?id=BOE-A-2006-7899
       \endverb
     \endentry
+    \entry{LOMLOE2020}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=67ab697544052881ab8583959ef07682}{%
+           family={{Gobierno de España}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Boletín Oficial del Estado}%
+      }
+      \strng{namehash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhashraw}{67ab697544052881ab8583959ef07682}
+      \strng{bibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorbibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authornamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{30}
+      \field{month}{12}
+      \field{title}{Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOMLOE)}
+      \field{urlday}{5}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2020-17264
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2020-17264
+      \endverb
+    \endentry
     \entry{RD217_2022}{online}{}{}
       \name{author}{1}{}{%
         {{hash=67ab697544052881ab8583959ef07682}{%
@@ -113,8 +134,8 @@
       \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
       \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
       \field{extraname}{3}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{30}
@@ -127,10 +148,10 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.boe.es/eli/es/rd/2022/03/29/217
+      \verb https://www.boe.es/eli/es/rd/2022/03/29/217/con
       \endverb
       \verb{url}
-      \verb https://www.boe.es/eli/es/rd/2022/03/29/217
+      \verb https://www.boe.es/eli/es/rd/2022/03/29/217/con
       \endverb
     \endentry
     \entry{RD243_2022}{online}{}{}
@@ -151,8 +172,8 @@
       \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
       \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
       \field{extraname}{4}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{6}
@@ -165,48 +186,10 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.boe.es/eli/es/rd/2022/04/05/243
+      \verb https://www.boe.es/eli/es/rd/2022/04/05/243/con
       \endverb
       \verb{url}
-      \verb https://www.boe.es/eli/es/rd/2022/04/05/243
-      \endverb
-    \endentry
-    \entry{RD984_2021}{online}{}{}
-      \name{author}{1}{}{%
-        {{hash=67ab697544052881ab8583959ef07682}{%
-           family={{Gobierno de España}},
-           familyi={G\bibinitperiod}}}%
-      }
-      \list{organization}{1}{%
-        {Boletín Oficial del Estado}%
-      }
-      \strng{namehash}{67ab697544052881ab8583959ef07682}
-      \strng{fullhash}{67ab697544052881ab8583959ef07682}
-      \strng{fullhashraw}{67ab697544052881ab8583959ef07682}
-      \strng{bibnamehash}{67ab697544052881ab8583959ef07682}
-      \strng{authorbibnamehash}{67ab697544052881ab8583959ef07682}
-      \strng{authornamehash}{67ab697544052881ab8583959ef07682}
-      \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
-      \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
-      \field{extraname}{5}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{17}
-      \field{month}{11}
-      \field{title}{Real Decreto 984/2021, de 16 de noviembre, por el que se regula la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional}
-      \field{urlday}{5}
-      \field{urlmonth}{11}
-      \field{urlyear}{2025}
-      \field{year}{2021}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.boe.es/eli/es/rd/2021/11/16/984
-      \endverb
-      \verb{url}
-      \verb https://www.boe.es/eli/es/rd/2021/11/16/984
+      \verb https://www.boe.es/eli/es/rd/2022/04/05/243/con
       \endverb
     \endentry
     \entry{LOPDGDD2018}{online}{}{}
@@ -226,7 +209,7 @@
       \strng{authornamehash}{67ab697544052881ab8583959ef07682}
       \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
       \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
-      \field{extraname}{6}
+      \field{extraname}{5}
       \field{sortinit}{6}
       \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
@@ -241,10 +224,10 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.boe.es/eli/es/lo/2018/12/05/3
+      \verb https://www.boe.es/eli/es/lo/2018/12/05/3/con
       \endverb
       \verb{url}
-      \verb https://www.boe.es/eli/es/lo/2018/12/05/3
+      \verb https://www.boe.es/eli/es/lo/2018/12/05/3/con
       \endverb
     \endentry
     \entry{LOIEMH2007}{online}{}{}
@@ -264,7 +247,7 @@
       \strng{authornamehash}{67ab697544052881ab8583959ef07682}
       \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
       \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
-      \field{extraname}{7}
+      \field{extraname}{6}
       \field{sortinit}{7}
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
@@ -279,10 +262,10 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.boe.es/eli/es/lo/2007/03/22/3
+      \verb https://www.boe.es/eli/es/lo/2007/03/22/3/con
       \endverb
       \verb{url}
-      \verb https://www.boe.es/eli/es/lo/2007/03/22/3
+      \verb https://www.boe.es/eli/es/lo/2007/03/22/3/con
       \endverb
     \endentry
     \entry{RDLegislativo5_2015}{online}{}{}
@@ -302,7 +285,7 @@
       \strng{authornamehash}{67ab697544052881ab8583959ef07682}
       \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
       \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
-      \field{extraname}{8}
+      \field{extraname}{7}
       \field{sortinit}{8}
       \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
@@ -317,10 +300,10 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.boe.es/eli/es/rdlg/2015/10/30/5
+      \verb https://www.boe.es/eli/es/rdlg/2015/10/30/5/con
       \endverb
       \verb{url}
-      \verb https://www.boe.es/eli/es/rdlg/2015/10/30/5
+      \verb https://www.boe.es/eli/es/rdlg/2015/10/30/5/con
       \endverb
     \endentry
     \entry{Ley31_1995}{online}{}{}
@@ -340,7 +323,7 @@
       \strng{authornamehash}{67ab697544052881ab8583959ef07682}
       \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
       \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
-      \field{extraname}{9}
+      \field{extraname}{8}
       \field{sortinit}{9}
       \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
@@ -355,10 +338,162 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.boe.es/eli/es/ley/1995/11/08/31
+      \verb https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292
       \endverb
       \verb{url}
-      \verb https://www.boe.es/eli/es/ley/1995/11/08/31
+      \verb https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292
+      \endverb
+    \endentry
+    \entry{RD286_2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=67ab697544052881ab8583959ef07682}{%
+           family={{Gobierno de España}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Boletín Oficial del Estado}%
+      }
+      \strng{namehash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhashraw}{67ab697544052881ab8583959ef07682}
+      \strng{bibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorbibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authornamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
+      \field{extraname}{9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{19}
+      \field{month}{4}
+      \field{title}{Real Decreto 286/2023, de 18 de abril, por el que se regula la asignación de materias en Educación Secundaria Obligatoria y en Bachillerato a las especialidades de distintos cuerpos de funcionarios docentes, y se modifican diversas normas relativas al profesorado de enseñanzas no universitarias}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.boe.es/eli/es/rd/2023/04/18/286/con
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/eli/es/rd/2023/04/18/286/con
+      \endverb
+    \endentry
+    \entry{Ley27_2007}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=67ab697544052881ab8583959ef07682}{%
+           family={{Gobierno de España}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Boletín Oficial del Estado}%
+      }
+      \strng{namehash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhashraw}{67ab697544052881ab8583959ef07682}
+      \strng{bibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorbibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authornamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
+      \field{extraname}{10}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{24}
+      \field{month}{10}
+      \field{title}{Ley 27/2007, de 23 de octubre, por la que se reconocen las lenguas de signos españolas y se regulan los medios de apoyo a la comunicación oral de las personas sordas, con discapacidad auditiva y sordociegas}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.boe.es/eli/es/l/2007/10/23/27/con
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/eli/es/l/2007/10/23/27/con
+      \endverb
+    \endentry
+    \entry{RD1834_2008}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=67ab697544052881ab8583959ef07682}{%
+           family={{Gobierno de España}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Boletín Oficial del Estado}%
+      }
+      \strng{namehash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhashraw}{67ab697544052881ab8583959ef07682}
+      \strng{bibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorbibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authornamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
+      \field{extraname}{11}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{28}
+      \field{month}{11}
+      \field{title}{Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.boe.es/eli/es/rd/2008/11/08/1834/con
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/eli/es/rd/2008/11/08/1834/con
+      \endverb
+    \endentry
+    \entry{RD443_2001}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=67ab697544052881ab8583959ef07682}{%
+           family={{Gobierno de España}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Boletín Oficial del Estado}%
+      }
+      \strng{namehash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhash}{67ab697544052881ab8583959ef07682}
+      \strng{fullhashraw}{67ab697544052881ab8583959ef07682}
+      \strng{bibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorbibnamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authornamehash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
+      \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
+      \field{extraname}{12}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{8}
+      \field{month}{5}
+      \field{title}{Real Decreto 443/2001, de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.boe.es/eli/es/rd/2001/04/27/443/con
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/eli/es/rd/2001/04/27/443/con
       \endverb
     \endentry
     \entry{LO1_2007}{online}{}{}
@@ -378,7 +513,7 @@
       \strng{authornamehash}{67ab697544052881ab8583959ef07682}
       \strng{authorfullhash}{67ab697544052881ab8583959ef07682}
       \strng{authorfullhashraw}{67ab697544052881ab8583959ef07682}
-      \field{extraname}{10}
+      \field{extraname}{13}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
@@ -431,13 +566,13 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9385
+      \verb https://www.caib.es/eboibfront/eli/es-ib/l/2022/03/08/1/dof/spa/html
       \endverb
       \verb{url}
-      \verb https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9385
+      \verb https://www.caib.es/eboibfront/eli/es-ib/l/2022/03/08/1/dof/spa/html
       \endverb
     \endentry
-    \entry{Decreto42_2025}{online}{}{}
+    \entry{Decreto4_2023}{online}{}{}
       \name{author}{1}{}{%
         {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
            family={{Govern de les Illes Balears}},
@@ -459,23 +594,23 @@
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{4}
-      \field{month}{8}
-      \field{title}{Decreto 42/2025, de 1 de agosto, por el que se establecen la ordenación y el currículo de la Educación Secundaria Obligatoria en las Illes Balears y se modifica el Decreto 4/2023, de 13 de febrero}
+      \field{day}{16}
+      \field{month}{2}
+      \field{title}{Decreto 4/2023, de 13 de febrero, por el que se aprueba el Reglamento Orgánico de las escuelas infantiles públicas, los colegios de educación primaria, los colegios de educación infantil y primaria integrados con enseñanzas elementales de música, los colegios de educación infantil y primaria integrados con educación secundaria y los institutos de educación secundaria de la Comunidad Autónoma de las Illes Balears}
       \field{urlday}{6}
       \field{urlmonth}{11}
       \field{urlyear}{2025}
-      \field{year}{2025}
+      \field{year}{2023}
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.caib.es/eboibfront/pdf/es/2025/103/1174530
+      \verb https://www.caib.es/eboibfront/eli/es-ib/d/2023/02/13/4/dof/spa/html
       \endverb
       \verb{url}
-      \verb https://www.caib.es/eboibfront/pdf/es/2025/103/1174530
+      \verb https://www.caib.es/eboibfront/eli/es-ib/d/2023/02/13/4/dof/spa/html
       \endverb
     \endentry
-    \entry{Decreto43_2025}{online}{}{}
+    \entry{Decreto42_2025}{online}{}{}
       \name{author}{1}{}{%
         {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
            family={{Govern de les Illes Balears}},
@@ -499,7 +634,7 @@
       \field{labeltitlesource}{title}
       \field{day}{4}
       \field{month}{8}
-      \field{title}{Decreto 43/2025, de 1 de agosto, por el que se establecen la ordenación y el currículo del Bachillerato en las Illes Balears}
+      \field{title}{Decreto 42/2025, de 1 de agosto, por el que se establecen la ordenación y el currículo de la Educación Secundaria Obligatoria en las Illes Balears y se modifica el Decreto 4/2023, de 13 de febrero}
       \field{urlday}{6}
       \field{urlmonth}{11}
       \field{urlyear}{2025}
@@ -507,13 +642,13 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.caib.es/eboibfront/pdf/es/2025/103/1174531
+      \verb https://www.caib.es/eboibfront/eli/es-ib/d/2025/08/01/42/dof/spa/html
       \endverb
       \verb{url}
-      \verb https://www.caib.es/eboibfront/pdf/es/2025/103/1174531
+      \verb https://www.caib.es/eboibfront/eli/es-ib/d/2025/08/01/42/dof/spa/html
       \endverb
     \endentry
-    \entry{Decreto121_2010}{online}{}{}
+    \entry{Decreto43_2025}{online}{}{}
       \name{author}{1}{}{%
         {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
            family={{Govern de les Illes Balears}},
@@ -535,23 +670,23 @@
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{23}
-      \field{month}{12}
-      \field{title}{Decreto 121/2010, de 10 de diciembre, por el que se establecen los derechos y los deberes de los alumnos y las normas de convivencia en los centros docentes no universitarios sostenidos con fondos públicos de las Illes Balears}
+      \field{day}{4}
+      \field{month}{8}
+      \field{title}{Decreto 43/2025, de 1 de agosto, por el que se establecen la ordenación y el currículo del Bachillerato en las Illes Balears}
       \field{urlday}{6}
       \field{urlmonth}{11}
       \field{urlyear}{2025}
-      \field{year}{2010}
+      \field{year}{2025}
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.caib.es/eboibfront/pdf/es/2010/187/116465
+      \verb https://www.caib.es/eboibfront/eli/es-ib/d/2025/08/01/43/dof/spa/html
       \endverb
       \verb{url}
-      \verb https://www.caib.es/eboibfront/pdf/es/2010/187/116465
+      \verb https://www.caib.es/eboibfront/eli/es-ib/d/2025/08/01/43/dof/spa/html
       \endverb
     \endentry
-    \entry{Decreto4_2023}{online}{}{}
+    \entry{Decreto121_2010}{online}{}{}
       \name{author}{1}{}{%
         {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
            family={{Govern de les Illes Balears}},
@@ -573,20 +708,20 @@
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{16}
-      \field{month}{2}
-      \field{title}{Decreto 4/2023, de 13 de febrero, por el que se aprueba el Reglamento Orgánico de las escuelas infantiles públicas, los colegios de educación primaria, los colegios de educación infantil y primaria integrados con enseñanzas elementales de música, los colegios de educación infantil y primaria integrados con educación secundaria y los institutos de educación secundaria de la Comunidad Autónoma de las Illes Balears}
+      \field{day}{23}
+      \field{month}{12}
+      \field{title}{Decreto 121/2010, de 10 de diciembre, por el que se establecen los derechos y los deberes de los alumnos y las normas de convivencia en los centros docentes no universitarios sostenidos con fondos públicos de las Illes Balears}
       \field{urlday}{6}
       \field{urlmonth}{11}
       \field{urlyear}{2025}
-      \field{year}{2023}
+      \field{year}{2010}
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.caib.es/eboibfront/pdf/es/2023/21/1129856
+      \verb https://www.caib.es/eboibfront/es/2010/7585/
       \endverb
       \verb{url}
-      \verb https://www.caib.es/eboibfront/pdf/es/2023/21/1129856
+      \verb https://www.caib.es/eboibfront/es/2010/7585/
       \endverb
     \endentry
     \entry{Decreto9_2025}{online}{}{}
@@ -607,8 +742,8 @@
       \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
       \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
       \field{extraname}{6}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{15}
@@ -621,10 +756,10 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.caib.es/sites/institutestudisautonomics/es/n/decreto_92025_de_14_de_marzo_por_el_que_se_regula_la_delegacian_de_proteccian_de_datos_de_la_administracian_de_la_comunidad_autanoma_de_las_illes_balears/
+      \verb https://www.caib.es/eboibfront/eli/es-ib/d/2025/03/14/9/dof/spa/html
       \endverb
       \verb{url}
-      \verb https://www.caib.es/sites/institutestudisautonomics/es/n/decreto_92025_de_14_de_marzo_por_el_que_se_regula_la_delegacian_de_proteccian_de_datos_de_la_administracian_de_la_comunidad_autanoma_de_las_illes_balears/
+      \verb https://www.caib.es/eboibfront/eli/es-ib/d/2025/03/14/9/dof/spa/html
       \endverb
     \endentry
     \entry{Orden26_2025}{online}{}{}
@@ -645,8 +780,8 @@
       \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
       \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
       \field{extraname}{7}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{23}
@@ -659,10 +794,10 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.caib.es/eboibfront/eli/es-ib/o/2025/10/21/26/dof/spa/xml
+      \verb https://www.caib.es/eboibfront/eli/es-ib/o/2025/10/21/26/dof/spa/html
       \endverb
       \verb{url}
-      \verb https://www.caib.es/eboibfront/eli/es-ib/o/2025/10/21/26/dof/spa/xml
+      \verb https://www.caib.es/eboibfront/eli/es-ib/o/2025/10/21/26/dof/spa/html
       \endverb
     \endentry
     \entry{Orden27_2025}{online}{}{}
@@ -683,8 +818,8 @@
       \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
       \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
       \field{extraname}{8}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{23}
@@ -697,10 +832,10 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.caib.es/eboibfront/eli/es-ib/o/2025/10/21/27/dof/spa/xml
+      \verb https://www.caib.es/eboibfront/eli/es-ib/o/2025/10/21/27/dof/spa/html
       \endverb
       \verb{url}
-      \verb https://www.caib.es/eboibfront/eli/es-ib/o/2025/10/21/27/dof/spa/xml
+      \verb https://www.caib.es/eboibfront/eli/es-ib/o/2025/10/21/27/dof/spa/html
       \endverb
     \endentry
     \entry{Ley11_2016}{online}{}{}
@@ -721,11 +856,11 @@
       \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
       \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
       \field{extraname}{9}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{3}
+      \field{day}{4}
       \field{month}{8}
       \field{title}{Ley 11/2016, de 28 de julio, de igualdad de mujeres y hombres}
       \field{urlday}{6}
@@ -735,10 +870,10 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2016-7994
+      \verb https://www.caib.es/eboibfront/eli/es-ib/l/2016/07/28/11/dof/spa/html
       \endverb
       \verb{url}
-      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2016-7994
+      \verb https://www.caib.es/eboibfront/eli/es-ib/l/2016/07/28/11/dof/spa/html
       \endverb
     \endentry
     \entry{Ley8_2016}{online}{}{}
@@ -773,10 +908,10 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2016-6310
+      \verb https://www.caib.es/eboibfront/eli/es-ib/l/2016/05/30/8/dof/spa/html
       \endverb
       \verb{url}
-      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2016-6310
+      \verb https://www.caib.es/eboibfront/eli/es-ib/l/2016/05/30/8/dof/spa/html
       \endverb
     \endentry
     \entry{Ley9_2019}{online}{}{}
@@ -811,10 +946,10 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.caib.es/eboibfront/pdf/es/2019/26/1039777
+      \verb https://www.caib.es/eboibfront/eli/es-ib/l/2019/02/19/9/dof/spa/html
       \endverb
       \verb{url}
-      \verb https://www.caib.es/eboibfront/pdf/es/2019/26/1039777
+      \verb https://www.caib.es/eboibfront/eli/es-ib/l/2019/02/19/9/dof/spa/html
       \endverb
     \endentry
     \entry{Decreto39_2011}{online}{}{}
@@ -849,48 +984,10 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.caib.es/sites/institutestudisautonomics/ca/n/decret_392011_de_29_dabril_pel_qual_es_regula_latencio_a_la_diversitat_i_lorientacio_educativa_als_centres_educatius_no_universitaris_sostinguts_amb_fons_publics-59795/
+      \verb https://www.caib.es/eboibfront/es/2011/7657/
       \endverb
       \verb{url}
-      \verb https://www.caib.es/sites/institutestudisautonomics/ca/n/decret_392011_de_29_dabril_pel_qual_es_regula_latencio_a_la_diversitat_i_lorientacio_educativa_als_centres_educatius_no_universitaris_sostinguts_amb_fons_publics-59795/
-      \endverb
-    \endentry
-    \entry{Decreto18_2011}{online}{}{}
-      \name{author}{1}{}{%
-        {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
-           family={{Govern de les Illes Balears}},
-           familyi={G\bibinitperiod}}}%
-      }
-      \list{organization}{1}{%
-        {Butlletí Oficial de les Illes Balears}%
-      }
-      \strng{namehash}{8c8aafc005d415840e3cbc1a5a418c22}
-      \strng{fullhash}{8c8aafc005d415840e3cbc1a5a418c22}
-      \strng{fullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
-      \strng{bibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
-      \strng{authorbibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
-      \strng{authornamehash}{8c8aafc005d415840e3cbc1a5a418c22}
-      \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
-      \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
-      \field{extraname}{13}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{17}
-      \field{month}{3}
-      \field{title}{Decreto 18/2011, de 11 de marzo, por el que se establecen los principios generales que rigen las actividades de tiempo libre infantiles y juveniles que se desarrollen en el ámbito territorial de las Illes Balears}
-      \field{urlday}{6}
-      \field{urlmonth}{11}
-      \field{urlyear}{2025}
-      \field{year}{2011}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.caib.es/sites/puntdinformacioambiental/es/n/decreto_182011_de_11_de_marzo_por_el_cual_se_establecen_los_principios_generales_que_rigen_las_actividades_de_tiempo_libre_infantiles_y_juveniles_que_se_desarrollen_en_el_ambito_territorial_de_las_islas_baleares-50493/
-      \endverb
-      \verb{url}
-      \verb https://www.caib.es/sites/puntdinformacioambiental/es/n/decreto_182011_de_11_de_marzo_por_el_cual_se_establecen_los_principios_generales_que_rigen_las_actividades_de_tiempo_libre_infantiles_y_juveniles_que_se_desarrollen_en_el_ambito_territorial_de_las_islas_baleares-50493/
+      \verb https://www.caib.es/eboibfront/es/2011/7657/
       \endverb
     \endentry
     \entry{Ley10_2022}{online}{}{}
@@ -910,25 +1007,63 @@
       \strng{authornamehash}{8c8aafc005d415840e3cbc1a5a418c22}
       \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
       \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \field{extraname}{13}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{29}
+      \field{month}{12}
+      \field{title}{Ley 10/2022, de 23 de diciembre, del tiempo libre educativo infantil y juvenil de las Illes Balears}
+      \field{urlday}{6}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.caib.es/eboibfront/eli/es-ib/l/2022/12/23/10/dof/spa/html
+      \endverb
+      \verb{url}
+      \verb https://www.caib.es/eboibfront/eli/es-ib/l/2022/12/23/10/dof/spa/html
+      \endverb
+    \endentry
+    \entry{Decreto18_2011}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c8aafc005d415840e3cbc1a5a418c22}{%
+           family={{Govern de les Illes Balears}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Butlletí Oficial de les Illes Balears}%
+      }
+      \strng{namehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{fullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{bibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorbibnamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authornamehash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
+      \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
       \field{extraname}{14}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{8}
+      \field{day}{17}
       \field{month}{3}
-      \field{title}{Ley 10/2022, de 23 de diciembre, del tiempo libre educativo infantil y juvenil de las Illes Balears}
+      \field{title}{Decreto 18/2011, de 11 de marzo, por el que se establecen los principios generales que rigen las actividades de tiempo libre infantiles y juveniles que se desarrollen en el ámbito territorial de las Illes Balears}
       \field{urlday}{6}
       \field{urlmonth}{11}
       \field{urlyear}{2025}
-      \field{year}{2023}
+      \field{year}{2011}
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2023-2979
+      \verb https://www.caib.es/eboibfront/es/2011/7629/
       \endverb
       \verb{url}
-      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2023-2979
+      \verb https://www.caib.es/eboibfront/es/2011/7629/
       \endverb
     \endentry
     \entry{Decreto30_2023}{online}{}{}
@@ -963,10 +1098,10 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.caib.es/eboibfront/pdf/es/2023/69/1134085
+      \verb https://www.caib.es/eboibfront/eli/es-ib/d/2023/05/22/30/dof/spa/html
       \endverb
       \verb{url}
-      \verb https://www.caib.es/eboibfront/pdf/es/2023/69/1134085
+      \verb https://www.caib.es/eboibfront/eli/es-ib/d/2023/05/22/30/dof/spa/html
       \endverb
     \endentry
     \entry{Orden12_2025}{online}{}{}
@@ -987,8 +1122,8 @@
       \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
       \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
       \field{extraname}{16}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{20}
@@ -1001,10 +1136,10 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.caib.es/eboibfront/pdf/es/2025/63/1171800
+      \verb https://www.caib.es/eboibfront/eli/es-ib/o/2025/05/07/12/dof/spa/html
       \endverb
       \verb{url}
-      \verb https://www.caib.es/eboibfront/pdf/es/2025/63/1171800
+      \verb https://www.caib.es/eboibfront/eli/es-ib/o/2025/05/07/12/dof/spa/html
       \endverb
     \endentry
     \entry{Resolucion9_2021}{online}{}{}
@@ -1025,8 +1160,8 @@
       \strng{authorfullhash}{8c8aafc005d415840e3cbc1a5a418c22}
       \strng{authorfullhashraw}{8c8aafc005d415840e3cbc1a5a418c22}
       \field{extraname}{17}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{4}
@@ -1039,10 +1174,10 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.caib.es/eboibfront/pdf/es/2021/31/1104551
+      \verb https://www.caib.es/eboibfront/es/2021/11348/645404/resolucion-del-consejero-de-educacion-universidad-
       \endverb
       \verb{url}
-      \verb https://www.caib.es/eboibfront/pdf/es/2021/31/1104551
+      \verb https://www.caib.es/eboibfront/es/2021/11348/645404/resolucion-del-consejero-de-educacion-universidad-
       \endverb
     \endentry
   \enddatalist

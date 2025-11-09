@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.6)  7 NOV 2025 00:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.6)  9 NOV 2025 00:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Dustin/Desktop/Latex_Projects/Seminario1_Dustin_Randel_de_Lara_Garcia/main.tex
-(c:/Users/Dustin/Desktop/Latex_Projects/Seminario1_Dustin_Randel_de_Lara_Garcia/main.tex
+**c:/Users/Dustin/Desktop/Latex_documents/Seminario1_Dustin_Randel_de_Lara_Garcia/main.tex
+(c:/Users/Dustin/Desktop/Latex_documents/Seminario1_Dustin_Randel_de_Lara_Garcia/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
 (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -801,7 +801,7 @@ Package hyperref Info: Link coloring ON on input line 68.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-<icono_uned.jpg, id=31, 351.3125pt x 190.7125pt>
+<icono_uned.jpg, id=23, 351.3125pt x 190.7125pt>
 File: icono_uned.jpg Graphic file (type jpg)
 <use icono_uned.jpg>
 Package pdftex.def Info: icono_uned.jpg  used on input line 72.
@@ -870,44 +870,42 @@ Overfull \hbox (2.64938pt too wide) in alignment at lines 138--140
  []
 
 
-Overfull \hbox (2.64938pt too wide) in alignment at lines 140--188
+Overfull \hbox (2.64938pt too wide) in alignment at lines 140--209
  [] [] [] [] [] 
  []
 
-[3]
-Overfull \hbox (2.64938pt too wide) in alignment at lines 192--197
- [] [] [] [] [] 
- []
-
-
-Overfull \hbox (2.64938pt too wide) in alignment at lines 197--205
+[3] [4]
+Overfull \hbox (2.64938pt too wide) in alignment at lines 213--218
  [] [] [] [] [] 
  []
 
 
-Overfull \hbox (2.64938pt too wide) in alignment at lines 205--209
+Overfull \hbox (2.64938pt too wide) in alignment at lines 218--226
  [] [] [] [] [] 
  []
 
 
-Overfull \hbox (2.64938pt too wide) in alignment at lines 209--211
+Overfull \hbox (2.64938pt too wide) in alignment at lines 226--230
  [] [] [] [] [] 
  []
 
 
-Overfull \hbox (2.64938pt too wide) in alignment at lines 211--305
+Overfull \hbox (2.64938pt too wide) in alignment at lines 230--232
  [] [] [] [] [] 
  []
 
-[4] [5] [6]
 
-[7]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 308.
+Overfull \hbox (2.64938pt too wide) in alignment at lines 232--326
+ [] [] [] [] [] 
+ []
+
+[5] [6] [7]
+
+[8]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 329.
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-
-[8]
 
 [9]
 
@@ -923,23 +921,23 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 290AB8E40733933327EF8DE23B6CBFCA;1338.
+(rerunfilecheck)             Checksum: 88284439B537744B643E680D7EC15322;1175.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22797 strings out of 468080
- 399777 string characters out of 5425288
- 1288130 words of memory out of 5000000
- 51143 multiletter control sequences out of 15000+600000
+ 22807 strings out of 468080
+ 400316 string characters out of 5425288
+ 1286327 words of memory out of 5000000
+ 51151 multiletter control sequences out of 15000+600000
  679252 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,11n,77p,1276b,1948s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 67i,11n,77p,1277b,1948s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (11 pages, 307448 bytes).
+Output written on main.pdf (11 pages, 306211 bytes).
 PDF statistics:
- 249 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
- 62 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 247 PDF objects out of 1000 (max. 8388607)
+ 53 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
