@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1762644602.2393 "main.bcf" "main.bbl" "main" 1762644633.84391 0
-  "main.bcf" 1762644633 109833 8f9470d6b899723a9730740169cfbeac "pdflatex"
+["biber main"] 1762644602.2393 "main.bcf" "main.bbl" "main" 1762645353.01226 0
+  "main.bcf" 1762645352 109833 8f9470d6b899723a9730740169cfbeac "pdflatex"
   "referencias.bib" 1762644601 13900 f88373c3efa438264a7fb8c68e606e2b ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1762644632.67062 "c:/Users/Dustin/Desktop/Latex_documents/Seminario1_Dustin_Randel_de_Lara_Garcia/main.tex" "main.pdf" "main" 1762644633.84444 0
+["pdflatex"] 1762645351.85264 "c:/Users/Dustin/Desktop/Latex_documents/Seminario1_Dustin_Randel_de_Lara_Garcia/main.tex" "main.pdf" "main" 1762645353.01287 0
   "C:/Users/Dustin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1762470486 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Dustin/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1762469724 13322351 6f7df6e5ad83d22cfb7a07f519583ee6 ""
   "C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -141,12 +141,12 @@
   "C:/Users/Dustin/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "c:/Users/Dustin/Desktop/Latex_documents/Seminario1_Dustin_Randel_de_Lara_Garcia/main.tex" 1762644631 13215 d42236efc66b11db9569859628acf416 ""
   "icono_uned.jpg" 1762470395 36203 6667ec1727d3858eace7c171c8f5d3f5 ""
-  "main.aux" 1762644633 7065 7af126c8dbe0642b12fb67bf0e7d7c60 "pdflatex"
+  "main.aux" 1762645352 7065 7af126c8dbe0642b12fb67bf0e7d7c60 "pdflatex"
   "main.bbl" 1762644603 50106 d8a8d231e1d6ea74ee8bf697a144c780 "biber main"
-  "main.out" 1762644633 1175 88284439b537744b643e680d7ec15322 "pdflatex"
-  "main.run.xml" 1762644633 2306 21b6f2342482d65f7bca9ce329356541 "pdflatex"
+  "main.out" 1762645352 1175 88284439b537744b643e680d7ec15322 "pdflatex"
+  "main.run.xml" 1762645352 2306 21b6f2342482d65f7bca9ce329356541 "pdflatex"
   "main.tex" 1762644631 13215 d42236efc66b11db9569859628acf416 ""
-  "main.toc" 1762644633 506 ab0e3e3fab0aeb2d9c3e35618fcf8741 "pdflatex"
+  "main.toc" 1762645352 506 ab0e3e3fab0aeb2d9c3e35618fcf8741 "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
