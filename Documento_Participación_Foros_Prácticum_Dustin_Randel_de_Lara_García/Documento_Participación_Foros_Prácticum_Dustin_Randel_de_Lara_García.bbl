@@ -1,0 +1,133 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{participacion1_UNED}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=b94adcf493f723659fb4fa97e8db10e5}{%
+           family={UNED},
+           familyi={U\bibinitperiod},
+           given={Estudiante},
+           giveni={E\bibinitperiod},
+           prefix={del\bibnamedelima foro},
+           prefixi={d\bibinitperiod\bibinitdelim f\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Nacional de Educación a Distancia (UNED)}%
+      }
+      \strng{namehash}{b94adcf493f723659fb4fa97e8db10e5}
+      \strng{fullhash}{b94adcf493f723659fb4fa97e8db10e5}
+      \strng{fullhashraw}{b94adcf493f723659fb4fa97e8db10e5}
+      \strng{bibnamehash}{b94adcf493f723659fb4fa97e8db10e5}
+      \strng{authorbibnamehash}{b94adcf493f723659fb4fa97e8db10e5}
+      \strng{authornamehash}{b94adcf493f723659fb4fa97e8db10e5}
+      \strng{authorfullhash}{b94adcf493f723659fb4fa97e8db10e5}
+      \strng{authorfullhashraw}{b94adcf493f723659fb4fa97e8db10e5}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consulta: 10 de noviembre de 2025}
+      \field{title}{Participación 1 — Foro de discusión Tutoría en Ágora UNED}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://agora.uned.es/mod/forum/discuss.php?d=436686#p1246872
+      \endverb
+      \verb{url}
+      \verb https://agora.uned.es/mod/forum/discuss.php?d=436686#p1246872
+      \endverb
+    \endentry
+    \entry{participacion2_UNED}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=b94adcf493f723659fb4fa97e8db10e5}{%
+           family={UNED},
+           familyi={U\bibinitperiod},
+           given={Estudiante},
+           giveni={E\bibinitperiod},
+           prefix={del\bibnamedelima foro},
+           prefixi={d\bibinitperiod\bibinitdelim f\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Nacional de Educación a Distancia (UNED)}%
+      }
+      \strng{namehash}{b94adcf493f723659fb4fa97e8db10e5}
+      \strng{fullhash}{b94adcf493f723659fb4fa97e8db10e5}
+      \strng{fullhashraw}{b94adcf493f723659fb4fa97e8db10e5}
+      \strng{bibnamehash}{b94adcf493f723659fb4fa97e8db10e5}
+      \strng{authorbibnamehash}{b94adcf493f723659fb4fa97e8db10e5}
+      \strng{authornamehash}{b94adcf493f723659fb4fa97e8db10e5}
+      \strng{authorfullhash}{b94adcf493f723659fb4fa97e8db10e5}
+      \strng{authorfullhashraw}{b94adcf493f723659fb4fa97e8db10e5}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consulta: 10 de noviembre de 2025}
+      \field{title}{Participación 2 — Foro de discusión Seminario 1 en Ágora UNED}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://agora.uned.es/mod/forum/discuss.php?d=458653#p1280997
+      \endverb
+      \verb{url}
+      \verb https://agora.uned.es/mod/forum/discuss.php?d=458653#p1280997
+      \endverb
+    \endentry
+    \entry{participacion3_UNED}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=b94adcf493f723659fb4fa97e8db10e5}{%
+           family={UNED},
+           familyi={U\bibinitperiod},
+           given={Estudiante},
+           giveni={E\bibinitperiod},
+           prefix={del\bibnamedelima foro},
+           prefixi={d\bibinitperiod\bibinitdelim f\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Nacional de Educación a Distancia (UNED)}%
+      }
+      \strng{namehash}{b94adcf493f723659fb4fa97e8db10e5}
+      \strng{fullhash}{b94adcf493f723659fb4fa97e8db10e5}
+      \strng{fullhashraw}{b94adcf493f723659fb4fa97e8db10e5}
+      \strng{bibnamehash}{b94adcf493f723659fb4fa97e8db10e5}
+      \strng{authorbibnamehash}{b94adcf493f723659fb4fa97e8db10e5}
+      \strng{authornamehash}{b94adcf493f723659fb4fa97e8db10e5}
+      \strng{authorfullhash}{b94adcf493f723659fb4fa97e8db10e5}
+      \strng{authorfullhashraw}{b94adcf493f723659fb4fa97e8db10e5}
+      \field{extraname}{3}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consulta: 10 de noviembre de 2025}
+      \field{title}{Participación 3 — Foro de discusión Seminario 2 en Ágora UNED}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://agora.uned.es/mod/forum/discuss.php?d=458543#p1281272
+      \endverb
+      \verb{url}
+      \verb https://agora.uned.es/mod/forum/discuss.php?d=458543#p1281272
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

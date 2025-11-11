@@ -1,0 +1,14 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[1] Config.pm:331> INFO - Logfile is 'Documento_Participación_Foros_Prácticum_Dustin_Randel_de_Lara_García.blg'
+[268] biber-MSWIN64:342> INFO - === 
+[354] Biber.pm:421> INFO - Reading 'Documento_Participación_Foros_Prácticum_Dustin_Randel_de_Lara_García.bcf'
+[601] Biber.pm:1002> INFO - Found 3 citekeys in bib section 0
+[630] Biber.pm:4487> INFO - Processing section 0
+[659] Biber.pm:4678> INFO - Looking for bibtex file 'referencias.bib' for section 0
+[773] bibtex.pm:1713> INFO - LaTeX decoding ...
+[790] bibtex.pm:1519> INFO - Found BibTeX data source 'referencias.bib'
+[889] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[889] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[889] Biber.pm:4307> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'es-ES'
+[905] bbl.pm:676> INFO - Writing 'Documento_Participación_Foros_Prácticum_Dustin_Randel_de_Lara_García.bbl' with encoding 'UTF-8'
+[909] bbl.pm:779> INFO - Output to Documento_Participación_Foros_Prácticum_Dustin_Randel_de_Lara_García.bbl

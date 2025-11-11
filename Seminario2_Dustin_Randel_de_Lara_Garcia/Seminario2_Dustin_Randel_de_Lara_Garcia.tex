@@ -1,0 +1,103 @@
+\documentclass[11pt,a4paper]{article}
+
+% ---- Márgenes
+\usepackage[a4paper, left=2cm, right=2cm, top=2.5cm, bottom=2.5cm]{geometry}
+
+% ---- Idioma y fuentes
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish, es-tabla]{babel}
+\usepackage{lmodern}
+
+% ---- Matemáticas y tablas
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{tabularx,booktabs}
+
+% ---- Gráficos
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage[table,xcdraw]{xcolor}
+\definecolor{verdePastel}{RGB}{204, 235, 197}
+\definecolor{verdeFresco}{RGB}{60,160,60}
+
+% ---- Estilo y utilidades
+\usepackage{fancyhdr}
+\setlength{\headheight}{14pt}
+\usepackage{csquotes}
+\usepackage{parskip}   % separa párrafos sin sangría
+\usepackage{array,longtable}
+\renewcommand{\arraystretch}{1.4}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{B}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+% ---- Bibliografía (mejor con biber)
+\usepackage[
+  backend=biber,        % o 'bibtex' si no puedes usar biber
+  style=numeric,        % números [1], [2], ...
+  sorting=none,         % <- orden según aparición en el texto
+  maxbibnames=99
+]{biblatex}
+
+\addbibresource{referencias.bib}
+
+% ---- Hipervínculos (cargar al final)
+\usepackage{hyperref}
+\hypersetup{
+  pdfauthor={Dustin Randel De Lara García},
+  pdftitle={Formación Permanente del Profesorado en Secundaria y FP: El Programa Erasmus+ como Vía de Desarrollo Profesional},
+  pdfkeywords={formación permanente, profesorado, Erasmus+, desarrollo profesional, educación secundaria, formación profesional},
+  colorlinks=true,
+  linkcolor=verdeFresco,
+  urlcolor=verdeFresco,
+  citecolor=verdeFresco
+}
+
+% ---- “Tabla” en lugar de “Cuadro” (por si acaso)
+\addto\captionsspanish{\renewcommand{\tablename}{Tabla}}
+
+% ---- Encabezados/pies
+\pagestyle{fancy}
+\rhead{UNED}
+\lhead{Seminario II - Formación permanente del profesorado de secundaria/FP: El caso Erasmus+} 
+\cfoot{\thepage}
+
+\date{\today}
+
+\begin{document}
+
+% ---- Portada
+\begin{center}
+  {\includegraphics[width=0.5\textwidth]{icono_uned.jpg}\par}
+  \vspace{1cm}
+  {\bfseries\LARGE Universidad Nacional de Educación a Distancia \par}
+  \vspace{1cm}
+  {\scshape\Large Facultad de Educación\par}
+  \vspace{0.5cm}
+  {\scshape\Large Máster en Formación del Profesorado\par}
+  \vspace{0.5cm}
+  {\scshape\Large Prácticum \par}
+  \vspace{1.5cm}
+  {\scshape\Huge Formación permanente del profesorado de secundaria/FP: El caso Erasmus+ \par}
+  \vspace{1.5cm}
+  {\itshape\Large Seminario II \par}
+  \vfill
+  {\Large Dustin Randel De Lara García \par}
+  \vfill
+  {\Large \today \par}
+  \thispagestyle{empty}
+\end{center}
+
+% ---- Índice
+\newpage
+\tableofcontents
+\newpage
+
+\section{Objetivos}\label{sec:objetivos}
+
+\section{Sección 1 ...}\label{sec:section-1}
+
+\newpage
+\printbibliography
+\end{document}
