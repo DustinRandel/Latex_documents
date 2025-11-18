@@ -16,5 +16,367 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{iesislaverde_k122_2021}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8f8e5b3417fd416d5cf911b0f9701616}{%
+           family={{IES Isla Verde}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{fullhash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{fullhashraw}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{bibnamehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authorbibnamehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authornamehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authorfullhash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authorfullhashraw}{8f8e5b3417fd416d5cf911b0f9701616}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Entrada en el blog Erasmus del IES Isla Verde}
+      \field{title}{Acción Erasmus K122: Watering our Future}
+      \field{urlday}{17}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://iesislaverde.es/proyecto-erasmus-k122/
+      \endverb
+      \verb{url}
+      \verb https://iesislaverde.es/proyecto-erasmus-k122/
+      \endverb
+    \endentry
+    \entry{sepie_ka122_2021}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=5f1ff335d2e5ebb57a51bc3a453336ff}{%
+           family={{Servicio Español para la Internacionalización de la Educación}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {SEPIE}%
+      }
+      \strng{namehash}{5f1ff335d2e5ebb57a51bc3a453336ff}
+      \strng{fullhash}{5f1ff335d2e5ebb57a51bc3a453336ff}
+      \strng{fullhashraw}{5f1ff335d2e5ebb57a51bc3a453336ff}
+      \strng{bibnamehash}{5f1ff335d2e5ebb57a51bc3a453336ff}
+      \strng{authorbibnamehash}{5f1ff335d2e5ebb57a51bc3a453336ff}
+      \strng{authornamehash}{5f1ff335d2e5ebb57a51bc3a453336ff}
+      \strng{authorfullhash}{5f1ff335d2e5ebb57a51bc3a453336ff}
+      \strng{authorfullhashraw}{5f1ff335d2e5ebb57a51bc3a453336ff}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Anexo I.2. Proyectos seleccionados KA122-SCH, convocatoria 2021}
+      \field{urlday}{17}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://sepie.es/doc/convocatoria/2021/resoluciones/octubre/KA1/report_Anexo_I2_KA122_SCH_s.pdf
+      \endverb
+      \verb{url}
+      \verb https://sepie.es/doc/convocatoria/2021/resoluciones/octubre/KA1/report_Anexo_I2_KA122_SCH_s.pdf
+      \endverb
+    \endentry
+    \entry{ec_guide_2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Erasmus+ Programme Guide 2022}
+      \field{urlday}{17}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://erasmus-plus.ec.europa.eu/sites/default/files/2021-11/2022-erasmusplus-programme-guide.pdf
+      \endverb
+      \verb{url}
+      \verb https://erasmus-plus.ec.europa.eu/sites/default/files/2021-11/2022-erasmusplus-programme-guide.pdf
+      \endverb
+    \endentry
+    \entry{ec_keyaction1_2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Key Action 1: Learning Mobility of Individuals}
+      \field{urlday}{17}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/key-action-1-learning-mobility-of-individuals
+      \endverb
+      \verb{url}
+      \verb https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/key-action-1-learning-mobility-of-individuals
+      \endverb
+    \endentry
+    \entry{fundacionDescubre_redDiverciencia_2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=6d308e958a3e9300be237846f800a32e}{%
+           family={{Fundación Descubre}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{6d308e958a3e9300be237846f800a32e}
+      \strng{fullhash}{6d308e958a3e9300be237846f800a32e}
+      \strng{fullhashraw}{6d308e958a3e9300be237846f800a32e}
+      \strng{bibnamehash}{6d308e958a3e9300be237846f800a32e}
+      \strng{authorbibnamehash}{6d308e958a3e9300be237846f800a32e}
+      \strng{authornamehash}{6d308e958a3e9300be237846f800a32e}
+      \strng{authorfullhash}{6d308e958a3e9300be237846f800a32e}
+      \strng{authorfullhashraw}{6d308e958a3e9300be237846f800a32e}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Red de Ferias de la Ciencia y la Innovación de Andalucía}
+      \field{title}{Diverciencia. Feria Internacional de la Ciencia en la Calle de Algeciras}
+      \field{urlday}{17}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://reddeferias.fundaciondescubre.es/ferias-en-la-red/feria-de-las-ciencias-de-algeciras/
+      \endverb
+      \verb{url}
+      \verb https://reddeferias.fundaciondescubre.es/ferias-en-la-red/feria-de-las-ciencias-de-algeciras/
+      \endverb
+    \endentry
+    \entry{islaVerde_KA122_application_2021}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8f8e5b3417fd416d5cf911b0f9701616}{%
+           family={{IES Isla Verde}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{fullhash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{fullhashraw}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{bibnamehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authorbibnamehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authornamehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authorfullhash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authorfullhashraw}{8f8e5b3417fd416d5cf911b0f9701616}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Solicitud de proyecto Erasmus+ KA122-SCH, convocatoria 2021}
+      \field{title}{KA122-SCH-F295DE69: Mójate por la educación / Watering our Future}
+      \field{urlday}{17}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://iesislaverde.es/wp-content/uploads/2022/03/KA122-SCH-F295DE69.pdf
+      \endverb
+      \verb{url}
+      \verb https://iesislaverde.es/wp-content/uploads/2022/03/KA122-SCH-F295DE69.pdf
+      \endverb
+    \endentry
+    \entry{islaVerde_etwinning_waterfuture_2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8f8e5b3417fd416d5cf911b0f9701616}{%
+           family={{IES Isla Verde}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{fullhash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{fullhashraw}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{bibnamehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authorbibnamehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authornamehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authorfullhash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authorfullhashraw}{8f8e5b3417fd416d5cf911b0f9701616}
+      \field{extraname}{3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Entrada en la web del IES Isla Verde}
+      \field{title}{Proyectos eTwinning: Watering our Future (2021--2022)}
+      \field{urlday}{17}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://iesislaverde.es/proyectos-etwinning/
+      \endverb
+      \verb{url}
+      \verb https://iesislaverde.es/proyectos-etwinning/
+      \endverb
+    \endentry
+    \entry{islaVerde_recepcion_opava_2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8f8e5b3417fd416d5cf911b0f9701616}{%
+           family={{IES Isla Verde}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{fullhash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{fullhashraw}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{bibnamehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authorbibnamehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authornamehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authorfullhash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authorfullhashraw}{8f8e5b3417fd416d5cf911b0f9701616}
+      \field{extraname}{4}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Entrada de blog Erasmus del IES Isla Verde}
+      \field{title}{Recepción Slezské Gymnázium (Opava) en Algeciras}
+      \field{urlday}{17}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://iesislaverde.es/recepcion-slezske-gymnazium-opava-r-checa/
+      \endverb
+      \verb{url}
+      \verb https://iesislaverde.es/recepcion-slezske-gymnazium-opava-r-checa/
+      \endverb
+    \endentry
+    \entry{diverciencia_web}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=39371d29f24119cba3cbcf0f33bb5539}{%
+           family={{Asociación de Amigos de la Ciencia ``Diverciencia''}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{39371d29f24119cba3cbcf0f33bb5539}
+      \strng{fullhash}{39371d29f24119cba3cbcf0f33bb5539}
+      \strng{fullhashraw}{39371d29f24119cba3cbcf0f33bb5539}
+      \strng{bibnamehash}{39371d29f24119cba3cbcf0f33bb5539}
+      \strng{authorbibnamehash}{39371d29f24119cba3cbcf0f33bb5539}
+      \strng{authornamehash}{39371d29f24119cba3cbcf0f33bb5539}
+      \strng{authorfullhash}{39371d29f24119cba3cbcf0f33bb5539}
+      \strng{authorfullhashraw}{39371d29f24119cba3cbcf0f33bb5539}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Diverciencia Algeciras}
+      \field{urlday}{17}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.divercienciaalgeciras.com/
+      \endverb
+      \verb{url}
+      \verb https://www.divercienciaalgeciras.com/
+      \endverb
+    \endentry
+    \entry{cadenaser_diverciencia2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=e8f830643ef2f3d74242e9a6bfd38599}{%
+           family={{Radio Algeciras, Cadena SER}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{e8f830643ef2f3d74242e9a6bfd38599}
+      \strng{fullhash}{e8f830643ef2f3d74242e9a6bfd38599}
+      \strng{fullhashraw}{e8f830643ef2f3d74242e9a6bfd38599}
+      \strng{bibnamehash}{e8f830643ef2f3d74242e9a6bfd38599}
+      \strng{authorbibnamehash}{e8f830643ef2f3d74242e9a6bfd38599}
+      \strng{authornamehash}{e8f830643ef2f3d74242e9a6bfd38599}
+      \strng{authorfullhash}{e8f830643ef2f3d74242e9a6bfd38599}
+      \strng{authorfullhashraw}{e8f830643ef2f3d74242e9a6bfd38599}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mañana la ciencia toma las calles de Algeciras con Diverciencia 2025}
+      \field{urlday}{17}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://cadenaser.com/andalucia/2025/05/07/manana-la-ciencia-toma-las-callesde-algeciras-con-diverciencia-2025-radio-algeciras/
+      \endverb
+      \verb{url}
+      \verb https://cadenaser.com/andalucia/2025/05/07/manana-la-ciencia-toma-las-callesde-algeciras-con-diverciencia-2025-radio-algeciras/
+      \endverb
+    \endentry
+    \entry{diverciencia_descubre}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=6d308e958a3e9300be237846f800a32e}{%
+           family={{Fundación Descubre}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{6d308e958a3e9300be237846f800a32e}
+      \strng{fullhash}{6d308e958a3e9300be237846f800a32e}
+      \strng{fullhashraw}{6d308e958a3e9300be237846f800a32e}
+      \strng{bibnamehash}{6d308e958a3e9300be237846f800a32e}
+      \strng{authorbibnamehash}{6d308e958a3e9300be237846f800a32e}
+      \strng{authornamehash}{6d308e958a3e9300be237846f800a32e}
+      \strng{authorfullhash}{6d308e958a3e9300be237846f800a32e}
+      \strng{authorfullhashraw}{6d308e958a3e9300be237846f800a32e}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Feria de las Ciencias de Algeciras. Jornadas Internacionales de Ciencia en la Calle ``Diverciencia''}
+      \field{urlday}{17}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://reddeferias.fundaciondescubre.es/ferias-en-la-red/feria-de-las-ciencias-de-algeciras/
+      \endverb
+      \verb{url}
+      \verb https://reddeferias.fundaciondescubre.es/ferias-en-la-red/feria-de-las-ciencias-de-algeciras/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

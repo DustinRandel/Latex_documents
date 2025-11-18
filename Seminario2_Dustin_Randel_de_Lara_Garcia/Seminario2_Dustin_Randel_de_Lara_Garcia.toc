@@ -1,8 +1,7 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {section}{\numberline {1}Objetivos}{1}{section.1}%
-\contentsline {section}{\numberline {2}Características del proyecto}{2}{section.2}%
-\contentsline {section}{\numberline {3}¿Porqué es interesante este proyecto?}{2}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Aportación a la formación permanente del profesorado de secundaria}{2}{subsection.3.1}%
-\contentsline {section}{\numberline {4}Transferencia del aprendizaje adquirido en Erasmus+ a la realidad de la práctica docente cotidiana}{2}{section.4}%
-\contentsline {section}{\numberline {5}¿Cómo crees que aplicarías las habilidades y conocimientos adquiridos en Erasmus+ en tu día a día?}{2}{section.5}%
-\contentsline {section}{\numberline {6}Posibles contextos de aplicación de las habilidades adquiridas en Erasmus+}{2}{section.6}%
+\contentsline {section}{\numberline {1}Características del proyecto}{2}{section.1}%
+\contentsline {section}{\numberline {2}¿Por qué es interesante este proyecto?}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Aportación a la formación permanente del profesorado de secundaria}{4}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Transferencia del aprendizaje a la práctica docente cotidiana}{4}{section.3}%
+\contentsline {section}{\numberline {4}Aplicación de las habilidades y conocimientos en mi día a día}{5}{section.4}%
+\contentsline {section}{\numberline {5}Posibles contextos de aplicación de las habilidades adquiridas en Erasmus+}{5}{section.5}%
