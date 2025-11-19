@@ -1,14 +1,17 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
-[0] Config.pm:331> INFO - Logfile is 'Seminario2_Dustin_Randel_de_Lara_Garcia.blg'
-[69] biber-MSWIN64:342> INFO - === 
-[91] Biber.pm:421> INFO - Reading 'Seminario2_Dustin_Randel_de_Lara_Garcia.bcf'
-[156] Biber.pm:1002> INFO - Found 11 citekeys in bib section 0
-[165] Biber.pm:4487> INFO - Processing section 0
-[172] Biber.pm:4678> INFO - Looking for bibtex file 'referencias.bib' for section 0
-[198] bibtex.pm:1713> INFO - LaTeX decoding ...
-[205] bibtex.pm:1519> INFO - Found BibTeX data source 'referencias.bib'
-[250] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[250] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[250] Biber.pm:4307> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'es-ES'
-[257] bbl.pm:676> INFO - Writing 'Seminario2_Dustin_Randel_de_Lara_Garcia.bbl' with encoding 'UTF-8'
-[260] bbl.pm:779> INFO - Output to Seminario2_Dustin_Randel_de_Lara_Garcia.bbl
+[1] Config.pm:331> INFO - Logfile is 'Seminario2_Dustin_Randel_de_Lara_Garcia.blg'
+[274] biber-MSWIN64:342> INFO - === 
+[380] Biber.pm:421> INFO - Reading 'Seminario2_Dustin_Randel_de_Lara_Garcia.bcf'
+[653] Biber.pm:1002> INFO - Found 11 citekeys in bib section 0
+[686] Biber.pm:4487> INFO - Processing section 0
+[712] Biber.pm:4678> INFO - Looking for bibtex file 'referencias.bib' for section 0
+[851] bibtex.pm:1713> INFO - LaTeX decoding ...
+[880] bibtex.pm:1519> INFO - Found BibTeX data source 'referencias.bib'
+[1101] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1101] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1101] Biber.pm:4307> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'es-ES'
+[1135] bbl.pm:676> INFO - Writing 'Seminario2_Dustin_Randel_de_Lara_Garcia.bbl' with encoding 'UTF-8'
+[1144] bbl.pm:779> INFO - Output to Seminario2_Dustin_Randel_de_Lara_Garcia.bbl
+[1145] Biber.pm:132> WARN - I didn't find a database entry for 'fundacionDescubre_redDiverciencia_2025' (section 0)
+[1145] Biber.pm:132> WARN - I didn't find a database entry for 'cadenaser_diverciencia2025' (section 0)
+[1145] Biber.pm:134> INFO - WARNINGS: 2
