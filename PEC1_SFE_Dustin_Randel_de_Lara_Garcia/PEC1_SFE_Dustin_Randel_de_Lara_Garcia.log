@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  24 NOV 2025 16:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.10)  24 NOV 2025 18:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/darkd/Desktop/Latex_documents/Seminario2_Dustin_Randel_de_Lara_Garcia/Seminario2_Dustin_Randel_de_Lara_Garcia.tex
-(c:/Users/darkd/Desktop/Latex_documents/Seminario2_Dustin_Randel_de_Lara_Garcia/Seminario2_Dustin_Randel_de_Lara_Garcia.tex
+**c:/Users/darkd/Desktop/Latex_documents/PEC1_SFE_Dustin_Randel_de_Lara_Garcia/PEC1_SFE_Dustin_Randel_de_Lara_Garcia.tex
+(c:/Users/darkd/Desktop/Latex_documents/PEC1_SFE_Dustin_Randel_de_Lara_Garcia/PEC1_SFE_Dustin_Randel_de_Lara_Garcia.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
 (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -683,21 +683,45 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip97
 )
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 55.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 55.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 55.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 55.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 55.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 55.
+
 Package hyperref Info: Option `colorlinks' set `true' on input line 55.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 68.
- (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+(C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (Seminario2_Dustin_Randel_de_Lara_Garcia.aux
-LaTeX Info: Redefining \. on input line 20.
-LaTeX Info: Redefining \% on input line 20.
+) (PEC1_SFE_Dustin_Randel_de_Lara_Garcia.aux
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 20.
+(babel)             Reported on input line 12.
 )
-\openout1 = `Seminario2_Dustin_Randel_de_Lara_Garcia.aux'.
+\openout1 = `PEC1_SFE_Dustin_Randel_de_Lara_Garcia.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
 LaTeX Font Info:    ... okay on input line 68.
@@ -789,107 +813,72 @@ File: spanish.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `Seminario2_Dustin_Randel_de_Lara_Garcia.bcf'.
+\openout3 = `PEC1_SFE_Dustin_Randel_de_Lara_Garcia.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'Seminario2_Dustin_Randel_de_Lara_Garcia.bbl' found.
- (Seminario2_Dustin_Randel_de_Lara_Garcia.bbl)
+Package biblatex Info: ... file 'PEC1_SFE_Dustin_Randel_de_Lara_Garcia.bbl' found.
+ (PEC1_SFE_Dustin_Randel_de_Lara_Garcia.bbl)
 Package biblatex Info: Reference section=0 on input line 68.
 Package biblatex Info: Reference segment=0 on input line 68.
 Package hyperref Info: Link coloring ON on input line 68.
- (Seminario2_Dustin_Randel_de_Lara_Garcia.out) (Seminario2_Dustin_Randel_de_Lara_Garcia.out)
+ (PEC1_SFE_Dustin_Randel_de_Lara_Garcia.out) (PEC1_SFE_Dustin_Randel_de_Lara_Garcia.out)
 \@outlinefile=\write4
-\openout4 = `Seminario2_Dustin_Randel_de_Lara_Garcia.out'.
+\openout4 = `PEC1_SFE_Dustin_Randel_de_Lara_Garcia.out'.
 
-<icono_uned.jpg, id=27, 351.3125pt x 190.7125pt>
+<icono_uned.jpg, id=11, 351.3125pt x 190.7125pt>
 File: icono_uned.jpg Graphic file (type jpg)
 <use icono_uned.jpg>
 Package pdftex.def Info: icono_uned.jpg  used on input line 72.
-(pdftex.def)             Requested size: 154.78653pt x 84.03015pt.
- (Seminario2_Dustin_Randel_de_Lara_Garcia.toc
+(pdftex.def)             Requested size: 241.84843pt x 131.29202pt.
+
+
+[1
+
+{C:/Users/darkd/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./icono_uned.jpg>] (PEC1_SFE_Dustin_Randel_de_Lara_Garcia.toc
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4.
- (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4.
- (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 4.
- (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 4.
- (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 4.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 4.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 4.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
- (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
- (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
 \tf@toc=\write5
-\openout5 = `Seminario2_Dustin_Randel_de_Lara_Garcia.toc'.
+\openout5 = `PEC1_SFE_Dustin_Randel_de_Lara_Garcia.toc'.
 
 
 
-[1{C:/Users/darkd/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}
-
- <./icono_uned.jpg>]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 121.
- (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-
-[2{C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
+[2] (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd) (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd) (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd) (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd) (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd) (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd)
 
 [3]
 
 [4]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 215.
- (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
-File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
 
-[5] (Seminario2_Dustin_Randel_de_Lara_Garcia.aux
-LaTeX Info: Redefining \sptext on input line 20.
-LaTeX Info: Redefining \. on input line 20.
-LaTeX Info: Redefining \% on input line 20.
+LaTeX Warning: Empty bibliography on input line 128.
+
+(PEC1_SFE_Dustin_Randel_de_Lara_Garcia.aux
+LaTeX Info: Redefining \sptext on input line 12.
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
 )
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
  ***********
-Package rerunfilecheck Info: File `Seminario2_Dustin_Randel_de_Lara_Garcia.out' has not changed.
-(rerunfilecheck)             Checksum: D0C2138B5FC6D3E97AD92EC1C79DEAF9;1946.
-Package logreq Info: Writing requests to 'Seminario2_Dustin_Randel_de_Lara_Garcia.run.xml'.
-\openout1 = `Seminario2_Dustin_Randel_de_Lara_Garcia.run.xml'.
+Package rerunfilecheck Info: File `PEC1_SFE_Dustin_Randel_de_Lara_Garcia.out' has not changed.
+(rerunfilecheck)             Checksum: 09A8C42FB61E81947CB4F23C3AFBC842;668.
+Package logreq Info: Writing requests to 'PEC1_SFE_Dustin_Randel_de_Lara_Garcia.run.xml'.
+\openout1 = `PEC1_SFE_Dustin_Randel_de_Lara_Garcia.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22750 strings out of 468080
- 399361 string characters out of 5425771
- 1257667 words of memory out of 5000000
- 51108 multiletter control sequences out of 15000+600000
- 675676 words of font info for 71 fonts, out of 8000000 for 9000
+ 22396 strings out of 468080
+ 390690 string characters out of 5425771
+ 1242266 words of memory out of 5000000
+ 50784 multiletter control sequences out of 15000+600000
+ 672936 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,12n,77p,1311b,1948s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on Seminario2_Dustin_Randel_de_Lara_Garcia.pdf (5 pages, 327090 bytes).
+ 67i,11n,77p,1307b,2130s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
+Output written on PEC1_SFE_Dustin_Randel_de_Lara_Garcia.pdf (4 pages, 199357 bytes).
 PDF statistics:
- 196 PDF objects out of 1000 (max. 8388607)
- 32 named destinations out of 1000 (max. 500000)
- 54 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 75 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
+ 22 words of extra memory for PDF output out of 10000 (max. 10000000)
 

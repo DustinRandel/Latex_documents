@@ -38,7 +38,7 @@
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Entrada en el blog Erasmus del IES Isla Verde}
+      \field{note}{Blog Erasmus del IES Isla Verde}
       \field{title}{Acción Erasmus K122: Watering our Future}
       \field{urlday}{17}
       \field{urlmonth}{11}
@@ -165,11 +165,11 @@
       \strng{authorfullhash}{8f8e5b3417fd416d5cf911b0f9701616}
       \strng{authorfullhashraw}{8f8e5b3417fd416d5cf911b0f9701616}
       \field{extraname}{2}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Solicitud de proyecto Erasmus+ KA122-SCH, convocatoria 2021}
+      \field{note}{Solicitud Erasmus+ KA122-SCH}
       \field{title}{KA122-SCH-F295DE69: Mójate por la educación / Watering our Future}
       \field{urlday}{17}
       \field{urlmonth}{11}
@@ -198,11 +198,10 @@
       \strng{authorfullhash}{8f8e5b3417fd416d5cf911b0f9701616}
       \strng{authorfullhashraw}{8f8e5b3417fd416d5cf911b0f9701616}
       \field{extraname}{3}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Entrada en la web del IES Isla Verde}
       \field{title}{Proyectos eTwinning: Watering our Future (2021--2022)}
       \field{urlday}{17}
       \field{urlmonth}{11}
@@ -214,6 +213,38 @@
       \endverb
       \verb{url}
       \verb https://iesislaverde.es/proyectos-etwinning/
+      \endverb
+    \endentry
+    \entry{islaVerde_jobshadowing_cocito_2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8f8e5b3417fd416d5cf911b0f9701616}{%
+           family={{IES Isla Verde}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{fullhash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{fullhashraw}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{bibnamehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authorbibnamehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authornamehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authorfullhash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authorfullhashraw}{8f8e5b3417fd416d5cf911b0f9701616}
+      \field{extraname}{4}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Job Shadowing: Teachers from IES Isla Verde in Liceo Scientifico ``L. Cocito'' (Alba, Italy)}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://iesislaverde.es/job-shadowing-teachers-from-ies-isla-verde-learning-in-liceo-scientifico-l-cocito-alba-italy/
+      \endverb
+      \verb{url}
+      \verb https://iesislaverde.es/job-shadowing-teachers-from-ies-isla-verde-learning-in-liceo-scientifico-l-cocito-alba-italy/
       \endverb
     \endentry
     \entry{islaVerde_recepcion_opava_2022}{online}{}{}
@@ -230,12 +261,11 @@
       \strng{authornamehash}{8f8e5b3417fd416d5cf911b0f9701616}
       \strng{authorfullhash}{8f8e5b3417fd416d5cf911b0f9701616}
       \strng{authorfullhashraw}{8f8e5b3417fd416d5cf911b0f9701616}
-      \field{extraname}{4}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{extraname}{5}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Entrada de blog Erasmus del IES Isla Verde}
       \field{title}{Recepción Slezské Gymnázium (Opava) en Algeciras}
       \field{urlday}{17}
       \field{urlmonth}{11}
@@ -247,6 +277,69 @@
       \endverb
       \verb{url}
       \verb https://iesislaverde.es/recepcion-slezske-gymnazium-opava-r-checa/
+      \endverb
+    \endentry
+    \entry{islaVerde_jobshadowing_skovde_2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8f8e5b3417fd416d5cf911b0f9701616}{%
+           family={{IES Isla Verde}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{fullhash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{fullhashraw}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{bibnamehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authorbibnamehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authornamehash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authorfullhash}{8f8e5b3417fd416d5cf911b0f9701616}
+      \strng{authorfullhashraw}{8f8e5b3417fd416d5cf911b0f9701616}
+      \field{extraname}{6}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Job Shadowing: Teachers from IES Isla Verde in Gymnasium Skövde (Sweden)}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://iesislaverde.es/job-shadowing-teachers-from-ies-isla-verde-learning-in-gymnasium-skovde-sweden/
+      \endverb
+      \verb{url}
+      \verb https://iesislaverde.es/job-shadowing-teachers-from-ies-isla-verde-learning-in-gymnasium-skovde-sweden/
+      \endverb
+    \endentry
+    \entry{diverciencia_descubre}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=6d308e958a3e9300be237846f800a32e}{%
+           family={{Fundación Descubre}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{6d308e958a3e9300be237846f800a32e}
+      \strng{fullhash}{6d308e958a3e9300be237846f800a32e}
+      \strng{fullhashraw}{6d308e958a3e9300be237846f800a32e}
+      \strng{bibnamehash}{6d308e958a3e9300be237846f800a32e}
+      \strng{authorbibnamehash}{6d308e958a3e9300be237846f800a32e}
+      \strng{authornamehash}{6d308e958a3e9300be237846f800a32e}
+      \strng{authorfullhash}{6d308e958a3e9300be237846f800a32e}
+      \strng{authorfullhashraw}{6d308e958a3e9300be237846f800a32e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Feria de las Ciencias de Algeciras. Jornadas Internacionales ``Diverciencia''}
+      \field{urlday}{17}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://reddeferias.fundaciondescubre.es/ferias-en-la-red/feria-de-las-ciencias-de-algeciras/
+      \endverb
+      \verb{url}
+      \verb https://reddeferias.fundaciondescubre.es/ferias-en-la-red/feria-de-las-ciencias-de-algeciras/
       \endverb
     \endentry
     \entry{diverciencia_web}{online}{}{}
@@ -280,40 +373,7 @@
       \verb https://www.divercienciaalgeciras.com/
       \endverb
     \endentry
-    \entry{diverciencia_descubre}{online}{}{}
-      \name{author}{1}{}{%
-        {{hash=6d308e958a3e9300be237846f800a32e}{%
-           family={{Fundación Descubre}},
-           familyi={F\bibinitperiod}}}%
-      }
-      \strng{namehash}{6d308e958a3e9300be237846f800a32e}
-      \strng{fullhash}{6d308e958a3e9300be237846f800a32e}
-      \strng{fullhashraw}{6d308e958a3e9300be237846f800a32e}
-      \strng{bibnamehash}{6d308e958a3e9300be237846f800a32e}
-      \strng{authorbibnamehash}{6d308e958a3e9300be237846f800a32e}
-      \strng{authornamehash}{6d308e958a3e9300be237846f800a32e}
-      \strng{authorfullhash}{6d308e958a3e9300be237846f800a32e}
-      \strng{authorfullhashraw}{6d308e958a3e9300be237846f800a32e}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Feria de las Ciencias de Algeciras. Jornadas Internacionales de Ciencia en la Calle ``Diverciencia''}
-      \field{urlday}{17}
-      \field{urlmonth}{11}
-      \field{urlyear}{2025}
-      \field{year}{2025}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://reddeferias.fundaciondescubre.es/ferias-en-la-red/feria-de-las-ciencias-de-algeciras/
-      \endverb
-      \verb{url}
-      \verb https://reddeferias.fundaciondescubre.es/ferias-en-la-red/feria-de-las-ciencias-de-algeciras/
-      \endverb
-    \endentry
   \enddatalist
-  \missing{cadenaser_diverciencia2025}
-  \missing{fundacionDescubre_redDiverciencia_2025}
 \endrefsection
 \endinput
 

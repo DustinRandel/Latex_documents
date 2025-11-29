@@ -1,0 +1,129 @@
+\documentclass[11pt,a4paper]{article}
+
+% ---- Márgenes
+\usepackage[a4paper, left=2cm, right=2cm, top=2.5cm, bottom=2.5cm]{geometry}
+
+% ---- Idioma y fuentes
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish, es-tabla]{babel}
+\usepackage{lmodern}
+
+% ---- Matemáticas y tablas
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{tabularx,booktabs}
+
+% ---- Gráficos
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage[table,xcdraw]{xcolor}
+\definecolor{verdePastel}{RGB}{204, 235, 197}
+\definecolor{verdeFresco}{RGB}{60,160,60}
+
+% ---- Estilo y utilidades
+\usepackage{fancyhdr}
+\setlength{\headheight}{14pt}
+\usepackage{csquotes}
+\usepackage{parskip}   % separa párrafos sin sangría
+\usepackage{array,longtable}
+\renewcommand{\arraystretch}{1.4}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{B}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+% ---- Bibliografía (mejor con biber)
+\usepackage[
+  backend=biber,        % o 'bibtex' si no puedes usar biber
+  style=numeric,        % números [1], [2], ...
+  sorting=none,         % <- orden según aparición en el texto
+  maxbibnames=99
+]{biblatex}
+
+\addbibresource{referencias.bib}
+
+% ---- Hipervínculos (cargar al final)
+\usepackage{hyperref}
+\hypersetup{
+  pdfauthor={Dustin Randel De Lara García},
+  pdftitle={PEC1_SFE_Dustin_Randel_de_Lara_Garcia},
+  pdfkeywords={Sociedad, Familia, Educación, investigación},
+  colorlinks=true,
+  linkcolor=verdeFresco,
+  urlcolor=verdeFresco,
+  citecolor=verdeFresco
+}
+
+% ---- “Tabla” en lugar de “Cuadro” (por si acaso)
+\addto\captionsspanish{\renewcommand{\tablename}{Tabla}}
+
+% ---- Encabezados/pies
+\pagestyle{fancy}
+\rhead{UNED}
+\lhead{PEC 1 - Implicación parental en Educación Secundaria} 
+\cfoot{\thepage}
+
+\date{\today}
+
+\begin{document}
+
+% ---- Portada
+\begin{center}
+  {\includegraphics[width=0.5\textwidth]{icono_uned.jpg}\par}
+  \vspace{1cm}
+  {\bfseries\LARGE Universidad Nacional de Educación a Distancia \par}
+  \vspace{1cm}
+  {\scshape\Large Facultad de Educación\par}
+  \vspace{0.5cm}
+  {\scshape\Large Máster en Formación del Profesorado\par}
+  \vspace{0.5cm}
+  {\scshape\Large Sociedad, Familia y Educación \par}
+  \vspace{1.5cm}
+  {\scshape\Huge Implicación Parental en Educación Secundaria \par}
+  \vspace{1.5cm}
+  {\itshape\Large PEC 1 \par}
+  \vfill
+  {\Large Dustin Randel De Lara García \par}
+  \vfill
+  {\Large \today \par}
+  \thispagestyle{empty}
+\end{center}
+
+% ---- Índice
+\newpage
+\tableofcontents
+\newpage
+
+\section*{DECLARACIÓN JURADA DE AUTORÍA DE TRABAJO ACADÉMICO}\label{sec:declaracion-jurada-de-autoria}
+\begin{tabularx}{\textwidth}{|l|X|}
+\hline
+Nombre y Apellidos: & Dusitn Randel de Lara García \\
+\hline
+\end{tabularx}
+\vspace{0.5cm}
+
+Hace constar que es el/la autor/a del trabajo y DECLARA que se hace públicamente responsable de sus contenidos y elaboración, y que no ha incurrido en plagio, ni ha utilizado una inteligencia artificial generativa para su redacción.
+
+Si se demostrara lo contrario, la persona abajo firmante aceptará las medidas disciplinarias o sancionadoras que correspondan.
+
+\newpage
+\section{Evidencia de haber cumplimentado el cuestionario \enquote{Implicación Parental}}\label{sec:evidendia-cuestionario}
+En mi caso envié el cuestionario a 3 padres de alumnos de Educación Secundaria. A continuación, se muestran los códigos que les proporcioné:
+\begin{itemize}
+\item  Padre 1: DRLG1
+\item  Padre 2: DRLG2
+\item  Padre 3: DRLG3
+\end{itemize}
+
+\section{Análisis del informe general de datos}\label{sec:analisis-informe-general}
+\subsubsection*{¿Qué patrones o tendencias se observan en los datos recogidos sobre la implicación parental?}
+
+\subsubsection*{¿Cómo se relacionan los resultados obtenidos con las teorías y modelos sobre la participación familiar en la educación?}
+
+\subsubsection*{¿Qué implicaciones tienen los datos para la práctica docente en educación secundaria?}
+
+\subsubsection*{¿De qué modo podrían los futuros docentes favorecer una mayor colaboración y comunicación con las familias desde su función profesional?}
+
+\newpage
+\printbibliography
+\end{document}
