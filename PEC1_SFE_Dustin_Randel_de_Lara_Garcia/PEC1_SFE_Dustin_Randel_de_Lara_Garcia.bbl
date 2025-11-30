@@ -16,5 +16,46 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{rodriguez_bravo_sociedad_2025}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=4e1301ca59737e225fe79ad4d660ffc7}{%
+           family={Rodríguez\bibnamedelima Bravo},
+           familyi={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Ana\bibnamedelima Eva},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=3a1ca749269bb4bcf01eb43757f3acda}{%
+           family={Donoso\bibnamedelima González},
+           familyi={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Macarena},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Madrid, España}%
+      }
+      \list{publisher}{1}{%
+        {UNED}%
+      }
+      \strng{namehash}{b9dee2d133eb84b15e854d8ef388b6ca}
+      \strng{fullhash}{b9dee2d133eb84b15e854d8ef388b6ca}
+      \strng{fullhashraw}{b9dee2d133eb84b15e854d8ef388b6ca}
+      \strng{bibnamehash}{b9dee2d133eb84b15e854d8ef388b6ca}
+      \strng{authorbibnamehash}{b9dee2d133eb84b15e854d8ef388b6ca}
+      \strng{authornamehash}{b9dee2d133eb84b15e854d8ef388b6ca}
+      \strng{authorfullhash}{b9dee2d133eb84b15e854d8ef388b6ca}
+      \strng{authorfullhashraw}{b9dee2d133eb84b15e854d8ef388b6ca}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9788436253894}
+      \field{title}{Sociedad, familia y educación}
+      \field{year}{2025}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
