@@ -1,12 +1,14 @@
 # Fdb version 4
-["biber PEC1_SFE_Dustin_Randel_de_Lara_Garcia"] 1764507818.87897 "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.bcf" "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.bbl" "PEC1_SFE_Dustin_Randel_de_Lara_Garcia" 1764507824.15675 0
-  "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.bcf" 1764507824 107847 8a62d96320a3807ec3d4c3c36537670b "pdflatex"
+["biber PEC1_SFE_Dustin_Randel_de_Lara_Garcia"] 1764507818.87897 "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.bcf" "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.bbl" "PEC1_SFE_Dustin_Randel_de_Lara_Garcia" 1764519052.44126 0
+  "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.bcf" 1764519052 107847 8a62d96320a3807ec3d4c3c36537670b "pdflatex"
   "referencias.bib" 1764507818 313 672f22701ced5106db70c40d5fdb35ba ""
   (generated)
   "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.bbl"
   "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.blg"
   (rewritten before read)
-["pdflatex"] 1764507823.23244 "c:/Users/Dustin/Desktop/Latex_documents/PEC1_SFE_Dustin_Randel_de_Lara_Garcia/PEC1_SFE_Dustin_Randel_de_Lara_Garcia.tex" "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.pdf" "PEC1_SFE_Dustin_Randel_de_Lara_Garcia" 1764507824.15728 0
+["pdflatex"] 1764519051.02166 "c:/Users/Dustin/Desktop/Latex_documents/PEC1_SFE_Dustin_Randel_de_Lara_Garcia/PEC1_SFE_Dustin_Randel_de_Lara_Garcia.tex" "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.pdf" "PEC1_SFE_Dustin_Randel_de_Lara_Garcia" 1764519052.44185 0
+  "Aportacion_1.png" 1764517769 75838 3805532fd80bd9d153d15edb5afa2076 ""
+  "Aportacion_2.png" 1764518808 79285 677f138f4af7243129adc14039725f07 ""
   "C:/Users/Dustin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1762470486 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Dustin/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1762469724 13322351 6f7df6e5ad83d22cfb7a07f519583ee6 ""
   "C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -136,14 +138,17 @@
   "C:/Users/Dustin/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1749468414 7243 a2c17f18e2c9b702b84fad03d5f9c78b ""
   "C:/Users/Dustin/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Dustin/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.aux" 1764507824 1351 bbe2e553efb454c5209e4939bc28588e "pdflatex"
+  "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.aux" 1764519052 2120 eeab6794519d2d3cd80eb528047f79eb "pdflatex"
   "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.bbl" 1764507822 2146 344cdd13508f3d7885f58f5dd40388e7 "biber PEC1_SFE_Dustin_Randel_de_Lara_Garcia"
-  "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.out" 1764507824 668 09a8c42fb61e81947cb4f23c3afbc842 "pdflatex"
-  "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.run.xml" 1764507824 2537 aa9e598a9ddd9f95dd648e30e7fe9f11 "pdflatex"
-  "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.tex" 1764507491 7072 73dc310e4a800f88d32c70635459a6d8 ""
-  "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.toc" 1764507824 261 c3bb50f07f97f6ca2e8b011ab29f8173 "pdflatex"
-  "c:/Users/Dustin/Desktop/Latex_documents/PEC1_SFE_Dustin_Randel_de_Lara_Garcia/PEC1_SFE_Dustin_Randel_de_Lara_Garcia.tex" 1764507491 7072 73dc310e4a800f88d32c70635459a6d8 ""
+  "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.out" 1764519052 668 09a8c42fb61e81947cb4f23c3afbc842 "pdflatex"
+  "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.run.xml" 1764519052 2537 aa9e598a9ddd9f95dd648e30e7fe9f11 "pdflatex"
+  "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.tex" 1764519049 7930 8334bdf64d55d328ded437d3a3cc7e03 ""
+  "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.toc" 1764519052 261 c3bb50f07f97f6ca2e8b011ab29f8173 "pdflatex"
+  "Reseña_Francisco.png" 1764517976 150082 7cd18703b575659a32567e270dc6d456 ""
+  "Reseña_Seila.png" 1764517799 150830 fb4d7611c999a798f34b569d14c4295f ""
+  "c:/Users/Dustin/Desktop/Latex_documents/PEC1_SFE_Dustin_Randel_de_Lara_Garcia/PEC1_SFE_Dustin_Randel_de_Lara_Garcia.tex" 1764519049 7930 8334bdf64d55d328ded437d3a3cc7e03 ""
   "icono_uned.jpg" 1764452530 36203 6667ec1727d3858eace7c171c8f5d3f5 ""
+  "reseña_propia.png" 1764517254 187005 709c2e2a6fd86b8faa39e25ae8bbe3c7 ""
   (generated)
   "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.aux"
   "PEC1_SFE_Dustin_Randel_de_Lara_Garcia.bcf"

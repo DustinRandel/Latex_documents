@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.6)  30 NOV 2025 14:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.6)  30 NOV 2025 17:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -849,8 +849,36 @@ LaTeX Info: Redefining \% on input line 1.
 [3]
 
 [4]
+<reseña_propia.png, id=43, 1806.75pt x 541.27219pt>
+File: reseña_propia.png Graphic file (type png)
+<use reseña_propia.png>
+Package pdftex.def Info: reseña_propia.png  used on input line 130.
+(pdftex.def)             Requested size: 483.69687pt x 144.90657pt.
+<Reseña_Seila.png, id=45, 1812.01968pt x 460.72125pt>
+File: Reseña_Seila.png Graphic file (type png)
+<use Reseña_Seila.png>
+Package pdftex.def Info: Reseña_Seila.png  used on input line 136.
+(pdftex.def)             Requested size: 483.69687pt x 122.98335pt.
+<Reseña_Francisco.png, id=46, 1813.52531pt x 391.4625pt>
+File: Reseña_Francisco.png Graphic file (type png)
+<use Reseña_Francisco.png>
+Package pdftex.def Info: Reseña_Francisco.png  used on input line 142.
+(pdftex.def)             Requested size: 483.69687pt x 104.40607pt.
+<Aportacion_1.png, id=47, 1811.26688pt x 320.69812pt>
+File: Aportacion_1.png Graphic file (type png)
+<use Aportacion_1.png>
+Package pdftex.def Info: Aportacion_1.png  used on input line 148.
+(pdftex.def)             Requested size: 483.69687pt x 85.6403pt.
+<Aportacion_2.png, id=48, 1805.9972pt x 335.00156pt>
+File: Aportacion_2.png Graphic file (type png)
+<use Aportacion_2.png>
+Package pdftex.def Info: Aportacion_2.png  used on input line 154.
+(pdftex.def)             Requested size: 483.69687pt x 89.72064pt.
 
-[5] (PEC1_SFE_Dustin_Randel_de_Lara_Garcia.aux
+
+[5 <./reseña_propia.png> <./Reseña_Seila.png> <./Reseña_Francisco.png> <./Aportacion_1.png>]
+
+[6 <./Aportacion_2.png>] (PEC1_SFE_Dustin_Randel_de_Lara_Garcia.aux
 LaTeX Info: Redefining \sptext on input line 12.
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
@@ -866,17 +894,17 @@ Package logreq Info: Writing requests to 'PEC1_SFE_Dustin_Randel_de_Lara_Garcia.
 
  ) 
 Here is how much of TeX's memory you used:
- 22616 strings out of 468080
- 395546 string characters out of 5425288
+ 22667 strings out of 468080
+ 396678 string characters out of 5425288
  1247365 words of memory out of 5000000
- 51001 multiletter control sequences out of 15000+600000
+ 51045 multiletter control sequences out of 15000+600000
  672936 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,11n,77p,1308b,2130s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-Output written on PEC1_SFE_Dustin_Randel_de_Lara_Garcia.pdf (5 pages, 223874 bytes).
+Output written on PEC1_SFE_Dustin_Randel_de_Lara_Garcia.pdf (6 pages, 697404 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
- 22 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 108 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
+ 47 words of extra memory for PDF output out of 10000 (max. 10000000)
 
