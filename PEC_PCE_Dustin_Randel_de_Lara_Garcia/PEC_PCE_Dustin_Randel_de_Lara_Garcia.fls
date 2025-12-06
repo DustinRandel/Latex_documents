@@ -1,13 +1,13 @@
-PWD c:\Users\darkd\Desktop\Latex_documents\Seminario3_Dustin_Randel_de_Lara_Garcia
+PWD c:\Users\darkd\Desktop\Latex_documents\PEC_PCE_Dustin_Randel_de_Lara_Garcia
 INPUT C:\Users\darkd\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\darkd\Desktop\Latex_documents\Seminario3_Dustin_Randel_de_Lara_Garcia\Seminario3_Dustin_Randel_de_Lara_Garcia.tex
-OUTPUT Seminario3_Dustin_Randel_de_Lara_Garcia.log
+INPUT c:\Users\darkd\Desktop\Latex_documents\PEC_PCE_Dustin_Randel_de_Lara_Garcia\PEC_PCE_Dustin_Randel_de_Lara_Garcia.tex
+OUTPUT PEC_PCE_Dustin_Randel_de_Lara_Garcia.log
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
@@ -23,7 +23,7 @@ INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1095.tfm
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1200.tfm
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\generic\babel\txtbabel.def
@@ -39,6 +39,8 @@ INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spani
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\lm\lmodern.sty
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\lm\lmodern.sty
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
@@ -59,6 +61,8 @@ INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\tocloft\tocloft.sty
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\tocloft\tocloft.sty
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
@@ -102,8 +106,6 @@ INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.d
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
@@ -132,21 +134,24 @@ INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.dbx
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.dbx
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.dbx
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.bbx
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.bbx
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.bbx
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.cbx
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.cbx
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.cbx
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
@@ -196,11 +201,11 @@ INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uni
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr10.tfm
-INPUT .\Seminario3_Dustin_Randel_de_Lara_Garcia.aux
-INPUT .\Seminario3_Dustin_Randel_de_Lara_Garcia.aux
-INPUT Seminario3_Dustin_Randel_de_Lara_Garcia.aux
-OUTPUT Seminario3_Dustin_Randel_de_Lara_Garcia.aux
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr12.tfm
+INPUT .\PEC_PCE_Dustin_Randel_de_Lara_Garcia.aux
+INPUT .\PEC_PCE_Dustin_Randel_de_Lara_Garcia.aux
+INPUT PEC_PCE_Dustin_Randel_de_Lara_Garcia.aux
+OUTPUT PEC_PCE_Dustin_Randel_de_Lara_Garcia.aux
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -211,23 +216,29 @@ INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-s
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
-OUTPUT Seminario3_Dustin_Randel_de_Lara_Garcia.bcf
-INPUT Seminario3_Dustin_Randel_de_Lara_Garcia.bbl
-INPUT .\Seminario3_Dustin_Randel_de_Lara_Garcia.bbl
-INPUT .\Seminario3_Dustin_Randel_de_Lara_Garcia.bbl
-INPUT .\Seminario3_Dustin_Randel_de_Lara_Garcia.bbl
-INPUT Seminario3_Dustin_Randel_de_Lara_Garcia.bbl
-INPUT .\Seminario3_Dustin_Randel_de_Lara_Garcia.out
-INPUT .\Seminario3_Dustin_Randel_de_Lara_Garcia.out
-INPUT Seminario3_Dustin_Randel_de_Lara_Garcia.out
-INPUT Seminario3_Dustin_Randel_de_Lara_Garcia.out
-OUTPUT Seminario3_Dustin_Randel_de_Lara_Garcia.pdf
-INPUT .\Seminario3_Dustin_Randel_de_Lara_Garcia.out
-INPUT .\Seminario3_Dustin_Randel_de_Lara_Garcia.out
-OUTPUT Seminario3_Dustin_Randel_de_Lara_Garcia.out
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+OUTPUT PEC_PCE_Dustin_Randel_de_Lara_Garcia.bcf
+INPUT PEC_PCE_Dustin_Randel_de_Lara_Garcia.bbl
+INPUT .\PEC_PCE_Dustin_Randel_de_Lara_Garcia.bbl
+INPUT .\PEC_PCE_Dustin_Randel_de_Lara_Garcia.bbl
+INPUT .\PEC_PCE_Dustin_Randel_de_Lara_Garcia.bbl
+INPUT PEC_PCE_Dustin_Randel_de_Lara_Garcia.bbl
+INPUT .\PEC_PCE_Dustin_Randel_de_Lara_Garcia.out
+INPUT .\PEC_PCE_Dustin_Randel_de_Lara_Garcia.out
+INPUT PEC_PCE_Dustin_Randel_de_Lara_Garcia.out
+INPUT PEC_PCE_Dustin_Randel_de_Lara_Garcia.out
+OUTPUT PEC_PCE_Dustin_Randel_de_Lara_Garcia.pdf
+INPUT .\PEC_PCE_Dustin_Randel_de_Lara_Garcia.out
+INPUT .\PEC_PCE_Dustin_Randel_de_Lara_Garcia.out
+OUTPUT PEC_PCE_Dustin_Randel_de_Lara_Garcia.out
 INPUT .\icono_uned.jpg
 INPUT .\icono_uned.jpg
 INPUT .\icono_uned.jpg
@@ -235,30 +246,28 @@ INPUT .\icono_uned.jpg
 INPUT .\icono_uned.jpg
 INPUT .\icono_uned.jpg
 INPUT .\icono_uned.jpg
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx10.tfm
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmcsc10.tfm
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmcsc10.tfm
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmcsc10.tfm
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri10.tfm
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri12.tfm
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr12.tfm
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr17.tfm
 INPUT C:\Users\darkd\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
-INPUT .\Seminario3_Dustin_Randel_de_Lara_Garcia.toc
-INPUT .\Seminario3_Dustin_Randel_de_Lara_Garcia.toc
-INPUT Seminario3_Dustin_Randel_de_Lara_Garcia.toc
+INPUT .\PEC_PCE_Dustin_Randel_de_Lara_Garcia.toc
+INPUT .\PEC_PCE_Dustin_Randel_de_Lara_Garcia.toc
+INPUT PEC_PCE_Dustin_Randel_de_Lara_Garcia.toc
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr10.tfm
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr12.tfm
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr8.tfm
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr6.tfm
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\lm\omllmm.fd
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\lm\omllmm.fd
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\lm\omllmm.fd
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi10.tfm
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi12.tfm
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi8.tfm
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi6.tfm
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\lm\omslmsy.fd
@@ -283,25 +292,40 @@ INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-OUTPUT Seminario3_Dustin_Randel_de_Lara_Garcia.toc
+OUTPUT PEC_PCE_Dustin_Randel_de_Lara_Garcia.toc
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri12.tfm
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr12.tfm
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
-INPUT Seminario3_Dustin_Randel_de_Lara_Garcia.aux
-INPUT .\Seminario3_Dustin_Randel_de_Lara_Garcia.out
-INPUT .\Seminario3_Dustin_Randel_de_Lara_Garcia.out
-INPUT Seminario3_Dustin_Randel_de_Lara_Garcia.run.xml
-OUTPUT Seminario3_Dustin_Randel_de_Lara_Garcia.run.xml
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx10.pfb
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx10.pfb
+INPUT .\Modelo integrador de la tutoria.jpg
+INPUT .\Modelo integrador de la tutoria.jpg
+INPUT .\Modelo integrador de la tutoria.jpg
+INPUT .\Modelo integrador de la tutoria.jpg
+INPUT .\Modelo integrador de la tutoria.jpg
+INPUT .\Modelo integrador de la tutoria.jpg
+INPUT .\Modelo integrador de la tutoria.jpg
+INPUT .\Fases del proceso de mediación.jpg
+INPUT .\Fases del proceso de mediación.jpg
+INPUT .\Fases del proceso de mediación.jpg
+INPUT .\Fases del proceso de mediación.jpg
+INPUT .\Fases del proceso de mediación.jpg
+INPUT .\Fases del proceso de mediación.jpg
+INPUT .\Fases del proceso de mediación.jpg
+INPUT .\Modelo integrador de la tutoria.jpg
+INPUT .\Modelo integrador de la tutoria.jpg
+INPUT .\Modelo integrador de la tutoria.jpg
+INPUT .\Modelo integrador de la tutoria.jpg
+INPUT PEC_PCE_Dustin_Randel_de_Lara_Garcia.aux
+INPUT .\PEC_PCE_Dustin_Randel_de_Lara_Garcia.out
+INPUT .\PEC_PCE_Dustin_Randel_de_Lara_Garcia.out
+INPUT PEC_PCE_Dustin_Randel_de_Lara_Garcia.run.xml
+OUTPUT PEC_PCE_Dustin_Randel_de_Lara_Garcia.run.xml
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmcsc10.pfb
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmcsc10.pfb
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri10.pfb
-INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri10.pfb
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr17.pfb
+INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr17.pfb
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri12.pfb
 INPUT C:\Users\darkd\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri12.pfb

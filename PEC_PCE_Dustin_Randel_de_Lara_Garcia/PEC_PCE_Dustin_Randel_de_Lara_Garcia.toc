@@ -1,0 +1,11 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{3}{section.1}%
+\contentsline {section}{\numberline {2}Primera parte: Fundamentación teórica y conceptual de la tutoría en educación secundaria}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}El concepto de tutoría y su sentido educativo en el ámbito de la convivencia}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}El concepto de tutoría y su sentido educativo en el ámbito de la convivencia}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}El rol y la función del tutor o tutora}{7}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Necesidad, relevancia y beneficios de la tutoría en ESO, Bachillerato y Formación Profesional}{8}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Marco normativo, Plan de Acción Tutorial y planes institucionales de convivencia e inclusión}{10}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Segunda parte: Planificación del desarrollo de algún contenido de la acción tutorial}{11}{section.3}%
+\contentsline {section}{\numberline {4}Tercera parte: Conclusiones de la tarea: reflexión sobre los aprendizajes y prospectiva del proceso llevado a cabo}{11}{section.4}%
+\contentsline {section}{\numberline {5}Declaración de Autoría de la PEC}{14}{section.5}%

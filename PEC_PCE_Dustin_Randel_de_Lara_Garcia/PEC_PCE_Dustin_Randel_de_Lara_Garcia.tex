@@ -1,0 +1,289 @@
+\documentclass[12pt,a4paper]{article}
+
+% ---- Márgenes
+\usepackage[a4paper, left=2cm, right=2cm, top=2.5cm, bottom=2.5cm]{geometry}
+
+% ---- Idioma y fuentes
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish, es-tabla]{babel}
+\usepackage{lmodern}
+
+% ---- Interlineado
+\usepackage{setspace}   % <--- paquete para el interlineado
+       % <--- interlineado 1.15 en todo el documento
+
+% ---- Matemáticas y tablas
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{tabularx,booktabs}
+
+% ---- Índice con puntitos
+\usepackage{tocloft}
+\renewcommand{\cftsecleader}{\textcolor{verdeFresco}{\cftdotfill{\cftdotsep}}}
+
+
+% ---- Gráficos
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage[table,xcdraw]{xcolor}
+\definecolor{verdePastel}{RGB}{204, 235, 197}
+\definecolor{verdeFresco}{RGB}{60,160,60}
+
+% ---- Estilo y utilidades
+\usepackage{fancyhdr}
+\setlength{\headheight}{15pt}
+\usepackage{csquotes}
+\usepackage{parskip}   % separa párrafos sin sangría
+\usepackage{array,longtable}
+\renewcommand{\arraystretch}{1.4}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{B}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+% ---- Bibliografía (mejor con biber)
+\usepackage[
+  backend=biber,
+  style=apa,
+  sorting=nyt
+]{biblatex}
+\DeclareLanguageMapping{spanish}{spanish-apa}
+
+\addbibresource{referencias.bib}
+
+% ---- Hipervínculos (cargar al final)
+\usepackage{hyperref}
+\hypersetup{
+  pdfauthor={Dustin Randel De Lara García},
+  pdftitle={TUTORÍA COMO PROMOTORA DE LA
+CONVIVENCIA ENEDUCACIÓN SECUNDARIA},
+  pdfkeywords={Tutoría, Educación secundaria, Convivencia, UNED, Illes Balears},
+  colorlinks=true,
+  linkcolor=verdeFresco,
+  urlcolor=verdeFresco,
+  citecolor=verdeFresco
+}
+
+% ---- “Tabla” en lugar de “Cuadro” (por si acaso)
+\addto\captionsspanish{\renewcommand{\tablename}{Tabla}}
+
+% ---- Encabezados/pies
+\pagestyle{fancy}
+\rhead{UNED}
+\lhead{PEC:PCE - Tutoría como promotora de la convivencia en educación secundaria} 
+\cfoot{\thepage}
+
+\date{\today}
+
+\begin{document}
+
+% ---- Portada
+\begin{center}
+  {\includegraphics[width=0.5\textwidth]{icono_uned.jpg}\par}
+  \vspace{1cm}
+  {\bfseries\LARGE Universidad Nacional de Educación a Distancia \par}
+  \vspace{1cm}
+  {\scshape\Large Facultad de Educación\par}
+  \vspace{0.5cm}
+  {\scshape\Large Máster en Formación del Profesorado\par}
+  \vspace{0.5cm}
+  {\scshape\Large Procesos y Contextos Educativos \par}
+  \vspace{1.5cm}
+  {\scshape\Huge tutoría como promotora de la convivencia en educación secundaria \par}
+  \vspace{1.5cm}
+  {\Large Dustin Randel De Lara García \par}
+  \vfill
+  {\Large Email: ddelara3@alumno.uned.es \par}
+  \vfill
+  {\Large \today \par}
+  \thispagestyle{empty}
+\end{center}
+
+% ---- Índice
+\newpage
+\tableofcontents
+\newpage
+\begin{spacing}{1.15}
+\section{Introducción}\label{sec:intro}
+
+\section{Primera parte: Fundamentación teórica y conceptual de la tutoría en
+educación secundaria}\label{sec:parte-1}
+
+En estos meses de máster, a medida que avanzo en la asignatura \textit{Procesos y contextos educativos: enseñar en educación secundaria}, he ido tomando conciencia de que, si quiero ser profesor en ESO, Bachillerato o Formación Profesional, no basta con dominar los contenidos de mi materia. Gran parte de lo que ocurre en el aula tiene que ver con cómo nos comunicamos, cómo gestionamos los conflictos y cómo acompañamos al alumnado en un momento vital tan delicado como la adolescencia. En este contexto, la acción tutorial deja de ser un añadido ``blando'' al currículo para convertirse en un eje estructural de la vida del centro \parencite{LopezGomezJimenezLibro,LopezGomezQuijadaCap7,GonzalezLorenzoCap6,MongeEtAlCap8,CamposGonzalezCap9}.
+
+Tanto el manual de la UNED como la bibliografía complementaria señalan que la tutoría no consiste solo en gestionar partes, informes o justificar faltas, sino en un proceso de ayuda y acompañamiento al alumnado que integra dimensiones académicas, personales, sociales y vocacionales \parencite{GarciaNieto1996,Asensi2002,AlvarezGonzalez2017,VidalEtAl2023}. A partir de este marco, organizo mi fundamentación teórica en los siguientes 4 apartados. % Repasar estas referencias: GarciaNieto1996,Asensi2002,AlvarezGonzalez2017,GonzalezVelaz2014,VidalEtAl2023
+
+
+Los análisis históricos sobre la figura del tutor muestran, además, que a pesar de las dificultades (falta de tiempo específico, peso de tareas administrativas), la tutoría se ha ido concibiendo progresivamente como una responsabilidad inherente a la función docente y a la organización del centro \parencite{Asensi2002}. %quizá esto pega más para el siguiente apartado.
+\subsection{El concepto de tutoría y su sentido educativo en el ámbito de la convivencia}
+
+Una primera idea recurrente que aparece en los recursos es que la tutoría no constituye un complemento opcional, sino una pieza clave para la vida relacional del centro. A través de ella se articulan buena parte de las experiencias que configuran el clima de aula, los procesos de convivencia y el vínculo con las familias. Desde esta perspectiva, la misión del centro no se limita a transmitir contenidos, sino que se orienta a la educación integral del alumnado. Por ello, docencia y tutoría forman un vínculo inseparable: no tiene sentido enseñar física, historia o informática sin considerar a la persona y contexto en el que se aprende \parencite{GarciaNieto1996,AlvarezGonzalez2017,LopezGomezQuijadaCap7}. 
+
+Diversos autores coinciden en describir la tutoría como un proceso continuo que acompaña al alumnado a lo largo de las distintas etapas y se adapta a las características de cada contexto. No se trata únicamente de intervenir cuando surge un problema, sino de ofrecer un marco estable de seguimiento, orientación y diálogo en el que se tienen en cuenta las necesidades, intereses y ritmos de los estudiantes \parencite{GarciaNieto1996,AlvarezGonzalez2017}. En esta línea, los planteamientos sobre tutoría subrayan que su alcance trasciende el apoyo académico e incluye el desarrollo personal, social y vocacional del alumnado, así como la coordinación con las familias y con otros recursos del entorno educativo \parencite{LopezGomezQuijadaCap7,VidalEtAl2023}.
+
+Dentro de este marco integrador, se distinguen habitualmente tres grandes ámbitos de la acción tutorial. La \emph{tutoría académica} se centra en ayudar al alumnado a organizar su estudio, gestionar el tiempo y desarrollar estrategias de aprendizaje ajustadas a sus características. La \emph{tutoría profesional o vocacional} acompaña los procesos de toma de decisiones sobre itinerarios, ciclos formativos o estudios posteriores, favoreciendo el reconocimiento de intereses y capacidades y su conexión con oportunidades formativas y laborales. Por último, la \emph{tutoría personal o integral} se orienta al conocimiento de sí mismo, a las emociones, las relaciones y la construcción del proyecto vital, buscando una visión global de la persona \parencite{AlvarezGonzalez2017,LopezGomezQuijadaCap7}. En la práctica, estos planos aparecen estrechamente entrelazados, de modo que una conversación sobre resultados académicos o decisiones de itinerario acostumbra a incorporar elementos emocionales, familiares y de convivencia.
+
+En este contexto, \textcite{AlvarezGonzalez2017} propone un modelo integrador de la tutoría que articula de forma conjunta la orientación académica, personal y profesional a lo largo de las distintas etapas educativas. La revisión de \textcite{AlvarezJustel2017} sobre la tutoría en secundaria refuerza esta perspectiva al subrayar que las actuaciones tutoriales deben ser sistemáticas, planificadas y ligadas a objetivos claros, más que intervenciones puntuales para “apagar fuegos”. Sobre esta base se formulan los objetivos del modelo integral de la tutoría (ver Figura \ref{fig:obj-tutoría}).
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{Modelo integrador de la tutoria.jpg}
+    \caption{\parencite{AlvarezGonzalez2017}}
+    \label{fig:obj-tutoría}
+\end{figure}
+
+Esta concepción integral permite entender mejor la relación entre tutoría y convivencia. El capítulo~8 del manual define la convivencia escolar no como simple ausencia de conflictos, sino como una construcción activa de relaciones basadas en el respeto, la participación y la justicia \parencite{MongeEtAlCap8}. La hora de tutoría, los espacios grupales y las entrevistas individuales constituyen, en este sentido, contextos privilegiados para trabajar competencias socioemocionales, habilidades de relación, normas compartidas y formas dialogadas de abordar los conflictos. Programas como \emph{Convivencia en acción} y las propuestas de \textcite{Pantoja2005} y \textcite{Maso2022} insisten precisamente en la idea de una tutoría concebida como dispositivo preventivo y educativo, más que como un ámbito centrado exclusivamente en la gestión sancionadora de los problemas \parencite{MEFPD2025Convivencia}.
+
+En coherencia con estos planteamientos, las fases del proceso de mediación escolar pueden sintetizarse en el siguiente esquema:
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\textwidth]{Fases del proceso de mediación.jpg}
+    \caption{\parencite{MongeEtAlCap8}}
+    \label{fig:fases-mediacion}
+\end{figure}
+
+El capítulo~6 del manual recuerda que toda relación educativa es un acto comunicativo en el que palabras, silencios, gestos y disposición del aula transmiten mensajes sobre el tipo de vínculo que se establece con el alumnado \parencite{GonzalezLorenzoCap6}. La acción tutorial constituye, en este sentido, un contexto privilegiado para cuidar estas interacciones, promover estilos comunicativos más cooperativos y revisar dinámicas que generan exclusión o malestar en el grupo. En conexión con el capítulo~9, la tutoría aparece también ligada a la inclusión, en la medida en que hace visible la diversidad de capacidades, culturas, géneros o lenguas presentes en el aula y contribuye a que todas las personas se sientan reconocidas y partícipes \parencite{CamposGonzalezCap9,VidalEtAl2023}. Desde esta doble perspectiva comunicativa e inclusiva, la acción tutorial se configura como un dispositivo clave para construir una convivencia democrática e integradora, y no solo como un espacio de tramitación de incidencias.
+
+\subsection{El concepto de tutoría y su sentido educativo en el ámbito de la convivencia}
+
+Una primera idea clave que aparece en los textos es que la misión del centro educativo no se reduce a instruir en contenidos, sino que persigue una educación integral del alumnado. Desde esta perspectiva, docencia y tutoría forman un vínculo inseparable: no tiene sentido enseñar física, historia o informática sin considerar a la persona que aprende y del contexto en el que aprende \parencite{GarciaNieto1996,AlvarezGonzalez2017}. Los análisis históricos sobre la función tutorial muestran, además, que pese a las dificultades iniciales (falta de tiempo específico en el horario, exceso de tareas administrativas), la tutoría se ha ido consolidando como una actividad inherente a la función del profesorado y a la organización del centro, especialmente en educación secundaria \parencite{Asensi2002}.
+
+\textcite{AlvarezGonzalez2017} propone precisamente un modelo integrador de la tutoría que articula la orientación académica, personal y profesional a lo largo de las distintas etapas \ref{fig:obj-tutoría}. En la misma línea, \textcite{GonzalezVelaz2014} defienden la acción tutorial como parte del sistema escolar en su conjunto, no como una tarea individual del tutor aislado, sino como un engranaje que conecta proyecto educativo, organización del centro, profesorado, alumnado y familias. La revisión de \textcite{AlvarezJustel2017} sobre la tutoría en secundaria refuerza esta visión al subrayar que las actuaciones tutoriales deben ser sistemáticas, planificadas y ligadas a objetivos claros, más que actuaciones puntuales para ``apagar fuegos''.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{Modelo integrador de la tutoria.jpg}
+    \caption{\parencite{AlvarezGonzalez2017}}
+    \label{fig:obj-tutoría}
+\end{figure}
+
+Esta dimensión integral conecta directamente la tutoría con la convivencia. El capítulo 8 del manual sitúa la convivencia escolar no como la simple ausencia de conflictos, sino como la construcción activa de relaciones basadas en el respeto, la participación y la justicia \parencite{MongeEtAlCap8}. Desde esta mirada, la tutoría se convierte en un espacio privilegiado para trabajar de forma explícita competencias socioemocionales, habilidades de relación, gestión dialogada de conflictos y corresponsabilidad del grupo. Algo similar plantean los trabajos de \textcite{Pantoja2005}, \textcite{Maso2022} y el programa \textit{Convivencia en acción} del \textcite{MEFPD2025Convivencia}, que defienden abordar los conflictos desde un enfoque preventivo, educativo y restaurativo, más que como un asunto exclusivamente sancionador.
+
+También la forma en que nos comunicamos como docentes tiene un impacto directo en la convivencia. El capítulo 6 del manual recuerda que toda relación educativa es, en esencia, un acto comunicativo: las palabras, el tono, los silencios, la postura corporal y la organización del espacio envían mensajes constantes sobre el tipo de relación que queremos construir \parencite{GonzalezLorenzoCap6}. La teoría de la comunicación y la reflexión sobre los estilos comunicativos ayudan a entender por qué determinadas formas de dirigirse al alumnado generan apertura y confianza, mientras que otras provocan defensividad o desafección. Los estudios sobre conflictos en el aula subrayan, precisamente, que las competencias comunicativas del profesorado —saber escuchar, formular preguntas abiertas, reformular, dar feedback respetuoso— son fundamentales para prevenir la escalada de los problemas \parencite{Maso2022,Pantoja2005}.
+
+Además, la tutoría se proyecta sobre la convivencia cuando se entiende desde el prisma de la inclusión. El capítulo 9 del manual plantea que hablar de atención a la diversidad hoy no se limita al alumnado con un diagnóstico o una etiqueta, sino que incluye la diversidad de capacidades, ritmos, culturas, géneros, lenguas y trayectorias presentes en cualquier aula \parencite{CamposGonzalezCap9}. Desde este enfoque, todos los estudiantes presentan características y necesidades singulares, y la tarea del centro es identificar y reducir las barreras que dificultan su presencia, participación y aprendizaje. La acción tutorial se convierte así en un contexto privilegiado para visibilizar esa diversidad, cuestionar dinámicas excluyentes y construir climas de aula donde las diferencias sean percibidas como una riqueza y no como un problema \parencite{VidalEtAl2023}.
+
+En el plano más práctico, en el capítulo 8 se ofrecen esquemas gráficos muy útiles para trabajar la convivencia desde la tutoría. En concreto, la \textbf{Figura 1. Fases del proceso de mediación} y la \textbf{Figura 2. Fases del proceso de ayuda} sintetizan de manera clara las etapas por las que pasa un conflicto cuando se aborda mediante mediación y acompañamiento \parencite{MongeEtAlCap8}. Son materiales muy aprovechables en una sesión de tutoría: por ejemplo, se puede proyectar la Figura 1 al introducir la mediación escolar y pedir al grupo que identifique situaciones reales de aula que pasarían por cada fase. 
+
+% Sugerencia gráfica:
+% Aquí puedes insertar la «Figura 1. Fases del proceso de mediación»
+% del Capítulo 8 de Monge et al. (Tema 8 del libro), y más adelante la «Figura 2. Fases del proceso de ayuda».
+
+En resumen, el sentido educativo de la tutoría, en relación con la convivencia, está en su capacidad para convertirse en un pequeño ``laboratorio'' donde se ensayan formas de relación más justas, democráticas e inclusivas. Lejos de ser un mero espacio informativo, la tutoría puede contribuir a crear un clima de aula en el que el alumnado se sienta escuchado, reconocido y corresponsable del bienestar del grupo \parencite{MongeEtAlCap8,VidalEtAl2023}.
+
+\subsection{El rol y la función del tutor o tutora}
+
+A partir de este marco, el rol del tutor o la tutora aparece como algo mucho más complejo que el de un mero ``administrador'' del grupo. La literatura conceptual y los estudios empíricos coinciden en que la función tutorial exige un perfil profesional que combina competencias personales (madurez, empatía, equilibrio emocional), éticas (compromiso con el bienestar del alumnado, respeto a su autonomía) y técnicas (conocimiento de estrategias de orientación, manejo de grupos, coordinación con otros agentes) \parencite{Asensi2002,AlvarezJustel2017,AlvarezGonzalez2017,GonzalezVelaz2014}.
+
+En primer lugar, el tutor actúa como acompañante del desarrollo personal y social del alumnado. Tanto \textcite{AlvarezJustel2017} como \textcite{AlvarezGonzalez2017} insisten en esta dimensión de ayuda integral: acompañar significa escuchar, ofrecer un espacio seguro para expresar preocupaciones, orientar sin imponer y ayudar a tomar decisiones. Aquí encajan de lleno las habilidades de comunicación educativa recogidas en el capítulo 6 del manual —escucha activa, preguntas abiertas, reformulación, feedback respetuoso— que son especialmente relevantes en las tutorías individuales \parencite{GonzalezLorenzoCap6}. Los trabajos de \textcite{LeonFernandez2019} muestran que el alumnado valora de manera especial tener una figura adulta de referencia que le conoce, le escucha y le hace seguimiento, más allá de las calificaciones.
+
+En segundo lugar, el tutor desempeña una función de coordinación dentro del centro. El capítulo 7 destaca que la tutoría no se agota en la relación uno a uno con el estudiante, sino que se instituye a través del Plan de Acción Tutorial, que organiza de forma sistemática las actuaciones de orientación y tutoría del centro \parencite{LopezGomezQuijadaCap7}. En este entramado, el tutor se convierte en ``bisagra'' entre el equipo docente, el departamento de orientación, el equipo directivo y las familias \parencite{GarciaNieto1996,GonzalezVelaz2014}. La evaluación del nivel de desempeño de la tutoría en ESO realizada por \textcite{VelazGonzalezLopez2018} pone de relieve que la coordinación efectiva entre estos agentes se asocia a una mejor detección de dificultades, a un seguimiento más coherente de los casos y a un clima de centro más positivo.
+
+En tercer lugar, el tutor es el principal puente entre el centro y las familias. Investigaciones sobre la transición de primaria a secundaria muestran que la comunicación ágil y clara entre tutor, familia y alumnado es un factor de protección frente al desenganche y las dificultades de adaptación \parencite{AvilaSanchezBueno2022,Bereziartua2017}. De forma similar, en la transición de secundaria a la universidad, la acción tutorial y la orientación a estudiantes de nuevo ingreso resultan decisivas para su integración y permanencia \parencite{DominguezAlvarezLopez2013}. Sin embargo, estudios como el de \textcite{SanchezEtAl2020} ponen de manifiesto que muchos tutores se sienten sobrecargados y poco apoyados en esta tarea, lo que limita el potencial real de la tutoría como espacio de colaboración con las familias.
+
+Por último, la tutoría está llamada a desempeñar un papel clave en la atención a la diversidad y la inclusión. El capítulo 9 del manual subraya que la diversidad no es una excepción, sino la condición normal del aula actual; la atención a la diversidad implica diseñar respuestas educativas que tengan en cuenta las características singulares de todo el alumnado \parencite{CamposGonzalezCap9}. En este entramado, el tutor ocupa una posición privilegiada para detectar necesidades, canalizar demandas hacia el departamento de orientación, coordinar medidas ordinarias y específicas, y hacer un seguimiento realista de su impacto. Desde la perspectiva de la formación docente, \textcite{GonzalezAlvarez2018Formacion} y \textcite{GonzalezAlvarez2018FP} señalan, además, que la preparación inicial y permanente para la función tutorial sigue siendo una asignatura pendiente: muchos profesores asumen la tutoría sin haber recibido una formación específica, especialmente en FP, donde el rol de puente con el mundo laboral añade complejidad.
+
+Personalmente, cuando pienso en cómo quiero ejercer la tutoría, me identifico más con la idea de guía y mediador que con la de ``jefe de grupo''. Me imagino utilizando de forma consciente los recursos comunicativos del capítulo 6 \parencite{GonzalezLorenzoCap6}, pero también asumiendo que parte de mi trabajo será hacer de enlace entre expectativas institucionales, necesidades del grupo y realidades familiares, algo que recorre todos estos autores \parencite{GonzalezVelaz2014,LopezGomezQuijadaCap7,CamposGonzalezCap9}.
+
+\subsection{Necesidad, relevancia y beneficios de la tutoría en ESO, Bachillerato y Formación Profesional}
+
+La necesidad de una acción tutorial fuerte se entiende mejor si miramos el contexto evolutivo y escolar de la educación secundaria. La adolescencia está marcada por cambios físicos, cognitivos, emocionales y sociales que afectan directamente a la forma de estar en el aula y de relacionarse con el aprendizaje. Tanto la literatura conceptual como los materiales del manual coinciden en que, en este periodo, el acompañamiento adulto juega un papel decisivo en la construcción de la identidad, en la toma de decisiones y en la gestión de la presión del grupo de iguales \parencite{AlvarezJustel2017,AlvarezGonzalez2017,LopezGomezQuijadaCap7,VidalEtAl2023}.
+
+En ESO, la tutoría resulta especialmente relevante en dos frentes. Por un lado, en la transición de primaria a secundaria, donde se produce un cambio de centro, de profesorado, de exigencias académicas y de organización. Los estudios de \textcite{AvilaSanchezBueno2022} y \textcite{Bereziartua2017} muestran que los centros con planes de transición bien articulados, apoyados en una acción tutorial coordinada, facilitan una mejor adaptación del alumnado y reducen el riesgo de desafección temprana. Por otro lado, a lo largo de toda la etapa, la acción tutorial contribuye a detectar dificultades de aprendizaje, problemas de convivencia, situaciones de acoso o malestar emocional, permitiendo intervenir de forma preventiva antes de que se cronifiquen \parencite{VelazGonzalezLopez2018,LeonFernandez2019}.
+
+En Bachillerato, aunque la presión se desplaza hacia el rendimiento académico y la preparación de la prueba de acceso a la universidad, la tutoría sigue siendo clave para el acompañamiento vocacional. Las decisiones sobre itinerarios, especialidades y estudios posteriores tienen un impacto importante en la trayectoria vital del alumnado; muchos viven este momento con altos niveles de ansiedad e incertidumbre \parencite{AlvarezJustel2017,DominguezAlvarezLopez2013}. La tutoría grupal e individual puede ayudar a aterrizar expectativas, contrastar información y elaborar un proyecto personal más realista, en conexión con los recursos de orientación del centro \parencite{GonzalezVelaz2014}.
+
+En Formación Profesional, la acción tutorial adquiere un matiz propio al actuar como puente entre el centro educativo y el mundo del trabajo. \textcite{GonzalezAlvarez2018FP} subraya que el tutor en FP desempeña un papel central en el seguimiento de las prácticas en empresa, en la integración de la experiencia laboral en el proceso formativo y en el acompañamiento de las primeras decisiones de inserción profesional. En este contexto, la tutoría también es un espacio para abordar situaciones de conciliación, responsabilidades familiares tempranas o trayectorias escolares previas marcadas por el fracaso, relativamente frecuentes en parte del alumnado de FP.
+
+Desde la perspectiva de la convivencia, los beneficios de una buena acción tutorial han sido destacados por múltiples estudios. El capítulo 8 del manual, junto con trabajos como los de \textcite{Pantoja2005}, \textcite{Maso2022} y \textcite{RojoFerrando2022}, muestra que la intervención sistemática en habilidades sociales, resolución de conflictos, mediación y aprendizaje-servicio se asocia con climas de aula más cooperativos, menor incidencia de conductas disruptivas y mayor sentido de pertenencia al centro. Las propuestas del programa \textit{Convivencia en acción} del \textcite{MEFPD2025Convivencia} van en la misma línea, incorporando la tutoría como una de las palancas para desarrollar planes de convivencia preventivos y participativos.
+
+Desde la mirada del profesorado, la tutoría se percibe como un espacio con un fuerte potencial educativo, aunque no exento de tensiones. \textcite{MunozPastor2015} analizan las creencias de los docentes ante la supresión de la hora de tutoría en secundaria y muestran que la mayoría la vive como una pérdida significativa, porque limita la posibilidad de abordar temas que no caben en las materias y dificulta el seguimiento de los grupos. Por su parte, \textcite{SanchezEtAl2020} identifican debilidades estructurales del sistema de orientación español: sobrecarga de tareas, escasos tiempos de coordinación, falta de formación específica. Todo esto indica que la tutoría es valorada, pero necesita mejores condiciones para desplegar todo su potencial.
+
+\subsection{Marco normativo, Plan de Acción Tutorial y planes institucionales de convivencia e inclusión}
+
+Toda esta reflexión no se sitúa solo en el plano teórico, sino que tiene un claro anclaje normativo. La Ley Orgánica 2/2006, de Educación, y su modificación por la Ley Orgánica 3/2020 configuran la educación secundaria como una etapa comprensiva en la que la orientación educativa y profesional y la acción tutorial forman parte de las funciones propias del profesorado y de los elementos básicos del sistema \parencites{LOE2006,LOMLOE2020}. La normativa insiste en la necesidad de una educación inclusiva, de la atención a la diversidad y de la prevención del fracaso y el abandono, y sitúa la tutoría como uno de los instrumentos para avanzar en estos objetivos.
+
+Los reales decretos que desarrollan la ordenación y las enseñanzas mínimas de la ESO, el Bachillerato y la FP vuelven a subrayar la importancia de la tutoría personal y la orientación. El Real Decreto 217/2022, que regula la ESO, incorpora la figura del \textit{consejo orientador} al final de la etapa, que debe elaborarse desde una perspectiva colegiada y personalizada \parencite{RD217_2022}. El Real Decreto 243/2022, sobre Bachillerato, establece también la tutoría y la orientación como elementos fundamentales para acompañar las decisiones académicas del alumnado \parencite{RD243_2022}. El Real Decreto 659/2023, que desarrolla la ordenación del Sistema de Formación Profesional, refuerza estas ideas al destacar la importancia del acompañamiento en los itinerarios profesionales y en la inserción laboral \parencite{RD659_2023}. Normas como el Reglamento Orgánico de los Institutos de Educación Secundaria \parencite{RD83_1996} concretan, además, funciones específicas del tutor en la organización interna de los centros.
+
+A nivel de centro, todo esto se concreta a través del Proyecto Educativo y, dentro de él, del Plan de Acción Tutorial (PAT), el Plan de Convivencia y el Plan de Atención a la Diversidad. El PAT se concibe como el documento que sistematiza y planifica el conjunto de actuaciones tutoriales del centro, articulando objetivos, contenidos, actividades y procedimientos de evaluación, en coherencia con el contexto y las necesidades del alumnado \parencite{GonzalezVelaz2014,LopezGomezQuijadaCap7}. El Plan de Convivencia recoge el diagnóstico de la convivencia en el centro, las normas de funcionamiento, los procedimientos ante conductas contrarias a la convivencia y las medidas preventivas y restaurativas, en línea con propuestas como las de \textit{Convivencia en acción} \parencite{MEFPD2025Convivencia,MongeEtAlCap8}.
+
+El Plan de Atención a la Diversidad se vincula estrechamente al paradigma inclusivo que desarrolla el capítulo 9 del manual: la diversidad se asume como valor y no como problema, y las medidas se organizan en un continuo que va desde las actuaciones universales (metodologías activas, agrupamientos flexibles, uso de apoyos en el aula, diseño universal para el aprendizaje) hasta las actuaciones más específicas y personalizadas \parencite{CamposGonzalezCap9,VidalEtAl2023}. La acción tutorial se incluye entre estas medidas como un dispositivo de personalización y seguimiento que atraviesa todo el funcionamiento del centro.
+
+En la práctica, estos tres planes —PAT, Plan de Convivencia y Plan de Atención a la Diversidad— no funcionan como compartimentos estancos, sino que se entrelazan en la vida cotidiana del instituto y se concretan, en buena medida, en el trabajo diario de los tutores con sus grupos \parencite{GonzalezVelaz2014,CamposGonzalezCap9}. Desde mi punto de vista, el reto no es solo ``conocer'' la normativa, sino ser capaz de traducirla en decisiones concretas: qué actividades de tutoría priorizar, cómo abordar los conflictos desde claves restaurativas, de qué manera implicar al alumnado en la definición de normas, cómo coordinarse con orientación y con las familias, etc.
+
+\subsection*{Cierre}
+
+Después de trabajar los capítulos 6, 7, 8 y 9 del manual y de revisar la bibliografía complementaria, mi visión de la tutoría en educación secundaria ha cambiado. Ya no la veo como un ``extra'' que se suma a la carga del profesorado, sino como un eje que atraviesa la manera de entender la profesión. Ser tutor o tutora supone asumir un rol de acompañamiento, coordinación y mediación que tiene un impacto directo en la convivencia, en la inclusión y en el bienestar del alumnado \parencite{AlvarezGonzalez2017,LopezGomezQuijadaCap7,MongeEtAlCap8,VidalEtAl2023}.
+
+Al mismo tiempo, la lectura de los estudios empíricos me hace ser realista: para que la tutoría pueda desplegar todo su potencial necesita tiempos protegidos, formación específica y una cultura de centro que la valore y la comparta \parencite{VelazGonzalezLopez2018,MunozPastor2015,SanchezEtAl2020}. Como futuro docente, me quedo con la idea de que la acción tutorial es uno de los lugares donde más claramente se juega el carácter ``humano'' de la escuela: allí donde se escucha, se cuidan los vínculos, se afrontan los conflictos y se acompaña a los adolescentes en su proceso de convertirse en personas adultas capaces de convivir con otros.
+
+\section{Segunda parte: Planificación del desarrollo de algún contenido de la
+acción tutorial}\label{sec:parte-2}
+
+\section{Tercera parte: Conclusiones de la tarea: reflexión sobre los aprendizajes y prospectiva del proceso llevado a cabo}\label{sec:parte-3}
+
+\printbibliography
+
+\newpage
+\section{Declaración de Autoría de la PEC}
+
+\begin{flushright}
+Fecha: \today
+\end{flushright}
+
+\vspace{0.3cm}
+
+\noindent\textbf{Quién suscribe:}
+
+\vspace{0.3cm}
+
+\noindent
+\begin{tabularx}{\textwidth}{|>{\bfseries}p{4.7cm}|X|}
+\hline
+ESTUDIANTE (apellidos y nombre): & Dustin Randel de Lara García \\ \hline
+D.N.I./Pasaporte: & 43216308K \\ \hline
+Curso académico: & 2025-2026 \\ \hline
+Convocatoria (ordinaria/extraordinaria): & Ordinaria \\ \hline
+ASIGNATURA & Procesos y Contextos Educativos \\ \hline
+\end{tabularx}
+
+\vspace{0.3cm}
+
+\noindent Es el/la autor/a del trabajo (Prueba de Evaluación Continua, PEC), que lleva por título:
+
+\vspace{0.3cm}
+
+\noindent
+\begin{tabularx}{\textwidth}{|X|}
+\hline
+\textbf{Tutoría como promotora de la convivencia en educación secundaria} \\ 
+\hline
+\end{tabularx}
+
+\vspace{0.3cm}
+
+\noindent\textbf{Manifiesta:}
+
+\vspace{0.3cm}
+
+\begin{itemize}
+  \item Que el trabajo remitido es un documento original elaborado individualmente.
+  \item Que las aportaciones intelectuales de otros autores consideradas en el trabajo se han referenciado debidamente.
+  \item Que, para la elaboración del presente trabajo, no se han utilizado herramientas de Inteligencia Artificial Generativa (IAG) con el propósito de hacer pasar como propio cualquier pasaje de texto producido con esta tecnología.
+  \item Que, si se demostrara lo contrario, el abajo firmante aceptará las medidas disciplinarias o sancionadoras que correspondan.
+\end{itemize}
+
+\vspace{0.3cm}
+
+\begin{center}
+Nombre, apellidos y firma del/la estudiante:
+\end{center}
+
+\begin{center}
+Dustin Randel de Lara García
+\end{center}
+
+\end{spacing}
+
+\end{document}

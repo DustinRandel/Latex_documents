@@ -1,9 +1,9 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
 [0] Config.pm:331> INFO - Logfile is 'Seminario3_Dustin_Randel_de_Lara_Garcia.blg'
-[72] biber-MSWIN64:342> INFO - === 
-[97] Biber.pm:421> INFO - Reading 'Seminario3_Dustin_Randel_de_Lara_Garcia.bcf'
-[175] Biber.pm:1002> INFO - Found 0 citekeys in bib section 0
-[184] bbl.pm:676> INFO - Writing 'Seminario3_Dustin_Randel_de_Lara_Garcia.bbl' with encoding 'UTF-8'
-[184] bbl.pm:779> INFO - Output to Seminario3_Dustin_Randel_de_Lara_Garcia.bbl
-[184] Biber.pm:132> WARN - The file 'Seminario3_Dustin_Randel_de_Lara_Garcia.bcf' does not contain any citations!
-[185] Biber.pm:134> INFO - WARNINGS: 1
+[248] biber-MSWIN64:342> INFO - === 
+[352] Biber.pm:421> INFO - Reading 'Seminario3_Dustin_Randel_de_Lara_Garcia.bcf'
+[530] Biber.pm:1002> INFO - Found 0 citekeys in bib section 0
+[556] bbl.pm:676> INFO - Writing 'Seminario3_Dustin_Randel_de_Lara_Garcia.bbl' with encoding 'UTF-8'
+[557] bbl.pm:779> INFO - Output to Seminario3_Dustin_Randel_de_Lara_Garcia.bbl
+[557] Biber.pm:132> WARN - The file 'Seminario3_Dustin_Randel_de_Lara_Garcia.bcf' does not contain any citations!
+[557] Biber.pm:134> INFO - WARNINGS: 1
