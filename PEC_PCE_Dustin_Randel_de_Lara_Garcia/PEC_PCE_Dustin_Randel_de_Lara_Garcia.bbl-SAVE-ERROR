@@ -19,23 +19,23 @@
 
 \refsection{0}
   \datalist[entry]{nyt/apasortcite//global/global/global}
-    \entry{AlvarezGonzalez2017}{article}{}{}
+    \entry{GonzalezAlvarez2018FP}{article}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bfcb94a98502ed9a5b0ec7d588657bd5}{%
-           family={Álvarez\bibnamedelima González},
-           familyi={Á\bibinitperiod\bibinitdelim G\bibinitperiod},
-           given={Manuel},
-           giveni={M\bibinitperiod},
+        {{un=0,uniquepart=base,hash=d28859ea95f173f37940717d8d03bbc0}{%
+           family={Álvarez},
+           familyi={Á\bibinitperiod},
+           given={María\bibnamedelima González},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{bfcb94a98502ed9a5b0ec7d588657bd5}
-      \strng{fullhash}{bfcb94a98502ed9a5b0ec7d588657bd5}
-      \strng{fullhashraw}{bfcb94a98502ed9a5b0ec7d588657bd5}
-      \strng{bibnamehash}{bfcb94a98502ed9a5b0ec7d588657bd5}
-      \strng{authorbibnamehash}{bfcb94a98502ed9a5b0ec7d588657bd5}
-      \strng{authornamehash}{bfcb94a98502ed9a5b0ec7d588657bd5}
-      \strng{authorfullhash}{bfcb94a98502ed9a5b0ec7d588657bd5}
-      \strng{authorfullhashraw}{bfcb94a98502ed9a5b0ec7d588657bd5}
+      \strng{namehash}{d28859ea95f173f37940717d8d03bbc0}
+      \strng{fullhash}{d28859ea95f173f37940717d8d03bbc0}
+      \strng{fullhashraw}{d28859ea95f173f37940717d8d03bbc0}
+      \strng{bibnamehash}{d28859ea95f173f37940717d8d03bbc0}
+      \strng{authorbibnamehash}{d28859ea95f173f37940717d8d03bbc0}
+      \strng{authornamehash}{d28859ea95f173f37940717d8d03bbc0}
+      \strng{authorfullhash}{d28859ea95f173f37940717d8d03bbc0}
+      \strng{authorfullhashraw}{d28859ea95f173f37940717d8d03bbc0}
       \field{sortinit}{Á}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -43,38 +43,38 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Educatio Siglo XXI}
+      \field{journaltitle}{Espiral. Cuadernos del profesorado}
       \field{langid}{spanish}
-      \field{number}{2}
-      \field{title}{Hacia un modelo integrador de la tutoría en los diferentes niveles educativos}
-      \field{volume}{35}
-      \field{year}{2017}
-      \field{pages}{21\bibrangedash 42}
-      \range{pages}{22}
+      \field{number}{23}
+      \field{title}{La función tutorial en Formación Profesional}
+      \field{volume}{11}
+      \field{year}{2018}
+      \field{pages}{130\bibrangedash 140}
+      \range{pages}{11}
       \verb{urlraw}
-      \verb https://revistas.um.es/educatio/article/view/298501/214161
+      \verb http://repositorio.ual.es/bitstream/handle/10835/6223/1942-6244-1-PB.pdf
       \endverb
       \verb{url}
-      \verb https://revistas.um.es/educatio/article/view/298501/214161
+      \verb http://repositorio.ual.es/bitstream/handle/10835/6223/1942-6244-1-PB.pdf
       \endverb
     \endentry
     \entry{Asensi2002}{article}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=72321c6439474e5503c35a6d424b2e32}{%
-           family={Asensi\bibnamedelima Díaz},
-           familyi={A\bibinitperiod\bibinitdelim D\bibinitperiod},
-           given={Jesús},
+        {{un=0,uniquepart=base,hash=a10f007af3ee5646aef41eb41fe72564}{%
+           family={Asensi},
+           familyi={A\bibinitperiod},
+           given={José},
            giveni={J\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{72321c6439474e5503c35a6d424b2e32}
-      \strng{fullhash}{72321c6439474e5503c35a6d424b2e32}
-      \strng{fullhashraw}{72321c6439474e5503c35a6d424b2e32}
-      \strng{bibnamehash}{72321c6439474e5503c35a6d424b2e32}
-      \strng{authorbibnamehash}{72321c6439474e5503c35a6d424b2e32}
-      \strng{authornamehash}{72321c6439474e5503c35a6d424b2e32}
-      \strng{authorfullhash}{72321c6439474e5503c35a6d424b2e32}
-      \strng{authorfullhashraw}{72321c6439474e5503c35a6d424b2e32}
+      \strng{namehash}{a10f007af3ee5646aef41eb41fe72564}
+      \strng{fullhash}{a10f007af3ee5646aef41eb41fe72564}
+      \strng{fullhashraw}{a10f007af3ee5646aef41eb41fe72564}
+      \strng{bibnamehash}{a10f007af3ee5646aef41eb41fe72564}
+      \strng{authorbibnamehash}{a10f007af3ee5646aef41eb41fe72564}
+      \strng{authornamehash}{a10f007af3ee5646aef41eb41fe72564}
+      \strng{authorfullhash}{a10f007af3ee5646aef41eb41fe72564}
+      \strng{authorfullhashraw}{a10f007af3ee5646aef41eb41fe72564}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -94,6 +94,59 @@
       \endverb
       \verb{url}
       \verb https://revistas.uam.es/tendenciaspedagogicas/article/view/1820
+      \endverb
+    \endentry
+    \entry{AvilaSanchezBueno2022}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=05c6468b0c878836e1daf6d1b6458158}{%
+           family={Ávila},
+           familyi={Á\bibinitperiod},
+           given={Mar},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1be63dbf0aa9cccc3008ee518c478f1f}{%
+           family={Carmen\bibnamedelima Sánchez},
+           familyi={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={María},
+           giveni={M\bibinitperiod},
+           givenun=0,
+           prefix={del},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=ef241bbd36948537aea9a796afa40108}{%
+           family={Bueno},
+           familyi={B\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0c80f73a41d398ec889d4277b3e23d6f}
+      \strng{fullhash}{a181a79f05af15c0900e14320fdc98ec}
+      \strng{fullhashraw}{a181a79f05af15c0900e14320fdc98ec}
+      \strng{bibnamehash}{a181a79f05af15c0900e14320fdc98ec}
+      \strng{authorbibnamehash}{a181a79f05af15c0900e14320fdc98ec}
+      \strng{authornamehash}{0c80f73a41d398ec889d4277b3e23d6f}
+      \strng{authorfullhash}{a181a79f05af15c0900e14320fdc98ec}
+      \strng{authorfullhashraw}{a181a79f05af15c0900e14320fdc98ec}
+      \field{sortinit}{Á}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista de Investigación Educativa}
+      \field{langid}{spanish}
+      \field{number}{1}
+      \field{title}{Factores que facilitan y dificultan la transición de educación primaria a secundaria}
+      \field{volume}{40}
+      \field{year}{2022}
+      \field{pages}{147\bibrangedash 164}
+      \range{pages}{18}
+      \verb{urlraw}
+      \verb https://revistas.um.es/rie/article/view/441441
+      \endverb
+      \verb{url}
+      \verb https://revistas.um.es/rie/article/view/441441
       \endverb
     \endentry
     \entry{CamposGonzalezCap9}{inbook}{}{}
@@ -149,6 +202,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Procesos y contextos educativos: Enseñar en educación secundaria}
+      \strng{crossref}{LopezGomezJimenezLibro}
       \field{isbn}{978-84-362-8055-5}
       \field{langid}{spanish}
       \field{title}{Atención a la diversidad e inclusión educativa en educación secundaria}
@@ -156,16 +210,16 @@
     \endentry
     \entry{Bereziartua2017}{article}{}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=6d77c12db03c7c0e8d59ef29b1195037}{%
-           family={{Bereziartua}},
+        {{un=0,uniquepart=base,hash=cb968d5be33e2b7c4e1e0cbaa1a4e28b}{%
+           family={Bereziartua},
            familyi={B\bibinitperiod},
-           given={Justo},
+           given={Javier},
            giveni={J\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=0bba26fc3ae0c1281d4c3e5b243b44eb}{%
+        {{un=0,uniquepart=base,hash=f6f2f5ae1b6212df35b8151874dfd43d}{%
            family={Intxausti},
            familyi={I\bibinitperiod},
-           given={Nahia},
+           given={Nekane},
            giveni={N\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=65532b16f1107e007c3f40e22886f092}{%
@@ -175,14 +229,14 @@
            giveni={A\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{ab2ea293dd628194edafef3f2d955612}
-      \strng{fullhash}{fd137e42a39b9a47c6535fdb97dbeb16}
-      \strng{fullhashraw}{fd137e42a39b9a47c6535fdb97dbeb16}
-      \strng{bibnamehash}{fd137e42a39b9a47c6535fdb97dbeb16}
-      \strng{authorbibnamehash}{fd137e42a39b9a47c6535fdb97dbeb16}
-      \strng{authornamehash}{ab2ea293dd628194edafef3f2d955612}
-      \strng{authorfullhash}{fd137e42a39b9a47c6535fdb97dbeb16}
-      \strng{authorfullhashraw}{fd137e42a39b9a47c6535fdb97dbeb16}
+      \strng{namehash}{8dfdc362a0c41ce22bbb09cd2c44d7da}
+      \strng{fullhash}{0bc1742ae3c229370b90fcd9304ee4a3}
+      \strng{fullhashraw}{0bc1742ae3c229370b90fcd9304ee4a3}
+      \strng{bibnamehash}{0bc1742ae3c229370b90fcd9304ee4a3}
+      \strng{authorbibnamehash}{0bc1742ae3c229370b90fcd9304ee4a3}
+      \strng{authornamehash}{8dfdc362a0c41ce22bbb09cd2c44d7da}
+      \strng{authorfullhash}{0bc1742ae3c229370b90fcd9304ee4a3}
+      \strng{authorfullhashraw}{0bc1742ae3c229370b90fcd9304ee4a3}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -195,8 +249,8 @@
       \field{title}{Acción tutorial en la transición del alumnado de las escuelas del medio rural a la educación secundaria}
       \field{volume}{29}
       \field{year}{2017}
-      \field{pages}{189\bibrangedash 210}
-      \range{pages}{22}
+      \field{pages}{189\bibrangedash 190}
+      \range{pages}{2}
       \verb{urlraw}
       \verb https://revistas.uam.es/tendenciaspedagogicas/article/view/7090/7468
       \endverb
@@ -204,118 +258,119 @@
       \verb https://revistas.uam.es/tendenciaspedagogicas/article/view/7090/7468
       \endverb
     \endentry
-    \entry{AvilaSanchezBueno2022}{article}{}{}
+    \entry{DominguezAlvarezLopez2013}{article}{}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=d2e8b14c1fa75e6bc793d5cfa2974bdc}{%
-           family={Francés},
-           familyi={F\bibinitperiod},
-           given={Mercedes\bibnamedelima Ávila},
-           giveni={M\bibinitperiod\bibinitdelim Á\bibinitperiod},
+        {{un=0,uniquepart=base,hash=2b308835b10b2fc72d6fde06034c316d}{%
+           family={Domínguez},
+           familyi={D\bibinitperiod},
+           given={Guadalupe},
+           giveni={G\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=cb7d3743d920ab74dcdf74ddc4f976c7}{%
-           family={Pérez},
-           familyi={P\bibinitperiod},
-           given={María\bibnamedelimb Carmen\bibnamedelima Sánchez},
-           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod},
+        {{un=0,uniquepart=base,hash=432f3321ed5829f85a38008a504325bd}{%
+           family={Álvarez},
+           familyi={Á\bibinitperiod},
+           given={Francisco\bibnamedelima Javier},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=93477dc46f32f9337534eac7eac0b7fd}{%
-           family={Baquero},
-           familyi={B\bibinitperiod},
-           given={Andrea\bibnamedelima Bueno},
-           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+        {{un=0,uniquepart=base,hash=92ad8c54b7e8d0a767a19d508533ca0a}{%
+           family={López},
+           familyi={L\bibinitperiod},
+           given={Ana\bibnamedelima María},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{ebfbc936ea72eeeb88fa59c14b03b3e2}
-      \strng{fullhash}{48b0c476103f069468f183d5a436b7f6}
-      \strng{fullhashraw}{48b0c476103f069468f183d5a436b7f6}
-      \strng{bibnamehash}{48b0c476103f069468f183d5a436b7f6}
-      \strng{authorbibnamehash}{48b0c476103f069468f183d5a436b7f6}
-      \strng{authornamehash}{ebfbc936ea72eeeb88fa59c14b03b3e2}
-      \strng{authorfullhash}{48b0c476103f069468f183d5a436b7f6}
-      \strng{authorfullhashraw}{48b0c476103f069468f183d5a436b7f6}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \strng{namehash}{17634503526a61a8ca547f09f91c6e37}
+      \strng{fullhash}{b7af0c652483beec6cccef22143c07fa}
+      \strng{fullhashraw}{b7af0c652483beec6cccef22143c07fa}
+      \strng{bibnamehash}{b7af0c652483beec6cccef22143c07fa}
+      \strng{authorbibnamehash}{b7af0c652483beec6cccef22143c07fa}
+      \strng{authornamehash}{17634503526a61a8ca547f09f91c6e37}
+      \strng{authorfullhash}{b7af0c652483beec6cccef22143c07fa}
+      \strng{authorfullhashraw}{b7af0c652483beec6cccef22143c07fa}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Revista de Investigación Educativa}
+      \field{journaltitle}{Revista de Docencia Universitaria}
       \field{langid}{spanish}
-      \field{number}{1}
-      \field{title}{Factores que facilitan y dificultan la transición de educación primaria a secundaria}
-      \field{volume}{40}
-      \field{year}{2022}
-      \field{pages}{147\bibrangedash 164}
-      \range{pages}{18}
+      \field{number}{2}
+      \field{title}{Acción tutorial y orientación en el periodo de transición de la Educación Secundaria a la Universidad. La orientación al alumnado de nuevo ingreso}
+      \field{volume}{11}
+      \field{year}{2013}
+      \field{pages}{221\bibrangedash 241}
+      \range{pages}{21}
       \verb{urlraw}
-      \verb https://revistas.um.es/rie/article/view/441441/318821
+      \verb https://polipapers.upv.es/index.php/REDU/article/view/5574/5564
       \endverb
       \verb{url}
-      \verb https://revistas.um.es/rie/article/view/441441/318821
+      \verb https://polipapers.upv.es/index.php/REDU/article/view/5574/5564
       \endverb
     \endentry
-    \entry{GonzalezAlvarez2018FP}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=836eef4f80daa32fdf092d106582ca1b}{%
-           family={González},
+    \entry{LopezGomezJimenezLibro}{book}{}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=3f07985cceaa997328fdcfc37b12edd8}{%
+           family={Gómez},
            familyi={G\bibinitperiod},
-           given={María},
-           giveni={M\bibinitperiod},
+           given={Ernesto\bibnamedelima López},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aaef065cb788248ca278ba9be6345466}{%
+           family={Hernández},
+           familyi={H\bibinitperiod},
+           given={David\bibnamedelima Jiménez},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{836eef4f80daa32fdf092d106582ca1b}
-      \strng{fullhash}{836eef4f80daa32fdf092d106582ca1b}
-      \strng{fullhashraw}{836eef4f80daa32fdf092d106582ca1b}
-      \strng{bibnamehash}{836eef4f80daa32fdf092d106582ca1b}
-      \strng{authorbibnamehash}{836eef4f80daa32fdf092d106582ca1b}
-      \strng{authornamehash}{836eef4f80daa32fdf092d106582ca1b}
-      \strng{authorfullhash}{836eef4f80daa32fdf092d106582ca1b}
-      \strng{authorfullhashraw}{836eef4f80daa32fdf092d106582ca1b}
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \list{publisher}{1}{%
+        {UNED}%
+      }
+      \strng{namehash}{902f05cbdd4a8fbf4a3719b8528c8db0}
+      \strng{fullhash}{902f05cbdd4a8fbf4a3719b8528c8db0}
+      \strng{fullhashraw}{902f05cbdd4a8fbf4a3719b8528c8db0}
+      \strng{bibnamehash}{902f05cbdd4a8fbf4a3719b8528c8db0}
+      \strng{editorbibnamehash}{902f05cbdd4a8fbf4a3719b8528c8db0}
+      \strng{editornamehash}{902f05cbdd4a8fbf4a3719b8528c8db0}
+      \strng{editorfullhash}{902f05cbdd4a8fbf4a3719b8528c8db0}
+      \strng{editorfullhashraw}{902f05cbdd4a8fbf4a3719b8528c8db0}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
+      \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Espiral. Cuadernos del profesorado}
+      \field{isbn}{978-84-362-8055-5}
       \field{langid}{spanish}
-      \field{number}{23}
-      \field{title}{La función tutorial en Formación Profesional}
-      \field{volume}{11}
-      \field{year}{2018}
-      \field{pages}{130\bibrangedash 140}
-      \range{pages}{11}
-      \verb{urlraw}
-      \verb http://repositorio.ual.es/bitstream/handle/10835/6223/1942-6244-1-PB.pdf
-      \endverb
-      \verb{url}
-      \verb http://repositorio.ual.es/bitstream/handle/10835/6223/1942-6244-1-PB.pdf
-      \endverb
+      \field{title}{Procesos y contextos educativos: Enseñar en educación secundaria}
+      \field{year}{2024}
     \endentry
     \entry{Gonzalez2022}{article}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c42df76d653ef9b4a87500d3e7e8e906}{%
-           family={González-Benito},
-           familyi={G\bibinithyphendelim B\bibinitperiod},
+        {{un=1,uniquepart=given,hash=2d149680d2d4ac3e1c0c0670935c7b34}{%
+           family={González},
+           familyi={G\bibinitperiod},
            given={Ana},
            giveni={A\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
-      \strng{namehash}{c42df76d653ef9b4a87500d3e7e8e906}
-      \strng{fullhash}{c42df76d653ef9b4a87500d3e7e8e906}
-      \strng{fullhashraw}{c42df76d653ef9b4a87500d3e7e8e906}
-      \strng{bibnamehash}{c42df76d653ef9b4a87500d3e7e8e906}
-      \strng{authorbibnamehash}{c42df76d653ef9b4a87500d3e7e8e906}
-      \strng{authornamehash}{c42df76d653ef9b4a87500d3e7e8e906}
-      \strng{authorfullhash}{c42df76d653ef9b4a87500d3e7e8e906}
-      \strng{authorfullhashraw}{c42df76d653ef9b4a87500d3e7e8e906}
+      \strng{namehash}{2d149680d2d4ac3e1c0c0670935c7b34}
+      \strng{fullhash}{2d149680d2d4ac3e1c0c0670935c7b34}
+      \strng{fullhashraw}{2d149680d2d4ac3e1c0c0670935c7b34}
+      \strng{bibnamehash}{2d149680d2d4ac3e1c0c0670935c7b34}
+      \strng{authorbibnamehash}{2d149680d2d4ac3e1c0c0670935c7b34}
+      \strng{authornamehash}{2d149680d2d4ac3e1c0c0670935c7b34}
+      \strng{authorfullhash}{2d149680d2d4ac3e1c0c0670935c7b34}
+      \strng{authorfullhashraw}{2d149680d2d4ac3e1c0c0670935c7b34}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Àmbits de Psicopedagogia i Orientació}
@@ -330,6 +385,85 @@
       \endverb
       \verb{url}
       \verb http://ambitsaaf.cat/article/view/4165/4846
+      \endverb
+    \endentry
+    \entry{AlvarezGonzalez2017}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=3251a8b2884d8fac63fc03b540d30451}{%
+           family={González},
+           familyi={G\bibinitperiod},
+           given={Manuel\bibnamedelima Álvarez},
+           giveni={M\bibinitperiod\bibinitdelim Á\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{3251a8b2884d8fac63fc03b540d30451}
+      \strng{fullhash}{3251a8b2884d8fac63fc03b540d30451}
+      \strng{fullhashraw}{3251a8b2884d8fac63fc03b540d30451}
+      \strng{bibnamehash}{3251a8b2884d8fac63fc03b540d30451}
+      \strng{authorbibnamehash}{3251a8b2884d8fac63fc03b540d30451}
+      \strng{authornamehash}{3251a8b2884d8fac63fc03b540d30451}
+      \strng{authorfullhash}{3251a8b2884d8fac63fc03b540d30451}
+      \strng{authorfullhashraw}{3251a8b2884d8fac63fc03b540d30451}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Educatio Siglo XXI}
+      \field{langid}{spanish}
+      \field{number}{2}
+      \field{title}{Hacia un modelo integrador de la tutoría en los diferentes niveles educativos}
+      \field{volume}{35}
+      \field{year}{2017}
+      \field{pages}{21\bibrangedash 42}
+      \range{pages}{22}
+      \verb{urlraw}
+      \verb https://revistas.um.es/educatio/article/view/298501/214161
+      \endverb
+      \verb{url}
+      \verb https://revistas.um.es/educatio/article/view/298501/214161
+      \endverb
+    \endentry
+    \entry{RojoFerrando2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b6c9a567fcd4863377a731afcd795b4d}{%
+           family={Guillamón},
+           familyi={G\bibinitperiod},
+           given={María\bibnamedelimb Isabel\bibnamedelima Rojo},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5f451be671c261cb992a84e3f893dc0b}{%
+           family={Prieto},
+           familyi={P\bibinitperiod},
+           given={María\bibnamedelima Ferrando},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{403956f19b6af0bb42baa86b1cefbf76}
+      \strng{fullhash}{403956f19b6af0bb42baa86b1cefbf76}
+      \strng{fullhashraw}{403956f19b6af0bb42baa86b1cefbf76}
+      \strng{bibnamehash}{403956f19b6af0bb42baa86b1cefbf76}
+      \strng{authorbibnamehash}{403956f19b6af0bb42baa86b1cefbf76}
+      \strng{authornamehash}{403956f19b6af0bb42baa86b1cefbf76}
+      \strng{authorfullhash}{403956f19b6af0bb42baa86b1cefbf76}
+      \strng{authorfullhashraw}{403956f19b6af0bb42baa86b1cefbf76}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AZARBE. Revista Internacional de Trabajo Social y Bienestar}
+      \field{langid}{spanish}
+      \field{number}{11}
+      \field{title}{Convivencia, conflictos y mediación escolar en educación secundaria: Estudio de caso}
+      \field{year}{2022}
+      \field{pages}{57\bibrangedash 66}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.6018/azarbe.505931
       \endverb
     \endentry
     \entry{LOE2006}{legislation}{}{}
@@ -359,12 +493,8 @@
       \field{number}{106}
       \field{title}{Ley Orgánica 2/2006, de 3 de mayo, de Educación}
       \field{year}{2006}
-      \verb{urlraw}
-      \verb https://www.boe.es/buscar/pdf/2006/BOE-A-2006-7899-consolidado.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.boe.es/buscar/pdf/2006/BOE-A-2006-7899-consolidado.pdf
-      \endverb
+      \field{pages}{17158\bibrangedash 17207}
+      \range{pages}{50}
     \endentry
     \entry{LOMLOE2020}{legislation}{}{}
       \name{author}{1}{}{%
@@ -395,30 +525,24 @@
       \field{year}{2020}
       \field{pages}{122868\bibrangedash 122953}
       \range{pages}{86}
-      \verb{urlraw}
-      \verb https://www.boe.es/boe/dias/2020/12/30/pdfs/BOE-A-2020-17264.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.boe.es/boe/dias/2020/12/30/pdfs/BOE-A-2020-17264.pdf
-      \endverb
     \endentry
     \entry{AlvarezJustel2017}{article}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=cbd89f16ff138371f7c34c68e7d03150}{%
+        {{un=0,uniquepart=base,hash=079874792a2e25de4e9444ad2478f53b}{%
            family={Justel},
            familyi={J\bibinitperiod},
-           given={Josefina\bibnamedelima Álvarez},
+           given={José\bibnamedelima Álvarez},
            giveni={J\bibinitperiod\bibinitdelim Á\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{cbd89f16ff138371f7c34c68e7d03150}
-      \strng{fullhash}{cbd89f16ff138371f7c34c68e7d03150}
-      \strng{fullhashraw}{cbd89f16ff138371f7c34c68e7d03150}
-      \strng{bibnamehash}{cbd89f16ff138371f7c34c68e7d03150}
-      \strng{authorbibnamehash}{cbd89f16ff138371f7c34c68e7d03150}
-      \strng{authornamehash}{cbd89f16ff138371f7c34c68e7d03150}
-      \strng{authorfullhash}{cbd89f16ff138371f7c34c68e7d03150}
-      \strng{authorfullhashraw}{cbd89f16ff138371f7c34c68e7d03150}
+      \strng{namehash}{079874792a2e25de4e9444ad2478f53b}
+      \strng{fullhash}{079874792a2e25de4e9444ad2478f53b}
+      \strng{fullhashraw}{079874792a2e25de4e9444ad2478f53b}
+      \strng{bibnamehash}{079874792a2e25de4e9444ad2478f53b}
+      \strng{authorbibnamehash}{079874792a2e25de4e9444ad2478f53b}
+      \strng{authornamehash}{079874792a2e25de4e9444ad2478f53b}
+      \strng{authorfullhash}{079874792a2e25de4e9444ad2478f53b}
+      \strng{authorfullhashraw}{079874792a2e25de4e9444ad2478f53b}
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{extradatescope}{labelyear}
@@ -545,6 +669,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Procesos y contextos educativos: Enseñar en educación secundaria}
+      \strng{crossref}{LopezGomezJimenezLibro}
       \field{isbn}{978-84-362-8055-5}
       \field{langid}{spanish}
       \field{title}{El conflicto y la convivencia en educación secundaria}
@@ -603,6 +728,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Procesos y contextos educativos: Enseñar en educación secundaria}
+      \strng{crossref}{LopezGomezJimenezLibro}
       \field{isbn}{978-84-362-8055-5}
       \field{langid}{spanish}
       \field{title}{La función tutorial en educación secundaria: Teoría y práctica}
@@ -655,6 +781,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Procesos y contextos educativos: Enseñar en educación secundaria}
+      \strng{crossref}{LopezGomezJimenezLibro}
       \field{isbn}{978-84-362-8055-5}
       \field{langid}{spanish}
       \field{title}{Principios y técnicas para una comunicación efectiva en el aula}
@@ -662,11 +789,11 @@
     \endentry
     \entry{Maso2022}{inbook}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4fe72705239bbf914b8424a769c4a2f6}{%
-           family={Masó\bibnamedelima Aguado},
-           familyi={M\bibinitperiod\bibinitdelim A\bibinitperiod},
-           given={María\bibnamedelima Isabel},
-           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+        {{un=0,uniquepart=base,hash=ab25b1a1d43455463d3ec0cece0e3dc4}{%
+           family={Masó},
+           familyi={M\bibinitperiod},
+           given={Inés},
+           giveni={I\bibinitperiod},
            givenun=0}}%
       }
       \name{editor}{4}{}{%
@@ -696,14 +823,14 @@
       \list{publisher}{1}{%
         {Dykinson}%
       }
-      \strng{namehash}{4fe72705239bbf914b8424a769c4a2f6}
-      \strng{fullhash}{4fe72705239bbf914b8424a769c4a2f6}
-      \strng{fullhashraw}{4fe72705239bbf914b8424a769c4a2f6}
-      \strng{bibnamehash}{4fe72705239bbf914b8424a769c4a2f6}
-      \strng{authorbibnamehash}{4fe72705239bbf914b8424a769c4a2f6}
-      \strng{authornamehash}{4fe72705239bbf914b8424a769c4a2f6}
-      \strng{authorfullhash}{4fe72705239bbf914b8424a769c4a2f6}
-      \strng{authorfullhashraw}{4fe72705239bbf914b8424a769c4a2f6}
+      \strng{namehash}{ab25b1a1d43455463d3ec0cece0e3dc4}
+      \strng{fullhash}{ab25b1a1d43455463d3ec0cece0e3dc4}
+      \strng{fullhashraw}{ab25b1a1d43455463d3ec0cece0e3dc4}
+      \strng{bibnamehash}{ab25b1a1d43455463d3ec0cece0e3dc4}
+      \strng{authorbibnamehash}{ab25b1a1d43455463d3ec0cece0e3dc4}
+      \strng{authornamehash}{ab25b1a1d43455463d3ec0cece0e3dc4}
+      \strng{authorfullhash}{ab25b1a1d43455463d3ec0cece0e3dc4}
+      \strng{authorfullhashraw}{ab25b1a1d43455463d3ec0cece0e3dc4}
       \strng{editorbibnamehash}{7b6bfe68b0a51f6968bc8ad10cf58b33}
       \strng{editornamehash}{3b169676f4c4e1c0414d0a436f362075}
       \strng{editorfullhash}{7b6bfe68b0a51f6968bc8ad10cf58b33}
@@ -755,17 +882,11 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Boletín Oficial del Estado}
       \field{langid}{spanish}
-      \field{number}{174}
+      \field{number}{172}
       \field{title}{Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional}
       \field{year}{2023}
-      \field{pages}{106265\bibrangedash 106464}
-      \range{pages}{200}
-      \verb{urlraw}
-      \verb https://www.boe.es/boe/dias/2023/07/22/pdfs/BOE-A-2023-16889.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.boe.es/boe/dias/2023/07/22/pdfs/BOE-A-2023-16889.pdf
-      \endverb
+      \field{pages}{102842\bibrangedash 103080}
+      \range{pages}{239}
     \endentry
     \entry{MEFPD2025Convivencia}{online}{}{}
       \name{author}{1}{}{%
@@ -829,15 +950,11 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Boletín Oficial del Estado}
       \field{langid}{spanish}
-      \field{number}{45}
+      \field{number}{43}
       \field{title}{Real Decreto 83/1996, de 26 de enero, por el que se aprueba el Reglamento Orgánico de los Institutos de Educación Secundaria}
       \field{year}{1996}
-      \verb{urlraw}
-      \verb https://www.boe.es/buscar/pdf/1996/BOE-A-1996-3834-consolidado.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.boe.es/buscar/pdf/1996/BOE-A-1996-3834-consolidado.pdf
-      \endverb
+      \field{pages}{5380\bibrangedash 5407}
+      \range{pages}{28}
     \endentry
     \entry{RD217_2022}{legislation}{}{}
       \name{author}{1}{}{%
@@ -867,12 +984,8 @@
       \field{number}{76}
       \field{title}{Real Decreto 217/2022, de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria}
       \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.boe.es/buscar/pdf/2022/BOE-A-2022-4975-consolidado.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.boe.es/buscar/pdf/2022/BOE-A-2022-4975-consolidado.pdf
-      \endverb
+      \field{pages}{37881\bibrangedash 37980}
+      \range{pages}{100}
     \endentry
     \entry{RD243_2022}{legislation}{}{}
       \name{author}{1}{}{%
@@ -902,12 +1015,8 @@
       \field{number}{82}
       \field{title}{Real Decreto 243/2022, de 5 de abril, por el que se establece la ordenación y las enseñanzas mínimas del Bachillerato}
       \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.boe.es/buscar/pdf/2022/BOE-A-2022-5521-consolidado.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.boe.es/buscar/pdf/2022/BOE-A-2022-5521-consolidado.pdf
-      \endverb
+      \field{pages}{43667\bibrangedash 43745}
+      \range{pages}{79}
     \endentry
     \entry{MunozPastor2015}{article}{}{}
       \name{author}{2}{}{%
@@ -917,21 +1026,21 @@
            given={Ana\bibnamedelima Carmen},
            giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=8642a8395f873bc8c7b08f3f57152eaf}{%
-           family={Gil},
-           familyi={G\bibinitperiod},
-           given={Lorena\bibnamedelima Pastor},
-           giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+        {{un=0,uniquepart=base,hash=ead9ecd120a86a0e2e1c8854710d8e35}{%
+           family={Pastor},
+           familyi={P\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{5049db74d4ad02bca1e6a81097ce0b4d}
-      \strng{fullhash}{5049db74d4ad02bca1e6a81097ce0b4d}
-      \strng{fullhashraw}{5049db74d4ad02bca1e6a81097ce0b4d}
-      \strng{bibnamehash}{5049db74d4ad02bca1e6a81097ce0b4d}
-      \strng{authorbibnamehash}{5049db74d4ad02bca1e6a81097ce0b4d}
-      \strng{authornamehash}{5049db74d4ad02bca1e6a81097ce0b4d}
-      \strng{authorfullhash}{5049db74d4ad02bca1e6a81097ce0b4d}
-      \strng{authorfullhashraw}{5049db74d4ad02bca1e6a81097ce0b4d}
+      \strng{namehash}{9e9ed4c5a3b3812f85ec3429853d5153}
+      \strng{fullhash}{9e9ed4c5a3b3812f85ec3429853d5153}
+      \strng{fullhashraw}{9e9ed4c5a3b3812f85ec3429853d5153}
+      \strng{bibnamehash}{9e9ed4c5a3b3812f85ec3429853d5153}
+      \strng{authorbibnamehash}{9e9ed4c5a3b3812f85ec3429853d5153}
+      \strng{authornamehash}{9e9ed4c5a3b3812f85ec3429853d5153}
+      \strng{authorfullhash}{9e9ed4c5a3b3812f85ec3429853d5153}
+      \strng{authorfullhashraw}{9e9ed4c5a3b3812f85ec3429853d5153}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
@@ -993,48 +1102,101 @@
       \verb https://revistas.ucm.es/index.php/RCED/article/download/RCED9696120029A/17587
       \endverb
     \endentry
-    \entry{RojoFerrando2022}{article}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=59c9ac3d4db76218cac7505706a0e1a2}{%
-           family={Rojo-Guillamón},
-           familyi={R\bibinithyphendelim G\bibinitperiod},
-           given={María\bibnamedelima Isabel},
-           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+    \entry{SanchezEtAl2020}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f59e1231279ea00a0a40d69fd2ecf3d6}{%
+           family={Sánchez},
+           familyi={S\bibinitperiod},
+           given={María\bibnamedelimb José\bibnamedelima Martínez},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=478f40ac95cdd028fd31213408b2c67e}{%
-           family={Prieto},
-           familyi={P\bibinitperiod},
-           given={Mercedes\bibnamedelima Ferrando},
-           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+        {{un=0,uniquepart=base,hash=c42df76d653ef9b4a87500d3e7e8e906}{%
+           family={González-Benito},
+           familyi={G\bibinithyphendelim B\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e1e7f47725e968e63a1ebd39b9fd77a}{%
+           family={Medrano\bibnamedelima Ureta},
+           familyi={M\bibinitperiod\bibinitdelim U\bibinitperiod},
+           given={Consuelo\bibnamedelima Vélaz},
+           giveni={C\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
       }
-      \strng{namehash}{649d693043a228d534ee91d43f7d9fe0}
-      \strng{fullhash}{649d693043a228d534ee91d43f7d9fe0}
-      \strng{fullhashraw}{649d693043a228d534ee91d43f7d9fe0}
-      \strng{bibnamehash}{649d693043a228d534ee91d43f7d9fe0}
-      \strng{authorbibnamehash}{649d693043a228d534ee91d43f7d9fe0}
-      \strng{authornamehash}{649d693043a228d534ee91d43f7d9fe0}
-      \strng{authorfullhash}{649d693043a228d534ee91d43f7d9fe0}
-      \strng{authorfullhashraw}{649d693043a228d534ee91d43f7d9fe0}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \strng{namehash}{4324f7aa63333e8d81a99680b687c569}
+      \strng{fullhash}{f40c44fd2248de953310721bfd443b89}
+      \strng{fullhashraw}{f40c44fd2248de953310721bfd443b89}
+      \strng{bibnamehash}{f40c44fd2248de953310721bfd443b89}
+      \strng{authorbibnamehash}{f40c44fd2248de953310721bfd443b89}
+      \strng{authornamehash}{4324f7aa63333e8d81a99680b687c569}
+      \strng{authorfullhash}{f40c44fd2248de953310721bfd443b89}
+      \strng{authorfullhashraw}{f40c44fd2248de953310721bfd443b89}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{AZARBE. Revista Internacional de Trabajo Social y Bienestar}
+      \field{journaltitle}{Bordón. Revista de Pedagogía}
       \field{langid}{spanish}
-      \field{number}{11}
-      \field{title}{Convivencia, conflictos y mediación escolar en educación secundaria: Estudio de caso}
-      \field{year}{2022}
-      \field{pages}{57\bibrangedash 66}
-      \range{pages}{10}
+      \field{number}{1}
+      \field{title}{Debilidades del sistema de orientación español según los tutores y directores de educación secundaria}
+      \field{volume}{72}
+      \field{year}{2020}
+      \field{pages}{67\bibrangedash 84}
+      \range{pages}{18}
+    \endentry
+    \entry{VelazGonzalezLopez2018}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f37358b0f63faf1896944925c73d03a9}{%
+           family={Ureta},
+           familyi={U\bibinitperiod},
+           given={Consuelo\bibnamedelima Vélaz-de-Medrano},
+           giveni={C\bibinitperiod\bibinitdelim V\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c42df76d653ef9b4a87500d3e7e8e906}{%
+           family={González-Benito},
+           familyi={G\bibinithyphendelim B\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d15af3d7d5a180e8cebef32a0903ea7b}{%
+           family={López-Martín},
+           familyi={L\bibinithyphendelim M\bibinitperiod},
+           given={Esther},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{26a0b48922cd21c9ed2100037bbde6f9}
+      \strng{fullhash}{fe40d281f69ad3de853fed0f8a3ca8c9}
+      \strng{fullhashraw}{fe40d281f69ad3de853fed0f8a3ca8c9}
+      \strng{bibnamehash}{fe40d281f69ad3de853fed0f8a3ca8c9}
+      \strng{authorbibnamehash}{fe40d281f69ad3de853fed0f8a3ca8c9}
+      \strng{authornamehash}{26a0b48922cd21c9ed2100037bbde6f9}
+      \strng{authorfullhash}{fe40d281f69ad3de853fed0f8a3ca8c9}
+      \strng{authorfullhashraw}{fe40d281f69ad3de853fed0f8a3ca8c9}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista de Educación}
+      \field{langid}{spanish}
+      \field{number}{382}
+      \field{title}{Evaluación del nivel de desempeño de la tutoría en educación secundaria obligatoria: Percepción de los propios tutores}
+      \field{year}{2018}
+      \field{pages}{107\bibrangedash 132}
+      \range{pages}{26}
       \verb{urlraw}
-      \verb https://revistas.um.es/azarbe/article/view/505931/334081
+      \verb https://sede.educacion.gob.es/publiventa/descarga.action?f_codigo_agc=19193
       \endverb
       \verb{url}
-      \verb https://revistas.um.es/azarbe/article/view/505931/334081
+      \verb https://sede.educacion.gob.es/publiventa/descarga.action?f_codigo_agc=19193
       \endverb
     \endentry
     \entry{Pantoja2005}{inbook}{}{}
@@ -1097,24 +1259,24 @@
       \true{moreauthor}
       \true{morelabelname}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=02de65fec82f6480f3f3b6ab71492856}{%
+        {{un=0,uniquepart=base,hash=d01e85831a47d08a28c3ecb461b3186b}{%
            family={Vidal},
            familyi={V\bibinitperiod},
-           given={Javier},
+           given={José},
            giveni={J\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
         {Fundación Europea Sociedad y Educación}%
       }
-      \strng{namehash}{225e60f63fe6775b0a601aba158ad21d}
-      \strng{fullhash}{225e60f63fe6775b0a601aba158ad21d}
-      \strng{fullhashraw}{225e60f63fe6775b0a601aba158ad21d}
-      \strng{bibnamehash}{225e60f63fe6775b0a601aba158ad21d}
-      \strng{authorbibnamehash}{225e60f63fe6775b0a601aba158ad21d}
-      \strng{authornamehash}{225e60f63fe6775b0a601aba158ad21d}
-      \strng{authorfullhash}{225e60f63fe6775b0a601aba158ad21d}
-      \strng{authorfullhashraw}{225e60f63fe6775b0a601aba158ad21d}
+      \strng{namehash}{c54d5debb3dbfbd20504c01f5c02a07d}
+      \strng{fullhash}{c54d5debb3dbfbd20504c01f5c02a07d}
+      \strng{fullhashraw}{c54d5debb3dbfbd20504c01f5c02a07d}
+      \strng{bibnamehash}{c54d5debb3dbfbd20504c01f5c02a07d}
+      \strng{authorbibnamehash}{c54d5debb3dbfbd20504c01f5c02a07d}
+      \strng{authornamehash}{c54d5debb3dbfbd20504c01f5c02a07d}
+      \strng{authorfullhash}{c54d5debb3dbfbd20504c01f5c02a07d}
+      \strng{authorfullhashraw}{c54d5debb3dbfbd20504c01f5c02a07d}
       \field{sortinit}{V}
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{extradatescope}{labelyear}
@@ -1126,31 +1288,31 @@
       \field{title}{La tutoría en Secundaria bajo la perspectiva de una educación integral. Manual de formación}
       \field{year}{2023}
       \verb{urlraw}
-      \verb https://www.sociedadyeducacion.org/core/wp-content/uploads/MANUAL-DE-FORMACION-LEI-1_TUTORIA_WEB.pdf
+      \verb https://www.sociedadyeducacion.org/site/wp-content/uploads/MANUAL-DE-FORMACION-LEI1_TUTORIA_WEB.pdf
       \endverb
       \verb{url}
-      \verb https://www.sociedadyeducacion.org/core/wp-content/uploads/MANUAL-DE-FORMACION-LEI-1_TUTORIA_WEB.pdf
+      \verb https://www.sociedadyeducacion.org/site/wp-content/uploads/MANUAL-DE-FORMACION-LEI1_TUTORIA_WEB.pdf
       \endverb
     \endentry
   \enddatalist
   \datalist[entry]{nyt/global//global/global/global}
-    \entry{AlvarezGonzalez2017}{article}{}{}
+    \entry{GonzalezAlvarez2018FP}{article}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bfcb94a98502ed9a5b0ec7d588657bd5}{%
-           family={Álvarez\bibnamedelima González},
-           familyi={Á\bibinitperiod\bibinitdelim G\bibinitperiod},
-           given={Manuel},
-           giveni={M\bibinitperiod},
+        {{un=0,uniquepart=base,hash=d28859ea95f173f37940717d8d03bbc0}{%
+           family={Álvarez},
+           familyi={Á\bibinitperiod},
+           given={María\bibnamedelima González},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{bfcb94a98502ed9a5b0ec7d588657bd5}
-      \strng{fullhash}{bfcb94a98502ed9a5b0ec7d588657bd5}
-      \strng{fullhashraw}{bfcb94a98502ed9a5b0ec7d588657bd5}
-      \strng{bibnamehash}{bfcb94a98502ed9a5b0ec7d588657bd5}
-      \strng{authorbibnamehash}{bfcb94a98502ed9a5b0ec7d588657bd5}
-      \strng{authornamehash}{bfcb94a98502ed9a5b0ec7d588657bd5}
-      \strng{authorfullhash}{bfcb94a98502ed9a5b0ec7d588657bd5}
-      \strng{authorfullhashraw}{bfcb94a98502ed9a5b0ec7d588657bd5}
+      \strng{namehash}{d28859ea95f173f37940717d8d03bbc0}
+      \strng{fullhash}{d28859ea95f173f37940717d8d03bbc0}
+      \strng{fullhashraw}{d28859ea95f173f37940717d8d03bbc0}
+      \strng{bibnamehash}{d28859ea95f173f37940717d8d03bbc0}
+      \strng{authorbibnamehash}{d28859ea95f173f37940717d8d03bbc0}
+      \strng{authornamehash}{d28859ea95f173f37940717d8d03bbc0}
+      \strng{authorfullhash}{d28859ea95f173f37940717d8d03bbc0}
+      \strng{authorfullhashraw}{d28859ea95f173f37940717d8d03bbc0}
       \field{sortinit}{Á}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -1158,38 +1320,38 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Educatio Siglo XXI}
+      \field{journaltitle}{Espiral. Cuadernos del profesorado}
       \field{langid}{spanish}
-      \field{number}{2}
-      \field{title}{Hacia un modelo integrador de la tutoría en los diferentes niveles educativos}
-      \field{volume}{35}
-      \field{year}{2017}
-      \field{pages}{21\bibrangedash 42}
-      \range{pages}{22}
+      \field{number}{23}
+      \field{title}{La función tutorial en Formación Profesional}
+      \field{volume}{11}
+      \field{year}{2018}
+      \field{pages}{130\bibrangedash 140}
+      \range{pages}{11}
       \verb{urlraw}
-      \verb https://revistas.um.es/educatio/article/view/298501/214161
+      \verb http://repositorio.ual.es/bitstream/handle/10835/6223/1942-6244-1-PB.pdf
       \endverb
       \verb{url}
-      \verb https://revistas.um.es/educatio/article/view/298501/214161
+      \verb http://repositorio.ual.es/bitstream/handle/10835/6223/1942-6244-1-PB.pdf
       \endverb
     \endentry
     \entry{Asensi2002}{article}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=72321c6439474e5503c35a6d424b2e32}{%
-           family={Asensi\bibnamedelima Díaz},
-           familyi={A\bibinitperiod\bibinitdelim D\bibinitperiod},
-           given={Jesús},
+        {{un=0,uniquepart=base,hash=a10f007af3ee5646aef41eb41fe72564}{%
+           family={Asensi},
+           familyi={A\bibinitperiod},
+           given={José},
            giveni={J\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{72321c6439474e5503c35a6d424b2e32}
-      \strng{fullhash}{72321c6439474e5503c35a6d424b2e32}
-      \strng{fullhashraw}{72321c6439474e5503c35a6d424b2e32}
-      \strng{bibnamehash}{72321c6439474e5503c35a6d424b2e32}
-      \strng{authorbibnamehash}{72321c6439474e5503c35a6d424b2e32}
-      \strng{authornamehash}{72321c6439474e5503c35a6d424b2e32}
-      \strng{authorfullhash}{72321c6439474e5503c35a6d424b2e32}
-      \strng{authorfullhashraw}{72321c6439474e5503c35a6d424b2e32}
+      \strng{namehash}{a10f007af3ee5646aef41eb41fe72564}
+      \strng{fullhash}{a10f007af3ee5646aef41eb41fe72564}
+      \strng{fullhashraw}{a10f007af3ee5646aef41eb41fe72564}
+      \strng{bibnamehash}{a10f007af3ee5646aef41eb41fe72564}
+      \strng{authorbibnamehash}{a10f007af3ee5646aef41eb41fe72564}
+      \strng{authornamehash}{a10f007af3ee5646aef41eb41fe72564}
+      \strng{authorfullhash}{a10f007af3ee5646aef41eb41fe72564}
+      \strng{authorfullhashraw}{a10f007af3ee5646aef41eb41fe72564}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -1209,6 +1371,59 @@
       \endverb
       \verb{url}
       \verb https://revistas.uam.es/tendenciaspedagogicas/article/view/1820
+      \endverb
+    \endentry
+    \entry{AvilaSanchezBueno2022}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=05c6468b0c878836e1daf6d1b6458158}{%
+           family={Ávila},
+           familyi={Á\bibinitperiod},
+           given={Mar},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1be63dbf0aa9cccc3008ee518c478f1f}{%
+           family={Carmen\bibnamedelima Sánchez},
+           familyi={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={María},
+           giveni={M\bibinitperiod},
+           givenun=0,
+           prefix={del},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=ef241bbd36948537aea9a796afa40108}{%
+           family={Bueno},
+           familyi={B\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0c80f73a41d398ec889d4277b3e23d6f}
+      \strng{fullhash}{a181a79f05af15c0900e14320fdc98ec}
+      \strng{fullhashraw}{a181a79f05af15c0900e14320fdc98ec}
+      \strng{bibnamehash}{a181a79f05af15c0900e14320fdc98ec}
+      \strng{authorbibnamehash}{a181a79f05af15c0900e14320fdc98ec}
+      \strng{authornamehash}{0c80f73a41d398ec889d4277b3e23d6f}
+      \strng{authorfullhash}{a181a79f05af15c0900e14320fdc98ec}
+      \strng{authorfullhashraw}{a181a79f05af15c0900e14320fdc98ec}
+      \field{sortinit}{Á}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista de Investigación Educativa}
+      \field{langid}{spanish}
+      \field{number}{1}
+      \field{title}{Factores que facilitan y dificultan la transición de educación primaria a secundaria}
+      \field{volume}{40}
+      \field{year}{2022}
+      \field{pages}{147\bibrangedash 164}
+      \range{pages}{18}
+      \verb{urlraw}
+      \verb https://revistas.um.es/rie/article/view/441441
+      \endverb
+      \verb{url}
+      \verb https://revistas.um.es/rie/article/view/441441
       \endverb
     \endentry
     \entry{CamposGonzalezCap9}{inbook}{}{}
@@ -1264,6 +1479,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Procesos y contextos educativos: Enseñar en educación secundaria}
+      \strng{crossref}{LopezGomezJimenezLibro}
       \field{isbn}{978-84-362-8055-5}
       \field{langid}{spanish}
       \field{title}{Atención a la diversidad e inclusión educativa en educación secundaria}
@@ -1271,16 +1487,16 @@
     \endentry
     \entry{Bereziartua2017}{article}{}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=6d77c12db03c7c0e8d59ef29b1195037}{%
-           family={{Bereziartua}},
+        {{un=0,uniquepart=base,hash=cb968d5be33e2b7c4e1e0cbaa1a4e28b}{%
+           family={Bereziartua},
            familyi={B\bibinitperiod},
-           given={Justo},
+           given={Javier},
            giveni={J\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=0bba26fc3ae0c1281d4c3e5b243b44eb}{%
+        {{un=0,uniquepart=base,hash=f6f2f5ae1b6212df35b8151874dfd43d}{%
            family={Intxausti},
            familyi={I\bibinitperiod},
-           given={Nahia},
+           given={Nekane},
            giveni={N\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=65532b16f1107e007c3f40e22886f092}{%
@@ -1290,14 +1506,14 @@
            giveni={A\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{ab2ea293dd628194edafef3f2d955612}
-      \strng{fullhash}{fd137e42a39b9a47c6535fdb97dbeb16}
-      \strng{fullhashraw}{fd137e42a39b9a47c6535fdb97dbeb16}
-      \strng{bibnamehash}{fd137e42a39b9a47c6535fdb97dbeb16}
-      \strng{authorbibnamehash}{fd137e42a39b9a47c6535fdb97dbeb16}
-      \strng{authornamehash}{ab2ea293dd628194edafef3f2d955612}
-      \strng{authorfullhash}{fd137e42a39b9a47c6535fdb97dbeb16}
-      \strng{authorfullhashraw}{fd137e42a39b9a47c6535fdb97dbeb16}
+      \strng{namehash}{8dfdc362a0c41ce22bbb09cd2c44d7da}
+      \strng{fullhash}{0bc1742ae3c229370b90fcd9304ee4a3}
+      \strng{fullhashraw}{0bc1742ae3c229370b90fcd9304ee4a3}
+      \strng{bibnamehash}{0bc1742ae3c229370b90fcd9304ee4a3}
+      \strng{authorbibnamehash}{0bc1742ae3c229370b90fcd9304ee4a3}
+      \strng{authornamehash}{8dfdc362a0c41ce22bbb09cd2c44d7da}
+      \strng{authorfullhash}{0bc1742ae3c229370b90fcd9304ee4a3}
+      \strng{authorfullhashraw}{0bc1742ae3c229370b90fcd9304ee4a3}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -1310,8 +1526,8 @@
       \field{title}{Acción tutorial en la transición del alumnado de las escuelas del medio rural a la educación secundaria}
       \field{volume}{29}
       \field{year}{2017}
-      \field{pages}{189\bibrangedash 210}
-      \range{pages}{22}
+      \field{pages}{189\bibrangedash 190}
+      \range{pages}{2}
       \verb{urlraw}
       \verb https://revistas.uam.es/tendenciaspedagogicas/article/view/7090/7468
       \endverb
@@ -1319,118 +1535,119 @@
       \verb https://revistas.uam.es/tendenciaspedagogicas/article/view/7090/7468
       \endverb
     \endentry
-    \entry{AvilaSanchezBueno2022}{article}{}{}
+    \entry{DominguezAlvarezLopez2013}{article}{}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=d2e8b14c1fa75e6bc793d5cfa2974bdc}{%
-           family={Francés},
-           familyi={F\bibinitperiod},
-           given={Mercedes\bibnamedelima Ávila},
-           giveni={M\bibinitperiod\bibinitdelim Á\bibinitperiod},
+        {{un=0,uniquepart=base,hash=2b308835b10b2fc72d6fde06034c316d}{%
+           family={Domínguez},
+           familyi={D\bibinitperiod},
+           given={Guadalupe},
+           giveni={G\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=cb7d3743d920ab74dcdf74ddc4f976c7}{%
-           family={Pérez},
-           familyi={P\bibinitperiod},
-           given={María\bibnamedelimb Carmen\bibnamedelima Sánchez},
-           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod},
+        {{un=0,uniquepart=base,hash=432f3321ed5829f85a38008a504325bd}{%
+           family={Álvarez},
+           familyi={Á\bibinitperiod},
+           given={Francisco\bibnamedelima Javier},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=93477dc46f32f9337534eac7eac0b7fd}{%
-           family={Baquero},
-           familyi={B\bibinitperiod},
-           given={Andrea\bibnamedelima Bueno},
-           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+        {{un=0,uniquepart=base,hash=92ad8c54b7e8d0a767a19d508533ca0a}{%
+           family={López},
+           familyi={L\bibinitperiod},
+           given={Ana\bibnamedelima María},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{ebfbc936ea72eeeb88fa59c14b03b3e2}
-      \strng{fullhash}{48b0c476103f069468f183d5a436b7f6}
-      \strng{fullhashraw}{48b0c476103f069468f183d5a436b7f6}
-      \strng{bibnamehash}{48b0c476103f069468f183d5a436b7f6}
-      \strng{authorbibnamehash}{48b0c476103f069468f183d5a436b7f6}
-      \strng{authornamehash}{ebfbc936ea72eeeb88fa59c14b03b3e2}
-      \strng{authorfullhash}{48b0c476103f069468f183d5a436b7f6}
-      \strng{authorfullhashraw}{48b0c476103f069468f183d5a436b7f6}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \strng{namehash}{17634503526a61a8ca547f09f91c6e37}
+      \strng{fullhash}{b7af0c652483beec6cccef22143c07fa}
+      \strng{fullhashraw}{b7af0c652483beec6cccef22143c07fa}
+      \strng{bibnamehash}{b7af0c652483beec6cccef22143c07fa}
+      \strng{authorbibnamehash}{b7af0c652483beec6cccef22143c07fa}
+      \strng{authornamehash}{17634503526a61a8ca547f09f91c6e37}
+      \strng{authorfullhash}{b7af0c652483beec6cccef22143c07fa}
+      \strng{authorfullhashraw}{b7af0c652483beec6cccef22143c07fa}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Revista de Investigación Educativa}
+      \field{journaltitle}{Revista de Docencia Universitaria}
       \field{langid}{spanish}
-      \field{number}{1}
-      \field{title}{Factores que facilitan y dificultan la transición de educación primaria a secundaria}
-      \field{volume}{40}
-      \field{year}{2022}
-      \field{pages}{147\bibrangedash 164}
-      \range{pages}{18}
+      \field{number}{2}
+      \field{title}{Acción tutorial y orientación en el periodo de transición de la Educación Secundaria a la Universidad. La orientación al alumnado de nuevo ingreso}
+      \field{volume}{11}
+      \field{year}{2013}
+      \field{pages}{221\bibrangedash 241}
+      \range{pages}{21}
       \verb{urlraw}
-      \verb https://revistas.um.es/rie/article/view/441441/318821
+      \verb https://polipapers.upv.es/index.php/REDU/article/view/5574/5564
       \endverb
       \verb{url}
-      \verb https://revistas.um.es/rie/article/view/441441/318821
+      \verb https://polipapers.upv.es/index.php/REDU/article/view/5574/5564
       \endverb
     \endentry
-    \entry{GonzalezAlvarez2018FP}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=836eef4f80daa32fdf092d106582ca1b}{%
-           family={González},
+    \entry{LopezGomezJimenezLibro}{book}{}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=3f07985cceaa997328fdcfc37b12edd8}{%
+           family={Gómez},
            familyi={G\bibinitperiod},
-           given={María},
-           giveni={M\bibinitperiod},
+           given={Ernesto\bibnamedelima López},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aaef065cb788248ca278ba9be6345466}{%
+           family={Hernández},
+           familyi={H\bibinitperiod},
+           given={David\bibnamedelima Jiménez},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{836eef4f80daa32fdf092d106582ca1b}
-      \strng{fullhash}{836eef4f80daa32fdf092d106582ca1b}
-      \strng{fullhashraw}{836eef4f80daa32fdf092d106582ca1b}
-      \strng{bibnamehash}{836eef4f80daa32fdf092d106582ca1b}
-      \strng{authorbibnamehash}{836eef4f80daa32fdf092d106582ca1b}
-      \strng{authornamehash}{836eef4f80daa32fdf092d106582ca1b}
-      \strng{authorfullhash}{836eef4f80daa32fdf092d106582ca1b}
-      \strng{authorfullhashraw}{836eef4f80daa32fdf092d106582ca1b}
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \list{publisher}{1}{%
+        {UNED}%
+      }
+      \strng{namehash}{902f05cbdd4a8fbf4a3719b8528c8db0}
+      \strng{fullhash}{902f05cbdd4a8fbf4a3719b8528c8db0}
+      \strng{fullhashraw}{902f05cbdd4a8fbf4a3719b8528c8db0}
+      \strng{bibnamehash}{902f05cbdd4a8fbf4a3719b8528c8db0}
+      \strng{editorbibnamehash}{902f05cbdd4a8fbf4a3719b8528c8db0}
+      \strng{editornamehash}{902f05cbdd4a8fbf4a3719b8528c8db0}
+      \strng{editorfullhash}{902f05cbdd4a8fbf4a3719b8528c8db0}
+      \strng{editorfullhashraw}{902f05cbdd4a8fbf4a3719b8528c8db0}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
+      \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Espiral. Cuadernos del profesorado}
+      \field{isbn}{978-84-362-8055-5}
       \field{langid}{spanish}
-      \field{number}{23}
-      \field{title}{La función tutorial en Formación Profesional}
-      \field{volume}{11}
-      \field{year}{2018}
-      \field{pages}{130\bibrangedash 140}
-      \range{pages}{11}
-      \verb{urlraw}
-      \verb http://repositorio.ual.es/bitstream/handle/10835/6223/1942-6244-1-PB.pdf
-      \endverb
-      \verb{url}
-      \verb http://repositorio.ual.es/bitstream/handle/10835/6223/1942-6244-1-PB.pdf
-      \endverb
+      \field{title}{Procesos y contextos educativos: Enseñar en educación secundaria}
+      \field{year}{2024}
     \endentry
     \entry{Gonzalez2022}{article}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c42df76d653ef9b4a87500d3e7e8e906}{%
-           family={González-Benito},
-           familyi={G\bibinithyphendelim B\bibinitperiod},
+        {{un=1,uniquepart=given,hash=2d149680d2d4ac3e1c0c0670935c7b34}{%
+           family={González},
+           familyi={G\bibinitperiod},
            given={Ana},
            giveni={A\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
-      \strng{namehash}{c42df76d653ef9b4a87500d3e7e8e906}
-      \strng{fullhash}{c42df76d653ef9b4a87500d3e7e8e906}
-      \strng{fullhashraw}{c42df76d653ef9b4a87500d3e7e8e906}
-      \strng{bibnamehash}{c42df76d653ef9b4a87500d3e7e8e906}
-      \strng{authorbibnamehash}{c42df76d653ef9b4a87500d3e7e8e906}
-      \strng{authornamehash}{c42df76d653ef9b4a87500d3e7e8e906}
-      \strng{authorfullhash}{c42df76d653ef9b4a87500d3e7e8e906}
-      \strng{authorfullhashraw}{c42df76d653ef9b4a87500d3e7e8e906}
+      \strng{namehash}{2d149680d2d4ac3e1c0c0670935c7b34}
+      \strng{fullhash}{2d149680d2d4ac3e1c0c0670935c7b34}
+      \strng{fullhashraw}{2d149680d2d4ac3e1c0c0670935c7b34}
+      \strng{bibnamehash}{2d149680d2d4ac3e1c0c0670935c7b34}
+      \strng{authorbibnamehash}{2d149680d2d4ac3e1c0c0670935c7b34}
+      \strng{authornamehash}{2d149680d2d4ac3e1c0c0670935c7b34}
+      \strng{authorfullhash}{2d149680d2d4ac3e1c0c0670935c7b34}
+      \strng{authorfullhashraw}{2d149680d2d4ac3e1c0c0670935c7b34}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Àmbits de Psicopedagogia i Orientació}
@@ -1445,6 +1662,85 @@
       \endverb
       \verb{url}
       \verb http://ambitsaaf.cat/article/view/4165/4846
+      \endverb
+    \endentry
+    \entry{AlvarezGonzalez2017}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=3251a8b2884d8fac63fc03b540d30451}{%
+           family={González},
+           familyi={G\bibinitperiod},
+           given={Manuel\bibnamedelima Álvarez},
+           giveni={M\bibinitperiod\bibinitdelim Á\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{3251a8b2884d8fac63fc03b540d30451}
+      \strng{fullhash}{3251a8b2884d8fac63fc03b540d30451}
+      \strng{fullhashraw}{3251a8b2884d8fac63fc03b540d30451}
+      \strng{bibnamehash}{3251a8b2884d8fac63fc03b540d30451}
+      \strng{authorbibnamehash}{3251a8b2884d8fac63fc03b540d30451}
+      \strng{authornamehash}{3251a8b2884d8fac63fc03b540d30451}
+      \strng{authorfullhash}{3251a8b2884d8fac63fc03b540d30451}
+      \strng{authorfullhashraw}{3251a8b2884d8fac63fc03b540d30451}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Educatio Siglo XXI}
+      \field{langid}{spanish}
+      \field{number}{2}
+      \field{title}{Hacia un modelo integrador de la tutoría en los diferentes niveles educativos}
+      \field{volume}{35}
+      \field{year}{2017}
+      \field{pages}{21\bibrangedash 42}
+      \range{pages}{22}
+      \verb{urlraw}
+      \verb https://revistas.um.es/educatio/article/view/298501/214161
+      \endverb
+      \verb{url}
+      \verb https://revistas.um.es/educatio/article/view/298501/214161
+      \endverb
+    \endentry
+    \entry{RojoFerrando2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b6c9a567fcd4863377a731afcd795b4d}{%
+           family={Guillamón},
+           familyi={G\bibinitperiod},
+           given={María\bibnamedelimb Isabel\bibnamedelima Rojo},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5f451be671c261cb992a84e3f893dc0b}{%
+           family={Prieto},
+           familyi={P\bibinitperiod},
+           given={María\bibnamedelima Ferrando},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{403956f19b6af0bb42baa86b1cefbf76}
+      \strng{fullhash}{403956f19b6af0bb42baa86b1cefbf76}
+      \strng{fullhashraw}{403956f19b6af0bb42baa86b1cefbf76}
+      \strng{bibnamehash}{403956f19b6af0bb42baa86b1cefbf76}
+      \strng{authorbibnamehash}{403956f19b6af0bb42baa86b1cefbf76}
+      \strng{authornamehash}{403956f19b6af0bb42baa86b1cefbf76}
+      \strng{authorfullhash}{403956f19b6af0bb42baa86b1cefbf76}
+      \strng{authorfullhashraw}{403956f19b6af0bb42baa86b1cefbf76}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AZARBE. Revista Internacional de Trabajo Social y Bienestar}
+      \field{langid}{spanish}
+      \field{number}{11}
+      \field{title}{Convivencia, conflictos y mediación escolar en educación secundaria: Estudio de caso}
+      \field{year}{2022}
+      \field{pages}{57\bibrangedash 66}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.6018/azarbe.505931
       \endverb
     \endentry
     \entry{LOE2006}{legislation}{}{}
@@ -1474,12 +1770,8 @@
       \field{number}{106}
       \field{title}{Ley Orgánica 2/2006, de 3 de mayo, de Educación}
       \field{year}{2006}
-      \verb{urlraw}
-      \verb https://www.boe.es/buscar/pdf/2006/BOE-A-2006-7899-consolidado.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.boe.es/buscar/pdf/2006/BOE-A-2006-7899-consolidado.pdf
-      \endverb
+      \field{pages}{17158\bibrangedash 17207}
+      \range{pages}{50}
     \endentry
     \entry{LOMLOE2020}{legislation}{}{}
       \name{author}{1}{}{%
@@ -1510,30 +1802,24 @@
       \field{year}{2020}
       \field{pages}{122868\bibrangedash 122953}
       \range{pages}{86}
-      \verb{urlraw}
-      \verb https://www.boe.es/boe/dias/2020/12/30/pdfs/BOE-A-2020-17264.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.boe.es/boe/dias/2020/12/30/pdfs/BOE-A-2020-17264.pdf
-      \endverb
     \endentry
     \entry{AlvarezJustel2017}{article}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=cbd89f16ff138371f7c34c68e7d03150}{%
+        {{un=0,uniquepart=base,hash=079874792a2e25de4e9444ad2478f53b}{%
            family={Justel},
            familyi={J\bibinitperiod},
-           given={Josefina\bibnamedelima Álvarez},
+           given={José\bibnamedelima Álvarez},
            giveni={J\bibinitperiod\bibinitdelim Á\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{cbd89f16ff138371f7c34c68e7d03150}
-      \strng{fullhash}{cbd89f16ff138371f7c34c68e7d03150}
-      \strng{fullhashraw}{cbd89f16ff138371f7c34c68e7d03150}
-      \strng{bibnamehash}{cbd89f16ff138371f7c34c68e7d03150}
-      \strng{authorbibnamehash}{cbd89f16ff138371f7c34c68e7d03150}
-      \strng{authornamehash}{cbd89f16ff138371f7c34c68e7d03150}
-      \strng{authorfullhash}{cbd89f16ff138371f7c34c68e7d03150}
-      \strng{authorfullhashraw}{cbd89f16ff138371f7c34c68e7d03150}
+      \strng{namehash}{079874792a2e25de4e9444ad2478f53b}
+      \strng{fullhash}{079874792a2e25de4e9444ad2478f53b}
+      \strng{fullhashraw}{079874792a2e25de4e9444ad2478f53b}
+      \strng{bibnamehash}{079874792a2e25de4e9444ad2478f53b}
+      \strng{authorbibnamehash}{079874792a2e25de4e9444ad2478f53b}
+      \strng{authornamehash}{079874792a2e25de4e9444ad2478f53b}
+      \strng{authorfullhash}{079874792a2e25de4e9444ad2478f53b}
+      \strng{authorfullhashraw}{079874792a2e25de4e9444ad2478f53b}
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{extradatescope}{labelyear}
@@ -1660,6 +1946,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Procesos y contextos educativos: Enseñar en educación secundaria}
+      \strng{crossref}{LopezGomezJimenezLibro}
       \field{isbn}{978-84-362-8055-5}
       \field{langid}{spanish}
       \field{title}{El conflicto y la convivencia en educación secundaria}
@@ -1718,6 +2005,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Procesos y contextos educativos: Enseñar en educación secundaria}
+      \strng{crossref}{LopezGomezJimenezLibro}
       \field{isbn}{978-84-362-8055-5}
       \field{langid}{spanish}
       \field{title}{La función tutorial en educación secundaria: Teoría y práctica}
@@ -1770,6 +2058,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Procesos y contextos educativos: Enseñar en educación secundaria}
+      \strng{crossref}{LopezGomezJimenezLibro}
       \field{isbn}{978-84-362-8055-5}
       \field{langid}{spanish}
       \field{title}{Principios y técnicas para una comunicación efectiva en el aula}
@@ -1777,11 +2066,11 @@
     \endentry
     \entry{Maso2022}{inbook}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4fe72705239bbf914b8424a769c4a2f6}{%
-           family={Masó\bibnamedelima Aguado},
-           familyi={M\bibinitperiod\bibinitdelim A\bibinitperiod},
-           given={María\bibnamedelima Isabel},
-           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+        {{un=0,uniquepart=base,hash=ab25b1a1d43455463d3ec0cece0e3dc4}{%
+           family={Masó},
+           familyi={M\bibinitperiod},
+           given={Inés},
+           giveni={I\bibinitperiod},
            givenun=0}}%
       }
       \name{editor}{4}{}{%
@@ -1811,14 +2100,14 @@
       \list{publisher}{1}{%
         {Dykinson}%
       }
-      \strng{namehash}{4fe72705239bbf914b8424a769c4a2f6}
-      \strng{fullhash}{4fe72705239bbf914b8424a769c4a2f6}
-      \strng{fullhashraw}{4fe72705239bbf914b8424a769c4a2f6}
-      \strng{bibnamehash}{4fe72705239bbf914b8424a769c4a2f6}
-      \strng{authorbibnamehash}{4fe72705239bbf914b8424a769c4a2f6}
-      \strng{authornamehash}{4fe72705239bbf914b8424a769c4a2f6}
-      \strng{authorfullhash}{4fe72705239bbf914b8424a769c4a2f6}
-      \strng{authorfullhashraw}{4fe72705239bbf914b8424a769c4a2f6}
+      \strng{namehash}{ab25b1a1d43455463d3ec0cece0e3dc4}
+      \strng{fullhash}{ab25b1a1d43455463d3ec0cece0e3dc4}
+      \strng{fullhashraw}{ab25b1a1d43455463d3ec0cece0e3dc4}
+      \strng{bibnamehash}{ab25b1a1d43455463d3ec0cece0e3dc4}
+      \strng{authorbibnamehash}{ab25b1a1d43455463d3ec0cece0e3dc4}
+      \strng{authornamehash}{ab25b1a1d43455463d3ec0cece0e3dc4}
+      \strng{authorfullhash}{ab25b1a1d43455463d3ec0cece0e3dc4}
+      \strng{authorfullhashraw}{ab25b1a1d43455463d3ec0cece0e3dc4}
       \strng{editorbibnamehash}{7b6bfe68b0a51f6968bc8ad10cf58b33}
       \strng{editornamehash}{3b169676f4c4e1c0414d0a436f362075}
       \strng{editorfullhash}{7b6bfe68b0a51f6968bc8ad10cf58b33}
@@ -1870,17 +2159,11 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Boletín Oficial del Estado}
       \field{langid}{spanish}
-      \field{number}{174}
+      \field{number}{172}
       \field{title}{Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional}
       \field{year}{2023}
-      \field{pages}{106265\bibrangedash 106464}
-      \range{pages}{200}
-      \verb{urlraw}
-      \verb https://www.boe.es/boe/dias/2023/07/22/pdfs/BOE-A-2023-16889.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.boe.es/boe/dias/2023/07/22/pdfs/BOE-A-2023-16889.pdf
-      \endverb
+      \field{pages}{102842\bibrangedash 103080}
+      \range{pages}{239}
     \endentry
     \entry{MEFPD2025Convivencia}{online}{}{}
       \name{author}{1}{}{%
@@ -1944,15 +2227,11 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Boletín Oficial del Estado}
       \field{langid}{spanish}
-      \field{number}{45}
+      \field{number}{43}
       \field{title}{Real Decreto 83/1996, de 26 de enero, por el que se aprueba el Reglamento Orgánico de los Institutos de Educación Secundaria}
       \field{year}{1996}
-      \verb{urlraw}
-      \verb https://www.boe.es/buscar/pdf/1996/BOE-A-1996-3834-consolidado.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.boe.es/buscar/pdf/1996/BOE-A-1996-3834-consolidado.pdf
-      \endverb
+      \field{pages}{5380\bibrangedash 5407}
+      \range{pages}{28}
     \endentry
     \entry{RD217_2022}{legislation}{}{}
       \name{author}{1}{}{%
@@ -1982,12 +2261,8 @@
       \field{number}{76}
       \field{title}{Real Decreto 217/2022, de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria}
       \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.boe.es/buscar/pdf/2022/BOE-A-2022-4975-consolidado.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.boe.es/buscar/pdf/2022/BOE-A-2022-4975-consolidado.pdf
-      \endverb
+      \field{pages}{37881\bibrangedash 37980}
+      \range{pages}{100}
     \endentry
     \entry{RD243_2022}{legislation}{}{}
       \name{author}{1}{}{%
@@ -2017,12 +2292,8 @@
       \field{number}{82}
       \field{title}{Real Decreto 243/2022, de 5 de abril, por el que se establece la ordenación y las enseñanzas mínimas del Bachillerato}
       \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.boe.es/buscar/pdf/2022/BOE-A-2022-5521-consolidado.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.boe.es/buscar/pdf/2022/BOE-A-2022-5521-consolidado.pdf
-      \endverb
+      \field{pages}{43667\bibrangedash 43745}
+      \range{pages}{79}
     \endentry
     \entry{MunozPastor2015}{article}{}{}
       \name{author}{2}{}{%
@@ -2032,21 +2303,21 @@
            given={Ana\bibnamedelima Carmen},
            giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=8642a8395f873bc8c7b08f3f57152eaf}{%
-           family={Gil},
-           familyi={G\bibinitperiod},
-           given={Lorena\bibnamedelima Pastor},
-           giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+        {{un=0,uniquepart=base,hash=ead9ecd120a86a0e2e1c8854710d8e35}{%
+           family={Pastor},
+           familyi={P\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{5049db74d4ad02bca1e6a81097ce0b4d}
-      \strng{fullhash}{5049db74d4ad02bca1e6a81097ce0b4d}
-      \strng{fullhashraw}{5049db74d4ad02bca1e6a81097ce0b4d}
-      \strng{bibnamehash}{5049db74d4ad02bca1e6a81097ce0b4d}
-      \strng{authorbibnamehash}{5049db74d4ad02bca1e6a81097ce0b4d}
-      \strng{authornamehash}{5049db74d4ad02bca1e6a81097ce0b4d}
-      \strng{authorfullhash}{5049db74d4ad02bca1e6a81097ce0b4d}
-      \strng{authorfullhashraw}{5049db74d4ad02bca1e6a81097ce0b4d}
+      \strng{namehash}{9e9ed4c5a3b3812f85ec3429853d5153}
+      \strng{fullhash}{9e9ed4c5a3b3812f85ec3429853d5153}
+      \strng{fullhashraw}{9e9ed4c5a3b3812f85ec3429853d5153}
+      \strng{bibnamehash}{9e9ed4c5a3b3812f85ec3429853d5153}
+      \strng{authorbibnamehash}{9e9ed4c5a3b3812f85ec3429853d5153}
+      \strng{authornamehash}{9e9ed4c5a3b3812f85ec3429853d5153}
+      \strng{authorfullhash}{9e9ed4c5a3b3812f85ec3429853d5153}
+      \strng{authorfullhashraw}{9e9ed4c5a3b3812f85ec3429853d5153}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
@@ -2108,48 +2379,101 @@
       \verb https://revistas.ucm.es/index.php/RCED/article/download/RCED9696120029A/17587
       \endverb
     \endentry
-    \entry{RojoFerrando2022}{article}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=59c9ac3d4db76218cac7505706a0e1a2}{%
-           family={Rojo-Guillamón},
-           familyi={R\bibinithyphendelim G\bibinitperiod},
-           given={María\bibnamedelima Isabel},
-           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+    \entry{SanchezEtAl2020}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f59e1231279ea00a0a40d69fd2ecf3d6}{%
+           family={Sánchez},
+           familyi={S\bibinitperiod},
+           given={María\bibnamedelimb José\bibnamedelima Martínez},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=478f40ac95cdd028fd31213408b2c67e}{%
-           family={Prieto},
-           familyi={P\bibinitperiod},
-           given={Mercedes\bibnamedelima Ferrando},
-           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+        {{un=0,uniquepart=base,hash=c42df76d653ef9b4a87500d3e7e8e906}{%
+           family={González-Benito},
+           familyi={G\bibinithyphendelim B\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e1e7f47725e968e63a1ebd39b9fd77a}{%
+           family={Medrano\bibnamedelima Ureta},
+           familyi={M\bibinitperiod\bibinitdelim U\bibinitperiod},
+           given={Consuelo\bibnamedelima Vélaz},
+           giveni={C\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
       }
-      \strng{namehash}{649d693043a228d534ee91d43f7d9fe0}
-      \strng{fullhash}{649d693043a228d534ee91d43f7d9fe0}
-      \strng{fullhashraw}{649d693043a228d534ee91d43f7d9fe0}
-      \strng{bibnamehash}{649d693043a228d534ee91d43f7d9fe0}
-      \strng{authorbibnamehash}{649d693043a228d534ee91d43f7d9fe0}
-      \strng{authornamehash}{649d693043a228d534ee91d43f7d9fe0}
-      \strng{authorfullhash}{649d693043a228d534ee91d43f7d9fe0}
-      \strng{authorfullhashraw}{649d693043a228d534ee91d43f7d9fe0}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \strng{namehash}{4324f7aa63333e8d81a99680b687c569}
+      \strng{fullhash}{f40c44fd2248de953310721bfd443b89}
+      \strng{fullhashraw}{f40c44fd2248de953310721bfd443b89}
+      \strng{bibnamehash}{f40c44fd2248de953310721bfd443b89}
+      \strng{authorbibnamehash}{f40c44fd2248de953310721bfd443b89}
+      \strng{authornamehash}{4324f7aa63333e8d81a99680b687c569}
+      \strng{authorfullhash}{f40c44fd2248de953310721bfd443b89}
+      \strng{authorfullhashraw}{f40c44fd2248de953310721bfd443b89}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{AZARBE. Revista Internacional de Trabajo Social y Bienestar}
+      \field{journaltitle}{Bordón. Revista de Pedagogía}
       \field{langid}{spanish}
-      \field{number}{11}
-      \field{title}{Convivencia, conflictos y mediación escolar en educación secundaria: Estudio de caso}
-      \field{year}{2022}
-      \field{pages}{57\bibrangedash 66}
-      \range{pages}{10}
+      \field{number}{1}
+      \field{title}{Debilidades del sistema de orientación español según los tutores y directores de educación secundaria}
+      \field{volume}{72}
+      \field{year}{2020}
+      \field{pages}{67\bibrangedash 84}
+      \range{pages}{18}
+    \endentry
+    \entry{VelazGonzalezLopez2018}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f37358b0f63faf1896944925c73d03a9}{%
+           family={Ureta},
+           familyi={U\bibinitperiod},
+           given={Consuelo\bibnamedelima Vélaz-de-Medrano},
+           giveni={C\bibinitperiod\bibinitdelim V\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c42df76d653ef9b4a87500d3e7e8e906}{%
+           family={González-Benito},
+           familyi={G\bibinithyphendelim B\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d15af3d7d5a180e8cebef32a0903ea7b}{%
+           family={López-Martín},
+           familyi={L\bibinithyphendelim M\bibinitperiod},
+           given={Esther},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{26a0b48922cd21c9ed2100037bbde6f9}
+      \strng{fullhash}{fe40d281f69ad3de853fed0f8a3ca8c9}
+      \strng{fullhashraw}{fe40d281f69ad3de853fed0f8a3ca8c9}
+      \strng{bibnamehash}{fe40d281f69ad3de853fed0f8a3ca8c9}
+      \strng{authorbibnamehash}{fe40d281f69ad3de853fed0f8a3ca8c9}
+      \strng{authornamehash}{26a0b48922cd21c9ed2100037bbde6f9}
+      \strng{authorfullhash}{fe40d281f69ad3de853fed0f8a3ca8c9}
+      \strng{authorfullhashraw}{fe40d281f69ad3de853fed0f8a3ca8c9}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista de Educación}
+      \field{langid}{spanish}
+      \field{number}{382}
+      \field{title}{Evaluación del nivel de desempeño de la tutoría en educación secundaria obligatoria: Percepción de los propios tutores}
+      \field{year}{2018}
+      \field{pages}{107\bibrangedash 132}
+      \range{pages}{26}
       \verb{urlraw}
-      \verb https://revistas.um.es/azarbe/article/view/505931/334081
+      \verb https://sede.educacion.gob.es/publiventa/descarga.action?f_codigo_agc=19193
       \endverb
       \verb{url}
-      \verb https://revistas.um.es/azarbe/article/view/505931/334081
+      \verb https://sede.educacion.gob.es/publiventa/descarga.action?f_codigo_agc=19193
       \endverb
     \endentry
     \entry{Pantoja2005}{inbook}{}{}
@@ -2212,24 +2536,24 @@
       \true{moreauthor}
       \true{morelabelname}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=02de65fec82f6480f3f3b6ab71492856}{%
+        {{un=0,uniquepart=base,hash=d01e85831a47d08a28c3ecb461b3186b}{%
            family={Vidal},
            familyi={V\bibinitperiod},
-           given={Javier},
+           given={José},
            giveni={J\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
         {Fundación Europea Sociedad y Educación}%
       }
-      \strng{namehash}{225e60f63fe6775b0a601aba158ad21d}
-      \strng{fullhash}{225e60f63fe6775b0a601aba158ad21d}
-      \strng{fullhashraw}{225e60f63fe6775b0a601aba158ad21d}
-      \strng{bibnamehash}{225e60f63fe6775b0a601aba158ad21d}
-      \strng{authorbibnamehash}{225e60f63fe6775b0a601aba158ad21d}
-      \strng{authornamehash}{225e60f63fe6775b0a601aba158ad21d}
-      \strng{authorfullhash}{225e60f63fe6775b0a601aba158ad21d}
-      \strng{authorfullhashraw}{225e60f63fe6775b0a601aba158ad21d}
+      \strng{namehash}{c54d5debb3dbfbd20504c01f5c02a07d}
+      \strng{fullhash}{c54d5debb3dbfbd20504c01f5c02a07d}
+      \strng{fullhashraw}{c54d5debb3dbfbd20504c01f5c02a07d}
+      \strng{bibnamehash}{c54d5debb3dbfbd20504c01f5c02a07d}
+      \strng{authorbibnamehash}{c54d5debb3dbfbd20504c01f5c02a07d}
+      \strng{authornamehash}{c54d5debb3dbfbd20504c01f5c02a07d}
+      \strng{authorfullhash}{c54d5debb3dbfbd20504c01f5c02a07d}
+      \strng{authorfullhashraw}{c54d5debb3dbfbd20504c01f5c02a07d}
       \field{sortinit}{V}
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{extradatescope}{labelyear}
@@ -2241,10 +2565,10 @@
       \field{title}{La tutoría en Secundaria bajo la perspectiva de una educación integral. Manual de formación}
       \field{year}{2023}
       \verb{urlraw}
-      \verb https://www.sociedadyeducacion.org/core/wp-content/uploads/MANUAL-DE-FORMACION-LEI-1_TUTORIA_WEB.pdf
+      \verb https://www.sociedadyeducacion.org/site/wp-content/uploads/MANUAL-DE-FORMACION-LEI1_TUTORIA_WEB.pdf
       \endverb
       \verb{url}
-      \verb https://www.sociedadyeducacion.org/core/wp-content/uploads/MANUAL-DE-FORMACION-LEI-1_TUTORIA_WEB.pdf
+      \verb https://www.sociedadyeducacion.org/site/wp-content/uploads/MANUAL-DE-FORMACION-LEI1_TUTORIA_WEB.pdf
       \endverb
     \endentry
   \enddatalist

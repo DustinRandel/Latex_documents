@@ -2,10 +2,20 @@
 \contentsline {section}{\numberline {1}Introducción}{3}{section.1}%
 \contentsline {section}{\numberline {2}Primera parte: Fundamentación teórica y conceptual de la tutoría en educación secundaria}{3}{section.2}%
 \contentsline {subsection}{\numberline {2.1}El concepto de tutoría y su sentido educativo en el ámbito de la convivencia}{3}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}El concepto de tutoría y su sentido educativo en el ámbito de la convivencia}{5}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}El rol y la función del tutor o tutora}{7}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Necesidad, relevancia y beneficios de la tutoría en ESO, Bachillerato y Formación Profesional}{8}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}Marco normativo, Plan de Acción Tutorial y planes institucionales de convivencia e inclusión}{10}{subsection.2.5}%
-\contentsline {section}{\numberline {3}Segunda parte: Planificación del desarrollo de algún contenido de la acción tutorial}{11}{section.3}%
-\contentsline {section}{\numberline {4}Tercera parte: Conclusiones de la tarea: reflexión sobre los aprendizajes y prospectiva del proceso llevado a cabo}{11}{section.4}%
-\contentsline {section}{\numberline {5}Declaración de Autoría de la PEC}{14}{section.5}%
+\contentsline {subsection}{\numberline {2.2}El rol y la función del tutor o tutora}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Necesidad, relevancia y beneficios de la tutoría en ESO, Bachillerato y Formación Profesional}{7}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}El marco normativo de la tutoría en educación secundaria, su engranaje en el PAT y su relación con la mejora de la convivencia, en el marco de los planes y programas institucionales}{8}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Segunda parte: Planificación del desarrollo de algún contenido de la acción tutorial}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Reto fundamental}{10}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Plan de actuación}{11}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Principios generales}{11}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Objetivos}{12}{subsubsection.3.2.2}%
+\contentsline {paragraph}{Objetivo general}{12}{section*.3}%
+\contentsline {paragraph}{Objetivos específicos}{12}{section*.4}%
+\contentsline {subsubsection}{\numberline {3.2.3}Líneas de actuación, actividades y temporalización}{12}{subsubsection.3.2.3}%
+\contentsline {section}{\numberline {4}Tercera parte: Conclusiones de la tarea: reflexión sobre los aprendizajes y prospectiva del proceso llevado a cabo}{18}{section.4}%
+\contentsline {subsection}{\numberline {4.1}¿Qué significa ser tutor y cómo lo integro en mi modo de entender la enseñanza o la profesión docente?}{18}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}¿Cómo proyecto mi futura práctica tutorial con relación a la mejora de la convivencia en el aula?}{19}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Coherencia del plan, dificultades previsibles y papel del PAT}{19}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Aprendizajes de la tarea y su contribución a mi formación como futuro docente}{20}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Declaración de Autoría de la PEC}{24}{section.5}%
