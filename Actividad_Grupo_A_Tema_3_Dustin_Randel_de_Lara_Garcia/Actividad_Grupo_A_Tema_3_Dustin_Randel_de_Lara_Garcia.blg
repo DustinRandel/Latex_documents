@@ -1,0 +1,21 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'Actividad_Grupo_A_Tema_3_Dustin_Randel_de_Lara_Garcia.blg'
+[67] biber-MSWIN64:342> INFO - === 
+[89] Biber.pm:421> INFO - Reading 'Actividad_Grupo_A_Tema_3_Dustin_Randel_de_Lara_Garcia.bcf'
+[156] Biber.pm:1002> INFO - Found 18 citekeys in bib section 0
+[165] Biber.pm:4487> INFO - Processing section 0
+[173] Biber.pm:4678> INFO - Looking for bibtex file 'referencias.bib' for section 0
+[210] bibtex.pm:1713> INFO - LaTeX decoding ...
+[223] bibtex.pm:1519> INFO - Found BibTeX data source 'referencias.bib'
+[279] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[279] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[279] Biber.pm:4307> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'es-ES'
+[288] bbl.pm:676> INFO - Writing 'Actividad_Grupo_A_Tema_3_Dustin_Randel_de_Lara_Garcia.bbl' with encoding 'UTF-8'
+[293] bbl.pm:779> INFO - Output to Actividad_Grupo_A_Tema_3_Dustin_Randel_de_Lara_Garcia.bbl
+[293] Biber.pm:132> WARN - Duplicate entry key: 'ISO_IEC_15420_2025' in file 'referencias.bib', skipping ...
+[293] Biber.pm:132> WARN - Duplicate entry key: 'Hamamatsu_SiPhotodiodes' in file 'referencias.bib', skipping ...
+[293] Biber.pm:132> WARN - legacy year field 'n.d.' in entry 'UNED_Tema3_Barcode' is not an integer - this will probably not sort properly.
+[293] Biber.pm:132> WARN - legacy year field 'n.d.' in entry 'GS1_EANUPC' is not an integer - this will probably not sort properly.
+[293] Biber.pm:132> WARN - legacy year field 'n.d.' in entry 'Hamamatsu_SiPhotodiodes' is not an integer - this will probably not sort properly.
+[293] Biber.pm:132> WARN - legacy year field 'n.d.' in entry 'TI_SBOA061' is not an integer - this will probably not sort properly.
+[293] Biber.pm:134> INFO - WARNINGS: 6

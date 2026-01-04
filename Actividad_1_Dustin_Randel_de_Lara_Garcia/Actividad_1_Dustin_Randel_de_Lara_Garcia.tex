@@ -1,0 +1,586 @@
+\documentclass[11pt,a4paper]{article}
+
+% ---- Márgenes
+\usepackage[a4paper, left=2cm, right=2cm, top=2.5cm, bottom=2.5cm]{geometry}
+
+% ---- Idioma y fuentes (pdfLaTeX)
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish, es-tabla]{babel}
+
+% ---- “Arial-like” con pdfLaTeX: Helvetica
+\usepackage[scaled=0.92]{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+% ---- Matemáticas y tablas
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{tabularx,booktabs}
+
+% ---- Gráficos
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage[table,xcdraw]{xcolor}
+\definecolor{verdePastel}{RGB}{204, 235, 197}
+\definecolor{verdeFresco}{RGB}{60,160,60}
+
+% ---- Estilo y utilidades
+\usepackage{fancyhdr}
+\setlength{\headheight}{14pt}
+\usepackage{csquotes}
+\usepackage{parskip}
+\usepackage{array,longtable}
+\renewcommand{\arraystretch}{1.4}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{B}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+% ---- URLs más “rompibles”
+\usepackage{xurl}
+
+% ---- Bibliografía (biber)
+\usepackage[
+  backend=biber,
+  style=numeric,
+  sorting=none,
+  maxbibnames=99
+]{biblatex}
+\addbibresource{referencias.bib}
+
+% ---- Hipervínculos (cargar al final)
+\usepackage{hyperref}
+\hypersetup{
+  pdfauthor={Dustin Randel De Lara García},
+  pdftitle={Actividad Grupo B - Tema 5: Implicaciones de la Física y la Química en la industria agroalimentaria},
+  pdfkeywords={Física, Química, Industria Alimentaria, Refrigeración, UNED},
+  colorlinks=true,
+  linkcolor=verdeFresco,
+  urlcolor=verdeFresco,
+  citecolor=verdeFresco
+}
+
+% ---- “Tabla” en lugar de “Cuadro”
+\addto\captionsspanish{\renewcommand{\tablename}{Tabla}}
+
+% ---- Encabezados/pies
+\pagestyle{fancy}
+\rhead{UNED}
+\lhead{Actividad Grupo B - Tema 5}
+\cfoot{\thepage}
+
+\date{\today}
+
+\begin{document}
+
+\textbf{Título}: Esquema del ciclo de un refrigerante (ciclo de compresión de vapor).
+
+\textbf{Autor}: Dustin Randel de Lara García \href{mailto:ddelara3@alumno.uned.es}{ddelara3@alumno.uned.es}
+
+\section*{Planteamiento del tema}
+La refrigeración es una tecnología esencial en la industria agroalimentaria porque permite mantener una temperatura baja y constante durante el almacenamiento, transporte y venta. Al disminuir la temperatura, se ralentiza (o incluso se inhibe) el crecimiento microbiano y se reducen procesos de deterioro, lo que alarga la vida útil y mejora la seguridad de los alimentos \cite{WHO_FoodSafety_Summer,Codex_CXC46_1999}.
+
+El ejemplo se centra en el \textbf{ciclo de refrigeración por compresión de vapor}, base de la mayoría de cámaras frigoríficas, congeladores industriales y sistemas de climatización. En este ciclo, un refrigerante circula por cuatro elementos: \textbf{compresor, condensador, válvula de expansión y evaporador} \cite{NPTEL_SimpleVCRS}.
+
+\section*{Objetivo del ejemplo}
+\begin{itemize}
+  \item Identificar los cuatro componentes del ciclo (compresor, condensador, válvula de expansión y evaporador) y describir la función de cada uno.
+  \item Comprender la idea física central: el sistema extrae calor del interior en el evaporador ($Q_L$) y lo cede al exterior en el condensador ($Q_H$) gracias al trabajo aportado por el compresor ($W$) \cite{MIT_OCW_821_Lec12}.
+  \item Relacionar cada etapa del ciclo con cambios de presión y estado del refrigerante (evaporación, compresión, condensación y expansión).
+  \item Introducir el concepto de rendimiento mediante el \textbf{COP} y su interpretación cualitativa.
+\end{itemize}
+
+\section*{Leyes de la Física y la Química que intervienen}
+\begin{itemize}
+  \item Primera ley de la Termodinámica en volúmenes de control (sistemas abiertos con flujo estacionario; balance de energía).
+  \item Segunda ley de la Termodinámica.
+  \item Cambios de fase (evaporación y condensación) y calor latente.
+  \item Estrangulamiento (expansión en válvula/capilar; $h \approx \text{cte}$).
+\end{itemize}
+
+\section*{Experimentos y observaciones que se pueden llevar a cabo}
+
+Medir con un termómetro la temperatura en tres zonas de una nevera en funcionamiento: aire interior, pared del evaporador (zona fría) y rejilla del condensador (zona caliente). Comparar valores y relacionarlos con la absorción/cesión de calor en el ciclo.
+
+Conectar un vatímetro de enchufe a la nevera y anotar cuántas veces arranca el compresor en 15 min (subida clara de potencia) y cuántos minutos está encendido en total. Repetir tras abrir la puerta 1 min y comparar.
+
+Usar una lata de aire comprimido para limpieza (ráfagas cortas, en lugar ventilado y sin dirigir a piel/ojos) y observar el enfriamiento al pulverizar sobre una superficie metálica (p.\,ej., una cuchara): aparece descenso de temperatura e incluso escarcha en la lata de aire. Interpretarlo como una analogía del proceso de expansión/estrangulamiento (caída brusca de presión) previo al evaporador.
+
+\section*{Consideraciones acerca de su adaptación al aula de bachillerato}
+Se adapta bien a contenidos de bachillerato sobre \textbf{termodinámica} (1ª y 2ª ley), \textbf{cambios de estado} y \textbf{calor latente}. Puede trabajarse de forma cualitativa (balances energéticos de cada elemento) y, si se desea, introducir de forma básica el concepto de rendimiento mediante el $COP=\dfrac{Q_L}{W}$ \cite{MIT_OCW_821_Lec12}.
+
+Las posibles dificultades y cómo abordarlas son:
+\begin{itemize}
+  \item \textbf{Interpretación conceptual}: entender el ciclo como \textit{transporte de calor} (no “crear frío”) y utilizar sistemas abiertos con flujo estacionario que son conceptos más avanzados. \textit{Solución}: usar esquemas con flechas $Q_L$, $Q_H$ y $W$, ejemplos cotidianos (nevera) y explicaciones simplificadas.
+  \item \textbf{Válvula de expansión}: comprender como una \textbf{caída brusca de presión} desencadena en una gran bajada de la temperatura del refrigerante (estrangulamiento). \textit{Solución}: explicarlo de forma cualitativa y sin entrar en detalles.
+  \item \textbf{Enfoque cuantitativo avanzado}: uso de \textbf{entalpías} y tablas de propiedades. \textit{Solución}: plantearlo como ampliación opcional o como procedimiento guiado por el docente.
+\end{itemize}
+
+\section*{Permiso de difusión entre los participantes en el máster}
+El autor permite que el ejemplo sea difundido entre los participantes en el Máster de Formación del Profesorado de la UNED.
+
+\newpage
+\section{Desarrollo del ciclo de refrigeración por compresión de vapor}
+\label{sec:desarrollo-vcr}
+
+\subsection{Contextualización e introducción}
+La refrigeración es una de las tecnologías más decisivas para la industria agroalimentaria, pero su función no es ``producir frío'' como objetivo en sí mismo, sino \textbf{controlar la velocidad de los procesos de deterioro}. La temperatura influye directamente en reacciones bioquímicas (oxidaciones, actividad enzimática, maduración) y en la proliferación de microorganismos. Por ello, mantener alimentos en rangos seguros reduce el riesgo sanitario y alarga la vida útil, aunque no elimina por completo el peligro si hay contaminación previa o malas prácticas \cite{WHO_FoodSafety_Summer,WHO_FiveKeys_Brochure}.
+
+En la práctica industrial, esta necesidad se concreta en una ``cadena de frío'' que incluye cámaras de conservación, túneles de enfriamiento y congelación, vitrinas comerciales y transporte refrigerado. Su eficacia depende tanto del equipo como del control operativo (aperturas de puertas, infiltraciones, carga térmica del producto, higiene, etc.). Además, el sector afronta el reto de minimizar consumo energético y reducir el impacto climático de los refrigerantes, por lo que la refrigeración moderna se sitúa en una intersección clara entre Física, Química, Ingeniería y sostenibilidad \cite{FAO_Sustainable_Cold_Chains}.
+
+Desde el punto de vista didáctico (Física y Química de Bachillerato), el ciclo de compresión de vapor es especialmente valioso porque permite integrar, en un mismo sistema, ideas relevantes de la materia:
+
+\begin{itemize}
+  \item Primera ley de la Termodinámica pero aplicada a sistemas abiertos (volúmenes de control).
+  \item Segunda ley de la Termodinámica
+  \item Cambios de fase
+\end{itemize}
+
+\subsection{Fundamentación teórica: bases físicas y químicas que sostienen el ciclo}
+\subsubsection{Termodinámica básica: energía, calor, trabajo y sistemas abiertos}
+La refrigeración por compresión de vapor se analiza con la Termodinámica de \textbf{volúmenes de control} (sistemas abiertos), donde hay flujo de masa que entra y sale. En régimen estacionario y despreciando energía cinética y potencial, la \textbf{Primera ley} adopta una forma muy operativa: el intercambio energético se expresa mediante \textbf{entalpía} \(h\) (energía específica asociada al flujo).
+
+De forma general, para un componente típico del ciclo:
+$$\dot Q - \dot W \approx \dot m \left(h_{\text{sal}} - h_{\text{ent}}\right)$$
+Esta formulación permite interpretar cada elemento del ciclo con una idea simple: el evaporador \textbf{absorbe} calor, el compresor \textbf{consume} trabajo, el condensador \textbf{cede} calor y la válvula produce un cambio de estado por estrangulamiento sin aporte de trabajo.
+
+La refrigeración por compresión de vapor se analiza con la Termodinámica de \textbf{volúmenes de control} (sistemas abiertos), porque el refrigerante \textbf{atraviesa} cada componente (entra y sale de él). En estos sistemas es habitual trabajar con \textbf{tasas} (por unidad de tiempo), ya que el ciclo opera de forma continua: por eso aparecen magnitudes con un punto, que indican derivada temporal, por ejemplo \(\dot Q=\mathrm{d}Q/\mathrm{d}t\) (potencia térmica, en W) y \(\dot m=\mathrm{d}m/\mathrm{d}t\) (caudal másico, en kg/s).
+
+\subsubsection{Primera Ley para un volumen de control: forma general y simplificaciones}
+La forma general de la Primera Ley para un volumen de control (una entrada y una salida), expresada en tasas, es:
+\begin{equation}
+\frac{\mathrm{d}E_{CV}}{\mathrm{d}t}
+=
+\dot Q - \dot W
++\dot m\left(h+\frac{V^2}{2}+gz\right)_{\text{ent}}
+-\dot m\left(h+\frac{V^2}{2}+gz\right)_{\text{sal}},
+\end{equation}
+donde \(E_{CV}\) es la energía total almacenada dentro del volumen de control (energía interna, cinética y potencial).
+
+En el análisis básico del ciclo de compresión de vapor se adoptan dos hipótesis habituales:
+\begin{itemize}
+  \item \textbf{Régimen estacionario:} no hay acumulación neta de energía en el componente, de modo que \(\mathrm{d}E_{CV}/\mathrm{d}t \approx 0\).
+  \item \textbf{Cambios despreciables de energía cinética y potencial:} \(\Delta(V^2/2)\approx 0\) y \(g\,\Delta z\approx 0\).
+\end{itemize}
+Con estas suposiciones, la ecuación anterior se reduce a una forma muy operativa:
+\begin{equation}
+\dot Q - \dot W \approx \dot m\left(h_{\text{sal}}-h_{\text{ent}}\right).
+\label{eq:balance-energia-simplificado}
+\end{equation}
+
+\subsubsection{Por qué aparece la entalpía}
+En sistemas con flujo se utiliza la \textbf{entalpía específica} \(h\), definida como:
+\begin{equation}
+h = u + p\,v,
+\end{equation}
+donde \(u\) es la energía interna específica, \(p\) la presión y \(v\) el volumen específico. Esta magnitud es conveniente porque incorpora, además de la energía interna, el llamado \emph{trabajo de flujo} asociado a empujar el fluido para que atraviese la frontera del volumen de control.
+
+\subsubsection{Signos, interpretación física y significado de cada término}
+En este desarrollo se adopta el convenio de signos:
+\begin{itemize}
+  \item \(\dot Q>0\) si el calor \textbf{entra} al sistema (al refrigerante dentro del componente).
+  \item \(\dot W>0\) si el sistema \textbf{entrega} trabajo al exterior (trabajo que \textbf{sale} del sistema).
+\end{itemize}
+Con este convenio, la ecuación~\eqref{eq:balance-energia-simplificado} se interpreta así:
+
+\begin{itemize}
+  \item \(\dot Q\) (\textbf{W}): potencia térmica intercambiada con el entorno. Si \(\dot Q>0\), el refrigerante \textbf{absorbe} calor; si \(\dot Q<0\), el refrigerante \textbf{cede} calor.
+  \item \(\dot W\) (\textbf{W}): potencia mecánica asociada a un eje (o equivalente). Si \(\dot W>0\), el componente \textbf{produce} trabajo; si \(\dot W<0\), el componente \textbf{recibe} trabajo (caso típico del compresor).
+  \item \(\dot m\) (\textbf{kg/s}): caudal másico del refrigerante.
+  \item \(h_{\text{ent}},h_{\text{sal}}\) (\textbf{J/kg}): entalpías específicas a la entrada y salida del componente. El término \(\dot m(h_{\text{sal}}-h_{\text{ent}})\) representa la \textbf{variación de energía transportada por el flujo} a través del dispositivo.
+\end{itemize}
+
+Esta formulación permite interpretar cada elemento del ciclo con una idea simple: el evaporador trabaja con \(\dot Q>0\) (absorbe calor del foco frío), el condensador con \(\dot Q<0\) (cede calor al ambiente), el compresor recibe trabajo (\(\dot W<0\) con este convenio) y la válvula produce un cambio de estado por estrangulamiento sin trabajo de eje (\(\dot W\approx 0\)).
+
+
+\subsubsection{Cambios de fase y calor latente: por qué la evaporación es tan efectiva}
+La gran capacidad de extracción de energía de un sistema frigorífico proviene de aprovechar el \textbf{calor latente de vaporización}. Cuando un líquido se evapora a presión constante, absorbe una cantidad notable de energía sin aumentar apenas su temperatura. Esto permite que el evaporador extraiga calor de un recinto sin necesidad de calentar mucho el refrigerante: el fluido \textbf{evapora} y se lleva energía en forma de calor latente.
+
+En Bachillerato suele trabajarse la idea de calor latente con la curva de calentamiento del agua. En el ciclo frigorífico el razonamiento es análogo, pero controlando presión y temperatura para que el cambio de fase ocurra en el rango deseado.
+
+\subsubsection{Equilibrio líquido--vapor y relación presión--temperatura de saturación}
+El refrigerante se selecciona porque, a presiones razonables, su \textbf{temperatura de ebullición} (temperatura de saturación) puede situarse en valores útiles. La idea central es:
+\begin{quote}
+\textbf{La temperatura a la que un fluido hierve depende de la presión.} Si se reduce la presión, desciende la temperatura de ebullición.
+\end{quote}
+Esto permite que el refrigerante hierva a baja temperatura dentro del evaporador (baja presión) y condense a temperatura más alta en el condensador (alta presión).
+
+\subsubsection{Segunda Ley, necesidad de trabajo y límite de Carnot}
+La Segunda Ley establece que el calor fluye espont\'aneamente del foco caliente al fr\'io; invertir ese flujo requiere aportar energ\'ia. Por ello, una m\'aquina frigor\'ifica necesita trabajo (aportado por el compresor) para extraer calor del interior fr\'io y expulsarlo al ambiente.
+
+El rendimiento de un refrigerador se mide mediante el \textbf{coeficiente de rendimiento}:
+\begin{equation}
+COP=\frac{Q_L}{W},
+\end{equation}
+donde \(Q_L\) es el calor extra\'ido del foco fr\'io y \(W\) el trabajo suministrad por el compresor.
+
+En el caso ideal reversible (refrigerador de Carnot), el valor m\'aximo del rendimiento viene acotado por:
+\begin{equation}
+COP \le \frac{T_L}{T_H-T_L},
+\end{equation}
+donde \(T_L\) y \(T_H\) son las temperaturas absolutas (en Kelvin) de los focos fr\'io y caliente. Esta expresi\'on muestra que el rendimiento disminuye cuando aumenta el salto t\'ermico \((T_H-T_L)\).
+
+Una concepto es que el \(COP\) puede ser mayor que 1, porque el sistema no ``convierte'' trabajo en calor útil, sino que usa trabajo para \textbf{transportar} calor del foco frío al caliente.
+
+\subsubsection{Fluidos reales, pérdidas de carga e irreversibilidad}
+En el mundo real existen rozamientos, turbulencias y disipación. Estos efectos aparecen como:
+\begin{itemize}
+  \item \textbf{Caídas de presión} en tuberías e intercambiadores.
+  \item \textbf{Compresión no ideal} (pérdidas internas del compresor).
+  \item \textbf{Estrangulamiento} en la válvula: proceso intensamente irreversible.
+\end{itemize}
+Estas irreversibilidades explican por qué el rendimiento real siempre es inferior al ideal.
+
+\subsubsection{Química y tecnología de refrigerantes: propiedades, seguridad y sostenibilidad}
+El refrigerante no se elige solo por ``enfriar bien''. Se busca un equilibrio entre propiedades termodinámicas, estabilidad y compatibilidad (tipo de químico), seguridad (toxicidad e inflamabilidad) e impacto ambiental (GWP). En Europa, el marco regulatorio sobre gases fluorados se ha reforzado, incentivando refrigerantes de menor impacto climático \cite{EU_2024_573,EC_Fgas_Legislation}.
+
+\subsection{Explicación del ciclo: componentes, estados y funcionamiento etapa a etapa}
+\subsubsection{Visión global y estados característicos}
+El ciclo básico consta de cuatro elementos: \textbf{evaporador, compresor, condensador y dispositivo de expansión} \cite{NPTEL_SimpleVCRS}. Para seguir el proceso con claridad, se definen cuatro estados típicos:
+\begin{itemize}
+  \item \textbf{Estado 1 (salida del evaporador):} vapor a baja presión (normalmente ligeramente sobrecalentado).
+  \item \textbf{Estado 2 (salida del compresor):} vapor a alta presión y alta temperatura (sobrecalentado).
+  \item \textbf{Estado 3 (salida del condensador):} líquido a alta presión (idealmente subenfriado o saturado).
+  \item \textbf{Estado 4 (salida de la válvula):} mezcla líquido--vapor a baja presión.
+\end{itemize}
+
+\textbf{Sobrecalentamiento}: Asegura que al compresor entra solo vapor (protección del compresor).
+
+\textbf{Subenfriamiento}: Ayuda a que a la válvula llegue líquido ``bien líquido''.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{Esquema_ciclo_refrigerante.png}
+  \caption{Esquema simplificado del ciclo de compresión de vapor, con los cuatro componentes principales y los estados característicos del refrigerante \cite{Kosner2016CicloRefrigeracion}.}
+  \label{fig:cycle-diagram}
+\end{figure}
+
+\subsubsection*{Etapa (1) Evaporador: absorción de calor a baja presión}
+En el evaporador, el refrigerante entra como mezcla (estado 4) y \textbf{absorbe calor} del recinto/producto. La baja presión del evaporador fija una temperatura de ebullición baja; a esa presión, el refrigerante hierve y pasa a vapor absorbiendo una gran cantidad de energía y enfriando el entorno deseado. A modo orientativo, la temperatura de evaporación suele situarse varios grados por debajo de la temperatura del aire o del producto (p.\,ej., del orden de $5$ - $8\,^\circ$C en climatización y alrededor de $-8$ a $-10\,^\circ$C en cámaras frías, según diseño). El proceso se apoya en el calor latente: gran transferencia de energía con variación pequeña de temperatura del fluido.
+
+Normalmente se busca que el refrigerante salga del evaporador como vapor ligeramente sobrecalentado (estado 1), para evitar que entre líquido al compresor.
+
+Balance energético ideal:
+\begin{equation}
+  \begin{cases}
+    \dot Q_L \approx \dot m (h_1 - h_4), \\
+    \dot Q_L > 0 \quad \text{(calor absorbido del exterior)}.
+  \end{cases}
+\end{equation}
+
+\subsubsection*{Etapa (2) Compresor: aporte de trabajo y elevación de presión}
+El compresor toma el refrigerante como vapor a baja presión (estado 1) y lo eleva a vapor a alta presión (estado 2). Este aumento de presión se necesita para que, en el condensador, el refrigerante pueda \textbf{condensar a una temperatura varios grados superior a la del ambiente} y así \textbf{ceder calor} hacia fuera.
+
+Por ejemplo, si el aire exterior está a $T_{\text{amb}}\approx 25\,^\circ$C, la temperatura de condensación debe ser necesariamente mayor (típicamente varios grados por encima, según el diseño e intercambio térmico), de lo contrario no habría gradiente térmico suficiente para evacuar el calor.
+
+La compresión implica un \textbf{aporte de trabajo mecánico} al refrigerante, incrementando su entalpía y elevando su temperatura (sale como vapor sobrecalentado), preparando el fluido para ceder calor en el condensador.
+
+Resumiendo, el compresor proporciona la energía que permite que el ciclo transfiera calor desde el foco frío al foco caliente, en coherencia con la Segunda Ley.
+
+Balance energético ideal del compresor:
+\begin{equation}
+  \begin{cases}
+    \dot Q \approx 0,\\
+    \dot W < 0 \quad \text{(el trabajo lo aporta el compresor al refrigerante)},\\
+    h_2-h_1 \approx -\dfrac{\dot W}{\dot m}.
+  \end{cases}
+\end{equation}
+
+Definiendo la potencia consumida por el compresor como $\dot W_c \equiv -\dot W > 0$, queda:
+\begin{equation}
+  \dot W_c \approx \dot m\,(h_2-h_1),
+\end{equation}
+donde $\dot W_c$ representa la potencia de entrada necesaria para realizar la compresión.
+
+
+\subsubsection*{Etapa (3) Condensador: cesión de calor y condensación a alta presión}
+En el condensador, el refrigerante entra como \textbf{vapor a alta presión} (estado 2) y \textbf{cede calor al ambiente} (aire exterior o agua de torre/radiador). Gracias a que la presión del lado de alta fija una \textbf{temperatura de condensación elevada} (por encima de la temperatura exterior), existe el gradiente térmico necesario para evacuar calor.
+
+Conviene distinguir tres tramos característicos:
+\begin{enumerate}
+  \item \textbf{Desrecalentamiento}: el vapor \emph{sobrecalentado} se enfría hasta la temperatura de ebullición (disminuye $T$ sin cambio de fase).
+  \item \textbf{Condensación}: ocurre el cambio de fase vapor $\to$ líquido, con gran cesión de energía asociada al \textbf{calor latente}, y con variación pequeña de temperatura.
+  \item \textbf{Subenfriamiento} (si se busca): el líquido se enfría por debajo de la temperatura de ebullición, lo que ayuda a reducir el riesgo de ``flash gas'' antes de la válvula de expansión y mejora la estabilidad del funcionamiento.
+\end{enumerate}
+
+Balance energético ideal del condensador:
+\begin{equation}
+  \begin{cases}
+    \dot Q_H \approx \dot m\,(h_2-h_3),\\
+    \dot Q_H < 0 \quad \text{(calor cedido al exterior)}.
+  \end{cases}
+\end{equation}
+
+
+\subsubsection*{Etapa (4) Válvula de expansión: caída de presión y formación de mezcla fría}
+La válvula de expansión (o el tubo capilar) actúa como una \textbf{restricción}: fuerza el paso del refrigerante por un orificio pequeño (o un conducto largo y fino), generando pérdidas internas por fricción y turbulencia. Como consecuencia, la \textbf{presión cae bruscamente} desde la del condensador hasta la del evaporador. Esta caída de presión es necesaria para que, en el evaporador, el refrigerante pueda \textbf{evaporar a baja temperatura}, ya que la temperatura de ebullición disminuye al bajar la presión.
+
+En el modelo habitual de \textbf{estrangulamiento}, el dispositivo se aproxima como:
+\begin{itemize}
+  \item sin trabajo (\(\dot W \approx 0\)), porque no hay mecanismo que entregue o extraiga potencia;
+  \item con intercambio de calor despreciable (\(\dot Q \approx 0\)), por ser un proceso muy rápido y un componente pequeño;
+  \item con cambios de energía cinética y potencial despreciables (aprox.).
+\end{itemize}
+Bajo estas hipótesis, el balance energético en régimen estacionario conduce a una expansión \textbf{aproximadamente isoentálpica}:
+\begin{equation}
+h_4 \approx h_3.
+\end{equation}
+
+\paragraph*{¿Por qué baja la temperatura si \(h\) se mantiene casi constante?}
+Al salir de la válvula, el refrigerante queda a la presión baja del evaporador, cuya \textbf{temperatura de ebullición} es mucho menor. Con esa nueva presión y manteniendo \(h\) aproximadamente constante, el estado del fluido entra en una región \textbf{líquido-vapor}. Por ello, una fracción del líquido \textbf{se evapora instantáneamente} (\emph{flash gas}) hasta alcanzar el equilibrio a la nueva presión. 
+Esa vaporización no toma energía del entorno (\(\dot Q \approx 0\)), sino que se alimenta de la energía del propio refrigerante, dejando como resultado una \textbf{mezcla fría} a \(T \approx T_{\text{ebullición}}(p_{evaporador})\) que entra al evaporador.
+
+\subsection{Refrigerantes: propiedades comparadas y criterios de selección (con tabla)}
+En refrigeración no basta con que un fluido ``funcione'': la selección del refrigerante se decide por un equilibrio entre
+\textbf{rendimiento}, \textbf{seguridad} y \textbf{impacto ambiental}. La Tabla~\ref{tab:refrigerantes-prop} resume propiedades clave y permite interpretar
+por qué ciertos refrigerantes se están sustituyendo.
+
+\paragraph{Cómo leer las columnas (qué significa cada propiedad).}
+\begin{itemize}
+  \item \textbf{Familia}: indica el tipo químico (p.\,ej., HFC, hidrocarburos, ``naturales'') y suele correlacionarse con tendencias regulatorias y compatibilidades.
+  \item \textbf{Seguridad (ASHRAE 34)}: letra \textbf{A/B} para toxicidad (A: menor; B: mayor) y número \textbf{1/2L/2/3} para inflamabilidad (1: no inflamable; 2L: baja inflamabilidad; 3: alta).
+  \item \textbf{$T_{\text{eb,n}}$ a 1 atm}: \emph{temperatura de ebullición normal} (1{,}013 bar). Sirve para comparar ``volatilidad'': valores más bajos indican que el fluido puede evaporar a temperaturas muy bajas \emph{si} la presión se ajusta. En el ciclo real, la $T$ de evaporación/condensación la fija la presión de operación.
+  \item \textbf{GWP$_{100}$}: potencial de calentamiento global a 100 años relativo al CO$_2$ (CO$_2$ = 1). En mezclas se usa el valor del conjunto.
+\end{itemize}
+
+\parencite{UNEP_Demystifying_Natural_Refrigerants,EU_2024_573}
+
+\begin{table}[H]
+\centering
+\footnotesize
+\renewcommand{\arraystretch}{1.25}
+\begin{tabular}{|l|l|c|c|c|}
+\hline
+\rowcolor{verdePastel}
+\textbf{Refrigerante} & \textbf{Familia} & \textbf{Seguridad} & \textbf{$T_{\text{eb,n}}$ (°C)} & \textbf{GWP\textsubscript{100} (aprox.)} \\
+\hline
+R134a & HFC & A1 & $-26$ & 1430 \\
+\hline
+R404A & mezcla HFC & A1 & $\approx -46{,}5$ & 3922 \\
+\hline
+R410A & mezcla HFC & A1 & $-51{,}6$ & 2088 \\
+\hline
+R32 & HFC & A2L & $-51{,}6$ & 675 \\
+\hline
+R290 (propano) & hidrocarburo & A3 & $-42{,}1$ & 3 \\
+\hline
+R600a (isobutano) & hidrocarburo & A3 & $-12{,}0$ & 3 \\
+\hline
+R717 (amoníaco) & ``natural'' & B2L & $-33{,}3$ & 0 \\
+\hline
+R744 (CO\textsubscript{2}) & ``natural'' & A1 & $-78{,}5$\textsuperscript{\textdagger} & 1 \\
+\hline
+\end{tabular}
+
+\caption{Comparación orientativa de refrigerantes: seguridad, punto de ebullición normal y GWP\textsubscript{100}.}
+\label{tab:refrigerantes-prop}
+
+\vspace{2pt}
+\begin{minipage}{\textwidth}
+\footnotesize
+\textit{Fuentes:} \parencite{EC_FGas_GWP_Operators,GasServei_R134a,GasServei_R32,GasServei_R410A,GasServei_R600a,GasServei_R290,GasServei_R717,AirLiquide_CO2_Props,AirLiquide_R744,DuPont_Suva407A,Winthrop_Ammonia}.\\
+\textit{Nota.} En mezclas (p.\,ej., R404A, R410A) puede existir \emph{glide} (temperatura de burbuja/rocío), por lo que el cambio de fase no ocurre a una única $T$ estrictamente constante, sino que varía en un pequeño rango de temperaturas.
+\textsuperscript{\textdagger}Para CO$_2$ a presión atmosférica no hay fase líquida estable: el valor indicado corresponde al \textbf{punto de sublimación} (paso sólido$\to$gas).
+\end{minipage}
+\end{table}
+
+
+
+% Fuentes de datos recomendadas (si quieres citarlo en el texto):
+% \parencite{EC_FGas_GWP_Operators,GasServei_R32,GasServei_R410A,GasServei_R600a,GasServei_R290,GasServei_R717,AirLiquide_CO2_Props,AirLiquide_R744,DuPont_Suva407A,Winthrop_Ammonia}
+
+
+\section{Experimentos y observaciones}
+Las siguientes observaciones/experimentos están pensadas para Bachillerato y permiten conectar el ciclo real con el modelo ideal.
+
+En cada caso se indica qué debe hacer el alumnado, qué se mide/observa y qué se entrega como evidencia evaluable.
+
+\subsubsection*{Observación - Experimento 1: mapa térmico de un frigorífico real}
+\begin{description}
+  \item[Objetivo:] identificar foco frío y foco caliente, asociarlos a evaporador/condensador y relacionarlos con la absorción/cesión de calor del ciclo. En grupos de 3 - 4 alumnos.
+  \item[Materiales:] termómetro infrarrojo o sonda digital, nevera, cronómetro, hoja de registro.
+\end{description}
+\textbf{Procedimiento:}
+    \begin{enumerate}
+      \item Medir la temperatura del \textbf{aire interior} (zona central).
+      \item Medir en la \textbf{pared del evaporador} (zona fría: pared posterior interior).
+      \item Medir en la \textbf{rejilla del condensador} (zona caliente: parrilla trasera o lateral).
+      \item Medir la \textbf{temperatura ambiente} de la sala como referencia.
+      \item Repetir medidas durante 5 - 10 min cuando el compresor esté en marcha y anotar valores. Sacar temperaturas promedio de cada zona.
+    \end{enumerate}
+\begin{description}
+  \item[Qué se observa:] el evaporador está a menor temperatura que el interior; el condensador está a mayor temperatura que el ambiente, evidenciando el gradiente necesario para absorber/ceder calor.
+  \item[Interpretación guiada:] discutir cualitativamente el balance energético global del ciclo:
+  \[
+    Q_H \approx Q_L + W_c.
+  \]
+  \item[Actividad 1 evaluable:] tabla de medidas (interior, evaporador, condensador, exterior) + comentario de 10 - 12 líneas explicando qué parte del ciclo representa cada zona y por qué debe existir \(T_{\text{cond}} > T_{\text{amb}}\) y \(T_{\text{evap}} < T_{\text{int}}\).
+  \item[Actividad 2 evaluable:]
+  Dibujar el ciclo con estados \(1\text{ - }2\text{ - }3\text{ - }4\), sentido de circulación y flechas \(Q_L\), \(Q_H\) y \(W_c\). Añadir una explicación de 10 - 15 líneas describiendo qué ocurre en evaporador, compresor, condensador y válvula.
+  \item[Actividad 3 opcional:] Elegir tres refrigerantes de la tabla \ref{tab:refrigerantes-prop} para una cámara de conservación y justificar en media página cuál elegirías, atendiendo a seguridad, GWP\textsubscript{100}, y viabilidad técnica general (p.\,ej., rangos de temperatura de ebullición, inflamabilidad/toxicidad y medidas asociadas).
+\end{description}
+
+\subsubsection*{Observación - Experimento 2: consumo eléctrico y ciclos del compresor (vatímetro)}
+\begin{description}
+  \item[Objetivo:] relacionar el trabajo del compresor con el funcionamiento real: arranques, tiempo encendido y efecto de aumentar la carga térmica (abrir la puerta).
+  \item[Materiales:] vatímetro de enchufe, cronómetro, nevera.
+\end{description}
+  \textbf{Procedimiento:}
+    \begin{enumerate}
+      \item Conectar el vatímetro y registrar la potencia (W) durante 15 min.
+      \item Contar cuántas veces \textbf{arranca el compresor} (pico claro de potencia) y cuánto tiempo total permanece encendido.
+      \item Repetir el ensayo tras abrir la puerta 1 min y volver a cerrarla; comparar los resultados.
+    \end{enumerate}
+\begin{description}
+  \item[Qué se observa:] al aumentar la entrada de calor (puerta abierta), el compresor suele arrancar más veces o estar encendido más tiempo, porque aumenta \(Q_L\) y, en consecuencia, el trabajo requerido.
+  \item[Interpretación guiada:] conectar con la idea de que el compresor aporta potencia al refrigerante y al sistema:
+  \[
+    Q_H \approx Q_L + W_c,
+  \]
+  y con que el rendimiento empeora si aumenta el ``salto térmico'' o la carga térmica.
+  \item[Actividad evaluable 1:] gráfico o tabla tiempo - potencia (o registro resumido) + comparación cuantitativa antes/después (número de arranques y minutos encendido) + conclusión de 6--8 líneas justificando el cambio observado.
+  \item[Actividad evaluable 2:] Calcular \(\mathrm{COP}_{\text{Carnot}}=\frac{T_L}{T_H-T_L}\) para las temperaturas \(T_L\) y \(T_H\) (en Kelvin) obtenidas de la Observación 1 y escribir una reflexión breve (6 - 8 líneas) sobre cómo cambia el $COP$ si aumenta el salto térmico y porque nos puede salir un $COP> 1$.
+\end{description}
+
+\subsubsection*{Observación - Experimento 3: expansión y enfriamiento (lata de aire comprimido)}
+\begin{description}
+  \item[Objetivo:] introducir la idea de caída brusca de presión y enfriamiento, como analogía del estrangulamiento previo al evaporador.
+  \item[Seguridad:] realizar en lugar ventilado; ráfagas cortas; no dirigir a piel/ojos; no usar cerca de llamas; seguir instrucciones del producto.
+  \item[Materiales:] lata de aire comprimido para limpieza, superficie metálica (p.\,ej., cuchara), termómetro (opcional).
+\end{description}
+  \textbf{Procedimiento:}
+    \begin{enumerate}
+      \item Aplicar ráfagas cortas sobre una cuchara metálica (o superficie similar) y observar el cambio térmico.
+      \item Observar la propia lata: suele enfriarse y puede aparecer condensación o escarcha superficial.
+    \end{enumerate}
+\begin{description}
+  \item[Qué se observa:] descenso claro de temperatura y, a veces, formación de escarcha por enfriamiento rápido y condensación del vapor de agua del aire.
+  \item[Interpretación guiada:] conectar con la \textbf{válvula de expansión}: al reducirse la presión, disminuye la temperatura de ebullición y puede aparecer mezcla bifásica. Todo esto se explica con ayuda del modelo isoentálpico:
+  \[
+    h_3 \approx h_4,
+  \]
+  El enfriamiento no se debe a un ``enfriador'' interno, sino a la caída de presión y al reajuste del estado del fluido.
+  \item[Actividad evaluable (entregable):] respuesta razonada (10 - 12 líneas) a: \emph{``¿Por qué baja la temperatura al salir de una válvula de expansión si no hay un foco frío dentro?''} Deben aparecer: caída de presión, temperatura de saturación y posibilidad de mezcla líquido-vapor (flash).
+\end{description}
+
+
+\section{Evaluación del ejemplo}
+La evaluación se realizará a partir de las \textbf{evidencias de aprendizaje} generadas en las tres observaciones - experimentos (registros, esquemas y respuestas razonadas). Las rúbricas incluidas priorizan la \textbf{comprensión conceptual} del ciclo de compresión de vapor: identificar correctamente foco frío/foco caliente, relacionar gradientes de temperatura con transferencia de calor, conectar el trabajo del compresor con el consumo real y justificar, de forma cualitativa, el balance energético \(Q_H \approx Q_L + W_c\) y el papel de la válvula (\(h_3 \approx h_4\)). 
+
+
+
+\begin{table}[H]
+\centering
+\footnotesize
+\renewcommand{\arraystretch}{1.25}
+\begin{tabularx}{\textwidth}{|p{4.2cm}|p{1.6cm}|X|}
+\hline
+\rowcolor{verdePastel}
+\textbf{Criterio (general)} & \textbf{Puntos} & \textbf{Qué busco al corregir (descriptores)} \\
+\hline
+
+\textbf{Datos mínimos y claridad de presentación} & \textbf{0 - 2} &
+\textbf{2}: incluye tabla con las 4 temperaturas (interior, evaporador, condensador, ambiente) y se entiende. \newline
+\textbf{1}: faltan algunos datos o está poco claro, pero se puede seguir. \newline
+\textbf{0}: no hay datos útiles o son incoherentes. \\
+\hline
+
+\textbf{Comprensión del ``foco frío'' y ``foco caliente''} & \textbf{0 - 5} &
+\textbf{5}: identifica evaporador (zona fría) y condensador (zona caliente) y lo justifica:
+\(T_{\text{evap}}<T_{\text{int}}\) y \(T_{\text{cond}}>T_{\text{amb}}\) porque debe existir gradiente térmico para absorber/ceder calor. \newline
+\textbf{3 - 4}: idea correcta pero explicación incompleta o algo confusa. \newline
+\textbf{1 - 2}: hay intuición (frío/caliente) pero mezcla partes del ciclo o no justifica. \newline
+\textbf{0}: confunde evaporador/condensador o el sentido del intercambio. \\
+\hline
+
+\textbf{Coherencia global del ciclo (energía + esquema)} & \textbf{0 - 3} &
+\textbf{3}: el esquema 1 - 2 - 3 - 4 es coherente y conecta con \(Q_L\), \(Q_H\) y \(W_c\) (aunque sea cualitativo). \newline
+\textbf{2}: mayormente correcto, con algún detalle menor mejorable. \newline
+\textbf{1}: se reconoce el ciclo pero hay flechas/etapas confusas. \newline
+\textbf{0}: no hay coherencia entre dibujo y explicación. \\
+\hline
+
+\multicolumn{3}{|p{\dimexpr\textwidth-2\tabcolsep-2\arrayrulewidth\relax}|}{%
+\textbf{Extra (+1):} Actividad 3 opcional (refrigerantes): elección razonada usando seguridad y GWP\textsubscript{100} (y alguna idea técnica básica).%
+} \\
+\hline
+
+\end{tabularx}
+\caption{Rúbrica general para la Observación - Experimento 1 (mapa térmico de un frigorífico real). Puntuación base: 10 puntos (+1 extra opcional).}
+\label{tab:rubrica-general-observacion1A}
+\end{table}
+
+\begin{table}[H]
+\centering
+\footnotesize
+\renewcommand{\arraystretch}{1.25}
+\begin{tabularx}{\textwidth}{|p{4.8cm}|p{1.6cm}|X|}
+\hline
+\rowcolor{verdePastel}
+\textbf{Criterio (general)} & \textbf{Puntos} & \textbf{Qué busco al corregir (descriptores)} \\
+\hline
+
+\textbf{Registro de potencia y ciclos del compresor} & \textbf{0 - 3} &
+\textbf{3}: aporta un registro entendible (tabla o gráfico potencia - tiempo, o resumen claro) e identifica arranques y tiempo encendido en ambos ensayos. \newline
+\textbf{2}: hay registro pero incompleto (falta algún dato clave). \newline
+\textbf{1}: datos escasos o confusos, pero se intuye el procedimiento. \newline
+\textbf{0}: no hay datos útiles o no se entiende lo que se hizo. \\
+\hline
+
+\textbf{Comparación antes/después y conclusión} & \textbf{0 - 4} &
+\textbf{4}: compara cuantitativamente (nº de arranques y/o minutos encendido) antes/después y concluye 6--8 líneas explicando coherentemente que al abrir la puerta aumenta la carga térmica y el compresor trabaja más. \newline
+\textbf{3}: comparación correcta pero explicación breve o poco conectada con la física. \newline
+\textbf{1 - 2}: hay conclusión, pero es vaga o confunde causa/efecto. \newline
+\textbf{0}: no compara o la interpretación es incorrecta. \\
+\hline
+
+\textbf{COP de Carnot (cálculo + interpretación)} & \textbf{0 - 3} &
+\textbf{3}: calcula \(\mathrm{COP}_{\text{Carnot}}=\frac{T_L}{T_H-T_L}\) usando \(T_L,T_H\) en Kelvin (de la Observación 1) y escribe 6 - 8 líneas explicando: (i) por qué puede salir \(COP>1\) y (ii) que el COP disminuye si aumenta el salto térmico \(T_H-T_L\). \newline
+\textbf{2}: cálculo correcto pero explicación parcial (falta una de las dos ideas) o viceversa. \newline
+\textbf{1}: errores de unidades (no pasa a Kelvin) o interpretación confusa. \newline
+\textbf{0}: no lo calcula o la interpretación no es válida. \\
+\hline
+
+\end{tabularx}
+\caption{Rúbrica general para la Observación - Experimento 2 (vatímetro y ciclos del compresor). Puntuación: 10 puntos.}
+\label{tab:rubrica-general-observacion2}
+\end{table}
+
+\begin{table}[H]
+\centering
+\footnotesize
+\renewcommand{\arraystretch}{1.25}
+\begin{tabularx}{\textwidth}{|p{4.8cm}|p{1.6cm}|X|}
+\hline
+\rowcolor{verdePastel}
+\textbf{Criterio (general)} & \textbf{Puntos} & \textbf{Qué busco al corregir (descriptores)} \\
+\hline
+
+\textbf{Observación y descripción del fenómeno} & \textbf{0 - 3} &
+\textbf{3}: describe claramente lo observado (enfriamiento al pulverizar, lata fría, posible condensación/escarcha) y lo expresa con sentido físico. \newline
+\textbf{2}: describe lo principal pero con poco detalle o algo confuso. \newline
+\textbf{1}: descripción muy superficial (“se enfría”) sin situar bien qué/por qué. \newline
+\textbf{0}: no describe o lo descrito no corresponde al experimento. \\
+\hline
+
+\textbf{Explicación de la caída de temperatura (presión y saturación)} & \textbf{0 - 5} &
+\textbf{5}: explica coherentemente que una caída brusca de presión reduce la temperatura de saturación; el fluido se reajusta y puede aparecer mezcla líquido-vapor (\emph{flash}), produciendo un descenso notable de temperatura \textbf{sin} necesidad de un foco frío dentro. \newline
+\textbf{3 - 4}: idea correcta (baja presión \(\Rightarrow\) baja \(T_{\text{sat}}\)) pero falta alguna pieza o la redacción es algo confusa. \newline
+\textbf{1 - 2}: hay intuición (expansión/enfriamiento) pero sin conectar con saturación/mezcla. \newline
+\textbf{0}: explicación incorrecta (p.\,ej., atribuye el enfriamiento a un “enfriador interno”). \\
+\hline
+
+\textbf{Conexión con la válvula del ciclo y modelo isoentálpico} & \textbf{0 - 2} &
+\textbf{2}: conecta explícitamente la analogía con la válvula de expansión del ciclo y menciona el modelo \(h_3 \approx h_4\) como aproximación útil (sin exigir detalle matemático). \newline
+\textbf{1}: hace la conexión con la válvula pero sin citar el modelo o con poca claridad. \newline
+\textbf{0}: no conecta con el ciclo o lo hace de forma errónea. \\
+\hline
+
+\end{tabularx}
+\caption{Rúbrica general para la Observación - Experimento 3 (expansión y enfriamiento con lata de aire comprimido). Puntuación: 10 puntos.}
+\label{tab:rubrica-general-observacion3}
+\end{table}
+
+
+\printbibliography
+
+\end{document}

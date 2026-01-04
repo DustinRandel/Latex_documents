@@ -1,0 +1,21 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'Actividad_1_Dustin_Randel_de_Lara_Garcia.blg'
+[66] biber-MSWIN64:342> INFO - === 
+[88] Biber.pm:421> INFO - Reading 'Actividad_1_Dustin_Randel_de_Lara_Garcia.bcf'
+[153] Biber.pm:1002> INFO - Found 21 citekeys in bib section 0
+[162] Biber.pm:4487> INFO - Processing section 0
+[169] Biber.pm:4678> INFO - Looking for bibtex file 'referencias.bib' for section 0
+[207] bibtex.pm:1713> INFO - LaTeX decoding ...
+[232] bibtex.pm:1519> INFO - Found BibTeX data source 'referencias.bib'
+[293] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[293] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[293] Biber.pm:4307> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'es-ES'
+[304] bbl.pm:676> INFO - Writing 'Actividad_1_Dustin_Randel_de_Lara_Garcia.bbl' with encoding 'UTF-8'
+[310] bbl.pm:779> INFO - Output to Actividad_1_Dustin_Randel_de_Lara_Garcia.bbl
+[310] Biber.pm:132> WARN - Duplicate entry key: 'WHO_FoodSafety_Summer' in file 'referencias.bib', skipping ...
+[310] Biber.pm:132> WARN - Duplicate entry key: 'Codex_CXC46_1999' in file 'referencias.bib', skipping ...
+[310] Biber.pm:132> WARN - Duplicate entry key: 'NPTEL_SimpleVCRS' in file 'referencias.bib', skipping ...
+[310] Biber.pm:132> WARN - Duplicate entry key: 'NPTEL_AnalysisVCRS' in file 'referencias.bib', skipping ...
+[310] Biber.pm:132> WARN - Possible typo (case mismatch) between datasource keys: 'EC_Fgas_Legislation' and 'EC_FGas_Legislation' in file 'referencias.bib'
+[310] Biber.pm:132> WARN - Duplicate entry key: 'NIST_Fluids' in file 'referencias.bib', skipping ...
+[310] Biber.pm:134> INFO - WARNINGS: 6

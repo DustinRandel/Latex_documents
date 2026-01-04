@@ -1,0 +1,418 @@
+\documentclass[11pt,a4paper]{article}
+
+% ---- Márgenes
+\usepackage[a4paper, left=2cm, right=2cm, top=2.5cm, bottom=2.5cm]{geometry}
+
+% ---- Idioma y fuentes (pdfLaTeX)
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish, es-tabla]{babel}
+
+% ---- “Arial-like” con pdfLaTeX: Helvetica
+\usepackage[scaled=0.92]{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+% ---- Matemáticas y tablas
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{tabularx,booktabs}
+
+% ---- Gráficos
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage[table,xcdraw]{xcolor}
+\definecolor{verdePastel}{RGB}{204, 235, 197}
+\definecolor{verdeFresco}{RGB}{60,160,60}
+
+% ---- Estilo y utilidades
+\usepackage{fancyhdr}
+\setlength{\headheight}{14pt}
+\usepackage{csquotes}
+\usepackage{parskip}
+\usepackage{array,longtable}
+\renewcommand{\arraystretch}{1.4}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{B}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+% ---- URLs más “rompibles”
+\usepackage{xurl}
+
+% ---- Bibliografía (biber)
+\usepackage[
+  backend=biber,
+  style=numeric,
+  sorting=none,
+  maxbibnames=99
+]{biblatex}
+\addbibresource{referencias.bib}
+
+% ---- Hipervínculos (cargar al final)
+\usepackage{hyperref}
+\hypersetup{
+  pdfauthor={Dustin Randel De Lara García},
+  pdftitle={Actividad Grupo A - Tema 3: Aportaciones de la Física y de la Química a la sociedad de la comunicación},
+  pdfkeywords={Física, Química, comunicación, UNED},
+  colorlinks=true,
+  linkcolor=verdeFresco,
+  urlcolor=verdeFresco,
+  citecolor=verdeFresco
+}
+
+% ---- “Tabla” en lugar de “Cuadro”
+\addto\captionsspanish{\renewcommand{\tablename}{Tabla}}
+
+% ---- Encabezados/pies
+\pagestyle{fancy}
+\rhead{UNED}
+\lhead{Actividad Grupo A - Tema 3}
+\cfoot{\thepage}
+
+\date{\today}
+
+\begin{document}
+
+\textbf{Título}: El lector de código de barras (del reflejo de la luz a la información digital)
+
+\textbf{Autor}: Dustin Randel de Lara García \href{mailto:ddelara3@alumno.uned.es}{ddelara3@alumno.uned.es}
+
+\section*{Planteamiento del tema}
+Con los avances en óptica y electrónica, la luz pasó de ser solo un fenómeno de iluminación a convertirse en una fuente de información medible. En un código de barras, pequeñas diferencias de absorción y reflexión entre barras oscuras y espacios claros generan variaciones de luz que un sensor puede transformar en señales eléctricas. 
+
+La cuestión que se plantea es cómo un patrón tan simple impreso en papel puede leerse de forma rápida y fiable en contextos reales (supermercados, logística o bibliotecas), convirtiéndose en datos digitales que identifiquen un producto sin errores: el escáner ilumina el código, registra la luz reflejada, la convierte en señal y un decodificador interpreta la secuencia resultante.
+
+\section*{Objetivo del ejemplo}
+\begin{itemize}
+  \item Introducir (a nivel divulgativo) nuevos conceptos de óptica y electrónica asociados a una tecnología cotidiana: interacción luz-superficie y detección mediante sensores.
+  \item Comprender cualitativamente cómo un lector de códigos de barras transforma un patrón impreso en una señal eléctrica y, después, en información digital decodificada.
+\end{itemize}
+
+\section*{Leyes de la Física y la Química que intervienen}
+\begin{itemize}
+  \item Interacción luz-materia: absorción y reflexión (contraste óptico).
+  \item Ley de la reflexión y reflexión especular/difusa.
+  \item Física de semiconductores: unión p-n y efecto fotoeléctrico en fotodiodos (luz → señal eléctrica).
+  \item Ley de Ohm.
+  \item Teoría de señales: ruido, filtrado y umbralización para obtener información digital.
+\end{itemize}
+
+\section*{Fenómenos que se pueden interpretar}
+\begin{itemize}
+  \item Diferencia entre absorción en barras oscuras y reflexión en espacios claros (contraste óptico).
+  \item Conversión energía luminosa → señal eléctrica en un sensor (variación de corriente/tensión).
+  \item Aparición de una señal “tipo onda” al escanear: picos (zonas claras) y valles (zonas oscuras).
+  \item Cómo influyen distancia, inclinación, brillo del papel, calidad de impresión y luz ambiente (ruido).
+  \item Idea de codificación: distintos anchos de barras/espacios representan información.
+\end{itemize}
+
+\section*{Experimentos y observaciones que se pueden llevar a cabo}
+
+Con una fuente de luz (por ejemplo, un puntero láser de baja potencia) y un sensor (fotodiodo/fototransistor), se registra cómo cambia la señal eléctrica cuando el patrón de barras se desplaza frente al sistema. A partir de las medidas se obtiene una gráfica de la señal y se aplica un criterio de umbral para convertirla en 0/1 y tratar de decodificar el código, analizando el efecto del ruido y de las condiciones de lectura.
+
+\section*{Consideraciones acerca de su adaptación al aula de bachillerato}
+
+En el caso presente, las posibles dificultades para llevarlo al aula de Bachillerato y las soluciones que pueden adoptarse son:
+
+\begin{itemize}
+  \item Conceptos fuera del temario (óptica aplicada y sensores):
+  \begin{itemize}
+    \item Solución: enfoque cualitativo con esquemas de bloques (fuente $\rightarrow$ sensor $\rightarrow$ señal $\rightarrow$ umbral $\rightarrow$ código) y analogías, sin modelos avanzados.
+  \end{itemize}
+
+  \item Decodificación real demasiado compleja (estándares EAN/UPC):
+  \begin{itemize}
+    \item Solución: usar una codificación didáctica simplificada, centrada en el paso señal $\rightarrow$ bits $\rightarrow$ identificador.
+  \end{itemize}
+
+  \item Ruido y errores de medida (luz ambiente, alineación, distancia):
+  \begin{itemize}
+    \item Solución: tratarlo como parte del aprendizaje: repetir medidas, comparar condiciones y ajustar un umbral (y filtrado simple si hace falta).
+  \end{itemize}
+
+  \item Recursos/tiempo y seguridad (especialmente si se usa láser):
+  \begin{itemize}
+    \item Solución: práctica por grupos con montaje fijo y normas de seguridad; si no hay material, trabajar con datos ya capturados para que todos puedan graficar y decodificar.
+  \end{itemize}
+\end{itemize}
+
+
+\section*{Permiso de difusión entre los participantes en el máster}
+El autor permite que el ejemplo sea difundido entre los participantes en el Máster de Formación del Profesorado de la UNED.
+
+\newpage
+\section{Desarrollo del lector de códigos de barras}
+\label{sec:desarrollo-vcr}
+
+\subsection*{Contextualización e introducción}
+
+En la sociedad de la información, una parte esencial de la comunicación no es solo transmitir mensajes entre personas, sino identificar y registrar objetos de forma rápida y fiable en procesos cotidianos (venta, inventario, logística o bibliotecas). En ese contexto, el código de barras se consolidó como una solución simple y robusta: representa un identificador mediante un patrón impreso de barras y espacios, de modo que pueda leerse automáticamente por un dispositivo.
+
+El lector de códigos de barras realiza esa lectura mediante un proceso físico-tecnológico: ilumina el patrón (típicamente con un escáner láser), las barras oscuras absorben más luz y los espacios claros reflejan más, y el sistema convierte la luz reflejada en una señal eléctrica que posteriormente es interpretada por un decodificador \parencite{UNED_Tema3_Barcode}. Esta idea enlaza con la estandarización de los códigos más extendidos en el comercio minorista, como la familia EAN/UPC \parencite{GS1_EANUPC}, cuya especificación técnica está recogida en la norma ISO/IEC 15420 \parencite{ISO_IEC_15420_2025}.
+
+A partir de esta idea, en el presente trabajo se realizará primero una fundamentación teórica que establezca las leyes y fenómenos implicados; posteriormente se explicará el proceso de lectura por etapas para clarificar la cadena completa (iluminación, detección, generación de señal y decodificación); y, finalmente, se propondrá un experimento guiado para afianzar los conceptos, acompañado de una rúbrica de evaluación para valorar el desempeño del alumnado en la actividad práctica.
+
+\subsection*{Fundamentación teórica: bases físicas y químicas que sostienen el proceso de lectura}
+\subsection{Fundamentación teórica: bases físicas y químicas que sostienen el proceso de lectura}
+
+\subsubsection{Contraste óptico: absorptancia, reflectancia y transmitancia (balance energético)}
+En radiometría, la \emph{potencia radiante} (o \emph{flujo radiante}) $\Phi$ es la energía electromagnética transportada por la luz por unidad de tiempo; se mide en vatios (W = J/s) \parencite{RIT_RadiometryIntro}. Sea $\Phi_i$ la potencia radiante incidente sobre una pequeña región del código. Por conservación de la energía, esa potencia se reparte en tres contribuciones:
+\begin{equation}
+\Phi_i = \Phi_r + \Phi_t + \Phi_a,
+\label{eq:potencias}
+\end{equation}
+donde $\Phi_r$ es la potencia reflejada, $\Phi_t$ la potencia transmitida y $\Phi_a$ la potencia absorbida \parencite{NIST_RegularSpectralTransmittance}.
+
+A partir de \eqref{eq:potencias} se definen las fracciones adimensionales (entre 0 y 1):
+\begin{equation}
+R \equiv \frac{\Phi_r}{\Phi_i}\quad\text{(reflectancia)},\qquad
+T \equiv \frac{\Phi_t}{\Phi_i}\quad\text{(transmitancia)},\qquad
+A \equiv \frac{\Phi_a}{\Phi_i}\quad\text{(absortancia)}.
+\label{eq:ARTdef}
+\end{equation}
+Dividiendo \eqref{eq:potencias} entre $\Phi_i$ y usando \eqref{eq:ARTdef} se obtiene directamente:
+\begin{equation}
+1 = R + T + A \quad \Rightarrow \quad A + R + T = 1
+\label{eq:balance}
+\end{equation}
+Esta igualdad vale siempre por conservación de la energía, pero las magnitudes $A$, $R$ y $T$ pueden depender de la longitud de onda $\lambda$ y de la geometría de iluminación/observación (por ejemplo, del ángulo de incidencia). 
+
+En soportes opacos como papel o cartón suele tomarse $T \approx 0$, por lo que $A + R \approx 1$. En un código de barras, las barras oscuras tienen mayor $A$ (menor $R$) y los espacios claros mayor $R$ (menor $A$), generando el contraste que explota el lector \parencite{UNED_Tema3_Barcode}.
+
+
+\subsubsection{Reflexión: ley de la reflexión y reflexión especular/difusa}
+Para una superficie idealmente lisa (tipo espejo), la reflexión es especular y la dirección del rayo reflejado viene fijada por la ley de la reflexión:
+\begin{equation}
+\theta_r=\theta_i,
+\label{eq:reflexion}
+\end{equation}
+donde $\theta_i$ y $\theta_r$ se miden respecto a la normal a la superficie \parencite{OpenStax_Reflection}. En ese caso, la luz reflejada se concentra en una dirección concreta, por lo que un detector fuera de esa dirección recibiría muy poca señal.
+
+En cambio, en materiales reales como el papel o muchas etiquetas, la superficie es rugosa a escala microscópica y la reflexión es mayoritariamente difusa: la luz no se devuelve en un único rayo ``como un espejo'', sino que se dispersa en múltiples direcciones \parencite{OpenStax_DiffuseReflection}. Esto explica por qué el sensor puede recibir luz reflejada aunque no esté exactamente alineado con el ángulo especular. Aun así, la geometría del montaje (ángulo y distancia entre emisor, superficie y receptor) influye en la cantidad de luz captada y, por tanto, en la amplitud de la señal medida.
+
+En la práctica, muchas superficies no son puramente difusas ni puramente especulares, sino una combinación de ambas. Por ejemplo, en envoltorios brillantes (plástico) aumenta la componente especular responsable del ``brillo'', pero suele persistir una componente difusa debida a micro-rugosidad, arrugas y a la propia tinta impresa. La lectura del código sigue siendo posible siempre que la potencia óptica recogida por el sensor conserve suficiente contraste entre barras y espacios; en superficies muy brillantes, el reflejo especular puede reducir ese contraste, haciendo más relevante la elección del ángulo de lectura y el ajuste de umbral/ganancia.
+\subsubsection{Modelo simplificado: potencia reflejada que llega al sensor}
+Sea $P_0$ la potencia óptica incidente sobre una pequeña zona del código y $\rho(x)$ la reflectancia efectiva de esa zona (alta en blanco y baja en negro). En primera aproximación, la potencia óptica que alcanza el receptor puede modelarse como
+\begin{equation}
+P_{\text{det}}(x)=\eta\,\rho(x)\,P_0,
+\label{eq:Pdet}
+\end{equation}
+donde $\eta$ agrupa la geometría del montaje (distancia, ángulo y apertura/campo de visión del receptor) y pérdidas del sistema. Esta expresión es suficiente para justificar que, al recorrer barras y espacios, la potencia reflejada que llega al sensor varía y transporta la información del patrón.
+
+\subsubsection{Fotodiodo: conversión de luz a señal eléctrica}
+El sensor (p.\,ej., un fotodiodo) convierte la potencia óptica incidente en una corriente aproximadamente proporcional. Se introduce la \emph{responsividad} $\mathcal{R}(\lambda)$ (en A/W), y se aproxima:
+\begin{equation}
+I_{ph}(x)\approx \mathcal{R}(\lambda)\,P_{\text{det}}(x).
+\label{eq:Iph_simple}
+\end{equation}
+Esta relación permite conectar directamente ``más luz reflejada'' con ``más señal eléctrica'', que es la base para distinguir zonas claras y oscuras durante el escaneo \parencite{Hamamatsu_SiPhotodiodes}.
+
+\subsubsection{Acondicionamiento: de corriente a tensión}
+Para poder medir y procesar la señal, la fotocorriente se transforma en una tensión.  La forma más simple consiste en hacer circular la fotocorriente por una resistencia de carga $R_L$, de modo que la salida viene dada aproximadamente por la ley de Ohm:
+\begin{equation}
+V_{out}(x)\approx I_{ph}(x)\,R_L.
+\label{eq:RL_simple}
+\end{equation}
+ El circuito convierte la luz recibida en una tensión que sube y baja al pasar por barras y espacios \parencite{TI_SBOA061}.
+
+\subsubsection{Ruido y variabilidad: por qué la señal no es perfecta}
+En condiciones reales la señal no es ideal: hay fluctuaciones por luz ambiente, distancia, inclinación, brillo del soporte y ruido eléctrico del propio circuito. Por ello, antes de convertir a 0/1 suele aplicarse algún tipo de estabilización (p.\,ej.\ filtrado simple o promediado) y se elige un umbral con margen para evitar errores cuando la señal oscila cerca del punto de decisión \parencite{TI_SBOA061}.
+
+\subsubsection{Digitalización y muestreo: de una señal continua a una secuencia 0/1}
+La lectura se interpreta como una señal que varía con la posición $x$ (o con el tiempo $t$ si el punto de lectura se desplaza). Para reconstruir el patrón, es necesario tomar medidas con suficiente ``resolución'': en términos prácticos, el paso de muestreo (espacial o temporal) debe ser lo bastante pequeño como para distinguir las transiciones entre barras y espacios y estimar sus anchos. A partir de la señal medida, un umbral permite transformar la variación continua en una secuencia binaria (alto/bajo) que representa el patrón \parencite{MIT_OCW_Sampling}.
+
+\subsubsection{Codificación y decodificación: del patrón al identificador}
+Una vez obtenida la secuencia digital, el decodificador interpreta los anchos relativos de barras y espacios según unas reglas. En aplicaciones reales estas reglas siguen estándares; por ejemplo, la simbología EAN/UPC está normalizada y ampliamente utilizada en el etiquetado comercial \parencite{ISO_IEC_15420_2025,GS1_EANUPC}. En un enfoque de aula puede emplearse una codificación simplificada para centrarse en la idea esencial: contraste óptico $\rightarrow$ señal eléctrica $\rightarrow$ señal digital $\rightarrow$ identificador \parencite{UNED_Tema3_Barcode}.
+
+\subsection{Proceso de lectura: del contraste óptico al identificador}
+
+El funcionamiento de un lector de códigos de barras puede describirse de forma compacta como una cadena de conversión:
+\[
+\text{contraste óptico} \;\rightarrow\; \text{señal eléctrica} \;\rightarrow\; \text{señal digital} \;\rightarrow\; \text{identificador}.
+\]
+Esta descripción resume el comportamiento de muchos lectores 1D: el sistema no forma una imagen completa, sino que obtiene una señal a partir de la variación de luz reflejada mientras el punto de lectura recorre el código \parencite{Swartz2012_BarCodeScanning,Honeywell_BarcodeScannersGuide}. En los lectores láser clásicos, dicho punto se desplaza rápidamente mediante un elemento de barrido (espejo o prisma) y, por persistencia de la visión, ese desplazamiento suele percibirse como una línea luminosa \parencite{Honeywell_BarcodeScannersGuide}.
+
+Desde el punto de vista físico, el barrido convierte el patrón espacial en señal temporal: si la posición del punto sobre el código es $x(t)$ y el movimiento se aproxima por velocidad constante $v$, entonces
+\begin{equation}
+x(t)=v\,t,
+\label{eq:xt_vt}
+\end{equation}
+de modo que la información del símbolo queda codificada en una señal que evoluciona con el tiempo \parencite{Swartz2012_BarCodeScanning}.
+
+\subsubsection{Contraste óptico}
+El contraste del símbolo puede describirse mediante una reflectancia efectiva $R(t)$ asociada a la zona iluminada en cada instante: $R(t)$ toma valores altos cuando el haz incide en espacios claros y valores bajos cuando incide en barras oscuras. Como ya comentamos en la fundamentación teórica, una aproximación mínima para la potencia que alcanza el receptor es en este caso:
+\begin{equation}
+P_{\text{det}}(t)=\eta\,R(t)\,P_0
+\label{eq:Pdet_chain_t}
+\end{equation}
+Esta etapa establece el vínculo esencial entre el patrón impreso y la señal óptica que alimentará al detector fotoeléctrico \parencite{Honeywell_BarcodeScannersGuide}.
+
+\subsubsection{De contraste óptico a señal eléctrica}
+La potencia óptica recogida se convierte en señal eléctrica mediante un sensor fotoeléctrico, típicamente un fotodiodo. En un rango de operación habitual, la fotocorriente generada es:
+\begin{equation}
+I_{ph}(t)\approx \mathcal{S}(\lambda)\,P_{\text{det}}(t),
+\label{eq:Iph_chain}
+\end{equation}
+ Así, cuando el punto de lectura pasa por una zona clara, $P_{\text{det}}$ aumenta y también lo hace la corriente; cuando pasa por una barra oscura, ambas disminuyen.
+
+Para poder medir y procesar esta corriente, es necesario convertirla en una tensión. La forma más simple consiste en seguir la siguiente expresión con haciendo circular la fotocorriente por una resistencia de carga $R_L$:
+\begin{equation}
+V_{\text{out}}(t)\approx R_L\,I_{ph}(t).
+\label{eq:Vout_RL}
+\end{equation}
+En lectores reales se utilizan circuitos de acondicionamiento más robustos (por ejemplo, amplificadores de transimpedancia) que permiten ajustar la sensibilidad y estabilizar la señal frente a perturbaciones, pero el objetivo es el mismo: obtener una tensión $V_{\text{out}}(t)$ que reproduzca con claridad las variaciones claro/oscuro y pueda pasar a la etapa de digitalización \parencite{TI_SBOA061_PhotodiodeAmplifiers}.
+
+\subsubsection{De señal eléctrica a señal digital}
+La salida acondicionada es analógica (continua) y debe transformarse en una secuencia binaria. El principio básico es aplicar un umbral $V_{th}$ a la señal:
+\begin{equation}
+b(t)=
+\begin{cases}
+1, & V_{\text{out}}(t)\ge V_{th} \\
+0, & V_{\text{out}}(t)< V_{th}
+\end{cases}
+\label{eq:threshold_chain}
+\end{equation}
+obteniendo una señal digital que alterna niveles según barras y espacios. En esta etapa influyen las perturbaciones reales (luz ambiente, brillo del soporte, inclinación, distancia), por lo que suele ser necesario filtrar o suavizar ligeramente la señal y elegir el umbral con margen para evitar cambios espurios cuando hay ruido \parencite{TI_SBOA061_PhotodiodeAmplifiers}. En lectores con barrido, el patrón espacial se convierte en patrón temporal: los anchos de barras/espacios pasan a ser duraciones (o número de muestras), que luego se medirán para interpretar la simbología \parencite{Swartz2012_BarCodeScanning}.
+
+\subsubsection{De señal digital a identificador}
+Una vez disponible la secuencia binaria (y sus anchos relativos), el sistema aplica reglas de decodificación para obtener el identificador. En el comercio, la familia EAN/UPC está estandarizada: la norma ISO/IEC 15420 especifica la simbología y parámetros asociados, y las especificaciones de GS1 describen el uso del identificador (p.\,ej., GTIN) \parencite{ISO_IEC_15420_2025,GS1_GeneralSpecifications}. Además, estos códigos incorporan un dígito de control (check digit) que permite verificar rápidamente si una lectura es consistente y rechazar lecturas con errores \parencite{GS1US_CheckDigitPDF}. De este modo se completa la cadena: un fenómeno físico (contraste óptico) termina produciendo un dato fiable (identificador) utilizable por un sistema informático.
+
+
+\section{Experimento}
+\label{sec:experimento}
+
+\subsection{Objetivo didáctico}
+El objetivo del experimento es reproducir, con un montaje sencillo, la cadena de conversión que sigue un lector 1D:
+\[
+\text{contraste óptico} \;\rightarrow\; \text{señal eléctrica} \;\rightarrow\; \text{señal digital}.
+\]
+En particular, se pretende (i) obtener una señal $V_{\text{out}}$ que varíe al pasar por zonas claras/oscuras, (ii) representar y analizar esa señal, y (iii) aplicar un umbral para convertirla en una secuencia binaria $0/1$ (sin entrar en decodificación estándar EAN/UPC, que requiere además medir anchos relativos con precisión) \parencite{Swartz2012_BarCodeScanning,ISO_IEC_15420_2025}.
+
+\subsection{Materiales}
+\begin{itemize}
+  \item Fuente de luz: puntero láser de baja potencia (preferiblemente clase 2) o LED colimado.
+  \item Superficie con patrón: código de barras impreso en papel (o plantilla didáctica con barras anchas).
+  \item Sensor de luz: fotodiodo / fototransistor en un módulo sencillo (recomendado) o sensor analógico de luz compatible con Arduino.
+  \item Resistencia de carga $R_L$ (p.\,ej., $10~\text{k}\Omega$ a $100~\text{k}\Omega$) y cables/protoboard.
+  \item Sistema de medida: multímetro (modo voltímetro) y/o Arduino (entrada analógica).
+  \item Soporte/montaje fijo: pinzas, base, regla o carril para desplazar el papel de forma controlada.
+\end{itemize}
+
+\subsection{Seguridad}
+Si se utiliza un láser, se trabaja con el haz fijado en un soporte, evitando en todo momento dirigirlo hacia los ojos y sin mirar directamente al haz (ni a reflejos especulares intensos). Estas precauciones son coherentes con recomendaciones de seguridad para radiación láser en productos de baja potencia (clase 2) \parencite{UKHSA_LaserSafetyAdvice,Manchester_LaserSafety}.
+
+\subsection{Montaje experimental (descripción general)}
+\begin{enumerate}
+  \item Se fija el láser apuntando hacia el papel, iluminando una región pequeña del patrón.
+  \item Se coloca el sensor de luz cerca del haz reflejado (mismo lado que el emisor), a una distancia y ángulo donde reciba señal estable. En papel mate, la componente difusa ayuda a que el sensor reciba luz sin necesitar un alineado ``tipo espejo'' \parencite{OpenStax_LawOfReflection}.
+  \item El papel con el patrón se coloca sobre una regla/carril y se desplaza lentamente (o paso a paso) frente al haz, procurando que el punto de iluminación recorra el código perpendicularmente a las barras.
+\end{enumerate}
+
+\subsection{Procedimiento}
+\begin{enumerate}
+  \item \textbf{Calibración rápida:}
+  con el láser apagado, medir $V_{\text{out}}$ (luz ambiente). Encender el láser y ajustar la posición del sensor hasta obtener una variación apreciable al alternar entre una zona blanca y una negra del papel.
+  \item \textbf{Elección de $R_L$:}
+  si $V_{\text{out}}$ es demasiado pequeño, aumentar $R_L$; si satura o es muy ruidoso, reducir $R_L$. (La relación \eqref{eq:vout_rl_exp} explica este ajuste.)
+  \item \textbf{Adquisición de datos:}
+  desplazar el papel en pasos regulares (por ejemplo, $\Delta x = 1~\text{mm}$) y registrar $V_{\text{out}}$ en cada posición. Alternativamente, si se usa Arduino, registrar $V_{\text{out}}(t)$ mientras se mueve el papel a velocidad aproximadamente constante.
+  \item \textbf{Repetición controlada:}
+  repetir el recorrido al menos dos veces y comparar. Realizar, si se desea, una tercera medida cambiando una condición (más luz ambiente, distinta distancia sensor--papel, distinta inclinación) para observar cómo afecta al ruido/contraste.
+\end{enumerate}
+
+\subsection{Tratamiento de datos: de señal analógica a bits}
+\subsubsection{Representación}
+Se grafica $V_{\text{out}}$ frente al índice de medida $n$ (o frente al tiempo si se registró $V_{\text{out}}(t)$). Se deben identificar visualmente:
+\begin{itemize}
+  \item \emph{mesetas altas} (espacios claros) y \emph{mesetas bajas} (barras oscuras),
+  \item \emph{transiciones} entre ambos niveles (bordes).
+\end{itemize}
+
+\subsubsection{Elección de umbral y binarización}
+Se elige un umbral simple, por ejemplo
+\[
+V_{th}=\frac{V_{\max}+V_{\min}}{2},
+\]
+y se define la señal binaria:
+\begin{equation}
+b(n)=
+\begin{cases}
+1, & V_{\text{out}}(n)\ge V_{th}\\
+0, & V_{\text{out}}(n)< V_{th}
+\end{cases}
+\end{equation}
+Este paso reproduce la idea central del lector: convertir una señal con variación clara/oscura en una secuencia digital. En sistemas reales, además, se consideran anchos/duraciones para decodificar simbologías estándar \parencite{Swartz2012_BarCodeScanning,ISO_IEC_15420_2025}.
+
+\subsubsection{Discusión del ``no es tan fácil'' (sin complicar)}
+Para no complicar, en este experimento nos quedamos en el nivel $0/1$. No obstante, una decodificación real requiere \emph{medir anchos relativos} de barras y espacios (duraciones en $t$ o número de muestras), detectar patrones de inicio/fin y aplicar reglas del estándar (EAN/UPC), además de verificar el dígito de control \parencite{ISO_IEC_15420_2025,GS1_GeneralSpecifications,GS1US_CheckDigitPDF}.
+
+\subsection{Actividades para comprobar comprensión (antes, durante y después)}
+\subsubsection{Actividad 1 (pre-lab): predicción cualitativa}
+\begin{enumerate}
+  \item Dibujar un esquema de bloques de la cadena:
+  fuente $\rightarrow$ superficie $\rightarrow$ sensor $\rightarrow$ acondicionamiento $\rightarrow$ umbral $\rightarrow$ bits.
+  \item Indicar qué variable es mayor en blanco que en negro: $R$, $P_{\text{det}}$, $I_{ph}$ y $V_{\text{out}}$.
+  \item Explicar por qué la señal $V_{\text{out}}$ es continua aunque el patrón sea discreto (tamaño finito del punto, promediado óptico y respuesta no instantánea del circuito).
+\end{enumerate}
+
+\subsubsection{Actividad 2 (durante el lab): toma de datos y control de variables}
+\begin{enumerate}
+  \item Registrar una tabla con $n$ (o $x$) y $V_{\text{out}}$ para al menos 30 medidas.
+  \item Repetir el barrido y calcular el valor medio y la dispersión en 3 puntos (uno claramente blanco, uno claramente negro, uno en borde).
+  \item Probar una variación (luz ambiente o distancia) y anotar cómo cambia $V_{\max}-V_{\min}$ (contraste) y el ``ruido'' visible.
+\end{enumerate}
+
+\subsubsection{Actividad 3 (post-lab): binarización y reflexión}
+\begin{enumerate}
+  \item Representar la gráfica $V_{\text{out}}(n)$ y marcar un umbral $V_{th}$ razonable.
+  \item Construir la secuencia $b(n)$ y señalar al menos 5 transiciones (cambios $0\leftrightarrow 1$).
+  \item Preguntas cortas:
+  \begin{itemize}
+    \item ¿Qué ocurre si $V_{th}$ se elige demasiado alto? ¿y demasiado bajo?
+    \item ¿Qué condición experimental aumentó más los errores: más luz ambiente, más distancia o mayor inclinación? Justificar con la gráfica.
+    \item Proponer dos mejoras del montaje para aumentar fiabilidad (p.\,ej.\ fijación mecánica, sombreado contra luz ambiente, repetir y promediar, acercar el sensor, etc.).
+  \end{itemize}
+\end{enumerate}
+
+
+\section{Evaluación del ejemplo}
+La Tabla~\ref{tab:rubrica-experimento-barcode} presenta la rúbrica empleada para evaluar las \textit{entregas del alumnado} asociadas al experimento (registro de datos, gráficas, binarización y reflexión final), valorando la calidad del trabajo presentado y la comprensión del proceso de lectura.
+\begin{table}[H]
+\centering
+\footnotesize
+\renewcommand{\arraystretch}{1.25}
+\begin{tabularx}{\textwidth}{|p{4.8cm}|p{1.6cm}|X|}
+\hline
+\rowcolor{verdePastel}
+\textbf{Criterio (general)} & \textbf{Puntos} & \textbf{Qué busco al corregir (descriptores)} \\
+\hline
+
+\textbf{Comprensión previa (pre-lab): cadena y predicciones} & \textbf{0 -- 3} &
+\textbf{3}: presenta un esquema de bloques claro de la cadena completa y realiza predicciones correctas (qué magnitudes aumentan/disminuyen en blanco vs.\ negro); explica de forma coherente por qué la señal medida es continua aunque el patrón sea discreto. \newline
+\textbf{2}: esquema y predicciones mayoritariamente correctas, pero con alguna omisión o explicación incompleta. \newline
+\textbf{1}: trabajo parcial o confuso; varias predicciones incorrectas y justificación débil. \newline
+\textbf{0}: no entrega o el contenido es incorrecto. \\
+\hline
+
+\textbf{Trabajo experimental (durante el lab): datos y control de variables} & \textbf{0 -- 4} &
+\textbf{4}: registra datos suficientes y ordenados (tabla) y muestra repetición/consistencia; incluye algún cálculo simple (media/variabilidad) y analiza el efecto de cambiar una condición (contraste/ruido), con una conclusión breve. \newline
+\textbf{3}: datos correctos pero incompletos (poca repetición o análisis parcial). \newline
+\textbf{1 -- 2}: datos escasos o poco claros; análisis superficial o sin comparación. \newline
+\textbf{0}: no hay datos útiles. \\
+\hline
+
+\textbf{Tratamiento y reflexión (post-lab): gráfica, binarización y mejora} & \textbf{0 -- 3} &
+\textbf{3}: representa la señal correctamente, propone un umbral razonable y obtiene una secuencia binaria coherente; responde a las cuestiones justificando con la gráfica y propone mejoras realistas del montaje. \newline
+\textbf{2}: tratamiento correcto pero con alguna justificación incompleta (umbral o mejoras poco argumentadas). \newline
+\textbf{1}: entrega parcial (falta gráfica o binarización) o interpretación confusa. \newline
+\textbf{0}: no realiza el tratamiento o es mayoritariamente incorrecto. \\
+\hline
+
+\end{tabularx}
+\caption{Rúbrica general (3 criterios) para evaluar las actividades asociadas al experimento de lectura de código de barras. Puntuación total: 10 puntos.}
+\label{tab:rubrica-actividades-barcode}
+\end{table}
+
+
+\printbibliography
+
+\end{document}

@@ -1,0 +1,611 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{UNED_Tema3_Barcode}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=0cfa2a175d068405f1f97582f6c17b2a}{%
+           family={{UNED}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{0cfa2a175d068405f1f97582f6c17b2a}
+      \strng{fullhash}{0cfa2a175d068405f1f97582f6c17b2a}
+      \strng{fullhashraw}{0cfa2a175d068405f1f97582f6c17b2a}
+      \strng{bibnamehash}{0cfa2a175d068405f1f97582f6c17b2a}
+      \strng{authorbibnamehash}{0cfa2a175d068405f1f97582f6c17b2a}
+      \strng{authornamehash}{0cfa2a175d068405f1f97582f6c17b2a}
+      \strng{authorfullhash}{0cfa2a175d068405f1f97582f6c17b2a}
+      \strng{authorfullhashraw}{0cfa2a175d068405f1f97582f6c17b2a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Documento PDF del material de la asignatura. Apartado 2.6: ``El lector de código de barras''}
+      \field{title}{Tema 3: Aportaciones de la Física y de la Química a la sociedad de la comunicación}
+      \field{year}{n.d.}
+    \endentry
+    \entry{GS1_EANUPC}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=cf301661e1df9727a6c2c6c963c49d55}{%
+           family={{GS1}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{cf301661e1df9727a6c2c6c963c49d55}
+      \strng{fullhash}{cf301661e1df9727a6c2c6c963c49d55}
+      \strng{fullhashraw}{cf301661e1df9727a6c2c6c963c49d55}
+      \strng{bibnamehash}{cf301661e1df9727a6c2c6c963c49d55}
+      \strng{authorbibnamehash}{cf301661e1df9727a6c2c6c963c49d55}
+      \strng{authornamehash}{cf301661e1df9727a6c2c6c963c49d55}
+      \strng{authorfullhash}{cf301661e1df9727a6c2c6c963c49d55}
+      \strng{authorfullhashraw}{cf301661e1df9727a6c2c6c963c49d55}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{EAN/UPC barcodes}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{n.d.}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gs1.org/standards/barcodes/ean-upc
+      \endverb
+      \verb{url}
+      \verb https://www.gs1.org/standards/barcodes/ean-upc
+      \endverb
+    \endentry
+    \entry{ISO_IEC_15420_2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=5b512ee8a59deb284ad0a6a035ba10b1}{%
+           family={{ISO}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{5b512ee8a59deb284ad0a6a035ba10b1}
+      \strng{fullhash}{5b512ee8a59deb284ad0a6a035ba10b1}
+      \strng{fullhashraw}{5b512ee8a59deb284ad0a6a035ba10b1}
+      \strng{bibnamehash}{5b512ee8a59deb284ad0a6a035ba10b1}
+      \strng{authorbibnamehash}{5b512ee8a59deb284ad0a6a035ba10b1}
+      \strng{authornamehash}{5b512ee8a59deb284ad0a6a035ba10b1}
+      \strng{authorfullhash}{5b512ee8a59deb284ad0a6a035ba10b1}
+      \strng{authorfullhashraw}{5b512ee8a59deb284ad0a6a035ba10b1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ISO/IEC 15420:2025 — Information technology — Automatic identification and data capture techniques — EAN/UPC bar code symbology specification}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.iso.org/standard/84892.html
+      \endverb
+      \verb{url}
+      \verb https://www.iso.org/standard/84892.html
+      \endverb
+    \endentry
+    \entry{RIT_RadiometryIntro}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=64afcbed1f0423c5d4d78b139134cc40}{%
+           family={{Rochester Institute of Technology (RIT)}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{64afcbed1f0423c5d4d78b139134cc40}
+      \strng{fullhash}{64afcbed1f0423c5d4d78b139134cc40}
+      \strng{fullhashraw}{64afcbed1f0423c5d4d78b139134cc40}
+      \strng{bibnamehash}{64afcbed1f0423c5d4d78b139134cc40}
+      \strng{authorbibnamehash}{64afcbed1f0423c5d4d78b139134cc40}
+      \strng{authornamehash}{64afcbed1f0423c5d4d78b139134cc40}
+      \strng{authorfullhash}{64afcbed1f0423c5d4d78b139134cc40}
+      \strng{authorfullhashraw}{64afcbed1f0423c5d4d78b139134cc40}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Radiometry \& Photometry: Introduction}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.cis.rit.edu/class/simg401/Radiometry_Photometry_Intro.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.cis.rit.edu/class/simg401/Radiometry_Photometry_Intro.pdf
+      \endverb
+    \endentry
+    \entry{NIST_RegularSpectralTransmittance}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=3890a878cf9ff4b382a676b5d7d51181}{%
+           family={{National Institute of Standards and Technology (NIST)}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{fullhash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{fullhashraw}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{bibnamehash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{authorbibnamehash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{authornamehash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{authorfullhash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{authorfullhashraw}{3890a878cf9ff4b382a676b5d7d51181}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regular Spectral Transmittance}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=840999
+      \endverb
+      \verb{url}
+      \verb https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=840999
+      \endverb
+    \endentry
+    \entry{OpenStax_Reflection}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=958fd1d1699cbc3a1e96692dbf30b72e}{%
+           family={{OpenStax}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {University Physics, Volume 3}%
+      }
+      \strng{namehash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{fullhash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{fullhashraw}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{bibnamehash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{authorbibnamehash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{authornamehash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{authorfullhash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{authorfullhashraw}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \field{extraname}{1}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{1.2 The Law of Reflection}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://openstax.org/books/university-physics-volume-3/pages/1-2-the-law-of-reflection
+      \endverb
+      \verb{url}
+      \verb https://openstax.org/books/university-physics-volume-3/pages/1-2-the-law-of-reflection
+      \endverb
+    \endentry
+    \entry{OpenStax_DiffuseReflection}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=958fd1d1699cbc3a1e96692dbf30b72e}{%
+           family={{OpenStax}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{fullhash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{fullhashraw}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{bibnamehash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{authorbibnamehash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{authornamehash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{authorfullhash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{authorfullhashraw}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \field{extraname}{2}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{25.2 The Law of Reflection (Diffuse Reflection on Rough Surfaces)}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://openstax.org/books/college-physics-2e/pages/25-2-the-law-of-reflection
+      \endverb
+      \verb{url}
+      \verb https://openstax.org/books/college-physics-2e/pages/25-2-the-law-of-reflection
+      \endverb
+    \endentry
+    \entry{Hamamatsu_SiPhotodiodes}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=5a9a5a9aa10ce40652e16a734558da1f}{%
+           family={{Hamamatsu Photonics}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{5a9a5a9aa10ce40652e16a734558da1f}
+      \strng{fullhash}{5a9a5a9aa10ce40652e16a734558da1f}
+      \strng{fullhashraw}{5a9a5a9aa10ce40652e16a734558da1f}
+      \strng{bibnamehash}{5a9a5a9aa10ce40652e16a734558da1f}
+      \strng{authorbibnamehash}{5a9a5a9aa10ce40652e16a734558da1f}
+      \strng{authornamehash}{5a9a5a9aa10ce40652e16a734558da1f}
+      \strng{authorfullhash}{5a9a5a9aa10ce40652e16a734558da1f}
+      \strng{authorfullhashraw}{5a9a5a9aa10ce40652e16a734558da1f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Technical note: Si photodiodes}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{n.d.}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.hamamatsu.com/content/dam/hamamatsu-photonics/sites/documents/99_SALES_LIBRARY/ssd/si_pd_kspd9001e.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.hamamatsu.com/content/dam/hamamatsu-photonics/sites/documents/99_SALES_LIBRARY/ssd/si_pd_kspd9001e.pdf
+      \endverb
+    \endentry
+    \entry{TI_SBOA061}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=67e54b1ee931f3f4bddfefa5fbde5fd8}{%
+           family={{Texas Instruments}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \strng{fullhash}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \strng{fullhashraw}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \strng{bibnamehash}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \strng{authorbibnamehash}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \strng{authornamehash}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \strng{authorfullhash}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \strng{authorfullhashraw}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Designing Photodiode Amplifier Circuits With OPA128 (SBOA061)}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{n.d.}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ti.com/lit/pdf/sboa061
+      \endverb
+      \verb{url}
+      \verb https://www.ti.com/lit/pdf/sboa061
+      \endverb
+    \endentry
+    \entry{MIT_OCW_Sampling}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=c8f17b9639fd4046dd85c2daf62d2605}{%
+           family={{MIT OpenCourseWare}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c8f17b9639fd4046dd85c2daf62d2605}
+      \strng{fullhash}{c8f17b9639fd4046dd85c2daf62d2605}
+      \strng{fullhashraw}{c8f17b9639fd4046dd85c2daf62d2605}
+      \strng{bibnamehash}{c8f17b9639fd4046dd85c2daf62d2605}
+      \strng{authorbibnamehash}{c8f17b9639fd4046dd85c2daf62d2605}
+      \strng{authornamehash}{c8f17b9639fd4046dd85c2daf62d2605}
+      \strng{authorfullhash}{c8f17b9639fd4046dd85c2daf62d2605}
+      \strng{authorfullhashraw}{c8f17b9639fd4046dd85c2daf62d2605}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lecture 16: Sampling (Signals and Systems)}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/resources/lecture-16-sampling/
+      \endverb
+      \verb{url}
+      \verb https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/resources/lecture-16-sampling/
+      \endverb
+    \endentry
+    \entry{Swartz2012_BarCodeScanning}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=2a53f83aaaa5fdfa0ef05a5637b2ef83}{%
+           family={Swartz},
+           familyi={S\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=de40583ac1ca424f33e1d3c10e06ff86}{%
+           family={Branca},
+           familyi={B\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+        {{hash=eebcb37bd839cfe240053fde3d0a432a}{%
+           family={Bertoia},
+           familyi={B\bibinitperiod},
+           given={Marianna},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ee3798c9f8009ffb827a3fd6d7f940bb}{%
+           family={Ausburger},
+           familyi={A\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{fdfeee4ba93d716991f7a27c8eb52ece}
+      \strng{fullhash}{dc756efd7af72eeef70c048673f6e6db}
+      \strng{fullhashraw}{dc756efd7af72eeef70c048673f6e6db}
+      \strng{bibnamehash}{dc756efd7af72eeef70c048673f6e6db}
+      \strng{authorbibnamehash}{dc756efd7af72eeef70c048673f6e6db}
+      \strng{authornamehash}{fdfeee4ba93d716991f7a27c8eb52ece}
+      \strng{authorfullhash}{dc756efd7af72eeef70c048673f6e6db}
+      \strng{authorfullhashraw}{dc756efd7af72eeef70c048673f6e6db}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scholarpedia}
+      \field{number}{9}
+      \field{title}{Bar code scanning}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{volume}{7}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{12215}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb http://www.scholarpedia.org/article/Bar_code_scanning
+      \endverb
+      \verb{url}
+      \verb http://www.scholarpedia.org/article/Bar_code_scanning
+      \endverb
+    \endentry
+    \entry{Honeywell_BarcodeScannersGuide}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=5275c6b314787401bd2030b71600e79c}{%
+           family={{Honeywell}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{5275c6b314787401bd2030b71600e79c}
+      \strng{fullhash}{5275c6b314787401bd2030b71600e79c}
+      \strng{fullhashraw}{5275c6b314787401bd2030b71600e79c}
+      \strng{bibnamehash}{5275c6b314787401bd2030b71600e79c}
+      \strng{authorbibnamehash}{5275c6b314787401bd2030b71600e79c}
+      \strng{authornamehash}{5275c6b314787401bd2030b71600e79c}
+      \strng{authorfullhash}{5275c6b314787401bd2030b71600e79c}
+      \strng{authorfullhashraw}{5275c6b314787401bd2030b71600e79c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Complete guide to barcode scanners}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.honeywell.com/us/en/news/featured-stories/2019/11/interesting-facts-about-barcode-scanners
+      \endverb
+      \verb{url}
+      \verb https://www.honeywell.com/us/en/news/featured-stories/2019/11/interesting-facts-about-barcode-scanners
+      \endverb
+    \endentry
+    \entry{TI_SBOA061_PhotodiodeAmplifiers}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=67e54b1ee931f3f4bddfefa5fbde5fd8}{%
+           family={{Texas Instruments}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Texas Instruments}%
+      }
+      \strng{namehash}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \strng{fullhash}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \strng{fullhashraw}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \strng{bibnamehash}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \strng{authorbibnamehash}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \strng{authornamehash}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \strng{authorfullhash}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \strng{authorfullhashraw}{67e54b1ee931f3f4bddfefa5fbde5fd8}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Designing Photodiode Amplifier Circuits with OPA128 (SBOA061)}
+      \field{type}{techreport}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ti.com/lit/pdf/sboa061
+      \endverb
+      \verb{url}
+      \verb https://www.ti.com/lit/pdf/sboa061
+      \endverb
+    \endentry
+    \entry{GS1_GeneralSpecifications}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=cf301661e1df9727a6c2c6c963c49d55}{%
+           family={{GS1}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {GS1}%
+      }
+      \strng{namehash}{cf301661e1df9727a6c2c6c963c49d55}
+      \strng{fullhash}{cf301661e1df9727a6c2c6c963c49d55}
+      \strng{fullhashraw}{cf301661e1df9727a6c2c6c963c49d55}
+      \strng{bibnamehash}{cf301661e1df9727a6c2c6c963c49d55}
+      \strng{authorbibnamehash}{cf301661e1df9727a6c2c6c963c49d55}
+      \strng{authornamehash}{cf301661e1df9727a6c2c6c963c49d55}
+      \strng{authorfullhash}{cf301661e1df9727a6c2c6c963c49d55}
+      \strng{authorfullhashraw}{cf301661e1df9727a6c2c6c963c49d55}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GS1 General Specifications (Release 21.0.1)}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gs1jp.org/assets/img/pdf/GS1_General_Specifications.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.gs1jp.org/assets/img/pdf/GS1_General_Specifications.pdf
+      \endverb
+    \endentry
+    \entry{GS1US_CheckDigitPDF}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=7c974d81f2e9f2d897e6f27b5c0838b0}{%
+           family={{GS1 US}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {GS1 US}%
+      }
+      \strng{namehash}{7c974d81f2e9f2d897e6f27b5c0838b0}
+      \strng{fullhash}{7c974d81f2e9f2d897e6f27b5c0838b0}
+      \strng{fullhashraw}{7c974d81f2e9f2d897e6f27b5c0838b0}
+      \strng{bibnamehash}{7c974d81f2e9f2d897e6f27b5c0838b0}
+      \strng{authorbibnamehash}{7c974d81f2e9f2d897e6f27b5c0838b0}
+      \strng{authornamehash}{7c974d81f2e9f2d897e6f27b5c0838b0}
+      \strng{authorfullhash}{7c974d81f2e9f2d897e6f27b5c0838b0}
+      \strng{authorfullhashraw}{7c974d81f2e9f2d897e6f27b5c0838b0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How to Calculate a Check Digit (Manual)}
+      \field{type}{techreport}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://documents.gs1us.org/adobe/assets/deliver/urn%3Aaaid%3Aaem%3A77c80eac-d4e2-41b1-a80d-97739060e8f4/How-to-Calculate-a-Check-Digit.pdf
+      \endverb
+      \verb{url}
+      \verb https://documents.gs1us.org/adobe/assets/deliver/urn%3Aaaid%3Aaem%3A77c80eac-d4e2-41b1-a80d-97739060e8f4/How-to-Calculate-a-Check-Digit.pdf
+      \endverb
+    \endentry
+    \entry{UKHSA_LaserSafetyAdvice}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=f6dc26cd85d1cb09ff03bb08193e9644}{%
+           family={{UK Health Security Agency}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{f6dc26cd85d1cb09ff03bb08193e9644}
+      \strng{fullhash}{f6dc26cd85d1cb09ff03bb08193e9644}
+      \strng{fullhashraw}{f6dc26cd85d1cb09ff03bb08193e9644}
+      \strng{bibnamehash}{f6dc26cd85d1cb09ff03bb08193e9644}
+      \strng{authorbibnamehash}{f6dc26cd85d1cb09ff03bb08193e9644}
+      \strng{authornamehash}{f6dc26cd85d1cb09ff03bb08193e9644}
+      \strng{authorfullhash}{f6dc26cd85d1cb09ff03bb08193e9644}
+      \strng{authorfullhashraw}{f6dc26cd85d1cb09ff03bb08193e9644}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Laser radiation: safety advice}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gov.uk/government/publications/laser-radiation-safety-advice/laser-radiation-safety-advice
+      \endverb
+      \verb{url}
+      \verb https://www.gov.uk/government/publications/laser-radiation-safety-advice/laser-radiation-safety-advice
+      \endverb
+    \endentry
+    \entry{Manchester_LaserSafety}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=dfaedc09595784e8b870f1ea106e3f4a}{%
+           family={{The University of Manchester}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{dfaedc09595784e8b870f1ea106e3f4a}
+      \strng{fullhash}{dfaedc09595784e8b870f1ea106e3f4a}
+      \strng{fullhashraw}{dfaedc09595784e8b870f1ea106e3f4a}
+      \strng{bibnamehash}{dfaedc09595784e8b870f1ea106e3f4a}
+      \strng{authorbibnamehash}{dfaedc09595784e8b870f1ea106e3f4a}
+      \strng{authornamehash}{dfaedc09595784e8b870f1ea106e3f4a}
+      \strng{authorfullhash}{dfaedc09595784e8b870f1ea106e3f4a}
+      \strng{authorfullhashraw}{dfaedc09595784e8b870f1ea106e3f4a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Laser Safety (Health and Safety guidance)}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.staffnet.manchester.ac.uk/physics-and-astronomy/health-and-safety/laser-safety/
+      \endverb
+      \verb{url}
+      \verb https://www.staffnet.manchester.ac.uk/physics-and-astronomy/health-and-safety/laser-safety/
+      \endverb
+    \endentry
+    \entry{OpenStax_LawOfReflection}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=958fd1d1699cbc3a1e96692dbf30b72e}{%
+           family={{OpenStax}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{fullhash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{fullhashraw}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{bibnamehash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{authorbibnamehash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{authornamehash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{authorfullhash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{authorfullhashraw}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Law of Reflection}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://openstax.org/books/college-physics-2e/pages/25-2-the-law-of-reflection
+      \endverb
+      \verb{url}
+      \verb https://openstax.org/books/college-physics-2e/pages/25-2-the-law-of-reflection
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

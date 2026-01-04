@@ -1,0 +1,115 @@
+\documentclass[12pt,a4paper]{article}
+
+% ---- Márgenes
+\usepackage[a4paper, left=3cm, right=3cm, top=2.5cm, bottom=2.5cm]{geometry}
+
+% ---- Idioma y fuentes
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish, es-tabla]{babel}
+\usepackage{lmodern}
+
+% ---- Matemáticas y tablas
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{tabularx,booktabs}
+
+% ---- Gráficos
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage[table,xcdraw]{xcolor}
+\definecolor{verdePastel}{RGB}{204, 235, 197}
+\definecolor{verdeFresco}{RGB}{60,160,60}
+
+% ---- Estilo y utilidades
+\usepackage{fancyhdr}
+\setlength{\headheight}{15pt}
+\usepackage{csquotes}
+\usepackage{parskip}   % separa párrafos sin sangría
+\usepackage{array,longtable}
+\renewcommand{\arraystretch}{1.4}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{B}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+% ---- Bibliografía (mejor con biber)
+\usepackage[
+  backend=biber,        % o 'bibtex' si no puedes usar biber
+  style=numeric,        % números [1], [2], ...
+  sorting=none,         % <- orden según aparición en el texto
+  maxbibnames=99
+]{biblatex}
+
+\addbibresource{referencias.bib}
+
+% ---- Hipervínculos (cargar al final)
+\usepackage{hyperref}
+\hypersetup{
+  pdfauthor={Dustin Randel De Lara García},
+  pdftitle={Recopilación de normativa educativa},
+  pdfkeywords={LOE, LOMLOE, currículo, Illes Balears},
+  colorlinks=true,
+  linkcolor=verdeFresco,
+  urlcolor=verdeFresco,
+  citecolor=verdeFresco
+}
+
+% ---- “Tabla” en lugar de “Cuadro” (por si acaso)
+\addto\captionsspanish{\renewcommand{\tablename}{Tabla}}
+
+% ---- Encabezados/pies
+\pagestyle{fancy}
+\rhead{UNED}
+\lhead{Seminario I - Recopilación de Normativa Educativa} 
+\cfoot{\thepage}
+
+\date{\today}
+
+\begin{document}
+
+% ---- Portada
+\begin{center}
+  {\includegraphics[width=0.5\textwidth]{icono_uned.jpg}\par}
+  \vspace{1cm}
+  {\bfseries\LARGE Universidad Nacional de Educación a Distancia \par}
+  \vspace{1cm}
+  {\scshape\Large Facultad de Educación\par}
+  \vspace{0.5cm}
+  {\scshape\Large Máster en Formación del Profesorado\par}
+  \vspace{0.5cm}
+  {\scshape\Large Prácticum \par}
+  \vspace{1.5cm}
+  {\scshape\Huge plan inicial de prácticas \par}
+  \vspace{1.5cm}
+  {\itshape\Large Centro Asociado: Illes Balears \par}
+  \vfill
+  {\Large Estudiante: Dustin Randel De Lara García \par}
+  {\Large Tutora del Centro Asociado: Antònia Maria Soler Nicolau \par}
+  {\Large Tutora del Centro de Prácticas: Francesca Roselló Cladera \par}
+  \vfill
+  {\Large \today \par}
+  \thispagestyle{empty}
+\end{center}
+
+% ---- Índice
+\newpage
+\tableofcontents
+\newpage
+
+\section{Introducción}\label{sec:intro}
+
+\section{Contextualización}\label{sec:context}
+
+\section{Desarrollo}\label{sec:desarrollo}
+\subsection{Competencias}\label{subsec:ocompetencias}
+\subsection{Resultados de aprendizaje}\label{subsec:RAs}
+\subsection{Actividades}\label{subsec:actividades}
+\subsection{Procedimientos}\label{subsec:procedimientos}
+\subsection{Recursos/medios}\label{subsec:recursos}
+\subsubsection{Materiales}\label{subsec:materiales}
+\subsubsection{Humanos}\label{subsec:humanos}
+\subsection{Planificación de las prácticas}\label{subsec:planificacion}
+\subsection{Autoevaluación}\label{subsec:autoevaluacion}
+\newpage
+\printbibliography
+\end{document}

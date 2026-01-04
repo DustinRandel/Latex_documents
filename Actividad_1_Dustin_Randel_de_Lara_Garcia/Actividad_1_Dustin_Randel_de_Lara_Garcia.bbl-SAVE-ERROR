@@ -1,0 +1,1150 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{WHO_FoodSafety_Summer}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=75f9994c59ca972eba899af0e6d30aa7}{%
+           family={{World Health Organization (WHO) Regional Office for Europe}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{75f9994c59ca972eba899af0e6d30aa7}
+      \strng{fullhash}{75f9994c59ca972eba899af0e6d30aa7}
+      \strng{fullhashraw}{75f9994c59ca972eba899af0e6d30aa7}
+      \strng{bibnamehash}{75f9994c59ca972eba899af0e6d30aa7}
+      \strng{authorbibnamehash}{75f9994c59ca972eba899af0e6d30aa7}
+      \strng{authornamehash}{75f9994c59ca972eba899af0e6d30aa7}
+      \strng{authorfullhash}{75f9994c59ca972eba899af0e6d30aa7}
+      \strng{authorfullhashraw}{75f9994c59ca972eba899af0e6d30aa7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Public health advice on food safety during summer}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.who.int/europe/news-room/fact-sheets/item/public-health-advice-on-food-safety-during-summer
+      \endverb
+      \verb{url}
+      \verb https://www.who.int/europe/news-room/fact-sheets/item/public-health-advice-on-food-safety-during-summer
+      \endverb
+    \endentry
+    \entry{Codex_CXC46_1999}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=13e2c8db7dfb5af956ce8d10e1be1180}{%
+           family={{Codex Alimentarius (FAO/WHO)}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{13e2c8db7dfb5af956ce8d10e1be1180}
+      \strng{fullhash}{13e2c8db7dfb5af956ce8d10e1be1180}
+      \strng{fullhashraw}{13e2c8db7dfb5af956ce8d10e1be1180}
+      \strng{bibnamehash}{13e2c8db7dfb5af956ce8d10e1be1180}
+      \strng{authorbibnamehash}{13e2c8db7dfb5af956ce8d10e1be1180}
+      \strng{authornamehash}{13e2c8db7dfb5af956ce8d10e1be1180}
+      \strng{authorfullhash}{13e2c8db7dfb5af956ce8d10e1be1180}
+      \strng{authorfullhashraw}{13e2c8db7dfb5af956ce8d10e1be1180}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Documento consultado vía FAO/WHO Codex Alimentarius}
+      \field{title}{Code of Hygienic Practice for Refrigerated Packaged Foods with Extended Shelf Life (CXC 46-1999)}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{1999}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://workspace.fao.org/sites/codex/Standards/CXC%2046-1999/CXC_046e.pdf
+      \endverb
+      \verb{url}
+      \verb https://workspace.fao.org/sites/codex/Standards/CXC%2046-1999/CXC_046e.pdf
+      \endverb
+    \endentry
+    \entry{NPTEL_SimpleVCRS}{online}{}{}
+      \name{author}{3}{}{%
+        {{hash=9eacc401f193c5d23c368d2040537078}{%
+           family={Shet},
+           familyi={S\bibinitperiod},
+           given={U.\bibnamedelimi S.\bibnamedelimi P.},
+           giveni={U\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=f4ed2682a18b74b15c7d196cceda53cd}{%
+           family={Sundararajan},
+           familyi={S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4bc8b01a851e66afe6237bfd78a3cc20}{%
+           family={Mallikarjuna},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b0af0adc4834e81e165407f1a6964107}
+      \strng{fullhash}{b0af0adc4834e81e165407f1a6964107}
+      \strng{fullhashraw}{b0af0adc4834e81e165407f1a6964107}
+      \strng{bibnamehash}{b0af0adc4834e81e165407f1a6964107}
+      \strng{authorbibnamehash}{b0af0adc4834e81e165407f1a6964107}
+      \strng{authornamehash}{b0af0adc4834e81e165407f1a6964107}
+      \strng{authorfullhash}{b0af0adc4834e81e165407f1a6964107}
+      \strng{authorfullhashraw}{b0af0adc4834e81e165407f1a6964107}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{NPTEL (IIT Madras)}
+      \field{title}{Simple Vapor Compression Refrigeration System (Module 6: Refrigeration Cycles)}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://archive.nptel.ac.in/content/storage2/courses/112106133/Module_6/6_Simple_Vapor_Compression_RS.pdf
+      \endverb
+      \verb{url}
+      \verb https://archive.nptel.ac.in/content/storage2/courses/112106133/Module_6/6_Simple_Vapor_Compression_RS.pdf
+      \endverb
+    \endentry
+    \entry{MIT_OCW_821_Lec12}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=c8f17b9639fd4046dd85c2daf62d2605}{%
+           family={{MIT OpenCourseWare}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c8f17b9639fd4046dd85c2daf62d2605}
+      \strng{fullhash}{c8f17b9639fd4046dd85c2daf62d2605}
+      \strng{fullhashraw}{c8f17b9639fd4046dd85c2daf62d2605}
+      \strng{bibnamehash}{c8f17b9639fd4046dd85c2daf62d2605}
+      \strng{authorbibnamehash}{c8f17b9639fd4046dd85c2daf62d2605}
+      \strng{authornamehash}{c8f17b9639fd4046dd85c2daf62d2605}
+      \strng{authorfullhash}{c8f17b9639fd4046dd85c2daf62d2605}
+      \strng{authorfullhashraw}{c8f17b9639fd4046dd85c2daf62d2605}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{8.21 The Physics of Energy (Fall 2009) — Lecture 12: Phase Change Energy Conversion II}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ocw.mit.edu/courses/8-21-the-physics-of-energy-fall-2009/72fee2d5e45a5a099396f386b74af4b0_MIT8_21s09_lec12.pdf
+      \endverb
+      \verb{url}
+      \verb https://ocw.mit.edu/courses/8-21-the-physics-of-energy-fall-2009/72fee2d5e45a5a099396f386b74af4b0_MIT8_21s09_lec12.pdf
+      \endverb
+    \endentry
+    \entry{WHO_FiveKeys_Brochure}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=531217507bec092b6ec36c0f78f46736}{%
+           family={{World Health Organization}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{fullhash}{531217507bec092b6ec36c0f78f46736}
+      \strng{fullhashraw}{531217507bec092b6ec36c0f78f46736}
+      \strng{bibnamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorbibnamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authornamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorfullhash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorfullhashraw}{531217507bec092b6ec36c0f78f46736}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Five Keys to Safer Food (brochure)}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.who.int/docs/default-source/wpro---documents/posters/food-safety/the-five-keys-to-safer-food-brochure.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.who.int/docs/default-source/wpro---documents/posters/food-safety/the-five-keys-to-safer-food-brochure.pdf
+      \endverb
+    \endentry
+    \entry{FAO_Sustainable_Cold_Chains}{report}{}{}
+      \name{author}{2}{}{%
+        {{hash=837fc316b81710902fb989d5c22eb034}{%
+           family={{Food and Agriculture Organization of the United Nations (FAO)}},
+           familyi={F\bibinitperiod}}}%
+        {{hash=bc4379914a2ba4fa8a31378b167c24dd}{%
+           family={{United Nations Environment Programme (UNEP)}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{f0ec6da6556149409c9bf29f70f153a9}
+      \strng{fullhash}{f0ec6da6556149409c9bf29f70f153a9}
+      \strng{fullhashraw}{f0ec6da6556149409c9bf29f70f153a9}
+      \strng{bibnamehash}{f0ec6da6556149409c9bf29f70f153a9}
+      \strng{authorbibnamehash}{f0ec6da6556149409c9bf29f70f153a9}
+      \strng{authornamehash}{f0ec6da6556149409c9bf29f70f153a9}
+      \strng{authorfullhash}{f0ec6da6556149409c9bf29f70f153a9}
+      \strng{authorfullhashraw}{f0ec6da6556149409c9bf29f70f153a9}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sustainable food cold chains: Opportunities, challenges and the way forward}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://openknowledge.fao.org/server/api/core/bitstreams/cf42e3c6-157e-4ea9-8873-8b3cc9242b96/content
+      \endverb
+      \verb{url}
+      \verb https://openknowledge.fao.org/server/api/core/bitstreams/cf42e3c6-157e-4ea9-8873-8b3cc9242b96/content
+      \endverb
+    \endentry
+    \entry{NPTEL_AnalysisVCRS}{online}{}{}
+      \name{author}{3}{}{%
+        {{hash=9eacc401f193c5d23c368d2040537078}{%
+           family={Shet},
+           familyi={S\bibinitperiod},
+           given={U.\bibnamedelimi S.\bibnamedelimi P.},
+           giveni={U\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=f4ed2682a18b74b15c7d196cceda53cd}{%
+           family={Sundararajan},
+           familyi={S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4bc8b01a851e66afe6237bfd78a3cc20}{%
+           family={Mallikarjuna},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b0af0adc4834e81e165407f1a6964107}
+      \strng{fullhash}{b0af0adc4834e81e165407f1a6964107}
+      \strng{fullhashraw}{b0af0adc4834e81e165407f1a6964107}
+      \strng{bibnamehash}{b0af0adc4834e81e165407f1a6964107}
+      \strng{authorbibnamehash}{b0af0adc4834e81e165407f1a6964107}
+      \strng{authornamehash}{b0af0adc4834e81e165407f1a6964107}
+      \strng{authorfullhash}{b0af0adc4834e81e165407f1a6964107}
+      \strng{authorfullhashraw}{b0af0adc4834e81e165407f1a6964107}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{NPTEL (IIT Madras)}
+      \field{title}{Analysis of Simple Vapor Compression Refrigeration Cycle (Module 6: Refrigeration Cycles)}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://archive.nptel.ac.in/content/storage2/courses/112106133/Module_6/7_Analysis_of_Simple_Vapor_Compression_RC.pdf
+      \endverb
+      \verb{url}
+      \verb https://archive.nptel.ac.in/content/storage2/courses/112106133/Module_6/7_Analysis_of_Simple_Vapor_Compression_RC.pdf
+      \endverb
+    \endentry
+    \entry{MIT_OCW_821_Lec10}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=c8f17b9639fd4046dd85c2daf62d2605}{%
+           family={{MIT OpenCourseWare}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c8f17b9639fd4046dd85c2daf62d2605}
+      \strng{fullhash}{c8f17b9639fd4046dd85c2daf62d2605}
+      \strng{fullhashraw}{c8f17b9639fd4046dd85c2daf62d2605}
+      \strng{bibnamehash}{c8f17b9639fd4046dd85c2daf62d2605}
+      \strng{authorbibnamehash}{c8f17b9639fd4046dd85c2daf62d2605}
+      \strng{authornamehash}{c8f17b9639fd4046dd85c2daf62d2605}
+      \strng{authorfullhash}{c8f17b9639fd4046dd85c2daf62d2605}
+      \strng{authorfullhashraw}{c8f17b9639fd4046dd85c2daf62d2605}
+      \field{extraname}{2}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{8.21 The Physics of Energy (Fall 2009): Lecture 10 -- Phase Change Energy Conversion I}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ocw.mit.edu/courses/8-21-the-physics-of-energy-fall-2009/b172949e5728814eb3f2f1989e38d570_MIT8_21s09_lec10.pdf
+      \endverb
+      \verb{url}
+      \verb https://ocw.mit.edu/courses/8-21-the-physics-of-energy-fall-2009/b172949e5728814eb3f2f1989e38d570_MIT8_21s09_lec10.pdf
+      \endverb
+    \endentry
+    \entry{EU_2024_573}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=158562a5e9dc942912330c711ca123ca}{%
+           family={{European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \strng{bibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorbibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authornamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2024/573 on fluorinated greenhouse gases}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/573/oj/eng
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/573/oj/eng
+      \endverb
+    \endentry
+    \entry{EC_Fgas_Legislation}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fluorinated greenhouse gases: F-gas legislation}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://climate.ec.europa.eu/eu-action/fluorinated-greenhouse-gases/f-gas-legislation_en
+      \endverb
+      \verb{url}
+      \verb https://climate.ec.europa.eu/eu-action/fluorinated-greenhouse-gases/f-gas-legislation_en
+      \endverb
+    \endentry
+    \entry{ASHRAE_VaporCompression_Chillers}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=aff59a39c35d338716622a3794fd3101}{%
+           family={{ASHRAE}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{fullhash}{aff59a39c35d338716622a3794fd3101}
+      \strng{fullhashraw}{aff59a39c35d338716622a3794fd3101}
+      \strng{bibnamehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authorbibnamehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authornamehash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authorfullhash}{aff59a39c35d338716622a3794fd3101}
+      \strng{authorfullhashraw}{aff59a39c35d338716622a3794fd3101}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Vapor-Compression Cooling and Heat Pump Chillers}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{n.d.}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://tpc.ashrae.org/Functions?cmtKey=83a02e09-1a12-4ee1-bbf8-3ba74490dec7
+      \endverb
+      \verb{url}
+      \verb https://tpc.ashrae.org/Functions?cmtKey=83a02e09-1a12-4ee1-bbf8-3ba74490dec7
+      \endverb
+    \endentry
+    \entry{Kosner2016CicloRefrigeracion}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=ede1a8f43481aaf60f62655d081e3a32}{%
+           family={Kosner},
+           familyi={K\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Kosner}%
+      }
+      \strng{namehash}{ede1a8f43481aaf60f62655d081e3a32}
+      \strng{fullhash}{ede1a8f43481aaf60f62655d081e3a32}
+      \strng{fullhashraw}{ede1a8f43481aaf60f62655d081e3a32}
+      \strng{bibnamehash}{ede1a8f43481aaf60f62655d081e3a32}
+      \strng{authorbibnamehash}{ede1a8f43481aaf60f62655d081e3a32}
+      \strng{authornamehash}{ede1a8f43481aaf60f62655d081e3a32}
+      \strng{authorfullhash}{ede1a8f43481aaf60f62655d081e3a32}
+      \strng{authorfullhashraw}{ede1a8f43481aaf60f62655d081e3a32}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{langid}{spanish}
+      \field{month}{6}
+      \field{title}{Un poco de teoría: Etapas del Ciclo de Refrigeración}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.kosner.es/ciclo-de-refrigeracion/
+      \endverb
+      \verb{url}
+      \verb https://www.kosner.es/ciclo-de-refrigeracion/
+      \endverb
+    \endentry
+    \entry{Ferjani2023SelectionComponentsRefrigeratingCircuit}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=361595a94314bd9606aed219001fe5e3}{%
+           family={Ferjani},
+           familyi={F\bibinitperiod},
+           given={Hammadi},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {U-3ARC}%
+      }
+      \strng{namehash}{361595a94314bd9606aed219001fe5e3}
+      \strng{fullhash}{361595a94314bd9606aed219001fe5e3}
+      \strng{fullhashraw}{361595a94314bd9606aed219001fe5e3}
+      \strng{bibnamehash}{361595a94314bd9606aed219001fe5e3}
+      \strng{authorbibnamehash}{361595a94314bd9606aed219001fe5e3}
+      \strng{authornamehash}{361595a94314bd9606aed219001fe5e3}
+      \strng{authorfullhash}{361595a94314bd9606aed219001fe5e3}
+      \strng{authorfullhashraw}{361595a94314bd9606aed219001fe5e3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{16}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{note}{Training Webinar No. 28}
+      \field{title}{Selection of Components of a Refrigerating Circuit}
+      \field{urlday}{2}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.u-3arc.org/images/uploads/webinar-docs/selection-of-refrigeration-system-components.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.u-3arc.org/images/uploads/webinar-docs/selection-of-refrigeration-system-components.pdf
+      \endverb
+    \endentry
+    \entry{Welch2009RefrigerationInsideBox}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=92aa7249ed3676eddbe0a8319f2bd272}{%
+           family={Welch},
+           familyi={W\bibinitperiod},
+           given={Terry},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {CIBSE Journal}%
+      }
+      \strng{namehash}{92aa7249ed3676eddbe0a8319f2bd272}
+      \strng{fullhash}{92aa7249ed3676eddbe0a8319f2bd272}
+      \strng{fullhashraw}{92aa7249ed3676eddbe0a8319f2bd272}
+      \strng{bibnamehash}{92aa7249ed3676eddbe0a8319f2bd272}
+      \strng{authorbibnamehash}{92aa7249ed3676eddbe0a8319f2bd272}
+      \strng{authornamehash}{92aa7249ed3676eddbe0a8319f2bd272}
+      \strng{authorfullhash}{92aa7249ed3676eddbe0a8319f2bd272}
+      \strng{authorfullhashraw}{92aa7249ed3676eddbe0a8319f2bd272}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{note}{CPD module (posted March 2009)}
+      \field{title}{Module 2: Refrigeration -- inside the box}
+      \field{urlday}{2}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.cibsejournal.com/cpd/modules/2009-03/
+      \endverb
+      \verb{url}
+      \verb https://www.cibsejournal.com/cpd/modules/2009-03/
+      \endverb
+    \endentry
+    \entry{UNEP_Demystifying_Natural_Refrigerants}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=36754b4d7c1d933d477342b73ed0e763}{%
+           family={{United Nations Environment Programme (UNEP), OzonAction}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{36754b4d7c1d933d477342b73ed0e763}
+      \strng{fullhash}{36754b4d7c1d933d477342b73ed0e763}
+      \strng{fullhashraw}{36754b4d7c1d933d477342b73ed0e763}
+      \strng{bibnamehash}{36754b4d7c1d933d477342b73ed0e763}
+      \strng{authorbibnamehash}{36754b4d7c1d933d477342b73ed0e763}
+      \strng{authornamehash}{36754b4d7c1d933d477342b73ed0e763}
+      \strng{authorfullhash}{36754b4d7c1d933d477342b73ed0e763}
+      \strng{authorfullhashraw}{36754b4d7c1d933d477342b73ed0e763}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Demystifying Natural Refrigerants}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ozone.unep.org/system/files/documents/TNV-MAG-01-Final.pdf
+      \endverb
+      \verb{url}
+      \verb https://ozone.unep.org/system/files/documents/TNV-MAG-01-Final.pdf
+      \endverb
+    \endentry
+    \entry{EC_FGas_GWP_Operators}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Guidance for equipment operators}}
+      \field{urlday}{2}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://climate.ec.europa.eu/system/files/2016-11/f-gas_equipment_operators_en.pdf
+      \endverb
+      \verb{url}
+      \verb https://climate.ec.europa.eu/system/files/2016-11/f-gas_equipment_operators_en.pdf
+      \endverb
+    \endentry
+    \entry{GasServei_R32}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=c3b5146033687032003874988c7cbb26}{%
+           family={{Gas Servei}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3b5146033687032003874988c7cbb26}
+      \strng{fullhash}{c3b5146033687032003874988c7cbb26}
+      \strng{fullhashraw}{c3b5146033687032003874988c7cbb26}
+      \strng{bibnamehash}{c3b5146033687032003874988c7cbb26}
+      \strng{authorbibnamehash}{c3b5146033687032003874988c7cbb26}
+      \strng{authornamehash}{c3b5146033687032003874988c7cbb26}
+      \strng{authorfullhash}{c3b5146033687032003874988c7cbb26}
+      \strng{authorfullhashraw}{c3b5146033687032003874988c7cbb26}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{R-32}}
+      \field{urlday}{2}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{n.d.}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://gas-servei.com/en/producto/r-32/
+      \endverb
+      \verb{url}
+      \verb https://gas-servei.com/en/producto/r-32/
+      \endverb
+    \endentry
+    \entry{GasServei_R410A}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=c3b5146033687032003874988c7cbb26}{%
+           family={{Gas Servei}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3b5146033687032003874988c7cbb26}
+      \strng{fullhash}{c3b5146033687032003874988c7cbb26}
+      \strng{fullhashraw}{c3b5146033687032003874988c7cbb26}
+      \strng{bibnamehash}{c3b5146033687032003874988c7cbb26}
+      \strng{authorbibnamehash}{c3b5146033687032003874988c7cbb26}
+      \strng{authornamehash}{c3b5146033687032003874988c7cbb26}
+      \strng{authorfullhash}{c3b5146033687032003874988c7cbb26}
+      \strng{authorfullhashraw}{c3b5146033687032003874988c7cbb26}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{R-410A}}
+      \field{urlday}{2}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{n.d.}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://gas-servei.com/en/producto/r-410a/
+      \endverb
+      \verb{url}
+      \verb https://gas-servei.com/en/producto/r-410a/
+      \endverb
+    \endentry
+    \entry{GasServei_R600a}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=c3b5146033687032003874988c7cbb26}{%
+           family={{Gas Servei}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3b5146033687032003874988c7cbb26}
+      \strng{fullhash}{c3b5146033687032003874988c7cbb26}
+      \strng{fullhashraw}{c3b5146033687032003874988c7cbb26}
+      \strng{bibnamehash}{c3b5146033687032003874988c7cbb26}
+      \strng{authorbibnamehash}{c3b5146033687032003874988c7cbb26}
+      \strng{authornamehash}{c3b5146033687032003874988c7cbb26}
+      \strng{authorfullhash}{c3b5146033687032003874988c7cbb26}
+      \strng{authorfullhashraw}{c3b5146033687032003874988c7cbb26}
+      \field{extraname}{3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{R-600a}}
+      \field{urlday}{2}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{n.d.}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://gas-servei.com/producto/r-600a/
+      \endverb
+      \verb{url}
+      \verb https://gas-servei.com/producto/r-600a/
+      \endverb
+    \endentry
+    \entry{GasServei_R290}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=c3b5146033687032003874988c7cbb26}{%
+           family={{Gas Servei}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3b5146033687032003874988c7cbb26}
+      \strng{fullhash}{c3b5146033687032003874988c7cbb26}
+      \strng{fullhashraw}{c3b5146033687032003874988c7cbb26}
+      \strng{bibnamehash}{c3b5146033687032003874988c7cbb26}
+      \strng{authorbibnamehash}{c3b5146033687032003874988c7cbb26}
+      \strng{authornamehash}{c3b5146033687032003874988c7cbb26}
+      \strng{authorfullhash}{c3b5146033687032003874988c7cbb26}
+      \strng{authorfullhashraw}{c3b5146033687032003874988c7cbb26}
+      \field{extraname}{4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{R-290}}
+      \field{urlday}{2}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{n.d.}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://gas-servei.com/producto/r-290/
+      \endverb
+      \verb{url}
+      \verb https://gas-servei.com/producto/r-290/
+      \endverb
+    \endentry
+    \entry{GasServei_R717}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=c3b5146033687032003874988c7cbb26}{%
+           family={{Gas Servei}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3b5146033687032003874988c7cbb26}
+      \strng{fullhash}{c3b5146033687032003874988c7cbb26}
+      \strng{fullhashraw}{c3b5146033687032003874988c7cbb26}
+      \strng{bibnamehash}{c3b5146033687032003874988c7cbb26}
+      \strng{authorbibnamehash}{c3b5146033687032003874988c7cbb26}
+      \strng{authornamehash}{c3b5146033687032003874988c7cbb26}
+      \strng{authorfullhash}{c3b5146033687032003874988c7cbb26}
+      \strng{authorfullhashraw}{c3b5146033687032003874988c7cbb26}
+      \field{extraname}{5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{R-717 (Amoníaco anhidro, NH3)}}
+      \field{urlday}{2}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{n.d.}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://gas-servei.com/producto/r-717-r-717/
+      \endverb
+      \verb{url}
+      \verb https://gas-servei.com/producto/r-717-r-717/
+      \endverb
+    \endentry
+    \entry{AirLiquide_CO2_Props}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=b751575fd2589a8feec390177a931f45}{%
+           family={{Air Liquide España}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b751575fd2589a8feec390177a931f45}
+      \strng{fullhash}{b751575fd2589a8feec390177a931f45}
+      \strng{fullhashraw}{b751575fd2589a8feec390177a931f45}
+      \strng{bibnamehash}{b751575fd2589a8feec390177a931f45}
+      \strng{authorbibnamehash}{b751575fd2589a8feec390177a931f45}
+      \strng{authornamehash}{b751575fd2589a8feec390177a931f45}
+      \strng{authorfullhash}{b751575fd2589a8feec390177a931f45}
+      \strng{authorfullhashraw}{b751575fd2589a8feec390177a931f45}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Dióxido de carbono (CO2): propiedades físicas y químicas}}
+      \field{urlday}{2}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{n.d.}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://es.airliquide.com/gases/dioxido-de-carbono-co2/co2-propiedades-usos-industriales-soluciones-sostenibles
+      \endverb
+      \verb{url}
+      \verb https://es.airliquide.com/gases/dioxido-de-carbono-co2/co2-propiedades-usos-industriales-soluciones-sostenibles
+      \endverb
+    \endentry
+    \entry{AirLiquide_R744}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=b751575fd2589a8feec390177a931f45}{%
+           family={{Air Liquide España}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b751575fd2589a8feec390177a931f45}
+      \strng{fullhash}{b751575fd2589a8feec390177a931f45}
+      \strng{fullhashraw}{b751575fd2589a8feec390177a931f45}
+      \strng{bibnamehash}{b751575fd2589a8feec390177a931f45}
+      \strng{authorbibnamehash}{b751575fd2589a8feec390177a931f45}
+      \strng{authornamehash}{b751575fd2589a8feec390177a931f45}
+      \strng{authorfullhash}{b751575fd2589a8feec390177a931f45}
+      \strng{authorfullhashraw}{b751575fd2589a8feec390177a931f45}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Gas refrigerante R744}}
+      \field{urlday}{2}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{n.d.}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://es.airliquide.com/gases/gas-refrigerante-r744
+      \endverb
+      \verb{url}
+      \verb https://es.airliquide.com/gases/gas-refrigerante-r744
+      \endverb
+    \endentry
+    \entry{DuPont_Suva407A}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=9a74213e51c73aa8a3db9429d9bba472}{%
+           family={{DuPont}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{9a74213e51c73aa8a3db9429d9bba472}
+      \strng{fullhash}{9a74213e51c73aa8a3db9429d9bba472}
+      \strng{fullhashraw}{9a74213e51c73aa8a3db9429d9bba472}
+      \strng{bibnamehash}{9a74213e51c73aa8a3db9429d9bba472}
+      \strng{authorbibnamehash}{9a74213e51c73aa8a3db9429d9bba472}
+      \strng{authornamehash}{9a74213e51c73aa8a3db9429d9bba472}
+      \strng{authorfullhash}{9a74213e51c73aa8a3db9429d9bba472}
+      \strng{authorfullhashraw}{9a74213e51c73aa8a3db9429d9bba472}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{DuPont™ Suva® 407A (R-407A): Refrigerant properties (incl. comparison with R-404A)}}
+      \field{urlday}{2}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{n.d.}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.scribd.com/document/328856527/DuPont-Suva-407A-R-407A
+      \endverb
+      \verb{url}
+      \verb https://www.scribd.com/document/328856527/DuPont-Suva-407A-R-407A
+      \endverb
+    \endentry
+    \entry{Winthrop_Ammonia}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=727d10b009f73c8f5567dae042641433}{%
+           family={{Winthrop University}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{727d10b009f73c8f5567dae042641433}
+      \strng{fullhash}{727d10b009f73c8f5567dae042641433}
+      \strng{fullhashraw}{727d10b009f73c8f5567dae042641433}
+      \strng{bibnamehash}{727d10b009f73c8f5567dae042641433}
+      \strng{authorbibnamehash}{727d10b009f73c8f5567dae042641433}
+      \strng{authornamehash}{727d10b009f73c8f5567dae042641433}
+      \strng{authorfullhash}{727d10b009f73c8f5567dae042641433}
+      \strng{authorfullhashraw}{727d10b009f73c8f5567dae042641433}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Ammonia: physical properties}}
+      \field{urlday}{2}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{n.d.}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://chem.winthrop.edu/vrml/ammonia.htm
+      \endverb
+      \verb{url}
+      \verb https://chem.winthrop.edu/vrml/ammonia.htm
+      \endverb
+    \endentry
+    \entry{FAO_SustainableFoodColdChains}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=837fc316b81710902fb989d5c22eb034}{%
+           family={{Food and Agriculture Organization of the United Nations (FAO)}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{837fc316b81710902fb989d5c22eb034}
+      \strng{fullhash}{837fc316b81710902fb989d5c22eb034}
+      \strng{fullhashraw}{837fc316b81710902fb989d5c22eb034}
+      \strng{bibnamehash}{837fc316b81710902fb989d5c22eb034}
+      \strng{authorbibnamehash}{837fc316b81710902fb989d5c22eb034}
+      \strng{authornamehash}{837fc316b81710902fb989d5c22eb034}
+      \strng{authorfullhash}{837fc316b81710902fb989d5c22eb034}
+      \strng{authorfullhashraw}{837fc316b81710902fb989d5c22eb034}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sustainable food cold chains}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://openknowledge.fao.org/server/api/core/bitstreams/cf42e3c6-157e-4ea9-8873-8b3cc9242b96/content
+      \endverb
+      \verb{url}
+      \verb https://openknowledge.fao.org/server/api/core/bitstreams/cf42e3c6-157e-4ea9-8873-8b3cc9242b96/content
+      \endverb
+    \endentry
+    \entry{UNEP_DemystifyingNaturalRefrigerants}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=9ca02a7c9cd442864b4406668d6c127e}{%
+           family={{UNEP OzonAction}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{9ca02a7c9cd442864b4406668d6c127e}
+      \strng{fullhash}{9ca02a7c9cd442864b4406668d6c127e}
+      \strng{fullhashraw}{9ca02a7c9cd442864b4406668d6c127e}
+      \strng{bibnamehash}{9ca02a7c9cd442864b4406668d6c127e}
+      \strng{authorbibnamehash}{9ca02a7c9cd442864b4406668d6c127e}
+      \strng{authornamehash}{9ca02a7c9cd442864b4406668d6c127e}
+      \strng{authorfullhash}{9ca02a7c9cd442864b4406668d6c127e}
+      \strng{authorfullhashraw}{9ca02a7c9cd442864b4406668d6c127e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Demystifying Natural Refrigerants}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ozone.unep.org/system/files/documents/TNV-MAG-01-Final.pdf
+      \endverb
+      \verb{url}
+      \verb https://ozone.unep.org/system/files/documents/TNV-MAG-01-Final.pdf
+      \endverb
+    \endentry
+    \entry{JC_AmmoniaPaper}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=864e3e43db8f5dba6714343f2c5b564e}{%
+           family={{Johnson Controls}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{864e3e43db8f5dba6714343f2c5b564e}
+      \strng{fullhash}{864e3e43db8f5dba6714343f2c5b564e}
+      \strng{fullhashraw}{864e3e43db8f5dba6714343f2c5b564e}
+      \strng{bibnamehash}{864e3e43db8f5dba6714343f2c5b564e}
+      \strng{authorbibnamehash}{864e3e43db8f5dba6714343f2c5b564e}
+      \strng{authornamehash}{864e3e43db8f5dba6714343f2c5b564e}
+      \strng{authorfullhash}{864e3e43db8f5dba6714343f2c5b564e}
+      \strng{authorfullhashraw}{864e3e43db8f5dba6714343f2c5b564e}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Documento alojado en la web de la Comisión Europea (Climate Action)}
+      \field{title}{Technical paper: Ammonia refrigeration (benefits and challenges)}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://climate.ec.europa.eu/system/files/2016-11/johnson_controls_ammonia_paper_en.pdf
+      \endverb
+      \verb{url}
+      \verb https://climate.ec.europa.eu/system/files/2016-11/johnson_controls_ammonia_paper_en.pdf
+      \endverb
+    \endentry
+    \entry{IIAR_GreenPaper}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=d6a0d1bd47b1562c79a09f173a58a77b}{%
+           family={{International Institute of Ammonia Refrigeration (IIAR)}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d6a0d1bd47b1562c79a09f173a58a77b}
+      \strng{fullhash}{d6a0d1bd47b1562c79a09f173a58a77b}
+      \strng{fullhashraw}{d6a0d1bd47b1562c79a09f173a58a77b}
+      \strng{bibnamehash}{d6a0d1bd47b1562c79a09f173a58a77b}
+      \strng{authorbibnamehash}{d6a0d1bd47b1562c79a09f173a58a77b}
+      \strng{authornamehash}{d6a0d1bd47b1562c79a09f173a58a77b}
+      \strng{authorfullhash}{d6a0d1bd47b1562c79a09f173a58a77b}
+      \strng{authorfullhashraw}{d6a0d1bd47b1562c79a09f173a58a77b}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Natural Refrigerants: Sustainable Future (Green Paper)}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.iiar.org/common/Uploaded%20files/IIAR_Docs/IIAR%20Publications/2019%20IIAR%20Green%20Paper.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.iiar.org/common/Uploaded%20files/IIAR_Docs/IIAR%20Publications/2019%20IIAR%20Green%20Paper.pdf
+      \endverb
+    \endentry
+    \entry{UNIDO_NaturalSolutions}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=690731ff938f924aad44de110c4b6660}{%
+           family={{UNEP OzonAction and UNIDO}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{690731ff938f924aad44de110c4b6660}
+      \strng{fullhash}{690731ff938f924aad44de110c4b6660}
+      \strng{fullhashraw}{690731ff938f924aad44de110c4b6660}
+      \strng{bibnamehash}{690731ff938f924aad44de110c4b6660}
+      \strng{authorbibnamehash}{690731ff938f924aad44de110c4b6660}
+      \strng{authornamehash}{690731ff938f924aad44de110c4b6660}
+      \strng{authorfullhash}{690731ff938f924aad44de110c4b6660}
+      \strng{authorfullhashraw}{690731ff938f924aad44de110c4b6660}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Natural Solutions for Developing Countries}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ozone.unep.org/system/files/documents/GUIDE%20UNIDO%20-%20Natural%20Solutions%20for%20Developing%20Countries.pdf
+      \endverb
+      \verb{url}
+      \verb https://ozone.unep.org/system/files/documents/GUIDE%20UNIDO%20-%20Natural%20Solutions%20for%20Developing%20Countries.pdf
+      \endverb
+    \endentry
+    \entry{EU_FGas_Reg_2024_573}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=158562a5e9dc942912330c711ca123ca}{%
+           family={{European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \strng{bibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorbibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authornamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/573/oj/eng
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/573/oj/eng
+      \endverb
+    \endentry
+    \entry{EC_FGas_Legislation}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=b8d67f1d58a17d91499c046581cecfec}{%
+           family={{European Commission, Directorate-General for Climate Action}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{b8d67f1d58a17d91499c046581cecfec}
+      \strng{fullhash}{b8d67f1d58a17d91499c046581cecfec}
+      \strng{fullhashraw}{b8d67f1d58a17d91499c046581cecfec}
+      \strng{bibnamehash}{b8d67f1d58a17d91499c046581cecfec}
+      \strng{authorbibnamehash}{b8d67f1d58a17d91499c046581cecfec}
+      \strng{authornamehash}{b8d67f1d58a17d91499c046581cecfec}
+      \strng{authorfullhash}{b8d67f1d58a17d91499c046581cecfec}
+      \strng{authorfullhashraw}{b8d67f1d58a17d91499c046581cecfec}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{EU rules: Fluorinated greenhouse gases (F-gas legislation)}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://climate.ec.europa.eu/eu-action/fluorinated-greenhouse-gases/f-gas-legislation_en
+      \endverb
+      \verb{url}
+      \verb https://climate.ec.europa.eu/eu-action/fluorinated-greenhouse-gases/f-gas-legislation_en
+      \endverb
+    \endentry
+    \entry{NIST_Fluids}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=3890a878cf9ff4b382a676b5d7d51181}{%
+           family={{National Institute of Standards and Technology (NIST)}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{fullhash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{fullhashraw}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{bibnamehash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{authorbibnamehash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{authornamehash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{authorfullhash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{authorfullhashraw}{3890a878cf9ff4b382a676b5d7d51181}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Thermophysical Properties of Fluid Systems}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://webbook.nist.gov/chemistry/fluid/
+      \endverb
+      \verb{url}
+      \verb https://webbook.nist.gov/chemistry/fluid/
+      \endverb
+    \endentry
+    \entry{FAO_ManualFruitsVeg}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=837fc316b81710902fb989d5c22eb034}{%
+           family={{Food and Agriculture Organization of the United Nations (FAO)}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{837fc316b81710902fb989d5c22eb034}
+      \strng{fullhash}{837fc316b81710902fb989d5c22eb034}
+      \strng{fullhashraw}{837fc316b81710902fb989d5c22eb034}
+      \strng{bibnamehash}{837fc316b81710902fb989d5c22eb034}
+      \strng{authorbibnamehash}{837fc316b81710902fb989d5c22eb034}
+      \strng{authornamehash}{837fc316b81710902fb989d5c22eb034}
+      \strng{authorfullhash}{837fc316b81710902fb989d5c22eb034}
+      \strng{authorfullhashraw}{837fc316b81710902fb989d5c22eb034}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Manual for the preparation and sale of fruits and vegetables (Storage conditions)}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.fao.org/4/y4893e/y4893e06.htm
+      \endverb
+      \verb{url}
+      \verb https://www.fao.org/4/y4893e/y4893e06.htm
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
