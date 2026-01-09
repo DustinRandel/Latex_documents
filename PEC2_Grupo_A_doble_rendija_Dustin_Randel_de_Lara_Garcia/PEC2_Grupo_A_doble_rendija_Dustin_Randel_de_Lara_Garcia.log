@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.8)  5 JAN 2026 13:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.8)  8 JAN 2026 16:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/darkd/Desktop/Latex_documents/Actividad_Grupo_A_Tema_3_Dustin_Randel_de_Lara_Garcia/Actividad_Grupo_A_Tema_3_Dustin_Randel_de_Lara_Garcia.tex
-(c:/Users/darkd/Desktop/Latex_documents/Actividad_Grupo_A_Tema_3_Dustin_Randel_de_Lara_Garcia/Actividad_Grupo_A_Tema_3_Dustin_Randel_de_Lara_Garcia.tex
+**c:/Users/darkd/Desktop/Latex_documents/PEC2_Grupo_A_doble_rendija_Dustin_Randel_de_Lara_Garcia/PEC2_Grupo_A_doble_rendija_Dustin_Randel_de_Lara_Garcia.tex
+(c:/Users/darkd/Desktop/Latex_documents/PEC2_Grupo_A_doble_rendija_Dustin_Randel_de_Lara_Garcia/PEC2_Grupo_A_doble_rendija_Dustin_Randel_de_Lara_Garcia.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
 (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -336,7 +336,9 @@ Package: xurl 2022/01/09 v 0.10 modify URL breaks
  (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)) (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+)) (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
  (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
@@ -651,7 +653,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip97
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 61.
+Package hyperref Info: Option `colorlinks' set `true' on input line 63.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -662,13 +664,13 @@ File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 10.07397pt on input line 74.
- (Actividad_Grupo_A_Tema_3_Dustin_Randel_de_Lara_Garcia.aux
+ (PEC2_Grupo_A_doble_rendija_Dustin_Randel_de_Lara_Garcia.aux
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
 (babel)             Reported on input line 12.
 )
-\openout1 = `Actividad_Grupo_A_Tema_3_Dustin_Randel_de_Lara_Garcia.aux'.
+\openout1 = `PEC2_Grupo_A_doble_rendija_Dustin_Randel_de_Lara_Garcia.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
 LaTeX Font Info:    ... okay on input line 74.
@@ -760,39 +762,57 @@ File: spanish.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `Actividad_Grupo_A_Tema_3_Dustin_Randel_de_Lara_Garcia.bcf'.
+\openout3 = `PEC2_Grupo_A_doble_rendija_Dustin_Randel_de_Lara_Garcia.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'Actividad_Grupo_A_Tema_3_Dustin_Randel_de_Lara_Garcia.bbl' found.
- (Actividad_Grupo_A_Tema_3_Dustin_Randel_de_Lara_Garcia.bbl)
+Package biblatex Info: ... file 'PEC2_Grupo_A_doble_rendija_Dustin_Randel_de_Lara_Garcia.bbl' found.
+ (PEC2_Grupo_A_doble_rendija_Dustin_Randel_de_Lara_Garcia.bbl)
 Package biblatex Info: Reference section=0 on input line 74.
 Package biblatex Info: Reference segment=0 on input line 74.
 Package hyperref Info: Link coloring ON on input line 74.
- (Actividad_Grupo_A_Tema_3_Dustin_Randel_de_Lara_Garcia.out) (Actividad_Grupo_A_Tema_3_Dustin_Randel_de_Lara_Garcia.out)
+ (PEC2_Grupo_A_doble_rendija_Dustin_Randel_de_Lara_Garcia.out) (PEC2_Grupo_A_doble_rendija_Dustin_Randel_de_Lara_Garcia.out)
 \@outlinefile=\write4
-\openout4 = `Actividad_Grupo_A_Tema_3_Dustin_Randel_de_Lara_Garcia.out'.
+\openout4 = `PEC2_Grupo_A_doble_rendija_Dustin_Randel_de_Lara_Garcia.out'.
 
+<icono_uned.jpg, id=51, 351.3125pt x 190.7125pt>
+File: icono_uned.jpg Graphic file (type jpg)
+<use icono_uned.jpg>
+Package pdftex.def Info: icono_uned.jpg  used on input line 78.
+(pdftex.def)             Requested size: 241.84843pt x 131.29202pt.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 10.07397pt on input line 76.
+(Font)              scaled to size 10.07397pt on input line 80.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 15.89755pt on input line 80.
+LaTeX Font Info:    Font shape `T1/phv/m/sc' will be
+(Font)              scaled to size 10.07397pt on input line 82.
+LaTeX Font Info:    Font shape `T1/phv/m/sc' will be
+(Font)              scaled to size 13.24796pt on input line 82.
+LaTeX Font Info:    Font shape `T1/phv/m/sc' will be
+(Font)              scaled to size 22.88956pt on input line 88.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 90.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 10.07397pt on input line 90.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 90.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 13.24796pt on input line 90.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 13.24796pt on input line 80.
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 13.24796pt on input line 80.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family phv in TS1 encoding.
-            Default family used instead on input line 95.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family phv in TS1 encoding.
-            Default family used instead on input line 103.
- [1{C:/Users/darkd/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
+(Font)              scaled to size 13.24796pt on input line 92.
+ [1
 
-]
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 120.
- (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
-File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+{C:/Users/darkd/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./icono_uned.jpg>]
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 13.24796pt on input line 103.
+ (PEC2_Grupo_A_doble_rendija_Dustin_Randel_de_Lara_Garcia.toc
+LaTeX Info: Redefining \sptext on input line 1.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
 )
-LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 120.
+\tf@toc=\write5
+\openout5 = `PEC2_Grupo_A_doble_rendija_Dustin_Randel_de_Lara_Garcia.toc'.
+
+ [2]
 LaTeX Font Info:    Trying to load font information for U+msa on input line 120.
  (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -800,73 +820,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 120.
  (C:\Users\darkd\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 134.
-LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 10.07397pt on input line 134.
- [2]
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 152.
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.03998pt on input line 152.
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 172.
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 172.
-
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 187.
-
-[3]
-<Fotodiodo.png, id=154, 492.98465pt x 317.47179pt>
-File: Fotodiodo.png Graphic file (type png)
-<use Fotodiodo.png>
-Package pdftex.def Info: Fotodiodo.png  used on input line 213.
-(pdftex.def)             Requested size: 232.17242pt x 149.51694pt.
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 214.
-<Simbolo_fotodiodo.png, id=156, 349.73518pt x 192.72pt>
-File: Simbolo_fotodiodo.png Graphic file (type png)
-<use Simbolo_fotodiodo.png>
-Package pdftex.def Info: Simbolo_fotodiodo.png  used on input line 220.
-(pdftex.def)             Requested size: 232.17242pt x 127.9425pt.
- [4 <./Fotodiodo.png> <./Simbolo_fotodiodo.png>]
-<Acondicionamiento_circuito.png, id=179, 659.89394pt x 484.81125pt>
-File: Acondicionamiento_circuito.png Graphic file (type png)
-<use Acondicionamiento_circuito.png>
-Package pdftex.def Info: Acondicionamiento_circuito.png  used on input line 252.
-(pdftex.def)             Requested size: 338.58632pt x 248.75218pt.
- [5 <./Acondicionamiento_circuito.png>]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 279.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\rightarrow' on input line 279.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 279.
-
-[6] [7] [8]
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 406.
-
-Underfull \hbox (badness 1199) in paragraph at lines 435--435
-[]|\T1/phv/b/n/9 Trabajo ex-pe-ri-men-tal (du-ran-te el
- []
-
-LaTeX Font Info:    Font shape `T1/phv/m/sc' will be
-(Font)              scaled to size 10.07397pt on input line 441.
-[9]
-Overfull \hbox (8.29805pt too wide) in paragraph at lines 442--442
-[]\T1/phv/m/n/10.95 OpenStax. \T1/phv/m/sl/10.95 25.2 The Law of Re-flec-tion (Dif-fu-se Re-flec-tion on Rough Sur-fa-ces)\T1/phv/m/n/10.95 . \T1/phv/m/sc/10.95 url\T1/phv/m/n/10.95 : [][]$\T1/cmtt/m/n/10.95 https : / / openstax .
- []
-
-[10] (Actividad_Grupo_A_Tema_3_Dustin_Randel_de_Lara_Garcia.aux
+) [3] [4] [5] [6] [7] [8] (PEC2_Grupo_A_doble_rendija_Dustin_Randel_de_Lara_Garcia.aux
 LaTeX Info: Redefining \sptext on input line 12.
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
@@ -875,24 +829,24 @@ LaTeX Info: Redefining \% on input line 12.
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
  ***********
-Package rerunfilecheck Info: File `Actividad_Grupo_A_Tema_3_Dustin_Randel_de_Lara_Garcia.out' has not changed.
-(rerunfilecheck)             Checksum: D4251324140408D2EE10F3008F63AFBC;6360.
-Package logreq Info: Writing requests to 'Actividad_Grupo_A_Tema_3_Dustin_Randel_de_Lara_Garcia.run.xml'.
-\openout1 = `Actividad_Grupo_A_Tema_3_Dustin_Randel_de_Lara_Garcia.run.xml'.
+Package rerunfilecheck Info: File `PEC2_Grupo_A_doble_rendija_Dustin_Randel_de_Lara_Garcia.out' has not changed.
+(rerunfilecheck)             Checksum: 476FC7279AB76D3FE70AF9E106475E92;4124.
+Package logreq Info: Writing requests to 'PEC2_Grupo_A_doble_rendija_Dustin_Randel_de_Lara_Garcia.run.xml'.
+\openout1 = `PEC2_Grupo_A_doble_rendija_Dustin_Randel_de_Lara_Garcia.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22882 strings out of 467871
- 401805 string characters out of 5418376
- 1266788 words of memory out of 5000000
- 51389 multiletter control sequences out of 15000+600000
- 672945 words of font info for 95 fonts, out of 8000000 for 9000
+ 22730 strings out of 467871
+ 398416 string characters out of 5418376
+ 1261632 words of memory out of 5000000
+ 51295 multiletter control sequences out of 15000+600000
+ 670112 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,12n,83p,1339b,1846s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\darkd\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\darkd\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1095.pk><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Actividad_Grupo_A_Tema_3_Dustin_Randel_de_Lara_Garcia.pdf (10 pages, 1022153 bytes).
+ 67i,11n,83p,1498b,1895s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\darkd\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/darkd/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on PEC2_Grupo_A_doble_rendija_Dustin_Randel_de_Lara_Garcia.pdf (8 pages, 201859 bytes).
 PDF statistics:
- 429 PDF objects out of 1000 (max. 8388607)
- 95 named destinations out of 1000 (max. 500000)
- 208 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 316 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
+ 102 words of extra memory for PDF output out of 10000 (max. 10000000)
 

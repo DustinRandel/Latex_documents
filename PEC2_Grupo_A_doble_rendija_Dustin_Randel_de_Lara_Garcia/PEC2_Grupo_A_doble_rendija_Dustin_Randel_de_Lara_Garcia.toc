@@ -1,0 +1,13 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{Resumen previo y enfoque}{3}{section*.2}%
+\contentsline {section}{\numberline {1}De la óptica clásica a la óptica física: interferencia como criterio experimental}{3}{section.1}%
+\contentsline {section}{\numberline {2}Superposición cuántica: amplitudes y regla de Born}{3}{section.2}%
+\contentsline {section}{\numberline {3}Complementariedad e información de cuál-camino: de lo cualitativo a lo cuantitativo}{4}{section.3}%
+\contentsline {section}{\numberline {4}De Broglie y la verificación experimental con materia}{4}{section.4}%
+\contentsline {section}{\numberline {5}Evento a evento: por qué el patrón no es un artefacto del haz}{4}{section.5}%
+\contentsline {section}{\numberline {6}Borrador cuántico y elección retardada: información, no retrocausalidad}{5}{section.6}%
+\contentsline {section}{\numberline {7}Decoherencia: mecanismo físico para la pérdida de coherencia}{5}{section.7}%
+\contentsline {section}{\numberline {8}Vigencia contemporánea: moléculas complejas y límites de la superposición}{5}{section.8}%
+\contentsline {section}{\numberline {9}Consideraciones didácticas en Bachillerato}{6}{section.9}%
+\contentsline {section}{\numberline {10}Conclusiones}{6}{section.10}%
+\contentsline {section}{Anexo: bibliografía consultada (con nota de uso)}{7}{section*.3}%

@@ -1,0 +1,109 @@
+\documentclass[11pt,a4paper]{article}
+
+% ---- Márgenes
+\usepackage[a4paper, left=2cm, right=2cm, top=2.5cm, bottom=2.5cm]{geometry}
+
+% ---- Idioma y fuentes (pdfLaTeX)
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish, es-tabla]{babel}
+
+% ---- “Arial-like” con pdfLaTeX: Helvetica
+\usepackage[scaled=0.92]{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+% ---- Matemáticas y tablas
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{tabularx,booktabs}
+
+% ---- Gráficos
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage[table,xcdraw]{xcolor}
+\definecolor{verdePastel}{RGB}{204, 235, 197}
+\definecolor{verdeFresco}{RGB}{60,160,60}
+
+% ---- Estilo y utilidades
+\usepackage{fancyhdr}
+\setlength{\headheight}{14pt}
+\usepackage{csquotes}
+\usepackage{parskip}
+\usepackage{array,longtable}
+\renewcommand{\arraystretch}{1.4}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{B}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+% ---- URLs más “rompibles”
+\usepackage{xurl}
+
+% ---- Interlineado 1.5
+\usepackage{setspace}
+
+% ---- Bibliografía (biber)
+\usepackage[
+  backend=biber,
+  style=numeric,
+  sorting=none,
+  maxbibnames=99
+]{biblatex}
+\addbibresource{referencias.bib}
+
+% ---- Hipervínculos (cargar al final)
+\usepackage{hyperref}
+\hypersetup{
+  pdfauthor={Dustin Randel De Lara García},
+  pdftitle={PEC3 Grupo B - Cuantización de la energía según la Física Cuántica },
+  pdfkeywords={Física, Química, Energía, UNED},
+  colorlinks=true,
+  linkcolor=verdeFresco,
+  urlcolor=verdeFresco,
+  citecolor=verdeFresco
+}
+
+% ---- “Tabla” en lugar de “Cuadro”
+\addto\captionsspanish{\renewcommand{\tablename}{Tabla}}
+
+% ---- Encabezados/pies
+\pagestyle{fancy}
+\rhead{UNED}
+\lhead{PEC3 Grupo B - Cuantización de la energía según la Física Cuántica}
+\cfoot{\thepage}
+
+\begin{document}
+
+% ---- Portada
+\begin{center}
+  {\includegraphics[width=0.5\textwidth]{icono_uned.jpg}\par}
+  \vspace{1cm}
+  {\bfseries\LARGE Universidad Nacional de Educación a Distancia \par}
+  \vspace{1cm}
+  {\scshape\Large Facultad de Educación\par}
+  \vspace{0.5cm}
+  {\scshape\Large Máster en Formación del Profesorado\par}
+  \vspace{0.5cm}
+  {\scshape\Large Evolución Histórica de las Ideas de la Física y de la Química \par}
+  \vspace{1.5cm}
+  {\scshape\Huge cuantización de la energía según la física cuántica  \par}
+  \vspace{1.5cm}
+  {\itshape\Large PEC 3 \par}
+  \vfill
+  {\Large Dustin Randel De Lara García \href{mailto:ddelara3@alumno.uned.es}{ddelara3@alumno.uned.es}\par}
+  \vfill
+  {\Large \today \par}
+  \thispagestyle{empty}
+\end{center}
+
+\newpage
+
+% ---- Interlineado 1.5 (a partir de aquí)
+\onehalfspacing
+
+\tableofcontents
+
+\newpage
+\section*{Planteamiento del tema}
+
+\printbibliography
+\end{document}

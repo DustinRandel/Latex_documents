@@ -262,6 +262,73 @@
       \verb https://www.hamamatsu.com/content/dam/hamamatsu-photonics/sites/documents/99_SALES_LIBRARY/ssd/si_pd_kspd9001e.pdf
       \endverb
     \endentry
+    \entry{RS4975661_BPW21}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=e1ecb250f12eab2966b2657df356080b}{%
+           family={{RS Online}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1ecb250f12eab2966b2657df356080b}
+      \strng{fullhash}{e1ecb250f12eab2966b2657df356080b}
+      \strng{fullhashraw}{e1ecb250f12eab2966b2657df356080b}
+      \strng{bibnamehash}{e1ecb250f12eab2966b2657df356080b}
+      \strng{authorbibnamehash}{e1ecb250f12eab2966b2657df356080b}
+      \strng{authornamehash}{e1ecb250f12eab2966b2657df356080b}
+      \strng{authorfullhash}{e1ecb250f12eab2966b2657df356080b}
+      \strng{authorfullhashraw}{e1ecb250f12eab2966b2657df356080b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{note}{Código RS: 497-5661. N{ª} ref. fabric.: BPW 21.}
+      \field{title}{BPW 21: Fotodiodo de silicio ams OSRAM, IR + UV + luz visible, $\lambda$ sensibilidad máx. 550\,nm, encapsulado TO-39}
+      \field{urlday}{4}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://es.rs-online.com/web/p/fotodiodos/4975661
+      \endverb
+      \verb{url}
+      \verb https://es.rs-online.com/web/p/fotodiodos/4975661
+      \endverb
+    \endentry
+    \entry{SlideShare_FotodiodoExpo_5582982}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=87777f8ba93fca2ecdd93ebdedafab13}{%
+           family={joselin33},
+           familyi={j\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SlideShare (Scribd)}%
+      }
+      \strng{namehash}{87777f8ba93fca2ecdd93ebdedafab13}
+      \strng{fullhash}{87777f8ba93fca2ecdd93ebdedafab13}
+      \strng{fullhashraw}{87777f8ba93fca2ecdd93ebdedafab13}
+      \strng{bibnamehash}{87777f8ba93fca2ecdd93ebdedafab13}
+      \strng{authorbibnamehash}{87777f8ba93fca2ecdd93ebdedafab13}
+      \strng{authornamehash}{87777f8ba93fca2ecdd93ebdedafab13}
+      \strng{authorfullhash}{87777f8ba93fca2ecdd93ebdedafab13}
+      \strng{authorfullhashraw}{87777f8ba93fca2ecdd93ebdedafab13}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{note}{Presentación en SlideShare}
+      \field{title}{Fotodiodo expo}
+      \field{urlday}{4}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://es.slideshare.net/slideshow/fotodiodo-expo/5582982
+      \endverb
+      \verb{url}
+      \verb https://es.slideshare.net/slideshow/fotodiodo-expo/5582982
+      \endverb
+    \endentry
     \entry{TI_SBOA061}{online}{}{}
       \name{author}{1}{}{%
         {{hash=67e54b1ee931f3f4bddfefa5fbde5fd8}{%
@@ -294,90 +361,6 @@
       \verb https://www.ti.com/lit/pdf/sboa061
       \endverb
     \endentry
-    \entry{MIT_OCW_Sampling}{online}{}{}
-      \name{author}{1}{}{%
-        {{hash=c8f17b9639fd4046dd85c2daf62d2605}{%
-           family={{MIT OpenCourseWare}},
-           familyi={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{c8f17b9639fd4046dd85c2daf62d2605}
-      \strng{fullhash}{c8f17b9639fd4046dd85c2daf62d2605}
-      \strng{fullhashraw}{c8f17b9639fd4046dd85c2daf62d2605}
-      \strng{bibnamehash}{c8f17b9639fd4046dd85c2daf62d2605}
-      \strng{authorbibnamehash}{c8f17b9639fd4046dd85c2daf62d2605}
-      \strng{authornamehash}{c8f17b9639fd4046dd85c2daf62d2605}
-      \strng{authorfullhash}{c8f17b9639fd4046dd85c2daf62d2605}
-      \strng{authorfullhashraw}{c8f17b9639fd4046dd85c2daf62d2605}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Lecture 16: Sampling (Signals and Systems)}
-      \field{urlday}{3}
-      \field{urlmonth}{1}
-      \field{urlyear}{2026}
-      \field{year}{2011}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/resources/lecture-16-sampling/
-      \endverb
-      \verb{url}
-      \verb https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/resources/lecture-16-sampling/
-      \endverb
-    \endentry
-    \entry{Swartz2012_BarCodeScanning}{article}{}{}
-      \name{author}{4}{}{%
-        {{hash=2a53f83aaaa5fdfa0ef05a5637b2ef83}{%
-           family={Swartz},
-           familyi={S\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod}}}%
-        {{hash=de40583ac1ca424f33e1d3c10e06ff86}{%
-           family={Branca},
-           familyi={B\bibinitperiod},
-           given={Alberto},
-           giveni={A\bibinitperiod}}}%
-        {{hash=eebcb37bd839cfe240053fde3d0a432a}{%
-           family={Bertoia},
-           familyi={B\bibinitperiod},
-           given={Marianna},
-           giveni={M\bibinitperiod}}}%
-        {{hash=ee3798c9f8009ffb827a3fd6d7f940bb}{%
-           family={Ausburger},
-           familyi={A\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{fdfeee4ba93d716991f7a27c8eb52ece}
-      \strng{fullhash}{dc756efd7af72eeef70c048673f6e6db}
-      \strng{fullhashraw}{dc756efd7af72eeef70c048673f6e6db}
-      \strng{bibnamehash}{dc756efd7af72eeef70c048673f6e6db}
-      \strng{authorbibnamehash}{dc756efd7af72eeef70c048673f6e6db}
-      \strng{authornamehash}{fdfeee4ba93d716991f7a27c8eb52ece}
-      \strng{authorfullhash}{dc756efd7af72eeef70c048673f6e6db}
-      \strng{authorfullhashraw}{dc756efd7af72eeef70c048673f6e6db}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Scholarpedia}
-      \field{number}{9}
-      \field{title}{Bar code scanning}
-      \field{urlday}{3}
-      \field{urlmonth}{1}
-      \field{urlyear}{2026}
-      \field{volume}{7}
-      \field{year}{2012}
-      \field{urldateera}{ce}
-      \field{pages}{12215}
-      \range{pages}{1}
-      \verb{urlraw}
-      \verb http://www.scholarpedia.org/article/Bar_code_scanning
-      \endverb
-      \verb{url}
-      \verb http://www.scholarpedia.org/article/Bar_code_scanning
-      \endverb
-    \endentry
     \entry{Honeywell_BarcodeScannersGuide}{online}{}{}
       \name{author}{1}{}{%
         {{hash=5275c6b314787401bd2030b71600e79c}{%
@@ -403,10 +386,10 @@
       \field{year}{2019}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.honeywell.com/us/en/news/featured-stories/2019/11/interesting-facts-about-barcode-scanners
+      \verb https://www.honeywell.com/us/en/news/featured-stories/2019/11/interesting-facts-about-barcode-scanners#question2
       \endverb
       \verb{url}
-      \verb https://www.honeywell.com/us/en/news/featured-stories/2019/11/interesting-facts-about-barcode-scanners
+      \verb https://www.honeywell.com/us/en/news/featured-stories/2019/11/interesting-facts-about-barcode-scanners#question2
       \endverb
     \endentry
     \entry{TI_SBOA061_PhotodiodeAmplifiers}{report}{}{}
@@ -427,8 +410,8 @@
       \strng{authorfullhash}{67e54b1ee931f3f4bddfefa5fbde5fd8}
       \strng{authorfullhashraw}{67e54b1ee931f3f4bddfefa5fbde5fd8}
       \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Designing Photodiode Amplifier Circuits with OPA128 (SBOA061)}
@@ -442,6 +425,146 @@
       \endverb
       \verb{url}
       \verb https://www.ti.com/lit/pdf/sboa061
+      \endverb
+    \endentry
+    \entry{TI_TIDU020A_ComparatorHysteresis}{report}{}{}
+      \name{author}{2}{}{%
+        {{hash=52706e8d2d86152fc6704f0dbcbb3e82}{%
+           family={Kay},
+           familyi={K\bibinitperiod},
+           given={Art},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c75cc6d0990ac5f56eb0bc5a03a16f00}{%
+           family={Claycomb},
+           familyi={C\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Texas Instruments}%
+      }
+      \strng{namehash}{68af60e0aa122ecba86a3614f359fcfd}
+      \strng{fullhash}{68af60e0aa122ecba86a3614f359fcfd}
+      \strng{fullhashraw}{68af60e0aa122ecba86a3614f359fcfd}
+      \strng{bibnamehash}{68af60e0aa122ecba86a3614f359fcfd}
+      \strng{authorbibnamehash}{68af60e0aa122ecba86a3614f359fcfd}
+      \strng{authornamehash}{68af60e0aa122ecba86a3614f359fcfd}
+      \strng{authorfullhash}{68af60e0aa122ecba86a3614f359fcfd}
+      \strng{authorfullhashraw}{68af60e0aa122ecba86a3614f359fcfd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{TIDU020A}
+      \field{title}{Comparator with Hysteresis Reference Design}
+      \field{urlday}{5}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ti.com/lit/pdf/tidu020
+      \endverb
+      \verb{url}
+      \verb https://www.ti.com/lit/pdf/tidu020
+      \endverb
+    \endentry
+    \entry{Kulkarni_SamplingQuantization_ELE201}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=892bf9b5d863438a1ff4c6432192f974}{%
+           family={Kulkarni},
+           familyi={K\bibinitperiod},
+           given={Sanjeev\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{892bf9b5d863438a1ff4c6432192f974}
+      \strng{fullhash}{892bf9b5d863438a1ff4c6432192f974}
+      \strng{fullhashraw}{892bf9b5d863438a1ff4c6432192f974}
+      \strng{bibnamehash}{892bf9b5d863438a1ff4c6432192f974}
+      \strng{authorbibnamehash}{892bf9b5d863438a1ff4c6432192f974}
+      \strng{authornamehash}{892bf9b5d863438a1ff4c6432192f974}
+      \strng{authorfullhash}{892bf9b5d863438a1ff4c6432192f974}
+      \strng{authorfullhashraw}{892bf9b5d863438a1ff4c6432192f974}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{note}{Lecture Notes for ELE201 (Princeton University). Copyright 1999--2002.}
+      \field{title}{Chapter 5: Sampling and Quantization}
+      \field{urlday}{5}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.princeton.edu/~cuff/ele201/kulkarni_text/digitizn.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.princeton.edu/~cuff/ele201/kulkarni_text/digitizn.pdf
+      \endverb
+    \endentry
+    \entry{US6938824B2_BarcodeDecoding}{patent}{}{}
+      \name{author}{5}{}{%
+        {{hash=139c71d188d803607d560c15db7522b0}{%
+           family={Madej},
+           familyi={M\bibinitperiod},
+           given={Dariusz\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=564278162da629db853c45e9c7233d54}{%
+           family={Boriotti},
+           familyi={B\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ff1e090ea04527e0691dd7c6b77c9e31}{%
+           family={Goren},
+           familyi={G\bibinitperiod},
+           given={David\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=e530f5fde4a4df80c75cb09688b09c3b}{%
+           family={Gurevich},
+           familyi={G\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+        {{hash=62d3b8b4635fa219b08c543ea0a21550}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelima Tsi},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{7408a753551387c62a8d896fb594a3cf}
+      \strng{fullhash}{6ed7e88c02dc4669ac98b8a2d258baf7}
+      \strng{fullhashraw}{6ed7e88c02dc4669ac98b8a2d258baf7}
+      \strng{bibnamehash}{6ed7e88c02dc4669ac98b8a2d258baf7}
+      \strng{authorbibnamehash}{6ed7e88c02dc4669ac98b8a2d258baf7}
+      \strng{authornamehash}{7408a753551387c62a8d896fb594a3cf}
+      \strng{authorfullhash}{6ed7e88c02dc4669ac98b8a2d258baf7}
+      \strng{authorfullhashraw}{6ed7e88c02dc4669ac98b8a2d258baf7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{6}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{US6938824B2}
+      \field{title}{Decoding algorithm for laser scanning bar code readers}
+      \field{type}{US Patent}
+      \field{urlday}{5}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://patents.google.com/patent/US6938824B2/en
+      \endverb
+      \verb{url}
+      \verb https://patents.google.com/patent/US6938824B2/en
       \endverb
     \endentry
     \entry{GS1_GeneralSpecifications}{report}{}{}
@@ -572,37 +695,6 @@
       \endverb
       \verb{url}
       \verb https://www.staffnet.manchester.ac.uk/physics-and-astronomy/health-and-safety/laser-safety/
-      \endverb
-    \endentry
-    \entry{OpenStax_LawOfReflection}{online}{}{}
-      \name{author}{1}{}{%
-        {{hash=958fd1d1699cbc3a1e96692dbf30b72e}{%
-           family={{OpenStax}},
-           familyi={O\bibinitperiod}}}%
-      }
-      \strng{namehash}{958fd1d1699cbc3a1e96692dbf30b72e}
-      \strng{fullhash}{958fd1d1699cbc3a1e96692dbf30b72e}
-      \strng{fullhashraw}{958fd1d1699cbc3a1e96692dbf30b72e}
-      \strng{bibnamehash}{958fd1d1699cbc3a1e96692dbf30b72e}
-      \strng{authorbibnamehash}{958fd1d1699cbc3a1e96692dbf30b72e}
-      \strng{authornamehash}{958fd1d1699cbc3a1e96692dbf30b72e}
-      \strng{authorfullhash}{958fd1d1699cbc3a1e96692dbf30b72e}
-      \strng{authorfullhashraw}{958fd1d1699cbc3a1e96692dbf30b72e}
-      \field{extraname}{3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Law of Reflection}
-      \field{urlday}{3}
-      \field{urlmonth}{1}
-      \field{urlyear}{2026}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://openstax.org/books/college-physics-2e/pages/25-2-the-law-of-reflection
-      \endverb
-      \verb{url}
-      \verb https://openstax.org/books/college-physics-2e/pages/25-2-the-law-of-reflection
       \endverb
     \endentry
   \enddatalist

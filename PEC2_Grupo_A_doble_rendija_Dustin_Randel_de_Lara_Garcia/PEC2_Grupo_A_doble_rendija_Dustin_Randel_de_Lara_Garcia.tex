@@ -1,0 +1,177 @@
+\documentclass[11pt,a4paper]{article}
+
+% ---- Márgenes
+\usepackage[a4paper, left=2cm, right=2cm, top=2.5cm, bottom=2.5cm]{geometry}
+
+% ---- Idioma y fuentes (pdfLaTeX)
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish, es-tabla]{babel}
+
+% ---- “Arial-like” con pdfLaTeX: Helvetica
+\usepackage[scaled=0.92]{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+% ---- Matemáticas y tablas
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{tabularx,booktabs}
+
+% ---- Gráficos
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage[table,xcdraw]{xcolor}
+\definecolor{verdePastel}{RGB}{204, 235, 197}
+\definecolor{verdeFresco}{RGB}{60,160,60}
+
+% ---- Estilo y utilidades
+\usepackage{fancyhdr}
+\setlength{\headheight}{14pt}
+\usepackage{csquotes}
+\usepackage{parskip}
+\usepackage{array,longtable}
+\renewcommand{\arraystretch}{1.4}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{B}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+% ---- URLs más “rompibles”
+\usepackage{xurl}
+
+% ---- Interlineado 1.5
+\usepackage{setspace}
+
+% ---- Bibliografía (biber)
+\usepackage[
+  backend=biber,
+  style=numeric,
+  sorting=none,
+  maxbibnames=99
+]{biblatex}
+\addbibresource{referencias.bib}
+
+% ---- Hipervínculos (cargar al final)
+\usepackage{hyperref}
+\hypersetup{
+  pdfauthor={Dustin Randel De Lara García},
+  pdftitle={PEC2 Grupo A - Importancia del experimento de la doble rendija en la evolución de la Física},
+  pdfkeywords={Física, doble rendija, cuántica, UNED},
+  colorlinks=true,
+  linkcolor=verdeFresco,
+  urlcolor=verdeFresco,
+  citecolor=verdeFresco
+}
+
+% ---- “Tabla” en lugar de “Cuadro”
+\addto\captionsspanish{\renewcommand{\tablename}{Tabla}}
+
+% ---- Encabezados/pies
+\pagestyle{fancy}
+\rhead{UNED}
+\lhead{PEC2 Grupo A - Experimento de la doble rendija}
+\cfoot{\thepage}
+
+\begin{document}
+
+% ---- Portada
+\begin{center}
+  {\includegraphics[width=0.5\textwidth]{icono_uned.jpg}\par}
+  \vspace{1cm}
+  {\bfseries\LARGE Universidad Nacional de Educación a Distancia \par}
+  \vspace{1cm}
+  {\scshape\Large Facultad de Educación\par}
+  \vspace{0.5cm}
+  {\scshape\Large Máster en Formación del Profesorado\par}
+  \vspace{0.5cm}
+  {\scshape\Large Evolución Histórica de las Ideas de la Física y de la Química \par}
+  \vspace{1.5cm}
+  {\scshape\Huge Importancia del experimento de la doble rendija en la evolución de la Física \par}
+  \vspace{1.5cm}
+  {\itshape\Large PEC 2 \par}
+  \vfill
+  {\Large Dustin Randel De Lara García \href{mailto:ddelara3@alumno.uned.es}{ddelara3@alumno.uned.es}\par}
+  \vfill
+  {\Large \today \par}
+  \thispagestyle{empty}
+\end{center}
+
+\newpage
+
+% ---- Interlineado 1.5 (a partir de aquí)
+\onehalfspacing
+
+\tableofcontents
+
+\newpage
+
+\section*{Resumen previo y enfoque}
+\addcontentsline{toc}{section}{Resumen previo y enfoque}
+
+La doble rendija suele presentarse como un experimento sobre “onda vs.\ partícula”, pero su papel en la evolución de la Física es más estructural: funciona como un \emph{dispositivo de selección conceptual}. Un mismo esquema (dos caminos coherentes y detección) obliga, según el periodo histórico, a reformular qué cuenta como explicación, qué magnitudes son relevantes y qué límites impone la medición. En óptica decimonónica, el experimento consolida la superposición ondulatoria como criterio empírico frente a modelos corpusculares \cite{Young1804,Kipnis1991}. En el tránsito a la cuántica, la misma geometría se convierte en escenario mínimo para justificar la predicción probabilística basada en amplitudes (regla de Born) \cite{Born1926} y para articular el papel del dispositivo experimental (complementariedad) \cite{Bohr1928}. En la formulación moderna, el problema se hace operativo: la interferencia se degrada cuando aparece información de cuál-camino, cuantificable mediante desigualdades de visibilidad y distinguibilidad \cite{WoottersZurek1979,Englert1996}. Finalmente, la decoherencia ofrece un mecanismo físico para la desaparición práctica de interferencias en sistemas grandes sin introducir cortes ad hoc \cite{Zurek2003}.
+
+Adoptaré un enfoque histórico--conceptual apoyado en fuentes primarias y revisiones influyentes. Además, incorporaré dos “extensiones” que muestran por qué la doble rendija deja de ser un argumento sobre la luz para convertirse en un argumento sobre la teoría: la interferencia de materia (de Broglie y su verificación) \cite{deBroglie1925,DavissonGermer1927} y la construcción evento a evento del patrón con electrones individuales \cite{Tonomura1989}. Cerraré con su vigencia contemporánea: interferencia con moléculas complejas y el papel de la decoherencia en el límite cuántico--clásico \cite{Arndt1999,Nairz2003,Hornberger2012}. El objetivo no es defender una interpretación filosófica única, sino justificar por qué este experimento ha reordenado, de forma repetida, las nociones de realidad, predicción y medición en Física.
+
+\section{De la óptica clásica a la óptica física: interferencia como criterio experimental}
+En 1804, Young presenta experimentos y cálculos que vuelven difícil sostener una explicación puramente corpuscular de la luz: la presencia de máximos y mínimos espaciales no se explica como suma de “impactos” independientes, sino como resultado de superponer contribuciones coherentes con fase \cite{Young1804}. Históricamente, esto inaugura un patrón metodológico de gran alcance: el modelo correcto no es el que se ajusta mejor a intuiciones de trayectoria, sino el que reproduce regularidades finas (franjas) que dependen de relaciones globales (diferencias de camino y fase).
+
+Desde la historiografía de la óptica, la interferencia se consolida como un principio organizador: no es un “efecto más”, sino una forma de evidenciar que la descripción debe incluir superposición \cite{Kipnis1991}. Esta idea prepara el terreno para la revolución cuántica: enseña que hay fenómenos cuyo resultado depende de alternativas indistinguibles y de cómo se combinan, no de un único recorrido privilegiado.
+
+\section{Superposición cuántica: amplitudes y regla de Born}
+La mecánica cuántica reinterpreta el montaje: lo que se superpone no es un campo clásico, sino una amplitud compleja asociada a alternativas. Born establece el puente hacia el dato: $|\psi(x)|^2$ se interpreta como densidad de probabilidad \cite{Born1926}. Para dos caminos coherentes, aparece el término de interferencia:
+\begin{equation}
+P(x)=\left|\psi_1(x)+\psi_2(x)\right|^2
+=\left|\psi_1(x)\right|^2+\left|\psi_2(x)\right|^2+2\,\mathrm{Re}\!\left(\psi_1^\ast(x)\psi_2(x)\right).
+\end{equation}
+
+La importancia histórica de este paso es que redefine “explicar” en Física fundamental. La teoría deja de prometer trayectorias deterministas para cada evento individual y pasa a ofrecer una ley para distribuciones. Lejos de ser una carencia, la probabilidad queda anclada en la estructura matemática de la superposición. Así, la doble rendija se convierte en un laboratorio conceptual donde se ve, de manera casi minimalista, que la predicción física depende de amplitudes (y su coherencia) y no solo de intensidades.
+
+\section{Complementariedad e información de cuál-camino: de lo cualitativo a lo cuantitativo}
+Bohr formula la \emph{complementariedad} como principio para describir la dependencia de los resultados respecto al dispositivo: ciertos montajes hacen visible la interferencia; otros, la información de trayectoria \cite{Bohr1928}. Con el tiempo, este mensaje se vuelve operativo. Wootters y Zurek conectan explícitamente la pérdida de interferencia con la disponibilidad de información de cuál-camino, subrayando que el punto clave no es una perturbación clásica, sino la estructura de correlaciones que permite (o no) distinguir alternativas \cite{WoottersZurek1979}.
+
+Englert cristaliza este avance en una desigualdad que expresa el compromiso entre visibilidad $\mathcal{V}$ e información de camino (distinguibilidad) $\mathcal{D}$:
+\begin{equation}
+\mathcal{V}^2+\mathcal{D}^2\le 1.
+\end{equation}
+Este resultado es históricamente relevante porque desplaza el debate “¿qué es el electrón?” hacia una pregunta física y medible: “¿qué información sobre el camino existe en el estado final (aunque sea en principio)?” \cite{Englert1996}. El experimento pasa, así, de icono filosófico a herramienta cuantitativa para hablar de coherencia, información y correlaciones.
+
+\section{De Broglie y la verificación experimental con materia}
+La doble rendija se vuelve experimento estructural para toda la Física cuando se aplica a la materia. De Broglie propone asociar a partículas una longitud de onda $\lambda=h/p$, abriendo un marco unificador que extiende la noción de interferencia más allá de la óptica \cite{deBroglie1925}. La confirmación experimental histórica más citada llega con la difracción de electrones por un cristal (Davisson--Germer), que valida de modo directo el carácter ondulatorio de sistemas paradigmáticamente “corpusculares” \cite{DavissonGermer1927}.
+
+En términos de evolución de ideas, este episodio reordena la jerarquía conceptual: si la materia interfiere, entonces la superposición no es un rasgo “especial” de la luz, sino una propiedad general de la descripción cuántica cuando se conservan las condiciones de coherencia.
+
+\section{Evento a evento: por qué el patrón no es un artefacto del haz}
+Una objeción intuitiva es pensar que la interferencia necesita un flujo continuo. Sin embargo, el significado cuántico se hace más nítido en el régimen de detección individual: impactos puntuales que, acumulados, reconstruyen el patrón interferente. Tonomura y colaboradores muestran explícitamente la construcción del patrón con electrones individuales, reforzando que la regularidad no reside en una onda clásica “distribuida”, sino en una ley estadística emergente de la coherencia del experimento \cite{Tonomura1989}.
+
+Históricamente, este tipo de evidencia cambia la naturaleza del problema: ya no se discute si “una partícula se divide”, sino cómo una teoría debe conciliar discreción de eventos y estructura interferente en distribuciones.
+
+\section{Borrador cuántico y elección retardada: información, no retrocausalidad}
+Parte del impacto cultural de la doble rendija proviene de variantes que parecen desafiar el sentido común temporal. Wheeler propone la idea de \emph{elección retardada}: decidir el tipo de medición cuando el cuanto ya ha pasado la región de las rendijas, obligando a abandonar la imagen de una trayectoria “definida” anterior al acto de medida \cite{Wheeler1978}. En la misma línea, el \emph{borrador cuántico} se formula como un experimento donde la información de cuál-camino se marca y, mediante selección de sub-ensambles o coincidencias, puede hacerse inaccesible, recuperando interferencia condicional \cite{ScullyDruhl1982}. Una realización particularmente influyente explora una versión de elección retardada del borrador cuántico \cite{Kim2000}.
+
+El valor histórico de estas propuestas no es apoyar interpretaciones retrocausales, sino enfatizar una tesis operativa: lo decisivo es qué información es accesible en el conjunto de datos considerado y qué correlaciones se han generado, no una historia clásica de trayectorias.
+
+\section{Decoherencia: mecanismo físico para la pérdida de coherencia}
+La decoherencia reubica el problema en términos de dinámica de sistemas abiertos. Zurek revisa cómo la interacción con el entorno suprime coherencias observables (y selecciona bases robustas), explicando por qué la interferencia es frágil en sistemas macroscópicos y por qué preservar la doble rendija exige aislamiento extremo \cite{Zurek2003}. Un esquema mínimo lo ilustra: si el estado sistema+entorno toma
+\begin{equation}
+|\Psi\rangle=\frac{1}{\sqrt{2}}\left(|1\rangle|E_1\rangle+|2\rangle|E_2\rangle\right),
+\end{equation}
+las coherencias del sistema se atenúan al trazar el entorno cuando $\langle E_1|E_2\rangle \approx 0$. El término interferente se vuelve inobservable.
+
+En la evolución de ideas, esto transforma lo que parecía un dilema filosófico (“colapso por observación”) en un problema físico con parámetros (acoplamiento ambiental, tiempos de decoherencia, grados de libertad no controlados). Sin agotar todas las preguntas interpretativas, la decoherencia explica por qué la “doble rendija del mundo cotidiano” casi nunca se ve.
+
+\section{Vigencia contemporánea: moléculas complejas y límites de la superposición}
+La doble rendija sigue siendo fértil porque permite explorar los límites prácticos y conceptuales de la superposición. Un hito emblemático es la observación de interferencia con $\mathrm{C}_{60}$, que muestra comportamiento ondulatorio en un objeto con muchos grados internos \cite{Arndt1999}. Este tipo de resultados no solo extiende récords: obliga a modelar qué fuentes de decoherencia dominan y cómo se controla la coherencia en sistemas complejos.
+
+Como puente entre lo fundacional y lo experimental, una revisión accesible discute interferometría con moléculas grandes y su contexto físico \cite{Nairz2003}. Además, una síntesis moderna en \emph{Reviews of Modern Physics} articula el estado del arte de interferencia en clusters y moléculas, conectando restricciones experimentales con modelos de decoherencia \cite{Hornberger2012}. Esto cierra el argumento histórico: el montaje no es solo un icono pedagógico, sino una herramienta de frontera para cartografiar el tránsito cuántico--clásico.
+
+\section{Consideraciones didácticas en Bachillerato}
+En Bachillerato, la doble rendija puede usarse como entrenamiento de modelización y evidencia sin caer en “mística”: (a) distinguir suma de intensidades y suma de amplitudes (regla de Born) \cite{Born1926}; (b) explicar el papel del dispositivo y de la información accesible (complementariedad y su formulación cuantitativa) \cite{Bohr1928,Englert1996}; y (c) introducir la idea de entorno como mecanismo físico de pérdida de coherencia \cite{Zurek2003}. El foco debería ser cómo se construyen modelos y cómo el experimento selecciona el lenguaje teórico, no “resolver” interpretaciones filosóficas.
+
+\section{Conclusiones}
+La importancia histórica de la doble rendija proviene de su capacidad para forzar cambios de marco con una geometría experimental mínima. Desde Young, la interferencia actúa como criterio para abandonar descripciones insuficientes y adoptar la superposición como principio explicativo \cite{Young1804,Kipnis1991}. Con Born, la predicción se reubica en probabilidades derivadas de amplitudes \cite{Born1926}. Con Bohr y su formalización moderna, la dependencia respecto al dispositivo se convierte en un compromiso cuantificable entre visibilidad e información de camino \cite{Bohr1928,WoottersZurek1979,Englert1996}. La extensión a materia (de Broglie y su verificación) convierte el experimento en argumento estructural de la teoría \cite{deBroglie1925,DavissonGermer1927}, y la evidencia evento a evento obliga a aceptar que discreción de eventos y patrones interferentes son compatibles en una descripción estadística coherente \cite{Tonomura1989}. Por último, decoherencia y la interferometría moderna con objetos complejos muestran por qué el experimento sigue vivo: hoy no solo funda la cuántica, sino que delimita sus fronteras prácticas y conceptuales \cite{Zurek2003,Arndt1999,Nairz2003,Hornberger2012}.
+
+\newpage
+\section*{Anexo: bibliografía consultada (con nota de uso)}
+\addcontentsline{toc}{section}{Anexo: bibliografía consultada (con nota de uso)}
+\printbibliography[heading=none]
+
+\end{document}
