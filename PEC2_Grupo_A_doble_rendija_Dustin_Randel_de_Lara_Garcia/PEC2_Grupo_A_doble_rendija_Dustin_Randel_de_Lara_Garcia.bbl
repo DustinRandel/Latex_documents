@@ -41,739 +41,245 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Philosophical Transactions of the Royal Society of London}
       \field{langid}{english}
-      \field{note}{Justificación de uso: fuente primaria para situar el experimento de interferencia como criterio empírico en el paso a la óptica ondulatoria.}
-      \field{title}{I. The Bakerian Lecture. Experiments and calculations relative to physical optics}
+      \field{note}{Fuente primaria. Fundamenta el uso de las franjas (máximos y mínimos) como evidencia de superposición y la idea de interferencia entre dos porciones de luz derivadas de un mismo origen.}
+      \field{title}{I. The Bakerian Lecture. Experiments and Calculations Relative to Physical Optics}
+      \field{urlday}{9}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
       \field{volume}{94}
       \field{year}{1804}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
       \field{pages}{1\bibrangedash 16}
       \range{pages}{16}
       \verb{doi}
       \verb 10.1098/rstl.1804.0001
       \endverb
       \verb{urlraw}
-      \verb https://royalsocietypublishing.org/doi/10.1098/rstl.1804.0001
+      \verb https://royalsocietypublishing.org/rstl/article/doi/10.1098/rstl.1804.0001/121319/I-The-Bakerian-Lecture-Experiments-and
       \endverb
       \verb{url}
-      \verb https://royalsocietypublishing.org/doi/10.1098/rstl.1804.0001
+      \verb https://royalsocietypublishing.org/rstl/article/doi/10.1098/rstl.1804.0001/121319/I-The-Bakerian-Lecture-Experiments-and
       \endverb
     \endentry
-    \entry{Kipnis1991}{book}{}{}
+    \entry{Oliver_T13_Interferencia}{misc}{}{}
       \name{author}{1}{}{%
-        {{hash=4abebbc3ecc96b23d4e0ff07e93167db}{%
-           family={Kipnis},
-           familyi={K\bibinitperiod},
-           given={Naum\bibnamedelima S.},
-           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=fe5814aa1dcebf051ffca2568cf7e5ae}{%
+           family={Oliver},
+           familyi={O\bibinitperiod},
+           given={Ramón},
+           giveni={R\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {Boston, MA}%
+      \list{organization}{1}{%
+        {Universitat de les Illes Balears}%
       }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{4abebbc3ecc96b23d4e0ff07e93167db}
-      \strng{fullhash}{4abebbc3ecc96b23d4e0ff07e93167db}
-      \strng{fullhashraw}{4abebbc3ecc96b23d4e0ff07e93167db}
-      \strng{bibnamehash}{4abebbc3ecc96b23d4e0ff07e93167db}
-      \strng{authorbibnamehash}{4abebbc3ecc96b23d4e0ff07e93167db}
-      \strng{authornamehash}{4abebbc3ecc96b23d4e0ff07e93167db}
-      \strng{authorfullhash}{4abebbc3ecc96b23d4e0ff07e93167db}
-      \strng{authorfullhashraw}{4abebbc3ecc96b23d4e0ff07e93167db}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{langid}{english}
-      \field{note}{Justificación de uso: obra historiográfica para contextualizar la interferencia como principio organizador y su papel en la evolución conceptual de la óptica.}
-      \field{title}{History of the Principle of Interference of Light}
-      \field{year}{1991}
-      \field{dateera}{ce}
-      \verb{doi}
-      \verb 10.1007/978-1-4613-9085-9
-      \endverb
-      \verb{urlraw}
-      \verb https://link.springer.com/book/10.1007/978-1-4613-9085-9
-      \endverb
-      \verb{url}
-      \verb https://link.springer.com/book/10.1007/978-1-4613-9085-9
-      \endverb
-    \endentry
-    \entry{Born1926}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=f3c12b2ab192a232977c790c202ae18a}{%
-           family={Born},
-           familyi={B\bibinitperiod},
-           given={Max},
-           giveni={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{f3c12b2ab192a232977c790c202ae18a}
-      \strng{fullhash}{f3c12b2ab192a232977c790c202ae18a}
-      \strng{fullhashraw}{f3c12b2ab192a232977c790c202ae18a}
-      \strng{bibnamehash}{f3c12b2ab192a232977c790c202ae18a}
-      \strng{authorbibnamehash}{f3c12b2ab192a232977c790c202ae18a}
-      \strng{authornamehash}{f3c12b2ab192a232977c790c202ae18a}
-      \strng{authorfullhash}{f3c12b2ab192a232977c790c202ae18a}
-      \strng{authorfullhashraw}{f3c12b2ab192a232977c790c202ae18a}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Zeitschrift für Physik}
-      \field{langid}{german}
-      \field{note}{Justificación de uso: fuente primaria para la regla de Born ($|\psi|^2$) y el salto histórico hacia una predicción probabilística basada en amplitudes.}
-      \field{title}{Zur Quantenmechanik der Sto{ß}vorgänge}
-      \field{volume}{37}
-      \field{year}{1926}
-      \field{dateera}{ce}
-      \field{pages}{863\bibrangedash 867}
-      \range{pages}{5}
-      \verb{doi}
-      \verb 10.1007/BF01397477
-      \endverb
-      \verb{urlraw}
-      \verb https://link.springer.com/article/10.1007/BF01397477
-      \endverb
-      \verb{url}
-      \verb https://link.springer.com/article/10.1007/BF01397477
-      \endverb
-    \endentry
-    \entry{Bohr1928}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=09ca20fddac431fc5e6dae0595c682f8}{%
-           family={Bohr},
-           familyi={B\bibinitperiod},
-           given={Niels},
-           giveni={N\bibinitperiod}}}%
-      }
-      \strng{namehash}{09ca20fddac431fc5e6dae0595c682f8}
-      \strng{fullhash}{09ca20fddac431fc5e6dae0595c682f8}
-      \strng{fullhashraw}{09ca20fddac431fc5e6dae0595c682f8}
-      \strng{bibnamehash}{09ca20fddac431fc5e6dae0595c682f8}
-      \strng{authorbibnamehash}{09ca20fddac431fc5e6dae0595c682f8}
-      \strng{authornamehash}{09ca20fddac431fc5e6dae0595c682f8}
-      \strng{authorfullhash}{09ca20fddac431fc5e6dae0595c682f8}
-      \strng{authorfullhashraw}{09ca20fddac431fc5e6dae0595c682f8}
+      \strng{namehash}{fe5814aa1dcebf051ffca2568cf7e5ae}
+      \strng{fullhash}{fe5814aa1dcebf051ffca2568cf7e5ae}
+      \strng{fullhashraw}{fe5814aa1dcebf051ffca2568cf7e5ae}
+      \strng{bibnamehash}{fe5814aa1dcebf051ffca2568cf7e5ae}
+      \strng{authorbibnamehash}{fe5814aa1dcebf051ffca2568cf7e5ae}
+      \strng{authornamehash}{fe5814aa1dcebf051ffca2568cf7e5ae}
+      \strng{authorfullhash}{fe5814aa1dcebf051ffca2568cf7e5ae}
+      \strng{authorfullhashraw}{fe5814aa1dcebf051ffca2568cf7e5ae}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Nature}
-      \field{langid}{english}
-      \field{note}{Justificación de uso: formulación clásica de la complementariedad para discutir la dependencia del resultado respecto al dispositivo de medida.}
-      \field{title}{The Quantum Postulate and the Recent Development of Atomic Theory}
-      \field{volume}{121}
-      \field{year}{1928}
-      \field{dateera}{ce}
-      \field{pages}{580\bibrangedash 590}
-      \range{pages}{11}
-      \verb{doi}
-      \verb 10.1038/121580a0
-      \endverb
+      \field{note}{Apuntes docentes. Se usan para: (i) definir coherencia espacial y desfase relativo; (ii) describir el montaje con orificio previo como fuente cuasi puntual; (iii) justificar la expresión moderna de intensidad con término de interferencia y su interpretación.}
+      \field{title}{Tema 13. Interferencias}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.nature.com/articles/121580a0
+      \verb https://drive.google.com/file/d/1kqhR1QSPXy6luADnew0Ml8myLgpF8oGK/view?usp=sharing
       \endverb
       \verb{url}
-      \verb https://www.nature.com/articles/121580a0
+      \verb https://drive.google.com/file/d/1kqhR1QSPXy6luADnew0Ml8myLgpF8oGK/view?usp=sharing
       \endverb
     \endentry
-    \entry{WoottersZurek1979}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=db3a2ac4bb7edc871a862059726651fe}{%
-           family={Wootters},
-           familyi={W\bibinitperiod},
-           given={William\bibnamedelima K.},
-           giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=e4c35f00b8d96a7406a9b96178aad6b3}{%
-           family={Zurek},
-           familyi={Z\bibinitperiod},
-           given={Wojciech\bibnamedelima H.},
-           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-      }
-      \strng{namehash}{b86460684b3390dec544a8b01a7f2c9e}
-      \strng{fullhash}{b86460684b3390dec544a8b01a7f2c9e}
-      \strng{fullhashraw}{b86460684b3390dec544a8b01a7f2c9e}
-      \strng{bibnamehash}{b86460684b3390dec544a8b01a7f2c9e}
-      \strng{authorbibnamehash}{b86460684b3390dec544a8b01a7f2c9e}
-      \strng{authornamehash}{b86460684b3390dec544a8b01a7f2c9e}
-      \strng{authorfullhash}{b86460684b3390dec544a8b01a7f2c9e}
-      \strng{authorfullhashraw}{b86460684b3390dec544a8b01a7f2c9e}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Physical Review D}
-      \field{langid}{english}
-      \field{note}{Justificación de uso: conecta la pérdida de interferencia con la información de cuál-camino de forma cuantitativa, puente entre Bohr y formulaciones modernas.}
-      \field{number}{2}
-      \field{title}{Complementarity in the double-slit experiment: Quantum nonseparability and a quantitative statement of {Bohr}'s principle}
-      \field{volume}{19}
-      \field{year}{1979}
-      \field{dateera}{ce}
-      \field{pages}{473\bibrangedash 484}
-      \range{pages}{12}
-      \verb{doi}
-      \verb 10.1103/PhysRevD.19.473
-      \endverb
-      \verb{urlraw}
-      \verb https://link.aps.org/doi/10.1103/PhysRevD.19.473
-      \endverb
-      \verb{url}
-      \verb https://link.aps.org/doi/10.1103/PhysRevD.19.473
-      \endverb
-    \endentry
-    \entry{Englert1996}{article}{}{}
+    \entry{UNAM_Clase7_Cuantica}{online}{}{}
       \name{author}{1}{}{%
-        {{hash=b168bf0b68850344a94776007de10a66}{%
-           family={Englert},
-           familyi={E\bibinitperiod},
-           given={Berthold-Georg},
-           giveni={B\bibinithyphendelim G\bibinitperiod}}}%
+        {{hash=99f144482a95c4af86c55e48a5bf1da5}{%
+           family={{Facultad de Ciencias, Universidad Nacional Autónoma de México (UNAM)}},
+           familyi={F\bibinitperiod}}}%
       }
-      \strng{namehash}{b168bf0b68850344a94776007de10a66}
-      \strng{fullhash}{b168bf0b68850344a94776007de10a66}
-      \strng{fullhashraw}{b168bf0b68850344a94776007de10a66}
-      \strng{bibnamehash}{b168bf0b68850344a94776007de10a66}
-      \strng{authorbibnamehash}{b168bf0b68850344a94776007de10a66}
-      \strng{authornamehash}{b168bf0b68850344a94776007de10a66}
-      \strng{authorfullhash}{b168bf0b68850344a94776007de10a66}
-      \strng{authorfullhashraw}{b168bf0b68850344a94776007de10a66}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \strng{namehash}{99f144482a95c4af86c55e48a5bf1da5}
+      \strng{fullhash}{99f144482a95c4af86c55e48a5bf1da5}
+      \strng{fullhashraw}{99f144482a95c4af86c55e48a5bf1da5}
+      \strng{bibnamehash}{99f144482a95c4af86c55e48a5bf1da5}
+      \strng{authorbibnamehash}{99f144482a95c4af86c55e48a5bf1da5}
+      \strng{authornamehash}{99f144482a95c4af86c55e48a5bf1da5}
+      \strng{authorfullhash}{99f144482a95c4af86c55e48a5bf1da5}
+      \strng{authorfullhashraw}{99f144482a95c4af86c55e48a5bf1da5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Physical Review Letters}
-      \field{langid}{english}
-      \field{note}{Justificación de uso: desigualdad $\mathcal{V}^2+\mathcal{D}^2\le1$ como formulación operativa del compromiso entre visibilidad e información de camino.}
-      \field{number}{11}
-      \field{title}{Fringe Visibility and Which-Way Information: An Inequality}
-      \field{volume}{77}
-      \field{year}{1996}
-      \field{dateera}{ce}
-      \field{pages}{2154\bibrangedash 2157}
-      \range{pages}{4}
-      \verb{doi}
-      \verb 10.1103/PhysRevLett.77.2154
-      \endverb
+      \field{note}{Apuntes docentes. Se citan para enunciar $\lambda=h/p$ y para situar la verificación temprana de la onda de materia mediante difracción electrónica (Davisson--Germer y G.~P.~Thomson, 1927).}
+      \field{title}{Clase 7: La adolescencia de la Mecánica Cuántica. La hipótesis de Louis de Broglie}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://link.aps.org/doi/10.1103/PhysRevLett.77.2154
+      \verb https://sistemas.fciencias.unam.mx/~fam/Cursos/Cuantica/Clases/Clase7.pdf
       \endverb
       \verb{url}
-      \verb https://link.aps.org/doi/10.1103/PhysRevLett.77.2154
+      \verb https://sistemas.fciencias.unam.mx/~fam/Cursos/Cuantica/Clases/Clase7.pdf
       \endverb
     \endentry
-    \entry{Zurek2003}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=e4c35f00b8d96a7406a9b96178aad6b3}{%
-           family={Zurek},
-           familyi={Z\bibinitperiod},
-           given={Wojciech\bibnamedelima H.},
-           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-      }
-      \strng{namehash}{e4c35f00b8d96a7406a9b96178aad6b3}
-      \strng{fullhash}{e4c35f00b8d96a7406a9b96178aad6b3}
-      \strng{fullhashraw}{e4c35f00b8d96a7406a9b96178aad6b3}
-      \strng{bibnamehash}{e4c35f00b8d96a7406a9b96178aad6b3}
-      \strng{authorbibnamehash}{e4c35f00b8d96a7406a9b96178aad6b3}
-      \strng{authornamehash}{e4c35f00b8d96a7406a9b96178aad6b3}
-      \strng{authorfullhash}{e4c35f00b8d96a7406a9b96178aad6b3}
-      \strng{authorfullhashraw}{e4c35f00b8d96a7406a9b96178aad6b3}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Reviews of Modern Physics}
-      \field{langid}{english}
-      \field{note}{Justificación de uso: revisión clave para explicar la desaparición de interferencia como dinámica de sistemas abiertos (decoherencia) y transición cuántico--clásica.}
-      \field{number}{3}
-      \field{title}{Decoherence, einselection, and the quantum origins of the classical}
-      \field{volume}{75}
-      \field{year}{2003}
-      \field{dateera}{ce}
-      \field{pages}{715\bibrangedash 775}
-      \range{pages}{61}
-      \verb{doi}
-      \verb 10.1103/RevModPhys.75.715
-      \endverb
-      \verb{urlraw}
-      \verb https://link.aps.org/doi/10.1103/RevModPhys.75.715
-      \endverb
-      \verb{url}
-      \verb https://link.aps.org/doi/10.1103/RevModPhys.75.715
-      \endverb
-    \endentry
-    \entry{deBroglie1925}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=9957aaa86ccf437c6dcb56c14de6688f}{%
-           family={Broglie},
-           familyi={B\bibinitperiod},
-           given={Louis},
-           giveni={L\bibinitperiod},
-           prefix={de},
-           prefixi={d\bibinitperiod}}}%
-      }
-      \strng{namehash}{9957aaa86ccf437c6dcb56c14de6688f}
-      \strng{fullhash}{9957aaa86ccf437c6dcb56c14de6688f}
-      \strng{fullhashraw}{9957aaa86ccf437c6dcb56c14de6688f}
-      \strng{bibnamehash}{9957aaa86ccf437c6dcb56c14de6688f}
-      \strng{authorbibnamehash}{9957aaa86ccf437c6dcb56c14de6688f}
-      \strng{authornamehash}{9957aaa86ccf437c6dcb56c14de6688f}
-      \strng{authorfullhash}{9957aaa86ccf437c6dcb56c14de6688f}
-      \strng{authorfullhashraw}{9957aaa86ccf437c6dcb56c14de6688f}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Annales de Physique}
-      \field{langid}{french}
-      \field{note}{Justificación de uso: fuente primaria para ondas de materia; permite extender la lógica de interferencia a partículas materiales.}
-      \field{number}{3}
-      \field{title}{Recherches sur la théorie des Quanta}
-      \field{volume}{10}
-      \field{year}{1925}
-      \field{dateera}{ce}
-      \field{pages}{22\bibrangedash 128}
-      \range{pages}{107}
-      \verb{doi}
-      \verb 10.1051/anphys/192510030022
-      \endverb
-      \verb{urlraw}
-      \verb https://www.annphys.org/articles/anphys/abs/1925/03/anphys19251003p22/anphys19251003p22.html
-      \endverb
-      \verb{url}
-      \verb https://www.annphys.org/articles/anphys/abs/1925/03/anphys19251003p22/anphys19251003p22.html
-      \endverb
-    \endentry
-    \entry{DavissonGermer1927}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=d02ec8026608473f6db7a3570b188c2b}{%
-           family={Davisson},
-           familyi={D\bibinitperiod},
-           given={C.},
-           giveni={C\bibinitperiod}}}%
-        {{hash=a150ef8b588355ebd9c7b9e8bc25db01}{%
-           family={Germer},
-           familyi={G\bibinitperiod},
-           given={L.\bibnamedelimi H.},
-           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-      }
-      \strng{namehash}{8469f85be5de2deb57e7aecfe83c1032}
-      \strng{fullhash}{8469f85be5de2deb57e7aecfe83c1032}
-      \strng{fullhashraw}{8469f85be5de2deb57e7aecfe83c1032}
-      \strng{bibnamehash}{8469f85be5de2deb57e7aecfe83c1032}
-      \strng{authorbibnamehash}{8469f85be5de2deb57e7aecfe83c1032}
-      \strng{authornamehash}{8469f85be5de2deb57e7aecfe83c1032}
-      \strng{authorfullhash}{8469f85be5de2deb57e7aecfe83c1032}
-      \strng{authorfullhashraw}{8469f85be5de2deb57e7aecfe83c1032}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Physical Review}
-      \field{langid}{english}
-      \field{note}{Justificación de uso: evidencia experimental histórica del carácter ondulatorio de electrones (validación empírica del marco de de Broglie).}
-      \field{title}{Diffraction of Electrons by a Crystal of Nickel}
-      \field{volume}{30}
-      \field{year}{1927}
-      \field{dateera}{ce}
-      \field{pages}{705\bibrangedash 740}
-      \range{pages}{36}
-      \verb{doi}
-      \verb 10.1103/PhysRev.30.705
-      \endverb
-      \verb{urlraw}
-      \verb https://link.aps.org/doi/10.1103/PhysRev.30.705
-      \endverb
-      \verb{url}
-      \verb https://link.aps.org/doi/10.1103/PhysRev.30.705
-      \endverb
-    \endentry
-    \entry{Tonomura1989}{article}{}{}
-      \name{author}{5}{}{%
-        {{hash=70271b825e23efa53258446f2a33125e}{%
-           family={Tonomura},
-           familyi={T\bibinitperiod},
-           given={Akira},
-           giveni={A\bibinitperiod}}}%
-        {{hash=629daee019573105df5fb2b6566ffa62}{%
-           family={Endo},
-           familyi={E\bibinitperiod},
-           given={Junji},
-           giveni={J\bibinitperiod}}}%
-        {{hash=bc87f8ed651e648b361d7a3099dc836b}{%
-           family={Matsuda},
-           familyi={M\bibinitperiod},
-           given={Toshiaki},
-           giveni={T\bibinitperiod}}}%
-        {{hash=1afbcf3911929c4b133b7ab52b55cdf9}{%
-           family={Kawasaki},
-           familyi={K\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod}}}%
-        {{hash=498ba78c0b611a149e08f7f629dcab78}{%
-           family={Ezawa},
-           familyi={E\bibinitperiod},
-           given={H.},
-           giveni={H\bibinitperiod}}}%
-      }
-      \strng{namehash}{e29c406c07e7cc81392475dc304ac2c1}
-      \strng{fullhash}{1db0f50ebe99bce68b5fe305b68b4705}
-      \strng{fullhashraw}{1db0f50ebe99bce68b5fe305b68b4705}
-      \strng{bibnamehash}{1db0f50ebe99bce68b5fe305b68b4705}
-      \strng{authorbibnamehash}{1db0f50ebe99bce68b5fe305b68b4705}
-      \strng{authornamehash}{e29c406c07e7cc81392475dc304ac2c1}
-      \strng{authorfullhash}{1db0f50ebe99bce68b5fe305b68b4705}
-      \strng{authorfullhashraw}{1db0f50ebe99bce68b5fe305b68b4705}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{American Journal of Physics}
-      \field{langid}{english}
-      \field{note}{Justificación de uso: muestra la construcción evento a evento del patrón interferente; clave para discutir estadística y coherencia en régimen de detección individual.}
-      \field{number}{2}
-      \field{title}{Demonstration of single-electron buildup of an interference pattern}
-      \field{volume}{57}
-      \field{year}{1989}
-      \field{dateera}{ce}
-      \field{pages}{117\bibrangedash 120}
-      \range{pages}{4}
-      \verb{doi}
-      \verb 10.1119/1.16104
-      \endverb
-      \verb{urlraw}
-      \verb https://pubs.aip.org/aapt/ajp/article/57/2/117/1040594/Demonstration-of-single-electron-buildup-of-an
-      \endverb
-      \verb{url}
-      \verb https://pubs.aip.org/aapt/ajp/article/57/2/117/1040594/Demonstration-of-single-electron-buildup-of-an
-      \endverb
-    \endentry
-    \entry{Arndt1999}{article}{}{}
-      \name{author}{6}{}{%
-        {{hash=b596657da4bd1dcfc084f2a5f2b1c521}{%
-           family={Arndt},
-           familyi={A\bibinitperiod},
-           given={Markus},
-           giveni={M\bibinitperiod}}}%
-        {{hash=827bb69a493ed94134db98a1265b001f}{%
-           family={Nairz},
-           familyi={N\bibinitperiod},
-           given={Olaf},
-           giveni={O\bibinitperiod}}}%
-        {{hash=a59d8ed70fcb2300f1c420e8909c64de}{%
-           family={Vos-Andreae},
-           familyi={V\bibinithyphendelim A\bibinitperiod},
-           given={Julian},
-           giveni={J\bibinitperiod}}}%
-        {{hash=46d9cb595ee5cc6ae4a66b9f48108c97}{%
-           family={Keller},
-           familyi={K\bibinitperiod},
-           given={Claudia},
-           giveni={C\bibinitperiod}}}%
-        {{hash=068f5b430557b63734c2fc2a49d41b08}{%
-           family={Zouw},
-           familyi={Z\bibinitperiod},
-           given={Gerbrand},
-           giveni={G\bibinitperiod},
-           prefix={van\bibnamedelima der},
-           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
-        {{hash=a961661d22885d8f3bcba104deec38f0}{%
-           family={Zeilinger},
-           familyi={Z\bibinitperiod},
-           given={Anton},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{879199d815b072006d7627f010fc7bd4}
-      \strng{fullhash}{933bedaf1b93f78a0bfc2c830d1394c9}
-      \strng{fullhashraw}{933bedaf1b93f78a0bfc2c830d1394c9}
-      \strng{bibnamehash}{933bedaf1b93f78a0bfc2c830d1394c9}
-      \strng{authorbibnamehash}{933bedaf1b93f78a0bfc2c830d1394c9}
-      \strng{authornamehash}{879199d815b072006d7627f010fc7bd4}
-      \strng{authorfullhash}{933bedaf1b93f78a0bfc2c830d1394c9}
-      \strng{authorfullhashraw}{933bedaf1b93f78a0bfc2c830d1394c9}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Nature}
-      \field{langid}{english}
-      \field{note}{Justificación de uso: hito experimental para extender interferencia a objetos complejos; permite discutir límites prácticos y decoherencia en sistemas mesoscópicos.}
-      \field{number}{6754}
-      \field{title}{Wave--particle duality of {C}$_{60}$ molecules}
-      \field{volume}{401}
-      \field{year}{1999}
-      \field{dateera}{ce}
-      \field{pages}{680\bibrangedash 682}
-      \range{pages}{3}
-      \verb{doi}
-      \verb 10.1038/44348
-      \endverb
-      \verb{urlraw}
-      \verb https://www.nature.com/articles/44348
-      \endverb
-      \verb{url}
-      \verb https://www.nature.com/articles/44348
-      \endverb
-    \endentry
-    \entry{Nairz2003}{article}{}{}
+    \entry{FeynmanIII_01}{online}{}{}
       \name{author}{3}{}{%
-        {{hash=827bb69a493ed94134db98a1265b001f}{%
-           family={Nairz},
-           familyi={N\bibinitperiod},
-           given={Olaf},
-           giveni={O\bibinitperiod}}}%
-        {{hash=b596657da4bd1dcfc084f2a5f2b1c521}{%
-           family={Arndt},
-           familyi={A\bibinitperiod},
-           given={Markus},
+        {{hash=aac54ccf9c76aa4ba4310ed1334be7d8}{%
+           family={Feynman},
+           familyi={F\bibinitperiod},
+           given={Richard\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=773368378dd55945d3bd474598026757}{%
+           family={Leighton},
+           familyi={L\bibinitperiod},
+           given={Robert\bibnamedelima B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=4f87088a881a2ce53ad4cf6dac2c63fb}{%
+           family={Sands},
+           familyi={S\bibinitperiod},
+           given={Matthew},
            giveni={M\bibinitperiod}}}%
-        {{hash=a961661d22885d8f3bcba104deec38f0}{%
-           family={Zeilinger},
-           familyi={Z\bibinitperiod},
-           given={Anton},
+      }
+      \strng{namehash}{6c2091b1797daa148c03a73977b7dd36}
+      \strng{fullhash}{6c2091b1797daa148c03a73977b7dd36}
+      \strng{fullhashraw}{6c2091b1797daa148c03a73977b7dd36}
+      \strng{bibnamehash}{6c2091b1797daa148c03a73977b7dd36}
+      \strng{authorbibnamehash}{6c2091b1797daa148c03a73977b7dd36}
+      \strng{authornamehash}{6c2091b1797daa148c03a73977b7dd36}
+      \strng{authorfullhash}{6c2091b1797daa148c03a73977b7dd36}
+      \strng{authorfullhashraw}{6c2091b1797daa148c03a73977b7dd36}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Fuente canónica. Se cita para el planteamiento del experimento de dos rendijas con electrones y para las reglas de predicción: sumar amplitudes cuando las alternativas son indistinguibles y sumar probabilidades cuando el montaje revela el camino.}
+      \field{title}{The Feynman Lectures on Physics, Vol. III, Chapter 1: Quantum Behavior}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.feynmanlectures.caltech.edu/III_01.html
+      \endverb
+      \verb{url}
+      \verb https://www.feynmanlectures.caltech.edu/III_01.html
+      \endverb
+    \endentry
+    \entry{Rosa2008_MMP}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=784b80f4f33aa1ca91d7fa68ed0dff32}{%
+           family={Rosa},
+           familyi={R\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{784b80f4f33aa1ca91d7fa68ed0dff32}
+      \strng{fullhash}{784b80f4f33aa1ca91d7fa68ed0dff32}
+      \strng{fullhashraw}{784b80f4f33aa1ca91d7fa68ed0dff32}
+      \strng{bibnamehash}{784b80f4f33aa1ca91d7fa68ed0dff32}
+      \strng{authorbibnamehash}{784b80f4f33aa1ca91d7fa68ed0dff32}
+      \strng{authornamehash}{784b80f4f33aa1ca91d7fa68ed0dff32}
+      \strng{authorfullhash}{784b80f4f33aa1ca91d7fa68ed0dff32}
+      \strng{authorfullhashraw}{784b80f4f33aa1ca91d7fa68ed0dff32}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Revisión histórica (acceso abierto). Se usa para justificar la cronología de la interferencia con electrones y para apoyar la atribución habitual de la demostración con rendijas artificiales a Jönsson (1961).}
+      \field{title}{The Merli--Missiroli--Pozzi two-slit electron interference experiment and its contribution to the foundations of quantum mechanics}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://philsci-archive.pitt.edu/3816/1/mmp_arch.pdf
+      \endverb
+      \verb{url}
+      \verb https://philsci-archive.pitt.edu/3816/1/mmp_arch.pdf
+      \endverb
+    \endentry
+    \entry{PerezVerde2020_DobleRendija}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=74a3d5e434964025f372b004ab19c82c}{%
+           family={Pérez\bibnamedelima Verde},
+           familyi={P\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Antonio},
            giveni={A\bibinitperiod}}}%
       }
-      \strng{namehash}{b068abde4bf5450027ede12c3c0a28cd}
-      \strng{fullhash}{b068abde4bf5450027ede12c3c0a28cd}
-      \strng{fullhashraw}{b068abde4bf5450027ede12c3c0a28cd}
-      \strng{bibnamehash}{b068abde4bf5450027ede12c3c0a28cd}
-      \strng{authorbibnamehash}{b068abde4bf5450027ede12c3c0a28cd}
-      \strng{authornamehash}{b068abde4bf5450027ede12c3c0a28cd}
-      \strng{authorfullhash}{b068abde4bf5450027ede12c3c0a28cd}
-      \strng{authorfullhashraw}{b068abde4bf5450027ede12c3c0a28cd}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{American Journal of Physics}
-      \field{langid}{english}
-      \field{note}{Justificación de uso: revisión accesible (con rigor) para conectar fundamentos con detalles experimentales en interferometría de moléculas grandes.}
-      \field{number}{4}
-      \field{title}{Quantum interference experiments with large molecules}
-      \field{volume}{71}
-      \field{year}{2003}
-      \field{dateera}{ce}
-      \field{pages}{319\bibrangedash 325}
-      \range{pages}{7}
-      \verb{doi}
-      \verb 10.1119/1.1531580
-      \endverb
-      \verb{urlraw}
-      \verb https://pubs.aip.org/aapt/ajp/article/71/4/319/1042923/Quantum-interference-experiments-with-large
-      \endverb
-      \verb{url}
-      \verb https://pubs.aip.org/aapt/ajp/article/71/4/319/1042923/Quantum-interference-experiments-with-large
-      \endverb
-    \endentry
-    \entry{Hornberger2012}{article}{}{}
-      \name{author}{5}{}{%
-        {{hash=54d7fe91640272aea335fd38d28a3815}{%
-           family={Hornberger},
-           familyi={H\bibinitperiod},
-           given={Klaus},
-           giveni={K\bibinitperiod}}}%
-        {{hash=0dde90512acc91daaac985e560590511}{%
-           family={Gerlich},
-           familyi={G\bibinitperiod},
-           given={Stefan},
-           giveni={S\bibinitperiod}}}%
-        {{hash=3214175c4a082b2ed155f73a046dbe3b}{%
-           family={Haslinger},
-           familyi={H\bibinitperiod},
-           given={Philipp},
-           giveni={P\bibinitperiod}}}%
-        {{hash=ee9665af73d7b54d476a745f21ce8cb7}{%
-           family={Nimmrichter},
-           familyi={N\bibinitperiod},
-           given={Stefan},
-           giveni={S\bibinitperiod}}}%
-        {{hash=b596657da4bd1dcfc084f2a5f2b1c521}{%
-           family={Arndt},
-           familyi={A\bibinitperiod},
-           given={Markus},
-           giveni={M\bibinitperiod}}}%
+      \list{organization}{1}{%
+        {astrométrico}%
       }
-      \strng{namehash}{b79739253ccd7ded66335f807c259e5f}
-      \strng{fullhash}{4d331d225f640da449297c791a63bd21}
-      \strng{fullhashraw}{4d331d225f640da449297c791a63bd21}
-      \strng{bibnamehash}{4d331d225f640da449297c791a63bd21}
-      \strng{authorbibnamehash}{4d331d225f640da449297c791a63bd21}
-      \strng{authornamehash}{b79739253ccd7ded66335f807c259e5f}
-      \strng{authorfullhash}{4d331d225f640da449297c791a63bd21}
-      \strng{authorfullhashraw}{4d331d225f640da449297c791a63bd21}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \strng{namehash}{74a3d5e434964025f372b004ab19c82c}
+      \strng{fullhash}{74a3d5e434964025f372b004ab19c82c}
+      \strng{fullhashraw}{74a3d5e434964025f372b004ab19c82c}
+      \strng{bibnamehash}{74a3d5e434964025f372b004ab19c82c}
+      \strng{authorbibnamehash}{74a3d5e434964025f372b004ab19c82c}
+      \strng{authornamehash}{74a3d5e434964025f372b004ab19c82c}
+      \strng{authorfullhash}{74a3d5e434964025f372b004ab19c82c}
+      \strng{authorfullhashraw}{74a3d5e434964025f372b004ab19c82c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Reviews of Modern Physics}
-      \field{langid}{english}
-      \field{note}{Justificación de uso: revisión moderna de referencia sobre interferencia de materia compuesta; sintetiza modelos de decoherencia y restricciones experimentales.}
-      \field{number}{1}
-      \field{title}{Colloquium: Quantum interference of clusters and molecules}
-      \field{volume}{84}
-      \field{year}{2012}
+      \field{day}{18}
+      \field{langid}{spanish}
+      \field{month}{5}
+      \field{note}{Fuente divulgativa empleada como apoyo visual: esquemas e imágenes del montaje y de la analogía de “cajas” para ilustrar las tres situaciones (una rendija, dos rendijas sin cuál-camino y con cuál-camino).}
+      \field{title}{El experimento de la doble rendija de Young y su explicación}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2020}
       \field{dateera}{ce}
-      \field{pages}{157\bibrangedash 173}
-      \range{pages}{17}
-      \verb{doi}
-      \verb 10.1103/RevModPhys.84.157
-      \endverb
+      \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://link.aps.org/doi/10.1103/RevModPhys.84.157
+      \verb https://astrometrico.es/2020/05/18/experimento-doble-rendija-explicacion/
       \endverb
       \verb{url}
-      \verb https://link.aps.org/doi/10.1103/RevModPhys.84.157
+      \verb https://astrometrico.es/2020/05/18/experimento-doble-rendija-explicacion/
       \endverb
     \endentry
-    \entry{Wheeler1978}{incollection}{}{}
+    \entry{Castellano2025_MC1}{online}{}{}
       \name{author}{1}{}{%
-        {{hash=656f2ece652560737fefbeef9b753049}{%
-           family={Wheeler},
-           familyi={W\bibinitperiod},
-           given={John\bibnamedelima Archibald},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=cb1149e073f88d7d9cce8a3fdfbbfcbf}{%
+           family={Castellano},
+           familyi={C\bibinitperiod},
+           given={Gustavo},
+           giveni={G\bibinitperiod}}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=c295d5a810f8640353cf05b01a35d973}{%
-           family={Marlow},
-           familyi={M\bibinitperiod},
-           given={A.\bibnamedelimi R.},
-           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {Academic Press}%
-      }
-      \strng{namehash}{656f2ece652560737fefbeef9b753049}
-      \strng{fullhash}{656f2ece652560737fefbeef9b753049}
-      \strng{fullhashraw}{656f2ece652560737fefbeef9b753049}
-      \strng{bibnamehash}{656f2ece652560737fefbeef9b753049}
-      \strng{authorbibnamehash}{656f2ece652560737fefbeef9b753049}
-      \strng{authornamehash}{656f2ece652560737fefbeef9b753049}
-      \strng{authorfullhash}{656f2ece652560737fefbeef9b753049}
-      \strng{authorfullhashraw}{656f2ece652560737fefbeef9b753049}
-      \strng{editorbibnamehash}{c295d5a810f8640353cf05b01a35d973}
-      \strng{editornamehash}{c295d5a810f8640353cf05b01a35d973}
-      \strng{editorfullhash}{c295d5a810f8640353cf05b01a35d973}
-      \strng{editorfullhashraw}{c295d5a810f8640353cf05b01a35d973}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Mathematical Foundations of Quantum Theory}
-      \field{langid}{english}
-      \field{note}{Justificación de uso: formulación conceptual (elección retardada) para discutir la dependencia temporal del tipo de medida y evitar intuiciones clásicas de trayectoria.}
-      \field{title}{The ``Past'' and the ``Delayed-Choice'' Double-Slit Experiment}
-      \field{year}{1978}
-      \field{dateera}{ce}
-      \field{pages}{9\bibrangedash 48}
-      \range{pages}{40}
-    \endentry
-    \entry{ScullyDruhl1982}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=828e0f963d102c53241bd4538ab4d305}{%
-           family={Scully},
-           familyi={S\bibinitperiod},
-           given={M.\bibnamedelimi O.},
-           giveni={M\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
-        {{hash=998dd4993551248a3af22bb1c19e9898}{%
-           family={Drühl},
-           familyi={D\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
-      }
-      \strng{namehash}{c769091471657d39591aec467d1d34dc}
-      \strng{fullhash}{c769091471657d39591aec467d1d34dc}
-      \strng{fullhashraw}{c769091471657d39591aec467d1d34dc}
-      \strng{bibnamehash}{c769091471657d39591aec467d1d34dc}
-      \strng{authorbibnamehash}{c769091471657d39591aec467d1d34dc}
-      \strng{authornamehash}{c769091471657d39591aec467d1d34dc}
-      \strng{authorfullhash}{c769091471657d39591aec467d1d34dc}
-      \strng{authorfullhashraw}{c769091471657d39591aec467d1d34dc}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Physical Review A}
-      \field{langid}{english}
-      \field{note}{Justificación de uso: introduce el borrador cuántico como marco para interpretar la pérdida/recuperación de interferencia en términos de información y correlaciones.}
-      \field{number}{4}
-      \field{title}{Quantum eraser: A proposed photon correlation experiment concerning observation and ``delayed choice'' in quantum mechanics}
-      \field{volume}{25}
-      \field{year}{1982}
-      \field{dateera}{ce}
-      \field{pages}{2208\bibrangedash 2213}
-      \range{pages}{6}
-      \verb{doi}
-      \verb 10.1103/PhysRevA.25.2208
-      \endverb
-      \verb{urlraw}
-      \verb https://link.aps.org/doi/10.1103/PhysRevA.25.2208
-      \endverb
-      \verb{url}
-      \verb https://link.aps.org/doi/10.1103/PhysRevA.25.2208
-      \endverb
-    \endentry
-    \entry{Kim2000}{article}{}{}
-      \name{author}{5}{}{%
-        {{hash=08d7dfd9cd878b536f110884a6ebe2e6}{%
-           family={Kim},
-           familyi={K\bibinitperiod},
-           given={Yoon-Ho},
-           giveni={Y\bibinithyphendelim H\bibinitperiod}}}%
-        {{hash=05ed76149e148fca98e6c03495426736}{%
-           family={Yu},
-           familyi={Y\bibinitperiod},
-           given={R.},
-           giveni={R\bibinitperiod}}}%
-        {{hash=ea13a695e1df416a57595feb37c6b965}{%
-           family={Kulik},
-           familyi={K\bibinitperiod},
-           given={S.\bibnamedelimi P.},
-           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=44dea68475821035ea3465cf1ce96ef4}{%
-           family={Shih},
-           familyi={S\bibinitperiod},
-           given={Y.},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=828e0f963d102c53241bd4538ab4d305}{%
-           family={Scully},
-           familyi={S\bibinitperiod},
-           given={M.\bibnamedelimi O.},
-           giveni={M\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
-      }
-      \strng{namehash}{62a6be2a32754c58ce19e5173892f9d0}
-      \strng{fullhash}{90d54e3057209364bd3e3ad7d3a8cf00}
-      \strng{fullhashraw}{90d54e3057209364bd3e3ad7d3a8cf00}
-      \strng{bibnamehash}{90d54e3057209364bd3e3ad7d3a8cf00}
-      \strng{authorbibnamehash}{90d54e3057209364bd3e3ad7d3a8cf00}
-      \strng{authornamehash}{62a6be2a32754c58ce19e5173892f9d0}
-      \strng{authorfullhash}{90d54e3057209364bd3e3ad7d3a8cf00}
-      \strng{authorfullhashraw}{90d54e3057209364bd3e3ad7d3a8cf00}
+      \strng{namehash}{cb1149e073f88d7d9cce8a3fdfbbfcbf}
+      \strng{fullhash}{cb1149e073f88d7d9cce8a3fdfbbfcbf}
+      \strng{fullhashraw}{cb1149e073f88d7d9cce8a3fdfbbfcbf}
+      \strng{bibnamehash}{cb1149e073f88d7d9cce8a3fdfbbfcbf}
+      \strng{authorbibnamehash}{cb1149e073f88d7d9cce8a3fdfbbfcbf}
+      \strng{authornamehash}{cb1149e073f88d7d9cce8a3fdfbbfcbf}
+      \strng{authorfullhash}{cb1149e073f88d7d9cce8a3fdfbbfcbf}
+      \strng{authorfullhashraw}{cb1149e073f88d7d9cce8a3fdfbbfcbf}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Physical Review Letters}
-      \field{langid}{english}
-      \field{note}{Justificación de uso: realización influyente de borrador cuántico con elección retardada; útil para discutir sub-ensambles, coincidencias e interpretación no retrocausal.}
-      \field{number}{1}
-      \field{title}{Delayed ``Choice'' Quantum Eraser}
-      \field{volume}{84}
-      \field{year}{2000}
+      \field{note}{Apuntes docentes. Se citan para: interpretación de Born ($P\propto|\psi|^2$), ecuación de Schrödinger y postulado de proyección/colapso al medir, usados en la sección de “función de onda y colapso”.}
+      \field{title}{Mecánica Cuántica I: Apuntes de clase (2025)}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2025}
       \field{dateera}{ce}
-      \field{pages}{1\bibrangedash 5}
-      \range{pages}{5}
-      \verb{doi}
-      \verb 10.1103/PhysRevLett.84.1
-      \endverb
+      \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://link.aps.org/doi/10.1103/PhysRevLett.84.1
+      \verb https://www.famaf.unc.edu.ar/~gcas/cuantica1/clases-mc1.pdf
       \endverb
       \verb{url}
-      \verb https://link.aps.org/doi/10.1103/PhysRevLett.84.1
+      \verb https://www.famaf.unc.edu.ar/~gcas/cuantica1/clases-mc1.pdf
       \endverb
     \endentry
   \enddatalist

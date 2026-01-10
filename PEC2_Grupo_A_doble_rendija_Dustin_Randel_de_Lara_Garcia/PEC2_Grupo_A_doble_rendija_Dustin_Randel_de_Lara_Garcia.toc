@@ -1,13 +1,13 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {section}{Resumen previo y enfoque}{3}{section*.2}%
-\contentsline {section}{\numberline {1}De la óptica clásica a la óptica física: interferencia como criterio experimental}{3}{section.1}%
-\contentsline {section}{\numberline {2}Superposición cuántica: amplitudes y regla de Born}{3}{section.2}%
-\contentsline {section}{\numberline {3}Complementariedad e información de cuál-camino: de lo cualitativo a lo cuantitativo}{4}{section.3}%
-\contentsline {section}{\numberline {4}De Broglie y la verificación experimental con materia}{4}{section.4}%
-\contentsline {section}{\numberline {5}Evento a evento: por qué el patrón no es un artefacto del haz}{4}{section.5}%
-\contentsline {section}{\numberline {6}Borrador cuántico y elección retardada: información, no retrocausalidad}{5}{section.6}%
-\contentsline {section}{\numberline {7}Decoherencia: mecanismo físico para la pérdida de coherencia}{5}{section.7}%
-\contentsline {section}{\numberline {8}Vigencia contemporánea: moléculas complejas y límites de la superposición}{5}{section.8}%
-\contentsline {section}{\numberline {9}Consideraciones didácticas en Bachillerato}{6}{section.9}%
-\contentsline {section}{\numberline {10}Conclusiones}{6}{section.10}%
-\contentsline {section}{Anexo: bibliografía consultada (con nota de uso)}{7}{section*.3}%
+\contentsline {section}{\numberline {1}Contexto histórico y motivación del experimento de Young}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Del Sol ``incoherente'' a dos porciones correlacionadas: coherencia espacial}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Qué hizo realmente Young: Montaje experimental y secuencia operativa}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Traducción moderna: por qué el montaje produce franjas}{5}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Conclusión histórica inmediata}{5}{subsection.1.4}%
+\contentsline {section}{\numberline {2}De la luz a la materia: repetir la doble rendija con electrones}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Montaje con electrones y analogía de ``cajas'': tres situaciones y el origen del conflicto}{6}{subsection.2.1}%
+\contentsline {paragraph}{Montaje físico (electrones).}{6}{section*.5}%
+\contentsline {paragraph}{Nota histórica mínima.}{6}{section*.6}%
+\contentsline {section}{\numberline {3}La respuesta cuántica: función de onda y colapso}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Por qué medir cuál-camino elimina franjas: colapso y evolución posterior del estado}{9}{subsection.3.1}%
