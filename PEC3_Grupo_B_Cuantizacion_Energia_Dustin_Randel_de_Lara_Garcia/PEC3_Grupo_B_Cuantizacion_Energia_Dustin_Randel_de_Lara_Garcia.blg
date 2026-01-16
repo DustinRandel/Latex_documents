@@ -1,9 +1,14 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
-[0] Config.pm:331> INFO - Logfile is 'PEC3_Grupo_B_Cuantizacion_Energia_Dustin_Randel_de_Lara_Garcia.blg'
-[158] biber-MSWIN64:342> INFO - === 
-[217] Biber.pm:421> INFO - Reading 'PEC3_Grupo_B_Cuantizacion_Energia_Dustin_Randel_de_Lara_Garcia.bcf'
-[284] Biber.pm:1002> INFO - Found 0 citekeys in bib section 0
-[299] bbl.pm:676> INFO - Writing 'PEC3_Grupo_B_Cuantizacion_Energia_Dustin_Randel_de_Lara_Garcia.bbl' with encoding 'UTF-8'
-[299] bbl.pm:779> INFO - Output to PEC3_Grupo_B_Cuantizacion_Energia_Dustin_Randel_de_Lara_Garcia.bbl
-[299] Biber.pm:132> WARN - The file 'PEC3_Grupo_B_Cuantizacion_Energia_Dustin_Randel_de_Lara_Garcia.bcf' does not contain any citations!
-[299] Biber.pm:134> INFO - WARNINGS: 1
+[1] Config.pm:331> INFO - Logfile is 'PEC3_Grupo_B_Cuantizacion_Energia_Dustin_Randel_de_Lara_Garcia.blg'
+[246] biber-MSWIN64:342> INFO - === 
+[319] Biber.pm:421> INFO - Reading 'PEC3_Grupo_B_Cuantizacion_Energia_Dustin_Randel_de_Lara_Garcia.bcf'
+[567] Biber.pm:1002> INFO - Found 7 citekeys in bib section 0
+[598] Biber.pm:4487> INFO - Processing section 0
+[621] Biber.pm:4678> INFO - Looking for bibtex file 'referencias.bib' for section 0
+[711] bibtex.pm:1713> INFO - LaTeX decoding ...
+[737] bibtex.pm:1519> INFO - Found BibTeX data source 'referencias.bib'
+[886] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[887] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[887] Biber.pm:4307> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'es-ES'
+[905] bbl.pm:676> INFO - Writing 'PEC3_Grupo_B_Cuantizacion_Energia_Dustin_Randel_de_Lara_Garcia.bbl' with encoding 'UTF-8'
+[912] bbl.pm:779> INFO - Output to PEC3_Grupo_B_Cuantizacion_Energia_Dustin_Randel_de_Lara_Garcia.bbl

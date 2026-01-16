@@ -16,5 +16,250 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{BOE_RD243_2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=98276e48ea5cbfeac788d46df9704c03}{%
+           family={{Jefatura del Estado (España)}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{98276e48ea5cbfeac788d46df9704c03}
+      \strng{fullhash}{98276e48ea5cbfeac788d46df9704c03}
+      \strng{fullhashraw}{98276e48ea5cbfeac788d46df9704c03}
+      \strng{bibnamehash}{98276e48ea5cbfeac788d46df9704c03}
+      \strng{authorbibnamehash}{98276e48ea5cbfeac788d46df9704c03}
+      \strng{authornamehash}{98276e48ea5cbfeac788d46df9704c03}
+      \strng{authorfullhash}{98276e48ea5cbfeac788d46df9704c03}
+      \strng{authorfullhashraw}{98276e48ea5cbfeac788d46df9704c03}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{5}
+      \field{langid}{spanish}
+      \field{month}{4}
+      \field{note}{Fuente normativa primaria. Se usa para encuadrar el tema en el currículo de Bachillerato y referenciar el bloque donde aparece \enquote{dualidad onda-corpúsculo, cuantización, efecto fotoeléctrico, física moderna}, además de competencias específicas y criterios de evaluación.}
+      \field{title}{Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato}
+      \field{urlday}{14}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5521
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5521
+      \endverb
+    \endentry
+    \entry{NIST_MeetConstants}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=3890a878cf9ff4b382a676b5d7d51181}{%
+           family={{National Institute of Standards and Technology (NIST)}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{fullhash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{fullhashraw}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{bibnamehash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{authorbibnamehash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{authornamehash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{authorfullhash}{3890a878cf9ff4b382a676b5d7d51181}
+      \strng{authorfullhashraw}{3890a878cf9ff4b382a676b5d7d51181}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{13}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{note}{Recurso institucional para fijar el valor de la constante de Planck en el SI (exacta) y contextualizar su papel como constante fundamental en la cuantización de la energía. La página indica \enquote{Created Oct 12, 2018, Updated Aug 13, 2025}.}
+      \field{title}{Meet the Constants (SI Redefinition)}
+      \field{urlday}{14}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nist.gov/si-redefinition/meet-constants
+      \endverb
+      \verb{url}
+      \verb https://www.nist.gov/si-redefinition/meet-constants
+      \endverb
+    \endentry
+    \entry{MPG_PlanckPackets}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=275a1866f3154a6cda050d33f20de80f}{%
+           family={{Max-Planck-Gesellschaft}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{275a1866f3154a6cda050d33f20de80f}
+      \strng{fullhash}{275a1866f3154a6cda050d33f20de80f}
+      \strng{fullhashraw}{275a1866f3154a6cda050d33f20de80f}
+      \strng{bibnamehash}{275a1866f3154a6cda050d33f20de80f}
+      \strng{authorbibnamehash}{275a1866f3154a6cda050d33f20de80f}
+      \strng{authornamehash}{275a1866f3154a6cda050d33f20de80f}
+      \strng{authorfullhash}{275a1866f3154a6cda050d33f20de80f}
+      \strng{authorfullhashraw}{275a1866f3154a6cda050d33f20de80f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{note}{Síntesis histórica accesible sobre el problema de la radiación de cuerpo negro y la introducción de \enquote{paquetes de energía} en 1900. Útil para contextualizar la cuantización en clave histórica (Planck 1900) sin entrar en formalismo avanzado.}
+      \field{title}{Energy in packets -- What did Planck discover?}
+      \field{urlday}{14}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.mpg.de/19252749/what-did-max-planck-discover
+      \endverb
+      \verb{url}
+      \verb https://www.mpg.de/19252749/what-did-max-planck-discover
+      \endverb
+    \endentry
+    \entry{Nobel_Einstein1921}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=1ef20dbb093d359027878ff325a359ad}{%
+           family={{Nobel Prize Outreach AB}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{1ef20dbb093d359027878ff325a359ad}
+      \strng{fullhash}{1ef20dbb093d359027878ff325a359ad}
+      \strng{fullhashraw}{1ef20dbb093d359027878ff325a359ad}
+      \strng{bibnamehash}{1ef20dbb093d359027878ff325a359ad}
+      \strng{authorbibnamehash}{1ef20dbb093d359027878ff325a359ad}
+      \strng{authornamehash}{1ef20dbb093d359027878ff325a359ad}
+      \strng{authorfullhash}{1ef20dbb093d359027878ff325a359ad}
+      \strng{authorfullhashraw}{1ef20dbb093d359027878ff325a359ad}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{note}{Fuente histórica oficial para justificar la relevancia del efecto fotoeléctrico en el desarrollo de la Física Cuántica y su asociación a Einstein (reconocimiento Nobel).}
+      \field{title}{The Nobel Prize in Physics 1921}
+      \field{urlday}{14}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nobelprize.org/prizes/physics/1921/summary/
+      \endverb
+      \verb{url}
+      \verb https://www.nobelprize.org/prizes/physics/1921/summary/
+      \endverb
+    \endentry
+    \entry{OpenStax_Photoelectric}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=958fd1d1699cbc3a1e96692dbf30b72e}{%
+           family={{OpenStax}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{fullhash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{fullhashraw}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{bibnamehash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{authorbibnamehash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{authornamehash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{authorfullhash}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \strng{authorfullhashraw}{958fd1d1699cbc3a1e96692dbf30b72e}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{29}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{note}{Explicación clara y estructurada del efecto fotoeléctrico (características experimentales, frecuencia de corte, independencia respecto a la intensidad y ecuaciones básicas). Útil como apoyo conceptual y para proponer ejercicios.}
+      \field{title}{6.2 Photoelectric Effect (University Physics Volume 3)}
+      \field{urlday}{14}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://openstax.org/books/university-physics-volume-3/pages/6-2-photoelectric-effect
+      \endverb
+      \verb{url}
+      \verb https://openstax.org/books/university-physics-volume-3/pages/6-2-photoelectric-effect
+      \endverb
+    \endentry
+    \entry{Britannica_Photoelectric}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=a93aaf3420271bea911f554aed046069}{%
+           family={{Encyclopaedia Britannica}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a93aaf3420271bea911f554aed046069}
+      \strng{fullhash}{a93aaf3420271bea911f554aed046069}
+      \strng{fullhashraw}{a93aaf3420271bea911f554aed046069}
+      \strng{bibnamehash}{a93aaf3420271bea911f554aed046069}
+      \strng{authorbibnamehash}{a93aaf3420271bea911f554aed046069}
+      \strng{authornamehash}{a93aaf3420271bea911f554aed046069}
+      \strng{authorfullhash}{a93aaf3420271bea911f554aed046069}
+      \strng{authorfullhashraw}{a93aaf3420271bea911f554aed046069}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{8}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{note}{Recurso de consulta para definición y panorama histórico (Hertz, Lenard, Einstein) y para reforzar ideas cualitativas (frecuencia vs.\ intensidad, ausencia de retardo).}
+      \field{title}{Photoelectric effect}
+      \field{urlday}{14}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.britannica.com/science/photoelectric-effect
+      \endverb
+      \verb{url}
+      \verb https://www.britannica.com/science/photoelectric-effect
+      \endverb
+    \endentry
+    \entry{PhET_Photoelectric}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=93d13eb698ab69b2f4e02c93c1431a53}{%
+           family={{PhET Interactive Simulations, University of Colorado Boulder}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{93d13eb698ab69b2f4e02c93c1431a53}
+      \strng{fullhash}{93d13eb698ab69b2f4e02c93c1431a53}
+      \strng{fullhashraw}{93d13eb698ab69b2f4e02c93c1431a53}
+      \strng{bibnamehash}{93d13eb698ab69b2f4e02c93c1431a53}
+      \strng{authorbibnamehash}{93d13eb698ab69b2f4e02c93c1431a53}
+      \strng{authornamehash}{93d13eb698ab69b2f4e02c93c1431a53}
+      \strng{authorfullhash}{93d13eb698ab69b2f4e02c93c1431a53}
+      \strng{authorfullhashraw}{93d13eb698ab69b2f4e02c93c1431a53}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{note}{Recurso didáctico para indagación guiada: permite variar frecuencia e intensidad, elegir material y medir potencial de frenado, facilitando la obtención de datos para inferir la relación lineal $V_0(\nu)$.}
+      \field{title}{Photoelectric Effect (Simulation)}
+      \field{urlday}{14}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://phet.colorado.edu/en/simulations/photoelectric
+      \endverb
+      \verb{url}
+      \verb https://phet.colorado.edu/en/simulations/photoelectric
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

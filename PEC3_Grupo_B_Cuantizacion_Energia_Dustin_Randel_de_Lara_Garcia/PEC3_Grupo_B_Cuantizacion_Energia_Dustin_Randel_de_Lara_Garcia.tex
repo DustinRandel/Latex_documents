@@ -15,6 +15,7 @@
 % ---- Matemáticas y tablas
 \usepackage{amsmath,amsfonts,amssymb}
 \usepackage{tabularx,booktabs}
+\usepackage{pdfpages}
 
 % ---- Gráficos
 \usepackage{graphicx}
@@ -69,49 +70,102 @@
 \pagestyle{fancy}
 \rhead{UNED}
 \lhead{PEC3 Grupo B - Cuantización de la energía según la Física Cuántica}
-\cfoot{\thepage}
+\cfoot{Dustin Randel de Lara García \;--\; \href{mailto:ddelara3@alumno.uned.es}{ddelara3@alumno.uned.es}}
+\rfoot{\thepage}
 
 \begin{document}
-
-% ---- Portada
-\begin{center}
-  {\includegraphics[width=0.5\textwidth]{icono_uned.jpg}\par}
-  \vspace{1cm}
-  {\bfseries\LARGE Universidad Nacional de Educación a Distancia \par}
-  \vspace{1cm}
-  {\scshape\Large Facultad de Educación\par}
-  \vspace{0.5cm}
-  {\scshape\Large Máster en Formación del Profesorado\par}
-  \vspace{0.5cm}
-  {\scshape\Large Evolución Histórica de las Ideas de la Física y de la Química \par}
-  \vspace{1.5cm}
-  {\scshape\Huge cuantización de la energía según la física cuántica  \par}
-  \vspace{1.5cm}
-  {\itshape\Large PEC 3 \par}
-  \vfill
-  {\Large Dustin Randel De Lara García \href{mailto:ddelara3@alumno.uned.es}{ddelara3@alumno.uned.es}\par}
-  \vfill
-  {\Large \today \par}
-  \thispagestyle{empty}
-\end{center}
-
-\newpage
-
-% ---- Interlineado 1.5 (a partir de aquí)
 \onehalfspacing
 
-\tableofcontents
+\subsection*{Descriptor}
+Física y Química, 2.º Bachillerato (Científico/Tecnológico); grupo heterogéneo; 2 sesiones de 55 min. Tema: \textit{cuantización de la energía} ($E=h\nu$) y \textit{efecto fotoeléctrico}.
+\subsection*{Objetivos de aprendizaje (al finalizar la sesión, el alumnado será capaz de):}
+\begin{itemize}
+  \item Enunciar e interpretar $E=h\nu$ (significado físico y unidades).
+  \item Explicar cualitativamente el efecto fotoeléctrico: umbral $\nu_0$, frecuencia vs.\ intensidad.
+  \item Resolver un problema tipo usando $K_{\max}=h\nu-\Phi$ y $eV_0=K_{\max}$.
+\end{itemize}
 
+\subsection*{Competencias y criterios (RD 243/2022, Anexo II, Física):}
+Se trabajan principalmente las competencias específicas \textbf{CE1}, \textbf{CE3}, \textbf{CE5} y \textbf{CE6},
+mediante los criterios de evaluación \textbf{1.2}, \textbf{3.1 - 3.3}, \textbf{5.1 - 5.2} y \textbf{6.1}
+(asociados a resolución de problemas, uso riguroso de unidades/expresión científica, indagación con datos y
+contextualización histórica de la física) \cite[págs.~143 - 144]{BOE_RD243_2022}. 
+
+\subsection*{Contenido}
+\textbf{1) Activación / motivación (5 min).} Pregunta: \emph{Sobre una placa de zinc, ¿por qué una luz roja puede no arrancar electrones, mientras que una luz violeta sí?} (recuperar idea de energía y frecuencia).
+
+\textbf{2) Idea clave: cuantización (10 min).} Planck (1900): la energía no se intercambia de forma continua, sino en paquetes proporcionales a la frecuencia. Relación: $E = h\nu$, donde $h$ es la constante de Planck \cite{NIST_MeetConstants}. Breve contexto histórico (Planck 1900) \cite{MPG_PlanckPackets}.
+
+\textbf{3) Einstein y el efecto fotoeléctrico (15 min).} Modelo de fotones aplicado (Einstein, 1905): cada electrón absorbe \emph{un fotón o ninguno}. Balance energético: $K_{\max}=h\nu-\Phi$.
+Consecuencias observables:
+\begin{itemize}
+  \item Existe una \textbf{frecuencia umbral} $\nu_0=\Phi/h$ (si $\nu<\nu_0$, no hay emisión).
+  \item La energía cinética máxima $K_{\max}$ depende de \textbf{frecuencia} $\nu$, no de la \textbf{intensidad} del haz de luz.
+  \item No hay retardo apreciable (emisión prácticamente instantánea).
+\end{itemize}
+(Referencia histórica: Nobel a Einstein por el efecto fotoeléctrico) \cite{Nobel_Einstein1921}. Para una formulación clara y didáctica del fenómeno, consultar las siguientes fuentes: \cite{OpenStax_Photoelectric,Britannica_Photoelectric}.
+
+\textbf{4) Actividad guiada con simulación en el navegador (15 min).} Simulador online: PhET \cite{PhET_Photoelectric}:
+\begin{itemize}
+  \item Fijar un metal (elige uno con $\Phi$ conocido en la propia simulación).
+  \item Variar \textbf{frecuencia} y medir el \textbf{potencial de frenado} $V_0$.
+  \item Tomar 4 - 6 puntos $(\nu, V_0)$ y representar mentalmente/rápidamente la tendencia lineal.
+  \item Interpretación: $eV_0=h\nu-\Phi \Rightarrow V_0=\frac{h}{e}\nu-\frac{\Phi}{e}$, es una recta con pendiente $h/e$.
+\end{itemize}
+
+\textbf{5) Cierre (10 min).} Resumen de ideas:
+\begin{itemize}
+  \item \textbf{Frecuencia} controla \textbf{energía por fotón}. Intensidad controla \textbf{número de fotones}.
+  \item Umbral $\nu_0$ y función de trabajo $\Phi$ como “peaje” energético.
+  \item Enlace con dualidad onda-corpúsculo y física moderna (bloque curricular).
+\end{itemize}
+
+\subsection*{Duración}
+\textbf{1 sesión de 55 minutos (Teoría)}:
+5 min activación + 10 min cuantización + 15 min efecto fotoeléctrico + 15 min PhET + 10 min cierre.
+
+\textbf{1 sesión de 55 minutos (Práctica/Evaluación)}:
+15 min custionario rápido + 20 min mini-problema + 20 min PhET (recogida de datos e interpretación).
+\subsection*{Evaluación}
+\textbf{Instrumentos:}
+\begin{itemize}
+  \item \textbf{Cuestionario rápido} (5 ítems): 3 tipo test + 2 cortas (unidades de $h$, diferencia frecuencia/intensidad, definición de $\nu_0$).
+  \item \textbf{Mini-problema} (1 ejercicio): calcular $K_{\max}$, $V_0$ o $\nu_0$ a partir de $\Phi$ y $\nu$.
+  \item \textbf{Evidencia de indagación} (PhET): tabla de 4--6 medidas y 2 líneas de interpretación.
+\end{itemize}
+
+\textbf{Criterio de logro (simple y medible):}
+\begin{itemize}
+  \item Cuestionario: \textbf{$\ge 4/5$} correcto.
+  \item Mini-problema: procedimiento correcto y resultado con unidades (se admite error numérico menor).
+  \item PhET: datos coherentes + identifica que la tendencia lineal.
+\end{itemize}
+
+\textbf{Alineamiento CE--criterios--instrumentos (síntesis):}
+\begin{center}
+\small
+\rowcolors{2}{verdePastel!35}{white}
+\begin{tabularx}{\linewidth}{L{5.2cm}X}
+\toprule
+\textbf{CE y criterio(s) (RD 243/2022)} & \textbf{Instrumento + evidencia (criterio de logro)} \\
+\midrule
+CE3 (3.1) + CE6 (6.1) &
+\textbf{Cuestionario rápido} (3 test + 2 cortas): explica cuantización ($E=h\nu$), umbral $\nu_0$ y diferencia
+\emph{frecuencia/intensidad}. \textbf{Logro:} $\ge 4/5$. \\
+
+CE1 (1.2) + CE3 (3.2--3.3) &
+\textbf{Mini-problema}: aplica $K_{\max}=h\nu-\Phi$ y $eV_0=K_{\max}$, con \textbf{unidades} y pasos razonados.
+\textbf{Logro:} procedimiento correcto + unidades (error numérico menor admisible). \\
+
+CE5 (5.1--5.2) + CE4 (4.1) &
+\textbf{PhET}: tabla 4--6 pares $(\nu,V_0)$ + 2 líneas de interpretación (“$V_0$ crece con $\nu$”, tendencia lineal).
+\textbf{Logro:} datos coherentes + conclusión correcta. \\
+\bottomrule
+\end{tabularx}
+\end{center}
 \newpage
-\section{Descriptor}
-
-\section{Objetivos}
-
-\section{Contenido}
-
-\section{Duración}
-
-\section{Evaluación}
-
-\printbibliography
+\section*{Bibliografía}
+\printbibliography[heading=none]
+\newpage
+\includepdf[pages=1]{DECLARACÓN_JURADA_DE_AUTORÍA.pdf}
 \end{document}
