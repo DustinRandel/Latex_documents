@@ -1,0 +1,15 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{3}{section.1}%
+\contentsline {section}{\numberline {2}Contextualización}{3}{section.2}%
+\contentsline {section}{\numberline {3}Desarrollo}{4}{section.3}%
+\contentsline {section}{\numberline {4}Competencias}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Competencias generales}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Competencias específicas propias del prácticum}{5}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Resultados de aprendizaje}{6}{section.5}%
+\contentsline {section}{\numberline {6}Actividades}{7}{section.6}%
+\contentsline {section}{\numberline {7}Procedimientos}{8}{section.7}%
+\contentsline {section}{\numberline {8}Recursos/medios}{8}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Materiales}{8}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Humanos}{9}{subsection.8.2}%
+\contentsline {section}{\numberline {9}Planificación de las prácticas}{9}{section.9}%
+\contentsline {section}{\numberline {10}Autoevaluación}{10}{section.10}%

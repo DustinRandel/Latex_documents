@@ -1,0 +1,280 @@
+\documentclass[12pt,a4paper]{article}
+
+% =========================================================
+% FORMATO (según orientaciones PIP UNED)
+% Márgenes: sup/inf 2.5 cm, izq/der 3 cm
+% Interlineado: 1.5
+% Tipografía: Times New Roman (aprox. con newtx)
+% =========================================================
+
+\usepackage[a4paper, left=3cm, right=3cm, top=2.5cm, bottom=2.5cm]{geometry}
+
+% ---- Idioma
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish, es-tabla]{babel}
+
+% ---- Fuente tipo Times (pdfLaTeX)
+\usepackage{newtxtext}
+\usepackage{newtxmath}
+
+% ---- Interlineado 1.5 + espaciado posterior ~6pt
+\usepackage{setspace}
+\onehalfspacing
+\setlength{\parskip}{6pt}
+\setlength{\parindent}{0pt}
+\usepackage{ragged2e}
+\justifying
+
+% ---- Matemáticas (y FIX del error \Bbbk)
+\usepackage{amsmath}
+\let\Bbbk\relax
+\usepackage{amssymb}
+
+% ---- Tablas y columnas
+\usepackage{tabularx, booktabs, array, longtable}
+\renewcommand{\arraystretch}{1.25}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+
+% ---- Gráficos
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage[table,xcdraw]{xcolor}
+\definecolor{verdePastel}{RGB}{204, 235, 197}
+\definecolor{verdeFresco}{RGB}{60,160,60}
+
+% ---- Encabezado/pie
+\usepackage{fancyhdr}
+\setlength{\headheight}{15pt}
+\pagestyle{fancy}
+\rhead{UNED}
+\lhead{Prácticum — Plan Inicial de Prácticas (PIP)}
+\cfoot{\thepage}
+
+% ---- Citas y bibliografía
+\usepackage{csquotes}
+\usepackage[
+  backend=biber,
+  style=numeric,
+  sorting=none,
+  maxbibnames=99
+]{biblatex}
+
+\addbibresource{referencias.bib}
+
+% ---- Hipervínculos (al final)
+\usepackage{hyperref}
+\hypersetup{
+  pdfauthor={Dustin Randel De Lara García},
+  pdftitle={Plan Inicial de Prácticas (PIP) - Prácticum UNED},
+  pdfkeywords={UNED, Prácticum, PIP, Física y Química},
+  colorlinks=true,
+  linkcolor=verdeFresco,
+  urlcolor=verdeFresco,
+  citecolor=verdeFresco
+}
+
+\date{\today}
+
+\begin{document}
+
+% =========================================================
+% PORTADA
+% =========================================================
+\begin{center}
+  {\includegraphics[width=0.5\textwidth]{icono_uned.jpg}\par}
+  \vspace{1cm}
+  {\bfseries\LARGE Universidad Nacional de Educación a Distancia \par}
+  \vspace{0.8cm}
+  {\scshape\Large Facultad de Educación\par}
+  \vspace{0.3cm}
+  {\scshape\Large Máster en Formación del Profesorado\par}
+  \vspace{0.3cm}
+  {\scshape\Large Prácticum\par}
+  \vspace{1.2cm}
+  {\scshape\Huge Plan Inicial de Prácticas\par}
+  \vspace{1.2cm}
+  {\itshape\Large Centro Asociado: Illes Balears\par}
+  \vfill
+
+  {\Large Estudiante: Dustin Randel De Lara García\par}
+  {\Large Especialidad: Física y Química\par}
+  \vspace{0.2cm}
+  {\Large Tutora del Centro Asociado: Antònia Maria Soler Nicolau\par}
+  {\Large Tutora del Centro de Prácticas: Francesca Roselló Cladera\par}
+  \vspace{0.2cm}
+  {\Large Centro de prácticas: Sant Josep Obrer (Palma de Mallorca)\par}
+
+  \vfill
+  \thispagestyle{empty}
+\end{center}
+
+\newpage
+\tableofcontents
+\newpage
+
+% =========================================================
+% 1. INTRODUCCIÓN
+% =========================================================
+\section{Introducción}\label{sec:intro}
+
+El Plan Inicial de Prácticas (PIP) es el documento que establece la planificación de la estancia en el centro colaborador durante el Prácticum del Máster en Formación del Profesorado. Su propósito es concretar, desde el inicio, un itinerario de observación, participación progresiva e intervención docente, coherente con el contexto real del centro y con los objetivos formativos del Prácticum.
+
+De acuerdo con las orientaciones del Prácticum, el PIP se redacta al comienzo del periodo de prácticas y se ajusta mediante coordinación con la tutora del centro de prácticas y el acompañamiento del centro asociado.
+
+En este sentido, este Plan Inicial de Prácticas incluye, en primer lugar, una contextualización del centro de prácticas. A continuación, se concretan las competencias a desarrollar y los resultados de aprendizaje, seguidos de las actividades y procedimientos que se llevarán a cabo y que quedarán reflejados en la Memoria final del Prácticum. Asimismo, se registran los recursos materiales y humanos necesarios, junto con la planificación y la distribución de las 215 horas de prácticas a lo largo del semestre. Por último, el documento incorpora los medios de autoevaluación previstos para valorar el proceso de aprendizaje y orientar la mejora de la práctica docente.
+
+% =========================================================
+% 2. CONTEXTUALIZACIÓN
+% =========================================================
+\section{Contextualización}\label{subsec:centro}
+El colegio Sant Josep Obrer es un centro concertado, adherido a los colegios diocesanos de Mallorca, que abarca diversas etapas educativas, incluyendo Educación Secundaria Obligatoria, Bachillerato y Formación Profesional. Se trata de un centro con una organización consolidada y una oferta educativa amplia, lo que permite observar dinámicas reales de coordinación docente, planificación y evaluación en distintos niveles y enseñanzas.
+
+En mi caso, la realización del Prácticum se enmarca en la especialidad de Física y Química. Por ello, la estancia en el centro se orientará principalmente a la observación sistemática de sesiones de Física y Química en 3º y 4º de Educación Secundaria Obligatoria, con el objetivo de comprender cómo se concreta en el aula la planificación, la metodología y la evaluación de la materia. Estas observaciones me permitirán analizar aspectos como la secuenciación de contenidos, la gestión del tiempo y del aula, la participación del alumnado, las dificultades más habituales (conceptuales y procedimentales), el tipo de actividades propuestas (resolución de problemas, trabajo práctico o experimental cuando proceda) y los instrumentos de evaluación empleados.
+
+En cuanto a los recursos y la organización del trabajo docente, el centro utiliza herramientas digitales de uso educativo para la distribución de materiales, la comunicación y el seguimiento de tareas, así como una plataforma de gestión escolar para aspectos como horarios, asistencia y trámites. Este entorno facilita la coordinación entre profesorado y alumnado y constituye un elemento relevante para comprender el funcionamiento cotidiano del centro.
+
+Por último, durante los primeros contactos y el inicio de la estancia, la acogida por parte del profesorado ha sido positiva, lo que favorece la integración en la dinámica del centro y permite orientar el Prácticum hacia un aprendizaje basado en la observación, la participación progresiva y la reflexión sobre la práctica docente en el área de Física y Química.
+
+% =========================================================
+% 3. DESARROLLO
+% =========================================================
+\section{Desarrollo}\label{sec:desarrollo}
+
+\section{Competencias}\label{subsec:competencias}
+
+Las competencias que se pretenden desarrollar durante el Prácticum se alinean con las establecidas en la Orden ECI/3858/2007, de 27 de diciembre, en su Apartado 3 (Competencias), como requisitos para la verificación de los títulos oficiales que habilitan para el ejercicio de la docencia en Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
+
+\subsection{Competencias generales}\label{subsec:competencias_generales}
+
+\begin{itemize}
+  \item Conocer los contenidos curriculares de las materias relativas a la especialización docente correspondiente, así como el cuerpo de conocimientos didácticos en torno a los procesos de enseñanza y aprendizaje respectivos. Para la formación profesional se incluirá el conocimiento de las respectivas profesiones.
+  \item Planificar, desarrollar y evaluar el proceso de enseñanza y aprendizaje, potenciando procesos educativos que faciliten la adquisición de las competencias propias de las respectivas enseñanzas, atendiendo al nivel y formación previa de los estudiantes, así como la orientación de los mismos, tanto individualmente como en colaboración con otros docentes y profesionales del centro.
+  \item Buscar, obtener, procesar y comunicar información (oral, impresa, audiovisual, digital o multimedia), transformarla en conocimiento y aplicarla en los procesos de enseñanza y aprendizaje en las materias propias de la especialización cursada.
+  \item Concretar el currículo que se vaya a implantar en un centro docente, participando en la planificación colectiva del mismo; desarrollar y aplicar metodologías didácticas tanto grupales como personalizadas, adaptadas a la diversidad de los estudiantes.
+  \item Diseñar y desarrollar espacios de aprendizaje con especial atención a la equidad, la educación emocional y en valores, la igualdad de derechos y oportunidades entre hombres y mujeres, la formación ciudadana y el respeto de los derechos humanos que faciliten la vida en sociedad, la toma de decisiones y la construcción de un futuro sostenible.
+  \item Adquirir estrategias para estimular el esfuerzo del estudiante y promover su capacidad para aprender por sí mismo y con otros, y desarrollar habilidades de pensamiento y de decisión que faciliten la autonomía, la confianza e iniciativas personales.
+  \item Conocer los procesos de interacción y comunicación en el aula, dominar destrezas y habilidades sociales necesarias para fomentar el aprendizaje y la convivencia en el aula, y abordar problemas de disciplina y resolución de conflictos.
+  \item Diseñar y realizar actividades formales y no formales que contribuyan a hacer del centro un lugar de participación y cultura en el entorno donde esté ubicado; desarrollar las funciones de tutoría y de orientación de los estudiantes de manera colaborativa y coordinada; participar en la evaluación, investigación y la innovación de los procesos de enseñanza y aprendizaje.
+  \item Conocer la normativa y organización institucional del sistema educativo y modelos de mejora de la calidad con aplicación a los centros de enseñanza.
+  \item Conocer y analizar las características históricas de la profesión docente, su situación actual, perspectivas e interrelación con la realidad social de cada época.
+  \item Informar y asesorar a las familias acerca del proceso de enseñanza y aprendizaje y sobre la orientación personal, académica y profesional de sus hijos.
+  \item Formar en el respeto a los derechos fundamentales y de igualdad entre hombres y mujeres, desde el respeto y promoción de los derechos humanos y de acuerdo con los valores
+\end{itemize}
+
+\subsection{Competencias específicas propias del prácticum}\label{subsec:competencias_especificas}
+
+\begin{itemize}
+  \item Adquirir experiencia en la planificación, la docencia y la evaluación de las materias correspondientes a la especialización.
+  \item Acreditar un buen dominio de la expresión oral y escrita en la práctica docente.
+  \item Dominar las destrezas y habilidades sociales necesarias para fomentar un clima que facilite el aprendizaje y la convivencia.
+  \item Participar en las propuestas de mejora en los distintos ámbitos de actuación a partir de la reflexión basada en la práctica.
+  \item Para la formación profesional, conocer la tipología empresarial correspondiente a los sectores productivos y comprender los sistemas organizativos más comunes en las empresas.
+  \item Respecto a la orientación, ejercitarse en la evaluación psicopedagógica, el asesoramiento a otros profesionales de la educación, a los estudiantes y a las familias
+\end{itemize}
+
+\section{Resultados de aprendizaje}\label{subsec:ras}
+
+A partir de las competencias previstas para el Prácticum y de su objetivo principal (vincular al estudiante con la realidad profesional del profesorado de Educación Secundaria, Bachillerato, Formación Profesional y Escuela Oficial de Idiomas), se proponen los siguientes resultados de aprendizaje:
+
+\begin{itemize}
+  \item Conocer para comprender la cultura institucional característica de los centros educativos, conscientes de sus posibilidades y limitaciones y avanzar en la búsqueda de solución creativa de los diversos problemas.
+  \item Ser capaz de integrar en una situación profesional real las características del contexto educativo, sus posibilidades y limitaciones, las posibilidades y limitaciones de los alumnos, de sus familias y las que se originan por las relaciones entre las familias y el Centro educativo.
+  \item Conocer los roles y las funciones que los profesores y otro profesionales pueden desarrollar en las distintas dimensiones de la labor docente y educativa en los que desarrollan su labor, para identificar su estilo docente.
+  \item Conocer los instrumentos metodológicos necesarios para una práctica profesional reflexiva que facilite procesos permanentes de mejora e innovación docente.
+  \item Aprender a tomar decisiones en el aula en el marco de una programación flexible del proceso de enseñanza-aprendizaje, que habrá de fundamentarse en una interacción empática y colaborativa, en el desarrollo de un sistema metodológico coherente, y en un estilo de actualización y mejora continua en el aula.
+  \item Construir modelos, pruebas y criterios de evaluación que permitan estimar la calidad de los modelos didácticos y de la práctica docente en cada aula, valorando, asimismo, la calidad de los aprendizajes.
+  \item Tomar conciencia de la importancia de la innovación de la docencia, apoyada en la investigación cualitativa pertinente y en el trabajo colaborativo.
+  \item Afianzar un estilo de trabajo en equipo entre profesores y profesorado-estudiantes.
+\end{itemize}
+
+\section{Actividades}\label{subsec:actividades}
+
+Las actividades que realizaré y que forman parte de la asignatura Prácticum son:
+
+\begin{enumerate}
+  \item Elaboración del PIP (Plan Inicial de Prácticas).
+  \item Análisis y valoración de una programación por competencias.
+  \item Diseño, desarrollo y evaluación de una unidad didáctica.
+  \item Realización del diario de prácticas.
+\end{enumerate}
+
+Durante mi estancia en el centro realizaré diferentes actividades, dentro del itinerario de observación, participación e intervención:
+
+\begin{enumerate}
+  \item Observación y acompañamiento de las funciones de mi tutora en el centro (gestión de aula, planificación, coordinación y evaluación).
+  \item Observación sistemática de sesiones de Física y Química (metodología, explicación, prácticas, evaluación, atención a la diversidad).
+  \item Revisión de programaciones, situaciones de aprendizaje y criterios de evaluación usados en el departamento.
+  \item Impartición de pequeñas nociones o microintervenciones, previamente preparadas junto a la profesora tutora del centro.
+  \item Apoyo en tareas de aula: resolución de dudas, supervisión de trabajo en grupo y acompañamiento en actividades de laboratorio, si procede.
+  \item Diseño, preparación y aplicación de al menos una intervención docente breve (sesión o parte de sesión), acordada con la tutora.
+  \item Asistencia a reuniones de departamento y, cuando sea posible, a claustros u otras reuniones de coordinación del centro.
+\end{enumerate}
+
+\section{Procedimientos}\label{subsec:procedimientos}
+Para desarrollar las actividades anteriores se emplearán, entre otros, los siguientes procedimientos:
+
+\begin{itemize}
+  \item Lectura y síntesis de documentos normativos y académicos vinculados a la asignatura y al centro educativo (guía del Prácticum, orientaciones del PIP, programación didáctica, criterios de evaluación, situaciones de aprendizaje e instrumentos de evaluación).
+  
+  \item Visionado de videoclases, consulta de la bibliografía propuesta y revisión de materiales de referencia para situar el trabajo del Prácticum y los contenidos didácticos de la especialidad.
+
+  \item Aplicación de procedimientos de observación sistemática en el aula mediante notas de campo y registro de evidencias, atendiendo a la estructura de la sesión, la gestión del tiempo, las interacciones, las dificultades del alumnado, las decisiones didácticas y la evaluación formativa.
+
+  \item Entrevistas o conversaciones breves con la tutora (preferentemente en privado, antes o después de las clases) para comprender su metodología de preparación e impartición de la materia, así como los criterios que guían la selección de actividades y la atención a la diversidad.
+
+  \item Búsqueda y selección de recursos didácticos existentes (simuladores, vídeos, textos divulgativos, problemas contextualizados, actividades de laboratorio o virtuales) que faciliten la comprensión de contenidos de Física y Química, con el fin de analizar su adecuación al nivel del grupo y observar cómo pueden integrarse en la metodología del centro.
+
+  \item Análisis de la dinámica de reuniones y coordinación (departamento, claustro u otras), observando los temas tratados, la forma de abordarlos y su relevancia para el funcionamiento del centro, la planificación docente y la mejora del proceso educativo.
+\end{itemize}
+
+\section{Recursos/medios}\label{subsec:recursos}
+\subsection{Materiales}\label{subsec:materiales}
+\begin{itemize}
+  \item Documentación del centro (cuando sea accesible): proyecto educativo, normas, programaciones, instrumentos de evaluación.
+  \item Recursos curriculares y de aula: libros/materiales digitales, banco de problemas, simuladores, recursos audiovisuales.
+  \item Recursos personales: ordenador portátil, cuaderno o app de notas para el diario, material básico de papelería.
+  \item En caso de laboratorio: equipamiento y material experimental disponible según la programación del centro.
+\end{itemize}
+
+\subsection{Humanos}\label{subsec:humanos}
+\begin{itemize}
+  \item Tutora del centro de prácticas: orientación diaria, validación de actividades e intervención.
+  \item Profesorado del departamento: coordinación, criterios comunes, intercambio de materiales.
+  \item Profesor tutor del centro asociado (UNED): supervisión académica del PIP y seguimiento tutorial.
+  \item Equipo docente y orientación del centro (si procede): apoyo para comprender diversidad, convivencia y medidas educativas.
+\end{itemize}
+
+\section{Planificación de las prácticas}\label{subsec:planificacion}
+Según las orientaciones del Prácticum, la estancia práctica en el centro educativo tiene una duración de 215 horas.
+
+\begin{itemize}
+  \item Fecha de inicio: 8 de enero de 2026.
+  \item Fecha de finalización: 18 de marzo de 2026.
+  \item Escenario: presencial.
+  \item Número y delimitación de horas de estancia en el centro de prácticas: Se realizarán un número total de 215 horas, con un máximo de 5 horas diarias en el centro, cuya distribución se detalla en la figura \ref{fig:calendario_practicas}.
+  \item Número y delimitación de horas de tutoría en el centro asociado: Las horas de tutoría del centro asociado se realizan una vez a la semana, con una duración de la tutoría de 60 minutos.
+\end{itemize}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=1\textwidth]{calendario.png}
+  \caption{Distrubución temporal de las horas de prácticas entre enero y febrero.}
+  \label{fig:calendario_practicas}
+\end{figure}
+
+\section{Autoevaluación}\label{subsec:autoevaluacion}
+Durante el período de prácticas, mi autoevaluación la haré principalmente a través del diario de prácticas y un DAFO personal. Además, iré contrastando mis impresiones en charlas breves con mi tutora del centro y, cuando sea posible, con la orientadora, para detectar puntos de mejora y ajustar mi forma de trabajar.
+
+\subsection*{Cierre del Plan inicial de prácticas}\label{sec:cierre_pip}
+
+\noindent En Palma de Mallorca, a 23 de enero de 2026, se da por cerrado el Plan Inicial de Prácticas (PIP), con el visto bueno y la conformidad de la tutora del centro de prácticas.
+
+\medskip
+\noindent\textbf{V.\,B. Tutora del centro de prácticas:}
+
+\medskip
+\noindent\textbf{Firma del estudiante:}
+
+\end{document}

@@ -44,10 +44,10 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>PIP.bcf</file>
+      <file>PIP_Dustin_Randel_de_Lara_Garcia.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>PIP.bbl</file>
+      <file>PIP_Dustin_Randel_de_Lara_Garcia.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -64,19 +64,19 @@
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>PIP</infile>
+      <infile>PIP_Dustin_Randel_de_Lara_Garcia</infile>
     </cmdline>
     <input>
-      <file>PIP.bcf</file>
+      <file>PIP_Dustin_Randel_de_Lara_Garcia.bcf</file>
     </input>
     <output>
-      <file>PIP.bbl</file>
+      <file>PIP_Dustin_Randel_de_Lara_Garcia.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>PIP.bbl</file>
+      <file>PIP_Dustin_Randel_de_Lara_Garcia.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>PIP.bcf</file>
+      <file>PIP_Dustin_Randel_de_Lara_Garcia.bcf</file>
     </requires>
     <requires type="editable">
       <file>referencias.bib</file>
